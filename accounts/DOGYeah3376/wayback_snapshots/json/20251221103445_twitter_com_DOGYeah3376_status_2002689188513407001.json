@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2002058153761067052",
+    "created_at": "2025-12-21T10:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T11:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002689188513407001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "orisam123"
+        },
+        {
+          "end": 20,
+          "id": "1581478431274983424",
+          "start": 11,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002689188513407001",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002080811076698499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orisam123 @zhoynqi3 变笨了是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2002058153761067052",
+        "created_at": "2025-12-21T10:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T11:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002689188513407001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "orisam123"
+            },
+            {
+              "end": 20,
+              "id": "1581478431274983424",
+              "start": 11,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002689188513407001",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002080811076698499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orisam123 @zhoynqi3 变笨了是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2002058153761067052",
+        "created_at": "2025-12-19T18:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T19:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002080811076698499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002080811076698499",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1484,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002058153761067052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoynqi3 是的，脑袋里面感觉很糟😇\n而且程度不重的时候别人是看不出来的，比如说我现在要完成一个思考就要很费劲的去想，还会头隐隐作痛，但其他人看起来只是反应速度慢了点或者输出的内容质量下降了些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 1069,
+          "like_count": 66485,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 4140
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "疯婆 取向异性微双 有点怕疼的sub |  \n从2024年七月初开始的饭桶（减肥中)\n   |     \n闺蜜&姐姐&引路人:  \n@zihou1968025650\n\ntg群组:\nhttps://t.co/ZsnfeGPdkA\n频道:\nhttps://t.co/S9Nk0R1gFs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "zihou1968025650"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/orisam123group",
+                "end": 113,
+                "expanded_url": "https://t.me/orisam123group",
+                "start": 90,
+                "url": "https://t.co/ZsnfeGPdkA"
+              },
+              {
+                "display_url": "t.me/orisam123catsl…",
+                "end": 141,
+                "expanded_url": "http://t.me/orisam123catsleeping",
+                "start": 118,
+                "url": "https://t.co/S9Nk0R1gFs"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "-0.15m",
+        "name": "折筱orisam🏳️‍⚧️（少女秃头中）",
+        "pinned_tweet_id": "1889966215923466584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972221628097708032/LU2zOJtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3301,
+          "following_count": 1331,
+          "like_count": 61119,
+          "listed_count": 2,
+          "media_count": 849,
+          "tweet_count": 16989
+        },
+        "username": "orisam123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "1976511377679487385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3828,
+          "following_count": 185,
+          "like_count": 28959,
+          "listed_count": 16,
+          "media_count": 298,
+          "tweet_count": 6772
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

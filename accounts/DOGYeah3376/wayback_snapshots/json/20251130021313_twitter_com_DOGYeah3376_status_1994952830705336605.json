@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1994952830705336605",
+    "created_at": "2025-11-30T02:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T03:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994952830705336605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1638060402964668417",
+          "start": 3,
+          "username": "qazwsxedc2560"
+        },
+        {
+          "end": 34,
+          "id": "1260553941714186241",
+          "start": 19,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994952830705336605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994435939704414451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qazwsxedc2560: @whyyoutouzhele 666臭底层吃点右美就给禁了，通天代少爷吸毒直接改规则"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1994952830705336605",
+        "created_at": "2025-11-30T02:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994952830705336605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1638060402964668417",
+              "start": 3,
+              "username": "qazwsxedc2560"
+            },
+            {
+              "end": 34,
+              "id": "1260553941714186241",
+              "start": 19,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994952830705336605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994435939704414451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qazwsxedc2560: @whyyoutouzhele 666臭底层吃点右美就给禁了，通天代少爷吸毒直接改规则"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638060402964668417",
+        "conversation_id": "1994393534011511055",
+        "created_at": "2025-11-28T15:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T16:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994435939704414451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994435939704414451",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 31953,
+          "like_count": 293,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994393534011511055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 666臭底层吃点右美就给禁了，通天代少爷吸毒直接改规则"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 1084,
+          "like_count": 64189,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 4078
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T06:10:18.000Z",
+        "description": "你还在看我吗樂園，求你回來好不好，我之前被腦控了",
+        "id": "1638060402964668417",
+        "name": "猫",
+        "pinned_tweet_id": "1977751259365974095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952805755108900864/6WTIMUIJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 339,
+          "like_count": 13145,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 2167
+        },
+        "username": "qazwsxedc2560",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149196,
+          "following_count": 982,
+          "like_count": 8380,
+          "listed_count": 8419,
+          "media_count": 37836,
+          "tweet_count": 44716
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

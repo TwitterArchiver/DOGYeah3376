@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1955257682350223456",
+    "created_at": "2025-08-12T13:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T14:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955257682350223456"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgsbtin_nisaki…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/hgsbtin_nisaki/status/1955211207943811301",
+          "start": 15,
+          "url": "https://t.co/fEYtnsQFso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955257682350223456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955211207943811301",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想拍 但是苦于没有国补… https://t.co/fEYtnsQFso"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1942,
+        "media_key": "3_1955211202369581056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyJOOroacAAtPwx.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1955257682350223456",
+        "created_at": "2025-08-12T13:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955257682350223456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgsbtin_nisaki…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/hgsbtin_nisaki/status/1955211207943811301",
+              "start": 15,
+              "url": "https://t.co/fEYtnsQFso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955257682350223456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955211207943811301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想拍 但是苦于没有国补… https://t.co/fEYtnsQFso"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955211202369581056"
+          ]
+        },
+        "author_id": "1606690184564985856",
+        "conversation_id": "1955211207943811301",
+        "created_at": "2025-08-12T10:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T11:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955211207943811301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3hhlL2Tyo",
+              "end": 32,
+              "expanded_url": "https://x.com/hgsbtin_nisaki/status/1955211207943811301/photo/1",
+              "media_key": "3_1955211202369581056",
+              "start": 9,
+              "url": "https://t.co/w3hhlL2Tyo"
+            },
+            {
+              "display_url": "x.com/chinese_114514…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/chinese_114514/status/1955117053829869841",
+              "start": 33,
+              "url": "https://t.co/fKhVIkZFSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955211207943811301",
+        "lang": "lt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 215,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955117053829869841",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "daisuke？ https://t.co/w3hhlL2Tyo https://t.co/fKhVIkZFSS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 684,
+          "like_count": 27189,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1261
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年无证含糖mtf🏳️‍⚧️｜INFP-T｜168 48｜xyn｜HRT 2025/2/17｜微天赋党｜ 药攻｜N1考取中｜同类互fo🏳️‍⚧️｜ 姐姐@SAIONJIayase @BloodCatOvO｜妹妹 @Littlecat111007 ｜@chuF6yuanmen 的猫猫｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 77,
+                "username": "SAIONJIayase"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "BloodCatOvO"
+              },
+              {
+                "end": 123,
+                "start": 107,
+                "username": "Littlecat111007"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyasaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nyasaki",
+                "start": 0,
+                "url": "https://t.co/N9KjiqN0VV"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "pinned_tweet_id": "1933094187135877399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940624825866661888/Z1K21WQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 496,
+          "like_count": 9674,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1391
+        },
+        "url": "https://t.co/N9KjiqN0VV",
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      }
+    ]
+  }
+}

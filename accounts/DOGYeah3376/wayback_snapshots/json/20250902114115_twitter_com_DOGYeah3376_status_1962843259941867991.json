@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1962843259941867991",
+    "created_at": "2025-09-02T11:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T12:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962843259941867991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889313848668090368",
+          "start": 6,
+          "username": "Yyyyy_pog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/dogyeah3376/st…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/dogyeah3376/status/1961006978752524553",
+          "start": 23,
+          "url": "https://t.co/rEW0HieTdt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962843259941867991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961006978752524553",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的很想和@Yyyyy_pog做同桌呜呜😭 https://t.co/rEW0HieTdt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1962843259941867991",
+        "created_at": "2025-09-02T11:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T12:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962843259941867991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889313848668090368",
+              "start": 6,
+              "username": "Yyyyy_pog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/dogyeah3376/st…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/dogyeah3376/status/1961006978752524553",
+              "start": 23,
+              "url": "https://t.co/rEW0HieTdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962843259941867991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961006978752524553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的很想和@Yyyyy_pog做同桌呜呜😭 https://t.co/rEW0HieTdt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1961006978752524553",
+        "created_at": "2025-08-28T10:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T11:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961006978752524553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AsdQWD358224/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/AsdQWD358224/status/1960916354837700695",
+              "start": 43,
+              "url": "https://t.co/xpTTacIczz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961006978752524553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960916354837700695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下辈子我们不要在网上认识了，我们当同班同学好不好，一起在操场上散步在小卖部买水好不好 https://t.co/xpTTacIczz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 847,
+          "like_count": 35069,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2021
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜ 多意识体｜ 彩虹系统｜号主是目前的主导y总｜身体09 ｜我o我割｜我有精神病｜友跨｜非二元性别",
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "Yyyyy🎗️",
+        "pinned_tweet_id": "1958371694600667167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940355956900065281/iA07LVMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 105,
+          "like_count": 16707,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1365
+        },
+        "username": "Yyyyy_pog",
+        "verified": false
+      }
+    ]
+  }
+}

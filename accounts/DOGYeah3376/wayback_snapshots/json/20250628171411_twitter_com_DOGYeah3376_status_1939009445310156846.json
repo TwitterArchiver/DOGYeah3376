@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1939009445310156846",
+    "created_at": "2025-06-28T17:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T18:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939009445310156846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1795072631169044480",
+          "start": 3,
+          "username": "KillMuisto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939009445310156846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938659726986002733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KillMuisto: 一想到人类有生殖器官就觉得好恶心啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1939009445310156846",
+        "created_at": "2025-06-28T17:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T18:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939009445310156846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1795072631169044480",
+              "start": 3,
+              "username": "KillMuisto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939009445310156846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938659726986002733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KillMuisto: 一想到人类有生殖器官就觉得好恶心啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "1938659726986002733",
+        "created_at": "2025-06-27T18:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T19:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938659726986002733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938659726986002733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15958,
+          "like_count": 219,
+          "quote_count": 1,
+          "reply_count": 49,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "一想到人类有生殖器官就觉得好恶心啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 268,
+          "like_count": 8272,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 288
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "# 愛？ # 唉！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "五號淘汰王時行",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938916208109084672/KEnn0thS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5901,
+          "following_count": 249,
+          "like_count": 28473,
+          "listed_count": 13,
+          "media_count": 154,
+          "tweet_count": 694
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "KillMuisto",
+        "verified": false
+      }
+    ]
+  }
+}

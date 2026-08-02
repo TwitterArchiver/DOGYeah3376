@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1943698173912104960"
+      ],
+      "media_source_tweet_id": [
+        "1943698289372615062"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1943704707685568588",
+    "created_at": "2025-07-11T16:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T17:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943704707685568588"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "支女有话说"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1747931023277502465",
+          "start": 3,
+          "username": "damatte8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PQNy5vPae6",
+          "end": 47,
+          "expanded_url": "https://x.com/damatte8964/status/1943698289372615062/video/1",
+          "media_key": "13_1943698173912104960",
+          "start": 24,
+          "url": "https://t.co/PQNy5vPae6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943704707685568588",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943698289372615062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @damatte8964: #支女有话说 https://t.co/PQNy5vPae6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14625,
+        "height": 1920,
+        "media_key": "13_1943698173912104960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1943698173912104960/img/nM_nJ4Qoz52aWca-.jpg",
+        "public_metrics": {
+          "view_count": 237
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943698173912104960/vid/avc1/320x568/SpL5fgwfHnIaCKj_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943698173912104960/vid/avc1/480x852/QA3S5tIX9Jh8GQ7T.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943698173912104960/vid/avc1/720x1280/1Zg29z-YW7HwiwVP.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1943698173912104960/pl/eS6GfNOHlUkEvPmh.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1943698173912104960"
+          ],
+          "media_source_tweet_id": [
+            "1943698289372615062"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1943704707685568588",
+        "created_at": "2025-07-11T16:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T17:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943704707685568588"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "支女有话说"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1747931023277502465",
+              "start": 3,
+              "username": "damatte8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQNy5vPae6",
+              "end": 47,
+              "expanded_url": "https://x.com/damatte8964/status/1943698289372615062/video/1",
+              "media_key": "13_1943698173912104960",
+              "start": 24,
+              "url": "https://t.co/PQNy5vPae6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943704707685568588",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943698289372615062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @damatte8964: #支女有话说 https://t.co/PQNy5vPae6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1943698173912104960"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "1943698289372615062",
+        "created_at": "2025-07-11T15:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T16:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943698289372615062"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "支女有话说"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQNy5vPae6",
+              "end": 30,
+              "expanded_url": "https://x.com/damatte8964/status/1943698289372615062/video/1",
+              "media_key": "13_1943698173912104960",
+              "start": 7,
+              "url": "https://t.co/PQNy5vPae6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943698289372615062",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 789,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#支女有话说 https://t.co/PQNy5vPae6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 347,
+          "like_count": 13829,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 454
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 人デ無シ マタ智慧モ無シ｜🚪198/520/1314 坐标东京接线下｜线上我也可以陪你｜所以都可以来过我门槛w谢谢你｜我真的真的需要一些钱活下去 我爱你们",
+        "id": "1747931023277502465",
+        "location": "Tokyo-to, Japan",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34566,
+          "following_count": 769,
+          "like_count": 6891,
+          "listed_count": 43,
+          "media_count": 216,
+          "tweet_count": 2430
+        },
+        "username": "damatte8964",
+        "verified": true
+      }
+    ]
+  }
+}

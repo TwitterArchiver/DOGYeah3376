@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037576469132832768"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2037575016796299642",
+    "created_at": "2026-03-27T17:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T18:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037576477773074462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P7rL04L0tO",
+          "end": 23,
+          "expanded_url": "https://x.com/DOGYeah3376/status/2037576477773074462/photo/1",
+          "media_key": "3_2037576469132832768",
+          "start": 0,
+          "url": "https://t.co/P7rL04L0tO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037576477773074462",
+    "in_reply_to_user_id": "1676500088221478912",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037575016796299642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/P7rL04L0tO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037576469132832768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbtAM1bcAACAaC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037576469132832768"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037575016796299642",
+        "created_at": "2026-03-27T17:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T18:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037576477773074462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P7rL04L0tO",
+              "end": 23,
+              "expanded_url": "https://x.com/DOGYeah3376/status/2037576477773074462/photo/1",
+              "media_key": "3_2037576469132832768",
+              "start": 0,
+              "url": "https://t.co/P7rL04L0tO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037576477773074462",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037575016796299642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/P7rL04L0tO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2037575016796299642",
+        "created_at": "2026-03-27T16:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037575016796299642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037575016796299642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "os新刀就是锋利啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2031387789141717030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 1124,
+          "like_count": 70862,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 4807
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

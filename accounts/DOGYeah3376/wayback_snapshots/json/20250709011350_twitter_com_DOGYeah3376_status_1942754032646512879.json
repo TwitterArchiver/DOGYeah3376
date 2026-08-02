@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1942503129775259866",
+    "created_at": "2025-07-09T01:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T02:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942754032646512879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "552806299",
+          "start": 0,
+          "username": "pattifly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942754032646512879",
+    "in_reply_to_user_id": "552806299",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942503129775259866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pattifly 😱😋😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942503121831297024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvUoTCfXgAA_Inx.jpg",
+        "width": 1203
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942503121672155136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvUoTB5bMAAko0S.jpg",
+        "width": 1103
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942503121869058048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvUoTCoXsAAina2.jpg",
+        "width": 1131
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942503121697267713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvUoTB_aYAEG-Kv.jpg",
+        "width": 1109
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1942503129775259866",
+        "created_at": "2025-07-09T01:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T02:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942754032646512879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "552806299",
+              "start": 0,
+              "username": "pattifly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942754032646512879",
+        "in_reply_to_user_id": "552806299",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942503129775259866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pattifly 😱😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942503121831297024",
+            "3_1942503121672155136",
+            "3_1942503121869058048",
+            "3_1942503121697267713"
+          ]
+        },
+        "author_id": "552806299",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942503129775259866",
+        "created_at": "2025-07-08T08:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T09:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942503129775259866"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "药娘"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "xyn"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "跨性别"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "mtf"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "hrt"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "药商"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "泰补"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "土色"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "老挝色"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "糖商"
+            },
+            {
+              "end": 158,
+              "start": 154,
+              "tag": "色谱龙"
+            },
+            {
+              "end": 163,
+              "start": 159,
+              "tag": "补佳乐"
+            },
+            {
+              "end": 167,
+              "start": 164,
+              "tag": "买糖"
+            },
+            {
+              "end": 172,
+              "start": 168,
+              "tag": "减肥药"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fihh1eVK6O",
+              "end": 196,
+              "expanded_url": "https://x.com/pattifly/status/1942503129775259866/photo/1",
+              "media_key": "3_1942503121831297024",
+              "start": 173,
+              "url": "https://t.co/Fihh1eVK6O"
+            },
+            {
+              "display_url": "pic.x.com/Fihh1eVK6O",
+              "end": 196,
+              "expanded_url": "https://x.com/pattifly/status/1942503129775259866/photo/1",
+              "media_key": "3_1942503121672155136",
+              "start": 173,
+              "url": "https://t.co/Fihh1eVK6O"
+            },
+            {
+              "display_url": "pic.x.com/Fihh1eVK6O",
+              "end": 196,
+              "expanded_url": "https://x.com/pattifly/status/1942503129775259866/photo/1",
+              "media_key": "3_1942503121869058048",
+              "start": 173,
+              "url": "https://t.co/Fihh1eVK6O"
+            },
+            {
+              "display_url": "pic.x.com/Fihh1eVK6O",
+              "end": 196,
+              "expanded_url": "https://x.com/pattifly/status/1942503129775259866/photo/1",
+              "media_key": "3_1942503121697267713",
+              "start": 173,
+              "url": "https://t.co/Fihh1eVK6O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942503129775259866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 842,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🇹🇭tomorrowso 减脂蓝盒）是纯减脂肪的产品  体重秤瘦十斤 会有瘦20斤的视觉感🤗\n\ntomorrowso 是强效的  但无副作用  会在吃产品的期间感受到燃脂  这款纯减脂效果很好  不分体质的😊_\n\n#药娘 #xyn #跨性别 #mtf  \n#hrt #药商 #泰补 #土色 #老挝色\n#糖商 #色谱龙 #补佳乐 #买糖 #减肥药 https://t.co/Fihh1eVK6O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 321,
+          "like_count": 12351,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 415
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-13T15:54:51.000Z",
+        "description": "Hey (੭ˊ꒳ˋ)੭ 这里猫耳朵。一般消息都会回，除了睡大觉噢。🍥色加补复合片｜色谱龙｜泰补｜土色｜减肥药 买一送一｜国内有现货，也可直邮各国。部分可平台下单｜请私信右上角✉️。偶尔回复慢、可在TG喊我👉🏻https://t.co/B0Tg5JKmjM🤗唯一小号@wagnermestre",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 132,
+                "username": "wagnermestre"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/maoerduoduo",
+                "end": 127,
+                "expanded_url": "https://t.me/maoerduoduo",
+                "start": 104,
+                "url": "https://t.co/B0Tg5JKmjM"
+              }
+            ]
+          }
+        },
+        "id": "552806299",
+        "location": "Thailand",
+        "name": "猫耳朵🥥（药娘/药商/糖商）泰补/色谱龙Damah/补佳乐/土色/减肥药",
+        "pinned_tweet_id": "1872572055239168330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809563996955250688/HYXsy2L8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4542,
+          "following_count": 3117,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 429
+        },
+        "username": "pattifly",
+        "verified": true
+      }
+    ]
+  }
+}

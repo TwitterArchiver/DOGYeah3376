@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1943740431147127129",
+    "created_at": "2025-07-11T18:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T19:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943740431147127129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1302984963805999104",
+          "start": 3,
+          "username": "littlelambqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943740431147127129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943591657397690857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @littlelambqwq: 我在这里告诫大家，除非是相识好几年的朋友，大家千万不要对认识不到一两年左右的朋友说你的私密的事情，也不要和他们私下里吐槽别人。一旦你们闹掰了，他就会干什么疯狂的事情，是否会泄露你的事情，我们就不得而知了。\n切记千万不要测试人性，人性险恶，防…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1943740431147127129",
+        "created_at": "2025-07-11T18:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T19:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943740431147127129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1302984963805999104",
+              "start": 3,
+              "username": "littlelambqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943740431147127129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943591657397690857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @littlelambqwq: 我在这里告诫大家，除非是相识好几年的朋友，大家千万不要对认识不到一两年左右的朋友说你的私密的事情，也不要和他们私下里吐槽别人。一旦你们闹掰了，他就会干什么疯狂的事情，是否会泄露你的事情，我们就不得而知了。\n切记千万不要测试人性，人性险恶，防…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1302984963805999104",
+        "conversation_id": "1943591657397690857",
+        "created_at": "2025-07-11T08:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T09:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943591657397690857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943591657397690857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1865,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我在这里告诫大家，除非是相识好几年的朋友，大家千万不要对认识不到一两年左右的朋友说你的私密的事情，也不要和他们私下里吐槽别人。一旦你们闹掰了，他就会干什么疯狂的事情，是否会泄露你的事情，我们就不得而知了。\n切记千万不要测试人性，人性险恶，防人之心不可无！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 348,
+          "like_count": 13985,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 459
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-07T15:00:08.000Z",
+        "description": "最憨的小女孩(mtx🏳️‍⚧️)/咩咩教教主/控制欲強的變態/性取向跨女，男娘/粘人依赖人/性格暴躁/十分缺爱地找对象中/bluesky的id和Twitter一样",
+        "id": "1302984963805999104",
+        "location": "咩咩星-山羊州-傻子社区-250号（已搬进这个家）",
+        "name": "小咩咩🐑",
+        "pinned_tweet_id": "1942830963752604037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925812406929719296/p20A_eZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 840,
+          "like_count": 62190,
+          "listed_count": 14,
+          "media_count": 1057,
+          "tweet_count": 10783
+        },
+        "username": "littlelambqwq",
+        "verified": false
+      }
+    ]
+  }
+}

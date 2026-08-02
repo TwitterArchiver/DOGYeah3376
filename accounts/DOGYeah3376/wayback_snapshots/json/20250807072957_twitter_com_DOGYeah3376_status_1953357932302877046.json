@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1953138680073224518",
+    "created_at": "2025-08-07T07:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T08:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953357932302877046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "78334256",
+          "start": 0,
+          "username": "wagnermestre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953357932302877046",
+    "in_reply_to_user_id": "78334256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953138680073224518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wagnermestre 生日快乐哦猫猫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953138673375150080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxrxRneagAApS-T.jpg",
+        "width": 945
+      },
+      {
+        "height": 1751,
+        "media_key": "3_1953138673375166464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxrxRneawAAcRM7.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1953138680073224518",
+        "created_at": "2025-08-07T07:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T08:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953357932302877046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "78334256",
+              "start": 0,
+              "username": "wagnermestre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953357932302877046",
+        "in_reply_to_user_id": "78334256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953138680073224518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wagnermestre 生日快乐哦猫猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953138673375150080",
+            "3_1953138673375166464"
+          ]
+        },
+        "author_id": "78334256",
+        "conversation_id": "1953138680073224518",
+        "created_at": "2025-08-06T16:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953138680073224518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jwYR6JLSUV",
+              "end": 57,
+              "expanded_url": "https://x.com/wagnermestre/status/1953138680073224518/photo/1",
+              "media_key": "3_1953138673375150080",
+              "start": 34,
+              "url": "https://t.co/jwYR6JLSUV"
+            },
+            {
+              "display_url": "pic.x.com/jwYR6JLSUV",
+              "end": 57,
+              "expanded_url": "https://x.com/wagnermestre/status/1953138680073224518/photo/1",
+              "media_key": "3_1953138673375166464",
+              "start": 34,
+              "url": "https://t.co/jwYR6JLSUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953138680073224518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 447,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想当个笨蛋美女 成功了一半 是个笨蛋（๑⃙⃘´༥`๑⃙⃘) 𐂐 ჻ https://t.co/jwYR6JLSUV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 592,
+          "like_count": 23910,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 843
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-29T15:10:26.000Z",
+        "description": "目前是都有现货的🤗在线接单 欢迎咨询了解哦。 大号是@pattifly (猫耳朵)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "pattifly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/maoerduoduo",
+                "end": 23,
+                "expanded_url": "https://t.me/maoerduoduo",
+                "start": 0,
+                "url": "https://t.co/M1BYZO9Okz"
+              }
+            ]
+          }
+        },
+        "id": "78334256",
+        "name": "oi 是猫猫啊🍯药娘/卖糖/药商（色谱龙、泰补、减肥药）",
+        "pinned_tweet_id": "1935317733622825273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911681225653198848/x83nT6qf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 2055,
+          "like_count": 545,
+          "listed_count": 6,
+          "media_count": 37,
+          "tweet_count": 224
+        },
+        "url": "https://t.co/M1BYZO9Okz",
+        "username": "wagnermestre",
+        "verified": false
+      }
+    ]
+  }
+}

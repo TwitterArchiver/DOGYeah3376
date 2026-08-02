@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2052597786663915604",
+    "created_at": "2026-05-08T03:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052597786663915604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 3,
+          "username": "pyke2076"
+        },
+        {
+          "end": 30,
+          "id": "1481172876589821952",
+          "start": 21,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052597786663915604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052379623791702305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pyke2076: 根据我X账号 @pyke2076 的历史推文直接创作我的日漫角色形象，完成角色人设图，不要给名字年纪之类的设定，不要以头像为原型。请自行完成角色的全部设计，包括外貌、神态、发型、穿搭、色彩氛围、配饰和背景元素，并以简单日漫风格（simple anim…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2052379613188505600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuEYlxawAASpYz.jpg",
+        "width": 784
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2052379613167566849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuEYlsbQAEPiGd.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2052597786663915604",
+        "created_at": "2026-05-08T03:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052597786663915604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 3,
+              "username": "pyke2076"
+            },
+            {
+              "end": 30,
+              "id": "1481172876589821952",
+              "start": 21,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052597786663915604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052379623791702305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pyke2076: 根据我X账号 @pyke2076 的历史推文直接创作我的日漫角色形象，完成角色人设图，不要给名字年纪之类的设定，不要以头像为原型。请自行完成角色的全部设计，包括外貌、神态、发型、穿搭、色彩氛围、配饰和背景元素，并以简单日漫风格（simple anim…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052379613188505600",
+            "3_2052379613167566849"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "2052379623791702305",
+        "created_at": "2026-05-07T13:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052379623791702305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1481172876589821952",
+              "start": 7,
+              "username": "pyke2076"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EVZoCrcllv",
+              "end": 179,
+              "expanded_url": "https://x.com/pyke2076/status/2052379623791702305/photo/1",
+              "media_key": "3_2052379613188505600",
+              "start": 156,
+              "url": "https://t.co/EVZoCrcllv"
+            },
+            {
+              "display_url": "pic.x.com/EVZoCrcllv",
+              "end": 179,
+              "expanded_url": "https://x.com/pyke2076/status/2052379623791702305/photo/1",
+              "media_key": "3_2052379613167566849",
+              "start": 156,
+              "url": "https://t.co/EVZoCrcllv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052379623791702305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2863,
+          "like_count": 39,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "根据我X账号 @pyke2076 的历史推文直接创作我的日漫角色形象，完成角色人设图，不要给名字年纪之类的设定，不要以头像为原型。请自行完成角色的全部设计，包括外貌、神态、发型、穿搭、色彩氛围、配饰和背景元素，并以简单日漫风格（simple anime style）呈现。避免半写实、3D、韩漫风和刻板化模板。 https://t.co/EVZoCrcllv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 1145,
+          "like_count": 74626,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 5234
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "bunny",
+        "pinned_tweet_id": "2043293076777742734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8326,
+          "following_count": 1192,
+          "like_count": 64849,
+          "listed_count": 8,
+          "media_count": 3029,
+          "tweet_count": 18501
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

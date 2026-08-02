@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1957775116286165078",
+    "created_at": "2025-08-20T07:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T08:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958075201813442851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845041900195282948",
+          "start": 0,
+          "username": "bernadine18107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958075201813442851",
+    "in_reply_to_user_id": "1845041900195282948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957775116286165078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bernadine18107 快逃离宝宝🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1247,
+        "media_key": "3_1957775106048167936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GytqFhIakAAepPM.jpg",
+        "width": 1094
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1957775106022993922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GytqFhCacAIAerc.jpg",
+        "width": 1104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1957775116286165078",
+        "created_at": "2025-08-20T07:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T08:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958075201813442851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845041900195282948",
+              "start": 0,
+              "username": "bernadine18107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958075201813442851",
+        "in_reply_to_user_id": "1845041900195282948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957775116286165078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bernadine18107 快逃离宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957775106048167936",
+            "3_1957775106022993922"
+          ]
+        },
+        "author_id": "1845041900195282948",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1957775116286165078",
+        "created_at": "2025-08-19T12:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T13:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957775116286165078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5tRfoRGLOz",
+              "end": 166,
+              "expanded_url": "https://x.com/bernadine18107/status/1957775116286165078/photo/1",
+              "media_key": "3_1957775106048167936",
+              "start": 143,
+              "url": "https://t.co/5tRfoRGLOz"
+            },
+            {
+              "display_url": "pic.x.com/5tRfoRGLOz",
+              "end": 166,
+              "expanded_url": "https://x.com/bernadine18107/status/1957775116286165078/photo/1",
+              "media_key": "3_1957775106022993922",
+              "start": 143,
+              "url": "https://t.co/5tRfoRGLOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957775116286165078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 13689,
+          "like_count": 135,
+          "quote_count": 2,
+          "reply_count": 65,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我真是不知道怎么和他们沟通了😔 本想在外面躲一躲晚点再回家 没想到居然七点了我爸妈还在我家门口等着我 我打开房门的一瞬间 我爸就狠狠踹了我一脚 措不及防摔倒了 一脚又一脚往我脸上踹 嘴里说着让我去死的话 我妈冲进我的房间把化妆品都砸了还有衣服也被丢了 我爸发了疯似的拿剪刀要剪我的头发 https://t.co/5tRfoRGLOz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 771,
+          "like_count": 31698,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1600
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T10:00:55.000Z",
+        "description": "04年出厂的xyn ｜已经挫学🥹正在想办法下海TT｜目前已经辞职啦有点小钱｜梦想是SRS成为有阴道瓣的女孩子～可以互fo/",
+        "id": "1845041900195282948",
+        "name": "Niqiu-妮湫（打工版）🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1945751653954810045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943944034050813952/okWv5JY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 486,
+          "like_count": 535,
+          "listed_count": 7,
+          "media_count": 56,
+          "tweet_count": 254
+        },
+        "username": "bernadine18107",
+        "verified": false
+      }
+    ]
+  }
+}

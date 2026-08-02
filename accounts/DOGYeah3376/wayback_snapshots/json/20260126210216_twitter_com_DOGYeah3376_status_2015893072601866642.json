@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015893059935076352",
+        "3_2015893059947679744"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2015893072601866642",
+    "created_at": "2026-01-26T21:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T22:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015893072601866642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1SB5X7KQZ2",
+          "end": 23,
+          "expanded_url": "https://x.com/DOGYeah3376/status/2015893072601866642/photo/1",
+          "media_key": "3_2015893059935076352",
+          "start": 0,
+          "url": "https://t.co/1SB5X7KQZ2"
+        },
+        {
+          "display_url": "pic.x.com/1SB5X7KQZ2",
+          "end": 23,
+          "expanded_url": "https://x.com/DOGYeah3376/status/2015893072601866642/photo/1",
+          "media_key": "3_2015893059947679744",
+          "start": 0,
+          "url": "https://t.co/1SB5X7KQZ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015893072601866642",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/1SB5X7KQZ2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2015893072601866642].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2015893072601866642",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2015893072601866642"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015893059935076352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_nkDq6bAAA03i8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015893059947679744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_nkDq9bUAAT5__.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 1089,
+          "like_count": 68414,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 4363
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

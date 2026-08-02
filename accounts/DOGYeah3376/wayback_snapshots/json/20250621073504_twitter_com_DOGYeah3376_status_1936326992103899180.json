@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1936045510282166749",
+    "created_at": "2025-06-21T07:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T08:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936326992103899180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936326992103899180",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936326816052265522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowCatherina 优质三方真的很少🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1936045510282166749",
+        "created_at": "2025-06-21T07:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T08:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936326992103899180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936326992103899180",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936326816052265522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina 优质三方真的很少🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "1936045510282166749",
+        "created_at": "2025-06-21T07:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T08:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936326816052265522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936326816052265522",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936322091814666605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 三方的超充"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 256,
+          "like_count": 7059,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 254
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "20INTP｜⚠️一只不会说话和社交的AuDHD｜🏫Monash｜🐈/🏹/🚴/💻｜AM&CS&EE｜某司高管(逃)｜意面神教牧师｜BA4R**｜GPG pubKey: C1D9 84F0 BBA1 B3B9｜🚪50,啥也没有｜持证嗓音训练师 160CNY｜@2196F3 的家养猫｜@StarNekOvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 128,
+                "username": "2196F3"
+              },
+              {
+                "end": 152,
+                "start": 141,
+                "username": "StarNekOvO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cntt.uk",
+                "end": 23,
+                "expanded_url": "http://cntt.uk",
+                "start": 0,
+                "url": "https://t.co/JF2BoPdtEo"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈（咬人小黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906720680164589568/QYK6UxuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5694,
+          "following_count": 1045,
+          "like_count": 57232,
+          "listed_count": 17,
+          "media_count": 1671,
+          "tweet_count": 19244
+        },
+        "url": "https://t.co/JF2BoPdtEo",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1968471828797460957",
+    "created_at": "2025-09-18T05:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T06:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968550754828042309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1421238969346445316",
+          "start": 0,
+          "username": "qianduzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968550754828042309",
+    "in_reply_to_user_id": "1421238969346445316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968471828797460957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianduzz 呜呜你少割点嘛w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968471824540504064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1FqsewaEAA0cpf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968471825538756608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1FqsieaMAAQs8E.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1968471828797460957",
+        "created_at": "2025-09-18T05:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T06:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968550754828042309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1421238969346445316",
+              "start": 0,
+              "username": "qianduzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968550754828042309",
+        "in_reply_to_user_id": "1421238969346445316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968471828797460957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianduzz 呜呜你少割点嘛w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968471824540504064",
+            "3_1968471825538756608"
+          ]
+        },
+        "author_id": "1421238969346445316",
+        "conversation_id": "1968471828797460957",
+        "created_at": "2025-09-18T00:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T01:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968471828797460957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eEsORCUppT",
+              "end": 33,
+              "expanded_url": "https://x.com/qianduzz/status/1968471828797460957/photo/1",
+              "media_key": "3_1968471824540504064",
+              "start": 10,
+              "url": "https://t.co/eEsORCUppT"
+            },
+            {
+              "display_url": "pic.x.com/eEsORCUppT",
+              "end": 33,
+              "expanded_url": "https://x.com/qianduzz/status/1968471828797460957/photo/1",
+              "media_key": "3_1968471825538756608",
+              "start": 10,
+              "url": "https://t.co/eEsORCUppT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968471828797460957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 396,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没有人爱我就一直割 https://t.co/eEsORCUppT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 911,
+          "like_count": 39900,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 2489
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T22:39:18.000Z",
+        "description": "最爱的宝宝@maque478728\n\n死亡倒计时中～私宅阴暗b isfp   mtx  非二元性别    重度精神病 精神状态不太稳定 od 自伤 雪兔 会发癫 0.5  泛性恋 成分复杂 可以做你的树洞噢   (全是负能量/介意慎入)   可以叫我天天！我很好说话 喜欢所有乖宝宝 \n 🚪52",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "maque478728"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhangweishihundan.com",
+                "end": 23,
+                "expanded_url": "https://www.zhangweishihundan.com/",
+                "start": 0,
+                "url": "https://t.co/dhhgMYDCl2"
+              }
+            ]
+          }
+        },
+        "id": "1421238969346445316",
+        "location": "上海市奉贤区",
+        "name": "前度",
+        "pinned_tweet_id": "1957146344755458078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881935423548870656/foFkOjX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 526,
+          "like_count": 2222,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 989
+        },
+        "url": "https://t.co/dhhgMYDCl2",
+        "username": "qianduzz",
+        "verified": false
+      }
+    ]
+  }
+}

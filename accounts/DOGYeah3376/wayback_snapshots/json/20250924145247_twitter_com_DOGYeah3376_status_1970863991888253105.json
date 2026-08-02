@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1970863991888253105",
+    "created_at": "2025-09-24T14:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T15:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970863991888253105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1599125227786608655",
+          "start": 3,
+          "username": "momoko8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970863991888253105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970846953421643925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momoko8964: od圈的这些人就不能拉个小群自己吵吗天天在主页隔空喊话吵吵吵吵吵吵个没完了每天都被刷屏一堆莫名其妙的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1970863991888253105",
+        "created_at": "2025-09-24T14:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T15:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970863991888253105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1599125227786608655",
+              "start": 3,
+              "username": "momoko8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970863991888253105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970846953421643925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momoko8964: od圈的这些人就不能拉个小群自己吵吗天天在主页隔空喊话吵吵吵吵吵吵个没完了每天都被刷屏一堆莫名其妙的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599125227786608655",
+        "conversation_id": "1970846953421643925",
+        "created_at": "2025-09-24T13:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T14:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970846953421643925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970846953421643925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "od圈的这些人就不能拉个小群自己吵吗天天在主页隔空喊话吵吵吵吵吵吵个没完了每天都被刷屏一堆莫名其妙的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 941,
+          "like_count": 43639,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2688
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去 喜欢我就请给我点钱让我生活得更好",
+        "id": "1599125227786608655",
+        "location": "🚪88/288 私信只回口令",
+        "name": "苦桃",
+        "pinned_tweet_id": "1959616999161802989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968671218787348480/0MQgTJ5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7584,
+          "following_count": 299,
+          "like_count": 22850,
+          "listed_count": 11,
+          "media_count": 1357,
+          "tweet_count": 15286
+        },
+        "username": "momoko8964",
+        "verified": false
+      }
+    ]
+  }
+}

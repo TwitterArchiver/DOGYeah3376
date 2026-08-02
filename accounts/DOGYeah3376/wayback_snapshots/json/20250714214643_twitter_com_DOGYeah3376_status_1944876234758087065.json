@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1944819650375901243",
+    "created_at": "2025-07-14T21:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T22:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944876234758087065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1797202819415752705",
+          "start": 0,
+          "username": "xwdlwr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944876234758087065",
+    "in_reply_to_user_id": "1797202819415752705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944819650375901243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xwdlwr 晚安🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1944819650375901243",
+        "created_at": "2025-07-14T21:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T22:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944876234758087065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1797202819415752705",
+              "start": 0,
+              "username": "xwdlwr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944876234758087065",
+        "in_reply_to_user_id": "1797202819415752705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944819650375901243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xwdlwr 晚安🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797202819415752705",
+        "conversation_id": "1944819650375901243",
+        "created_at": "2025-07-14T18:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T19:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944819650375901243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944819650375901243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉最近挺神经的😇😇睡觉啦😴爱你们所有人😘🥰顺便看到这条帖子的都给窝超超🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtf 自伤 od 互fo（没看到的戳我一下好了）       最好的妹妹@xiaoyieQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 386,
+          "like_count": 15666,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 498
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T09:45:30.000Z",
+        "description": "山竹別跑!!!/ 15岁高中无证含糖 🍥/玉林/ 喜欢睡觉 / 喜欢熬\n夜?/ 不想学习啦!!!/ 非常宅.…./随时可互fo / 其实是10\n后 / 不抽烟不喝酒不od不自残不自杀 / 168cm 53kg /不是机\n器人呀/HRT2025.3.22 \n已死保留@wdhswwcnm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 132,
+                "username": "wdhswwcnm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BAsensei",
+                "end": 23,
+                "expanded_url": "http://t.me/BAsensei",
+                "start": 0,
+                "url": "https://t.co/FvuOqGdCtL"
+              }
+            ]
+          }
+        },
+        "id": "1797202819415752705",
+        "location": "你❤️里",
+        "name": "爱吃山竹口牙🍥（慢性互fo版）🤤😚",
+        "pinned_tweet_id": "1944146383239622923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941750149027373056/vmBXCc-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 225,
+          "like_count": 1913,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 515
+        },
+        "url": "https://t.co/FvuOqGdCtL",
+        "username": "xwdlwr",
+        "verified": false
+      }
+    ]
+  }
+}

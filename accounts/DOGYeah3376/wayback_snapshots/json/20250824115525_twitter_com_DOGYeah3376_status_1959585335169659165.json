@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1959273245296726062",
+    "created_at": "2025-08-24T11:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T12:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959585335169659165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1946598569747894273",
+          "start": 0,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959585335169659165",
+    "in_reply_to_user_id": "1946598569747894273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959273245296726062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmin240286 让我听听👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1959273245296726062",
+        "created_at": "2025-08-24T11:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T12:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959585335169659165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946598569747894273",
+              "start": 0,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959585335169659165",
+        "in_reply_to_user_id": "1946598569747894273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959273245296726062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmin240286 让我听听👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946598569747894273",
+        "conversation_id": "1959273245296726062",
+        "created_at": "2025-08-23T15:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T16:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959273245296726062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959273245296726062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1067,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我声音真的好听吗为什么都这么说\n（思考）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 799,
+          "like_count": 32632,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1743
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "含糖MtF｜INFP-T｜社会化程度极低的AS｜BPD｜多意识体｜死病娇｜天残党｜家暴党｜无性恋｜性冷淡｜C-PTSD｜同类互fo｜精神药理学｜五年C#开发经验｜没人陪、没人要的恶心的废物，所有人最后都会讨厌我…｜Telegram https://t.co/fUGMj5wLbc 我一直在",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 139,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 116,
+                "url": "https://t.co/fUGMj5wLbc"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민☆☭🇰🇵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1957784692918526385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957756818710753282/2Sp50yYa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 127,
+          "like_count": 785,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 516
+        },
+        "username": "xmin240286",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1928384203466617117",
+    "created_at": "2025-06-01T02:52:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T03:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929008232485245196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1202987955339460608",
+          "start": 0,
+          "username": "TipsyJumpa"
+        },
+        {
+          "end": 26,
+          "id": "1072109417200414720",
+          "start": 12,
+          "username": "wangzhian8848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929008232485245196",
+    "in_reply_to_user_id": "1202987955339460608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928623209655779342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TipsyJumpa @wangzhian8848 现在也会被全班霸凌孤立"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1928384203466617117",
+        "created_at": "2025-06-01T02:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T03:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929008232485245196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1202987955339460608",
+              "start": 0,
+              "username": "TipsyJumpa"
+            },
+            {
+              "end": 26,
+              "id": "1072109417200414720",
+              "start": 12,
+              "username": "wangzhian8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929008232485245196",
+        "in_reply_to_user_id": "1202987955339460608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928623209655779342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TipsyJumpa @wangzhian8848 现在也会被全班霸凌孤立"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1202987955339460608",
+        "conversation_id": "1928384203466617117",
+        "created_at": "2025-05-31T01:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T02:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928623209655779342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1072109417200414720",
+              "start": 0,
+              "username": "wangzhian8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928623209655779342",
+        "in_reply_to_user_id": "1072109417200414720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2486,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928384203466617117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangzhian8848 这个宋某放到我那个年代，那必须得转学了，否则只要出现在学校就会被打，每天都会被打。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 217,
+          "like_count": 5200,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 225
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-06T16:27:45.000Z",
+        "description": "Ain't nobody got time for that!",
+        "id": "1202987955339460608",
+        "location": "Melbourne",
+        "name": "TheWetman🦘🇦🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761978269174571008/PpyfUuXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 1020,
+          "like_count": 2580,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1737
+        },
+        "username": "TipsyJumpa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-10T12:42:58.000Z",
+        "description": "调查记者，主持人。油管频道地址：https://t.co/WfO3vZ0ygY?amp=1，Facebook地址：https://t.co/QO4mprdzUL，TikTok地址：https://t.co/chl5sh7Cfa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "end": 23,
+                "start": 0,
+                "url": "https://t.co/DrbI80kqkz"
+              }
+            ]
+          }
+        },
+        "id": "1072109417200414720",
+        "name": "王局志安",
+        "pinned_tweet_id": "1876486307205251482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527433965824802816/PgXCsVL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394389,
+          "following_count": 642,
+          "like_count": 415,
+          "listed_count": 3744,
+          "media_count": 4570,
+          "tweet_count": 16264
+        },
+        "url": "https://t.co/DrbI80kqkz",
+        "username": "wangzhian8848",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1985332003647246785",
+    "created_at": "2025-11-03T13:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T14:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985332003647246785"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/salviaswc/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/salviaswc/status/1985190899983544358",
+          "start": 13,
+          "url": "https://t.co/2GLQkK2GLc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985332003647246785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985190899983544358",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我需要一个很好的旅行伴侣 https://t.co/2GLQkK2GLc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_1985190864298147840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zQkrXXgAAaI82.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1985332003647246785",
+        "created_at": "2025-11-03T13:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985332003647246785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/salviaswc/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/salviaswc/status/1985190899983544358",
+              "start": 13,
+              "url": "https://t.co/2GLQkK2GLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985332003647246785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985190899983544358",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我需要一个很好的旅行伴侣 https://t.co/2GLQkK2GLc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985190864298147840"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1985190899983544358",
+        "created_at": "2025-11-03T03:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T04:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985190899983544358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TfFvQYkxgc",
+              "end": 60,
+              "expanded_url": "https://x.com/SalviaSWC/status/1985190899983544358/photo/1",
+              "media_key": "3_1985190864298147840",
+              "start": 37,
+              "url": "https://t.co/TfFvQYkxgc"
+            },
+            {
+              "display_url": "x.com/Overdose_DBD/s…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Overdose_DBD/status/1785485351911596521",
+              "start": 61,
+              "url": "https://t.co/lJzy4w4oHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985190899983544358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1833,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1785485351911596521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们一起进入西格玛高原吧!\n👇如何进入西格玛高原(来自 DXM FAQ) https://t.co/TfFvQYkxgc https://t.co/lJzy4w4oHd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1038,
+          "like_count": 58034,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 3820
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 647,
+          "like_count": 10108,
+          "listed_count": 7,
+          "media_count": 144,
+          "tweet_count": 3168
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

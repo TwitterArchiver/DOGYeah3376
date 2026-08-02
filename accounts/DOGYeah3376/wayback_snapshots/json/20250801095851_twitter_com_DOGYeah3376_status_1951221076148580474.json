@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1950780307332063618",
+    "created_at": "2025-08-01T09:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T10:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951221076148580474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "ceobrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951221076148580474",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951220940651766098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceobrus 爱你😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1950780307332063618",
+        "created_at": "2025-08-01T09:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T10:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951221076148580474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "ceobrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951221076148580474",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951220940651766098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceobrus 爱你😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "1950780307332063618",
+        "created_at": "2025-08-01T09:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T10:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951220940651766098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951220940651766098",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951220087354188179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 小天使你也好看(*｀▽´*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 520,
+          "like_count": 20786,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 722
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "they🏳‍⚧丨00年丨hrt2025/1/8丨这是个药娘丨长得不好看丨无业单身丨180cm/60kg丨🍥同类互fo丨欢迎扩列丨ISFP-T丨玩绝区零、鸣潮、崩铁丨内向i人丨我好喜欢散步欢迎找我逛街压马路口牙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ceobrus",
+                "end": 23,
+                "expanded_url": "https://t.me/ceobrus",
+                "start": 0,
+                "url": "https://t.co/jjy2nziSM9"
+              }
+            ]
+          }
+        },
+        "id": "1903701047589343232",
+        "name": "小方🏳‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939212280874299392/CfqB9_ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 835,
+          "like_count": 4736,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1265
+        },
+        "url": "https://t.co/jjy2nziSM9",
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

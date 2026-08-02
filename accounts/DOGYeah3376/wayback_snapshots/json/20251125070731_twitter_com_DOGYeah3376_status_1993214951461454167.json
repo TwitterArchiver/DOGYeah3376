@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1992882865118593503",
+    "created_at": "2025-11-25T07:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T08:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993214951461454167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929355844837376000",
+          "start": 0,
+          "username": "Zoee_TuT"
+        },
+        {
+          "end": 23,
+          "id": "1866458229527764992",
+          "start": 10,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993214951461454167",
+    "in_reply_to_user_id": "1929355844837376000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992882865118593503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zoee_TuT @Citrus_amara 骗你的腿上也有伤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1992882865118593503",
+        "created_at": "2025-11-25T07:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993214951461454167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929355844837376000",
+              "start": 0,
+              "username": "Zoee_TuT"
+            },
+            {
+              "end": 23,
+              "id": "1866458229527764992",
+              "start": 10,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993214951461454167",
+        "in_reply_to_user_id": "1929355844837376000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992882865118593503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zoee_TuT @Citrus_amara 骗你的腿上也有伤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929355844837376000",
+        "conversation_id": "1992882865118593503",
+        "created_at": "2025-11-24T09:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992882865118593503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992882865118593503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2293,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我擦 自残?!冷静啊，姑娘，人生的不如意，有十之八九，千万不要想不开呀，自残是愚蠢的行为呀，我们身为新时代的领导者，就算遇到困难，也要坚持不懈，攻破他，要知道，自残有风险啊!有什么想不开的吗，可以找我倾诉，自残什么的很可怕的，不要再这样做了，小姑娘，我会帮助你的，对了，可以看看腿吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 1071,
+          "like_count": 62104,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 4042
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T01:54:29.000Z",
+        "description": "我喜欢互动，我喜欢有趣的女孩，我有女朋友我很爱她，请不要骚扰我！！",
+        "id": "1929355844837376000",
+        "location": "天台",
+        "name": "活得比愈美片更苦",
+        "pinned_tweet_id": "1992987218600964468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991931428083290112/abwv_KT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 109,
+          "like_count": 202,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 94
+        },
+        "username": "Zoee_TuT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 830,
+          "like_count": 13031,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 5631
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

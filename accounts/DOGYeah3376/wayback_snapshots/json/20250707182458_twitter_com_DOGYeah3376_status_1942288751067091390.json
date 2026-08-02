@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1942251597075296465",
+    "created_at": "2025-07-07T18:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T19:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942288751067091390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1422567543940677634",
+          "start": 0,
+          "username": "UraOlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942288751067091390",
+    "in_reply_to_user_id": "1422567543940677634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942251597075296465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UraOlt 是的呀\n所有人留长发都很难的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1942251597075296465",
+        "created_at": "2025-07-07T18:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T19:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942288751067091390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422567543940677634",
+              "start": 0,
+              "username": "UraOlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942288751067091390",
+        "in_reply_to_user_id": "1422567543940677634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942251597075296465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UraOlt 是的呀\n所有人留长发都很难的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "conversation_id": "1942251597075296465",
+        "created_at": "2025-07-07T15:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T16:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942251597075296465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942251597075296465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 279,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对女的说天气太热你把头发剪了吧，不被打也会被当成神经病吧。\n但对男的就可以随便这样说，对方不仅不觉得冒犯，还觉得自己做的很对。真是该杀了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 306,
+          "like_count": 11352,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 392
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "幸福只会降临在那些看上去幸福的家伙头上🍥",
+        "id": "1422567543940677634",
+        "location": "Chiba-shi Wakaba-ku, Chiba",
+        "name": "Oltura 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939350798137237504/auwpIdmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 406,
+          "like_count": 184950,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 12095
+        },
+        "username": "UraOlt",
+        "verified": false
+      }
+    ]
+  }
+}

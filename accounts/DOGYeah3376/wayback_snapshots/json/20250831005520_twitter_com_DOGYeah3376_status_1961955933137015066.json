@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1961955933137015066",
+    "created_at": "2025-08-31T00:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T01:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961955933137015066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yyyyy_pog/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yyyyy_pog/status/1961955640735387943",
+          "start": 7,
+          "url": "https://t.co/hZpp2Q5pi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961955933137015066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961955640735387943",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个也是我（ https://t.co/hZpp2Q5pi1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1961955933137015066",
+        "created_at": "2025-08-31T00:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T01:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961955933137015066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyyyy_pog/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yyyyy_pog/status/1961955640735387943",
+              "start": 7,
+              "url": "https://t.co/hZpp2Q5pi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961955933137015066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961955640735387943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个也是我（ https://t.co/hZpp2Q5pi1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "1961955640735387943",
+        "created_at": "2025-08-31T00:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T01:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961955640735387943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dogyeah3376/st…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/dogyeah3376/status/1961955172844032111",
+              "start": 62,
+              "url": "https://t.co/B5vS0cCsM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961955640735387943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961955172844032111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "作为学校里唯一一个吃过普瑞巴林的人，我的眼中总透露着同龄人无法理解的忧郁\n——对了，别人一般把我眼神中的“忧郁”叫做傻逼。 https://t.co/B5vS0cCsM1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 835,
+          "like_count": 34808,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1970
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜ 多意识体｜ 彩虹系统｜号主是目前的主导y总｜身体09 ｜我o我割｜我有精神病｜友跨｜非二元性别",
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "Yyyyy🎗️",
+        "pinned_tweet_id": "1958371694600667167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940355956900065281/iA07LVMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 103,
+          "like_count": 16248,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1325
+        },
+        "username": "Yyyyy_pog",
+        "verified": false
+      }
+    ]
+  }
+}

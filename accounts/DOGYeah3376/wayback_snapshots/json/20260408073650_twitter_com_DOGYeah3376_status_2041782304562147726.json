@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2041688588929122695",
+    "created_at": "2026-04-08T07:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T08:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041782304562147726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041782304562147726",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041688588929122695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa 原来你也割！求隐藏伤疤教程"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041688584730910720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWI81LbIAAebe2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2041688588929122695",
+        "created_at": "2026-04-08T07:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T08:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041782304562147726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041782304562147726",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041688588929122695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 原来你也割！求隐藏伤疤教程"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041688584730910720"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2041688588929122695",
+        "created_at": "2026-04-08T01:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041688588929122695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/atJCgZSLS2",
+              "end": 30,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2041688588929122695/photo/1",
+              "media_key": "3_2041688584730910720",
+              "start": 7,
+              "url": "https://t.co/atJCgZSLS2"
+            },
+            {
+              "display_url": "x.com/ahyun0107/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/ahyun0107/status/2041529413226115242",
+              "start": 31,
+              "url": "https://t.co/Ucula3o5zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041688588929122695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1216,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041529413226115242",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唯一标准答案 https://t.co/atJCgZSLS2 https://t.co/Ucula3o5zj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2039536218569052226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 1126,
+          "like_count": 71719,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 4946
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "★ @amber_toffee / ❤︎ @noaayoyaoaya / ɪɴᴛᴘ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️同类互fo",
+        "name": "amber",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 664,
+          "like_count": 1690,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

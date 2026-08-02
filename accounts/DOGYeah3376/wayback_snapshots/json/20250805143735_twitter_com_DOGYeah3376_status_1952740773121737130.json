@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1952680911415156744",
+    "created_at": "2025-08-05T14:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T15:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952740773121737130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1605245047590780928",
+          "start": 0,
+          "username": "djx00919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952740773121737130",
+    "in_reply_to_user_id": "1605245047590780928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952739669348868427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@djx00919 不知道从哪里来的\n干脆block掉好了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1952680911415156744",
+        "created_at": "2025-08-05T14:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T15:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952740773121737130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1605245047590780928",
+              "start": 0,
+              "username": "djx00919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952740773121737130",
+        "in_reply_to_user_id": "1605245047590780928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952739669348868427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@djx00919 不知道从哪里来的\n干脆block掉好了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605245047590780928",
+        "conversation_id": "1952680911415156744",
+        "created_at": "2025-08-05T14:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T15:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952739669348868427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952739669348868427",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952727944473776142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 你小心点别被骗了，他谁啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 582,
+          "like_count": 23041,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 810
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T16:53:45.000Z",
+        "description": "2009/8/19男\n推特经常炸掉喵，梯子也没问题，根本不知道什么原因。想聊天的话可以私信喵 多和我互fo~\n不喜欢烟鬼 od 约炮 卖淫，别来",
+        "id": "1605245047590780928",
+        "location": "北京",
+        "name": "uosɐɾ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784751371708944384/zJKEhXae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 1091,
+          "like_count": 94611,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 2315
+        },
+        "username": "djx00919",
+        "verified": false
+      }
+    ]
+  }
+}

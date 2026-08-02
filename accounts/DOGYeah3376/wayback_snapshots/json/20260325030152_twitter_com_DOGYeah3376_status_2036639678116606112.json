@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2036639678116606112",
+    "created_at": "2026-03-25T03:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T04:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036639678116606112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026876224589701120",
+          "start": 3,
+          "username": "R1k0xo33w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036639678116606112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036636691159801873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R1k0xo33w: 好想和恋人去海边啊！傍晚磕了药一起趁着海水还是温热的玩水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2036639678116606112",
+        "created_at": "2026-03-25T03:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036639678116606112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026876224589701120",
+              "start": 3,
+              "username": "R1k0xo33w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036639678116606112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036636691159801873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R1k0xo33w: 好想和恋人去海边啊！傍晚磕了药一起趁着海水还是温热的玩水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026876224589701120",
+        "conversation_id": "2036636691159801873",
+        "created_at": "2026-03-25T02:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T03:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036636691159801873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036636691159801873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想和恋人去海边啊！傍晚磕了药一起趁着海水还是温热的玩水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭 @Yyyyy_pog｜主人❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "2031387789141717030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1121,
+          "like_count": 70642,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 4775
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T04:25:31.000Z",
+        "description": "一直在找我是谁#颓废磕药青年#是个可爱的孩子#",
+        "id": "2026876224589701120",
+        "name": "鲤",
+        "pinned_tweet_id": "2035834585226019160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026876338431561728/kdfQPrqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 103,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 192
+        },
+        "username": "R1k0xo33w",
+        "verified": false
+      }
+    ]
+  }
+}

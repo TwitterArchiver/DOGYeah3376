@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2049680749981540549",
+    "created_at": "2026-04-30T02:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T03:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049680749981540549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dogyeah3376/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/dogyeah3376/status/2049468636591751266",
+          "start": 30,
+          "url": "https://t.co/f4LP2JxGlp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049680749981540549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049468636591751266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我感觉我活下去的动力是pr但是我不知道等我吃光那天会怎么样 https://t.co/f4LP2JxGlp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2049680749981540549",
+        "created_at": "2026-04-30T02:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049680749981540549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dogyeah3376/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/dogyeah3376/status/2049468636591751266",
+              "start": 30,
+              "url": "https://t.co/f4LP2JxGlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049680749981540549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049468636591751266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉我活下去的动力是pr但是我不知道等我吃光那天会怎么样 https://t.co/f4LP2JxGlp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2049468636591751266",
+        "created_at": "2026-04-29T12:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049468636591751266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049468636591751266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还没死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049468636591751266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 1145,
+          "like_count": 73721,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 5148
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

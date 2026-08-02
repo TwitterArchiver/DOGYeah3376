@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1961103545622835421",
+    "created_at": "2025-08-29T04:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T05:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961278836827721858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943628759074312192",
+          "start": 0,
+          "username": "k3633455837"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961278836827721858",
+    "in_reply_to_user_id": "1943628759074312192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961103545622835421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k3633455837 我也想吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1961103545622835421",
+        "created_at": "2025-08-29T04:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T05:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961278836827721858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943628759074312192",
+              "start": 0,
+              "username": "k3633455837"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961278836827721858",
+        "in_reply_to_user_id": "1943628759074312192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961103545622835421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k3633455837 我也想吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943628759074312192",
+        "conversation_id": "1961103545622835421",
+        "created_at": "2025-08-28T16:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T17:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961103545622835421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961103545622835421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天一共吃了750毫克的普瑞巴林很舒服的一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 832,
+          "like_count": 34555,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1922
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T11:09:53.000Z",
+        "description": "我在地狱里等你",
+        "id": "1943628759074312192",
+        "location": "巴巴托斯 ",
+        "name": "反季雪.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956393114974961664/a8Fd0HIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 61,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 525
+        },
+        "username": "k3633455837",
+        "verified": false
+      }
+    ]
+  }
+}

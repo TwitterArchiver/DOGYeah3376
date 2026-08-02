@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976181165292916736"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1976181168044376547",
+    "created_at": "2025-10-09T07:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T08:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976181168044376547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uuJElcSdWw",
+          "end": 32,
+          "expanded_url": "https://x.com/DOGYeah3376/status/1976181168044376547/photo/1",
+          "media_key": "3_1976181165292916736",
+          "start": 9,
+          "url": "https://t.co/uuJElcSdWw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976181168044376547",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操那我不死了。 https://t.co/uuJElcSdWw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_1976181165292916736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2zOTLEaEAA9O--.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976181165292916736"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1976181168044376547",
+        "created_at": "2025-10-09T07:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T08:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976181168044376547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uuJElcSdWw",
+              "end": 32,
+              "expanded_url": "https://x.com/DOGYeah3376/status/1976181168044376547/photo/1",
+              "media_key": "3_1976181165292916736",
+              "start": 9,
+              "url": "https://t.co/uuJElcSdWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976181168044376547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操那我不死了。 https://t.co/uuJElcSdWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1971966535494521160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 964,
+          "like_count": 50084,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 3180
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

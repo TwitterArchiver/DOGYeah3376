@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1951194943269044520",
+    "created_at": "2025-08-12T07:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T08:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955176151560917500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1592172867189293057",
+          "start": 0,
+          "username": "cxszb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955176151560917500",
+    "in_reply_to_user_id": "1592172867189293057",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951194943269044520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxszb xm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1951194943269044520",
+        "created_at": "2025-08-12T07:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T08:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955176151560917500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1592172867189293057",
+              "start": 0,
+              "username": "cxszb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955176151560917500",
+        "in_reply_to_user_id": "1592172867189293057",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951194943269044520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxszb xm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592172867189293057",
+        "conversation_id": "1951194943269044520",
+        "created_at": "2025-08-01T08:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T09:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951194943269044520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951194943269044520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 611,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没性欲以后感觉素质品味修养都高了一个层次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 674,
+          "like_count": 26844,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1207
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T15:09:37.000Z",
+        "description": "03/非二元MTX药娘🍥/性冷淡/抖s👿/收ATM🤑/毒舌/水仙/阴暗逼/负能量警告⚠️/现居北京/已拆蛋/随缘发",
+        "id": "1592172867189293057",
+        "location": "🚪好友位88",
+        "name": "直花今天不嘴臭(互推私",
+        "pinned_tweet_id": "1836806921233617051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914757234996994056/9DnzxE3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6179,
+          "following_count": 438,
+          "like_count": 12611,
+          "listed_count": 20,
+          "media_count": 238,
+          "tweet_count": 16380
+        },
+        "username": "cxszb",
+        "verified": false
+      }
+    ]
+  }
+}

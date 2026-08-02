@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1949639310233436303",
+    "created_at": "2025-07-28T05:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T06:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949710140216623149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1944876807880368136",
+          "start": 0,
+          "username": "kutsurupek18599"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949710140216623149",
+    "in_reply_to_user_id": "1944876807880368136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949671764772192424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kutsurupek18599 私"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1949639310233436303",
+        "created_at": "2025-07-28T05:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T06:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949710140216623149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1944876807880368136",
+              "start": 0,
+              "username": "kutsurupek18599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949710140216623149",
+        "in_reply_to_user_id": "1944876807880368136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949671764772192424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kutsurupek18599 私"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944876807880368136",
+        "conversation_id": "1949639310233436303",
+        "created_at": "2025-07-28T03:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T04:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949671764772192424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949671764772192424",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949639310233436303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 杭州包养 接受不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 491,
+          "like_count": 19197,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 668
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T21:49:06.000Z",
+        "description": "Movies, Musings, Mutombo (RIP)",
+        "id": "1944876807880368136",
+        "location": "杭州",
+        "name": "年华",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948183796437889024/79JMl2q6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "kutsurupek18599",
+        "verified": false
+      }
+    ]
+  }
+}

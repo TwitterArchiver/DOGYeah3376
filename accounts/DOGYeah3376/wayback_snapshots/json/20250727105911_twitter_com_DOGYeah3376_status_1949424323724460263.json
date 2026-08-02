@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1949178298195493252",
+    "created_at": "2025-07-27T10:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T11:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949424323724460263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836667117896388608",
+          "start": 0,
+          "username": "henrik12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949424323724460263",
+    "in_reply_to_user_id": "1836667117896388608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949178298195493252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@henrik12138 给我两板 我也要吃😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1949176801806135296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwzd-VwWMAAw-h8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1949178298195493252",
+        "created_at": "2025-07-27T10:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949424323724460263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836667117896388608",
+              "start": 0,
+              "username": "henrik12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949424323724460263",
+        "in_reply_to_user_id": "1836667117896388608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949178298195493252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@henrik12138 给我两板 我也要吃😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949176801806135296"
+          ]
+        },
+        "author_id": "1836667117896388608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949178298195493252",
+        "created_at": "2025-07-26T18:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T19:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949178298195493252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTOljmtt0f",
+              "end": 28,
+              "expanded_url": "https://x.com/henrik12138/status/1949178298195493252/photo/1",
+              "media_key": "3_1949176801806135296",
+              "start": 5,
+              "url": "https://t.co/JTOljmtt0f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949178298195493252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃宵夜！ https://t.co/JTOljmtt0f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 486,
+          "like_count": 19057,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 656
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T07:22:29.000Z",
+        "description": "叫我小唯就好 日常嗑药 打游戏  欢迎找我聊天",
+        "id": "1836667117896388608",
+        "name": "普瑞巴林单推人",
+        "pinned_tweet_id": "1943215825529242092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910713555806281734/oBUXKSoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 111,
+          "like_count": 540,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 271
+        },
+        "username": "henrik12138",
+        "verified": false
+      }
+    ]
+  }
+}

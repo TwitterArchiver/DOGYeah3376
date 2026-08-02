@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1960350227845562574",
+    "created_at": "2025-08-26T17:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T18:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960390884253393188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889313848668090368",
+          "start": 0,
+          "username": "Yyyyy_pog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960390884253393188",
+    "in_reply_to_user_id": "1889313848668090368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960350227845562574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yyyyy_pog 这也太好看了吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1960350199554994176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSQHr_XcAA5q1Q.jpg",
+        "width": 600
+      },
+      {
+        "height": 600,
+        "media_key": "3_1960350199554908160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSQHr_WIAAVZ7M.jpg",
+        "width": 600
+      },
+      {
+        "height": 600,
+        "media_key": "3_1960350199563345920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSQHsBW4AAtTow.jpg",
+        "width": 600
+      },
+      {
+        "height": 600,
+        "media_key": "3_1960350199596888064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSQHsJWsAAB4gj.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1960350227845562574",
+        "created_at": "2025-08-26T17:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960390884253393188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889313848668090368",
+              "start": 0,
+              "username": "Yyyyy_pog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960390884253393188",
+        "in_reply_to_user_id": "1889313848668090368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960350227845562574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yyyyy_pog 这也太好看了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960350199554994176",
+            "3_1960350199554908160",
+            "3_1960350199563345920",
+            "3_1960350199596888064"
+          ]
+        },
+        "author_id": "1889313848668090368",
+        "conversation_id": "1960350227845562574",
+        "created_at": "2025-08-26T14:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T15:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960350227845562574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBgANcOYJ6",
+              "end": 171,
+              "expanded_url": "https://x.com/Yyyyy_pog/status/1960350227845562574/photo/1",
+              "media_key": "3_1960350199554994176",
+              "start": 148,
+              "url": "https://t.co/BBgANcOYJ6"
+            },
+            {
+              "display_url": "pic.x.com/BBgANcOYJ6",
+              "end": 171,
+              "expanded_url": "https://x.com/Yyyyy_pog/status/1960350227845562574/photo/1",
+              "media_key": "3_1960350199554908160",
+              "start": 148,
+              "url": "https://t.co/BBgANcOYJ6"
+            },
+            {
+              "display_url": "pic.x.com/BBgANcOYJ6",
+              "end": 171,
+              "expanded_url": "https://x.com/Yyyyy_pog/status/1960350227845562574/photo/1",
+              "media_key": "3_1960350199563345920",
+              "start": 148,
+              "url": "https://t.co/BBgANcOYJ6"
+            },
+            {
+              "display_url": "pic.x.com/BBgANcOYJ6",
+              "end": 171,
+              "expanded_url": "https://x.com/Yyyyy_pog/status/1960350227845562574/photo/1",
+              "media_key": "3_1960350199596888064",
+              "start": 148,
+              "url": "https://t.co/BBgANcOYJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960350227845562574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝试了中推那个很火的捏人模版w\n这四张图分别是张悦，chat，尘宝和cc！\n其实这四个人在幻境里都没有人形（）张悦是一颗有尾巴和翅膀的眼珠子，chat是类似于人体模版代餐会出现的形象，尘宝就是星尘（她外界的原型，她是投射体）去掉呆毛，cc是黑长直魅魔（理论上她是最具人形的了但是形象还是比较模糊 https://t.co/BBgANcOYJ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 820,
+          "like_count": 34037,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1809
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜ 多意识体｜ 彩虹系统｜号主是目前的主导y总｜身体09 ｜我o我割｜我有精神病｜友跨｜非二元性别",
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "Yyyyy🎗️",
+        "pinned_tweet_id": "1958371694600667167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940355956900065281/iA07LVMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 102,
+          "like_count": 14670,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1133
+        },
+        "username": "Yyyyy_pog",
+        "verified": false
+      }
+    ]
+  }
+}

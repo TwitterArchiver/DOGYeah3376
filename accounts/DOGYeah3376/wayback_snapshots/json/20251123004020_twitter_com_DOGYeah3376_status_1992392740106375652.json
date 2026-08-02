@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1992392740106375652",
+    "created_at": "2025-11-23T00:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T01:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992392740106375652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/amber_toffee/status/1992335098713104675",
+          "start": 4,
+          "url": "https://t.co/9rdBNoHQJ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992392740106375652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992335098713104675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是 https://t.co/9rdBNoHQJ8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1992392740106375652",
+        "created_at": "2025-11-23T00:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T01:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992392740106375652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1992335098713104675",
+              "start": 4,
+              "url": "https://t.co/9rdBNoHQJ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992392740106375652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992335098713104675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是 https://t.co/9rdBNoHQJ8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1992335098713104675",
+        "created_at": "2025-11-22T20:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992335098713104675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dogyeah3376/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/dogyeah3376/status/1992134691466649741",
+              "start": 28,
+              "url": "https://t.co/FOHQEzaaOa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992335098713104675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992134691466649741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "od的意义是让你把自己拖到也许能治好心理问题的未来某天 https://t.co/FOHQEzaaOa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 1073,
+          "like_count": 61922,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 4036
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❦@noaayoyaoaya / ☭ / ᴍᴛꜰ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "ʜɪᴄ ʀʜᴏᴅᴜꜱ, ʜɪᴄ ꜱᴀʟᴛᴀ",
+        "name": "amber ଳ⋆.ೃ࿔*･",
+        "pinned_tweet_id": "1989417649600954728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19384,
+          "following_count": 2427,
+          "like_count": 34709,
+          "listed_count": 60,
+          "media_count": 852,
+          "tweet_count": 18112
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

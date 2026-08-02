@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1941940554662895924",
+    "created_at": "2025-07-06T19:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T20:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941940554662895924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shiyouziya0/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/shiyouziya0/status/1941422897064813049",
+          "start": 8,
+          "url": "https://t.co/Ro4gaY2Bwv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941940554662895924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941422897064813049",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的好可爱哦🥺 https://t.co/Ro4gaY2Bwv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941422875342168064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvFR0auWYAAXZ1s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1941940554662895924",
+        "created_at": "2025-07-06T19:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T20:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941940554662895924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shiyouziya0/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/shiyouziya0/status/1941422897064813049",
+              "start": 8,
+              "url": "https://t.co/Ro4gaY2Bwv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941940554662895924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941422897064813049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的好可爱哦🥺 https://t.co/Ro4gaY2Bwv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941422875342168064"
+          ]
+        },
+        "author_id": "1484765897944276992",
+        "conversation_id": "1941422897064813049",
+        "created_at": "2025-07-05T09:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T10:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941422897064813049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ejg3U5a4FH",
+              "end": 53,
+              "expanded_url": "https://x.com/shiyouziya0/status/1941422897064813049/photo/1",
+              "media_key": "3_1941422875342168064",
+              "start": 30,
+              "url": "https://t.co/Ejg3U5a4FH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941422897064813049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 64753,
+          "like_count": 840,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我真好看（x）快夸我好看（x）\n\n我真烧（✓）快草我（✓） https://t.co/Ejg3U5a4FH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 296,
+          "like_count": 11119,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 375
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-22T05:53:22.000Z",
+        "description": "励志变成涩推！现在开始！线下过🚪88）（反正大抵没人找我！）（计划色推ing）（是男娘）丨移居！苏州版丨身高160cm丨体重55kg（大抵）（确信）",
+        "id": "1484765897944276992",
+        "location": "Hebei",
+        "name": "柚子（孤身版）",
+        "pinned_tweet_id": "1884735505822257594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486338255586877441/_e6JIQWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4862,
+          "following_count": 427,
+          "like_count": 814,
+          "listed_count": 17,
+          "media_count": 213,
+          "tweet_count": 1479
+        },
+        "username": "shiyouziya0",
+        "verified": false
+      }
+    ]
+  }
+}

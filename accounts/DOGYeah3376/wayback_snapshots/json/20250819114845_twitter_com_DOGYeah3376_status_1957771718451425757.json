@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1957771567296811500",
+    "created_at": "2025-08-19T11:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T12:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957771718451425757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889313848668090368",
+          "start": 0,
+          "username": "Yyyyy_pog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957771718451425757",
+    "in_reply_to_user_id": "1889313848668090368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957771567296811500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yyyyy_pog 想看！👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1957771567296811500",
+        "created_at": "2025-08-19T11:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T12:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957771718451425757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889313848668090368",
+              "start": 0,
+              "username": "Yyyyy_pog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957771718451425757",
+        "in_reply_to_user_id": "1889313848668090368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957771567296811500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yyyyy_pog 想看！👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "1957771567296811500",
+        "created_at": "2025-08-19T11:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T12:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957771567296811500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyyyy_pog/stat…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/yyyyy_pog/status/1957278235894673887",
+              "start": 53,
+              "url": "https://t.co/8GDZkSbfZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957771567296811500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957278235894673887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收到了！没什么异味而且有宜家的标签什么的 感觉就算不是正的也和正的有0个区别（？）有无人想看我发此鲨照片 https://t.co/8GDZkSbfZs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 766,
+          "like_count": 31500,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1563
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜ 多意识体｜ 彩虹系统｜号主是目前的主导y总｜身体09 ｜我o我割｜我有精神病｜友跨｜非二元性别",
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "Yyyyy🎗️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940355956900065281/iA07LVMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 118,
+          "like_count": 11237,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 866
+        },
+        "username": "Yyyyy_pog",
+        "verified": false
+      }
+    ]
+  }
+}

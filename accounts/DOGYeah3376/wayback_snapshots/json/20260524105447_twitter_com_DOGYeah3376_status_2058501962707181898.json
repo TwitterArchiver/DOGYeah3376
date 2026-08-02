@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2058463506186522915",
+    "created_at": "2026-05-24T10:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T11:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058501962707181898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1819327280482865152",
+          "start": 0,
+          "username": "hzyj772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058501962707181898",
+    "in_reply_to_user_id": "1819327280482865152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058475597639356653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzyj772 ✅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2058463506186522915",
+        "created_at": "2026-05-24T10:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058501962707181898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1819327280482865152",
+              "start": 0,
+              "username": "hzyj772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058501962707181898",
+        "in_reply_to_user_id": "1819327280482865152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058475597639356653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzyj772 ✅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819327280482865152",
+        "conversation_id": "2058463506186522915",
+        "created_at": "2026-05-24T09:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058475597639356653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058475597639356653",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "da",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058463506186522915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 findmy？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 1133,
+          "like_count": 75308,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 5312
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T11:00:13.000Z",
+        "description": "是@phia50611171的可爱猫猫～🐱这和我们人前是Les并不矛盾，所以还是ppl🎀｜情侣号兼色推：@mt1zsyxil｜蒻萌芖艿䒕英茎莮茼@nagiexpress｜不明真相袋鼠饲养员@simzihuai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "phia50611171"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "mt1zsyxil"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "nagiexpress"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "simzihuai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xlog.477771.xyz",
+                "end": 23,
+                "expanded_url": "http://xlog.477771.xyz",
+                "start": 0,
+                "url": "https://t.co/QY9nt2FrPI"
+              }
+            ]
+          }
+        },
+        "id": "1819327280482865152",
+        "location": "#7 0.4kV变压台",
+        "name": "燕檁",
+        "pinned_tweet_id": "2011048079143932386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009487619999322117/0IC52jbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 494,
+          "like_count": 77539,
+          "listed_count": 1,
+          "media_count": 1310,
+          "tweet_count": 12859
+        },
+        "url": "https://t.co/QY9nt2FrPI",
+        "username": "hzyj772",
+        "verified": true
+      }
+    ]
+  }
+}

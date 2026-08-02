@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2052355834206892441",
+    "created_at": "2026-05-07T11:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052355834206892441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dogyeah3376/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/dogyeah3376/status/2052330879004139612",
+          "start": 14,
+          "url": "https://t.co/kUZg2n5uAa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052355834206892441",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052330879004139612",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的魔爪呢 我老想喝魔爪呢 https://t.co/kUZg2n5uAa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2052355834206892441",
+        "created_at": "2026-05-07T11:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052355834206892441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dogyeah3376/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/dogyeah3376/status/2052330879004139612",
+              "start": 14,
+              "url": "https://t.co/kUZg2n5uAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052355834206892441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052330879004139612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的魔爪呢 我老想喝魔爪呢 https://t.co/kUZg2n5uAa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2052330879004139612",
+        "created_at": "2026-05-07T10:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052330879004139612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052330879004139612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂在pr药效里面听点音乐抽点烟喝点小甜水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 1144,
+          "like_count": 74597,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 5232
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

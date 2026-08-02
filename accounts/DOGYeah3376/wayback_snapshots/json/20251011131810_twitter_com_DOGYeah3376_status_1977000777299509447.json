@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1976992570120323168",
+    "created_at": "2025-10-11T13:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T14:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977000777299509447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977000777299509447",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976992570120323168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 余华的日常咋这么美味😋🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1976992551367589897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-wQDvbwAkjSzV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1976992553519251456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-wQLwbgAA-RZG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976992552147730432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-wQGpbwAAS6aq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1976992570120323168",
+        "created_at": "2025-10-11T13:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977000777299509447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977000777299509447",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976992570120323168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 余华的日常咋这么美味😋🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976992551367589897",
+            "3_1976992553519251456",
+            "3_1976992552147730432"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1976992570120323168",
+        "created_at": "2025-10-11T12:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T13:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976992570120323168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8ZMmx0BU8",
+              "end": 23,
+              "expanded_url": "https://x.com/yu_huacs/status/1976992570120323168/photo/1",
+              "media_key": "3_1976992551367589897",
+              "start": 0,
+              "url": "https://t.co/i8ZMmx0BU8"
+            },
+            {
+              "display_url": "pic.x.com/i8ZMmx0BU8",
+              "end": 23,
+              "expanded_url": "https://x.com/yu_huacs/status/1976992570120323168/photo/1",
+              "media_key": "3_1976992553519251456",
+              "start": 0,
+              "url": "https://t.co/i8ZMmx0BU8"
+            },
+            {
+              "display_url": "pic.x.com/i8ZMmx0BU8",
+              "end": 23,
+              "expanded_url": "https://x.com/yu_huacs/status/1976992570120323168/photo/1",
+              "media_key": "3_1976992552147730432",
+              "start": 0,
+              "url": "https://t.co/i8ZMmx0BU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976992570120323168",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/i8ZMmx0BU8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1975919647062163537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 969,
+          "like_count": 50783,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 3238
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "不知名的yu huacs \n友所有群体 最喜欢的自己也不知道\n   成分复杂 双相焦虑   精神分裂治疗中 overdose lain     公路车\n第二人格 @yuhuacs5570\n最好の兄弟 @Lizzy6315\n路边一条 @DOGYeah3376",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "Lizzy6315"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "DOGYeah3376"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "你的心里",
+        "name": "余华成霜",
+        "pinned_tweet_id": "1964136320097538290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962121961225793536/84wpXl9U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 995,
+          "like_count": 90978,
+          "listed_count": 10,
+          "media_count": 1675,
+          "tweet_count": 15198
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

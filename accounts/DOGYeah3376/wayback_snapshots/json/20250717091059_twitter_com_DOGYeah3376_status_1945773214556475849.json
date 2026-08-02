@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1945773214556475849",
+    "created_at": "2025-07-17T09:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T10:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945773214556475849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1599125227786608655",
+          "start": 3,
+          "username": "momoko8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945773214556475849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945422346501910675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momoko8964: 一旦成年了自杀就没有美感了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1945773214556475849",
+        "created_at": "2025-07-17T09:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945773214556475849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1599125227786608655",
+              "start": 3,
+              "username": "momoko8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945773214556475849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945422346501910675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momoko8964: 一旦成年了自杀就没有美感了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599125227786608655",
+        "conversation_id": "1945422346501910675",
+        "created_at": "2025-07-16T09:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T10:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945422346501910675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945422346501910675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2999,
+          "like_count": 62,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "一旦成年了自杀就没有美感了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx 自伤 od 互fo（没看到的戳我一下好了） 最好的妹妹@xiaoyieQAQ 谢谢你的关注😉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 416,
+          "like_count": 16423,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 539
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去 喜欢我就请给我点钱让我生活得更好",
+        "id": "1599125227786608655",
+        "location": "🚪88/288 私信只回口令",
+        "name": "苦桃",
+        "pinned_tweet_id": "1943964744614130102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943272056784609281/bNwKehyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6074,
+          "following_count": 293,
+          "like_count": 20789,
+          "listed_count": 7,
+          "media_count": 1164,
+          "tweet_count": 13857
+        },
+        "username": "momoko8964",
+        "verified": false
+      }
+    ]
+  }
+}

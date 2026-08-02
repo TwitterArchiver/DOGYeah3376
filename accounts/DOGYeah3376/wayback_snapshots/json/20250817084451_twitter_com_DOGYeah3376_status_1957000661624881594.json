@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1956722153556226545",
+    "created_at": "2025-08-17T08:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T09:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957000661624881594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "horizon_tem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957000661624881594",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956722153556226545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@horizon_tem 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1956722153556226545",
+        "created_at": "2025-08-17T08:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T09:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957000661624881594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "horizon_tem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957000661624881594",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956722153556226545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@horizon_tem 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1956722153556226545",
+        "created_at": "2025-08-16T14:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T15:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956722153556226545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956722153556226545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1455,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要一个全是抱抱，而且大家会相互发抱抱的评论区🥺🥺❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 736,
+          "like_count": 30193,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1472
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。同班同学 @KunaAkem1 逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "KunaAkem1"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1956972693502472609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946779629358043136/5W74ck-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4962,
+          "following_count": 2288,
+          "like_count": 39498,
+          "listed_count": 10,
+          "media_count": 803,
+          "tweet_count": 11986
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

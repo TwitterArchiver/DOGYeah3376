@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1954718460237468081",
+    "created_at": "2025-08-11T21:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T22:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955022573332468152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1612680283332952064",
+          "start": 0,
+          "username": "xcs03563104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955022573332468152",
+    "in_reply_to_user_id": "1612680283332952064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954855220346806699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcs03563104 抱抱你🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1954718460237468081",
+        "created_at": "2025-08-11T21:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T22:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955022573332468152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1612680283332952064",
+              "start": 0,
+              "username": "xcs03563104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955022573332468152",
+        "in_reply_to_user_id": "1612680283332952064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954855220346806699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcs03563104 抱抱你🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612680283332952064",
+        "conversation_id": "1954718460237468081",
+        "created_at": "2025-08-11T10:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T11:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954855220346806699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954855220346806699",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954718460237468081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 哦不抱抱你宝宝🫂🫂🫂……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 668,
+          "like_count": 26407,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1140
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T05:18:54.000Z",
+        "description": "中/ENG|個人口嗨用 低浮上|说话不过脑臭傻逼 友好一切",
+        "id": "1612680283332952064",
+        "location": "my art禁止轉載，保存，使用/嚴禁ai學習/不授權任何",
+        "name": "😱",
+        "pinned_tweet_id": "1915390556399882661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849329944582615040/Iwp9dN3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 359,
+          "like_count": 31381,
+          "listed_count": 2,
+          "media_count": 839,
+          "tweet_count": 6946
+        },
+        "username": "xcs03563104",
+        "verified": false
+      }
+    ]
+  }
+}

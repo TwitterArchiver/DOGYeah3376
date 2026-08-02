@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1943703204463518166",
+    "created_at": "2025-07-11T16:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T17:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943703204463518166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/drug_artist/status/1943538962775363975",
+          "start": 7,
+          "url": "https://t.co/4OEkhaokUb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943703204463518166",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943538962775363975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "祝一切安好🥺 https://t.co/4OEkhaokUb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943538947919089664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvjWYDXakAAN5ID.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1943703204463518166",
+        "created_at": "2025-07-11T16:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T17:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943703204463518166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/drug_artist/status/1943538962775363975",
+              "start": 7,
+              "url": "https://t.co/4OEkhaokUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943703204463518166",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943538962775363975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "祝一切安好🥺 https://t.co/4OEkhaokUb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943538947919089664"
+          ]
+        },
+        "author_id": "1893688350076542976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1943538962775363975",
+        "created_at": "2025-07-11T05:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T06:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943538962775363975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 51,
+              "id": "1793636329299066880",
+              "start": 41,
+              "username": "cuichuna7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNrvb5F21P",
+              "end": 87,
+              "expanded_url": "https://x.com/drug_artist/status/1943538962775363975/photo/1",
+              "media_key": "3_1943538947919089664",
+              "start": 64,
+              "url": "https://t.co/nNrvb5F21P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943538962775363975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 59589,
+          "like_count": 322,
+          "quote_count": 42,
+          "reply_count": 120,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n愿她在天堂能够安息\n逝者安息 一路走好 RIP\n死因:过量或连续使用LSD\n@cuichuna7在今天确定死亡了\n遗言: https://t.co/nNrvb5F21P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 347,
+          "like_count": 13816,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 452
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "药物百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/hLxQwrcSWN"
+              }
+            ]
+          }
+        },
+        "id": "1893688350076542976",
+        "location": "Xanax天国2mg省",
+        "name": "沐雨",
+        "pinned_tweet_id": "1928368769098788885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 147,
+          "like_count": 252,
+          "listed_count": 4,
+          "media_count": 18,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/hLxQwrcSWN",
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

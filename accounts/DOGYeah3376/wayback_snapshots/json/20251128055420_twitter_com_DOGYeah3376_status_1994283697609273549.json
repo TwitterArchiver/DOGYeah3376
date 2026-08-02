@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1993786037047578879",
+    "created_at": "2025-11-28T05:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T06:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994283697609273549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1671395907315830786",
+          "start": 0,
+          "username": "caicai233456778"
+        },
+        {
+          "end": 24,
+          "id": "1671821091738886144",
+          "start": 17,
+          "username": "_04x_d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994283697609273549",
+    "in_reply_to_user_id": "1671395907315830786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993886173631271174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caicai233456778 @_04x_d 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1993786037047578879",
+        "created_at": "2025-11-28T05:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994283697609273549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1671395907315830786",
+              "start": 0,
+              "username": "caicai233456778"
+            },
+            {
+              "end": 24,
+              "id": "1671821091738886144",
+              "start": 17,
+              "username": "_04x_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994283697609273549",
+        "in_reply_to_user_id": "1671395907315830786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993886173631271174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caicai233456778 @_04x_d 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671395907315830786",
+        "conversation_id": "1993786037047578879",
+        "created_at": "2025-11-27T03:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993886173631271174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1671821091738886144",
+              "start": 0,
+              "username": "_04x_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993886173631271174",
+        "in_reply_to_user_id": "1671821091738886144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 398,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993786037047578879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_04x_d 健全b和人对话的过程中带着一股子质疑一切的真实性的感觉，这仅仅只是因为他没见过也没经历过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 1080,
+          "like_count": 63202,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 4067
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-21T05:53:44.000Z",
+        "description": "可以叫我小菜",
+        "id": "1671395907315830786",
+        "location": "火星",
+        "name": "aaa菜鸟驿站",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922703552201228288/1oLw5zb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 39,
+          "like_count": 4843,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1818
+        },
+        "username": "caicai233456778",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T10:04:27.000Z",
+        "description": "251  @_j14q1              彼氏  @_x08_s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "_j14q1"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "username": "_x08_s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki71720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki71720",
+                "start": 0,
+                "url": "https://t.co/Ex198DVgSE"
+              }
+            ]
+          }
+        },
+        "id": "1671821091738886144",
+        "name": "病みゆき死体16",
+        "pinned_tweet_id": "1991184503633834046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993648027316408320/8SXWbEL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 213,
+          "like_count": 6766,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1349
+        },
+        "url": "https://t.co/Ex198DVgSE",
+        "username": "_04x_d",
+        "verified": false
+      }
+    ]
+  }
+}

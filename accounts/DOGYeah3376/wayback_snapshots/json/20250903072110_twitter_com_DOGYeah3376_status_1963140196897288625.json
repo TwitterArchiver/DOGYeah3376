@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1962487146096603594",
+    "created_at": "2025-09-03T07:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T08:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963140196897288625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1783437897963556865",
+          "start": 0,
+          "username": "Sllivo307"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963140196897288625",
+    "in_reply_to_user_id": "1783437897963556865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963127489934532827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sllivo307 抱抱qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1962487146096603594",
+        "created_at": "2025-09-03T07:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T08:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963140196897288625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1783437897963556865",
+              "start": 0,
+              "username": "Sllivo307"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963140196897288625",
+        "in_reply_to_user_id": "1783437897963556865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963127489934532827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sllivo307 抱抱qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783437897963556865",
+        "conversation_id": "1962487146096603594",
+        "created_at": "2025-09-03T06:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T07:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963127489934532827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963127489934532827",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962487146096603594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 抱抱(╥﹏╥)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 850,
+          "like_count": 35227,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2046
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T10:08:33.000Z",
+        "description": "智商有问题的别和我聊天我怕被传染成傻逼",
+        "id": "1783437897963556865",
+        "name": "卖萌被打ovo",
+        "pinned_tweet_id": "1783441692793635230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956342199442087936/hHYCMsx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 18,
+          "like_count": 92,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 211
+        },
+        "username": "Sllivo307",
+        "verified": false
+      }
+    ]
+  }
+}

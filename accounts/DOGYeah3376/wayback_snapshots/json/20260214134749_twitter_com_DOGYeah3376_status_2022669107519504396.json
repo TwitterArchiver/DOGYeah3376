@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2022669107519504396",
+    "created_at": "2026-02-14T13:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T14:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022669107519504396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1749512000340942848",
+          "start": 3,
+          "username": "jiu95061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022669107519504396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020951344237175051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiu95061: 又快过年了 只是表面上的“团聚”而已 压抑的要死 又要吵架谁跟谁都能吵起来无休止的唠叨指责辱骂甚至家暴…啊好累啊压力好大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2022669107519504396",
+        "created_at": "2026-02-14T13:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T14:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022669107519504396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1749512000340942848",
+              "start": 3,
+              "username": "jiu95061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022669107519504396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020951344237175051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiu95061: 又快过年了 只是表面上的“团聚”而已 压抑的要死 又要吵架谁跟谁都能吵起来无休止的唠叨指责辱骂甚至家暴…啊好累啊压力好大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749512000340942848",
+        "conversation_id": "2020951344237175051",
+        "created_at": "2026-02-09T20:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T21:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020951344237175051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020951344237175051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又快过年了 只是表面上的“团聚”而已 压抑的要死 又要吵架谁跟谁都能吵起来无休止的唠叨指责辱骂甚至家暴…啊好累啊压力好大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭 @Yyyyy_pog｜主人❤️  @opaoguonai1108｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "opaoguonai1108"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "2012168616947458541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 1097,
+          "like_count": 69455,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 4504
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T19:19:11.000Z",
+        "description": "🐰千花瞳👁️/intp/退学女高/会自伤/od/m/账号会发裸照 血图⚠️/接线下接视频/家里不给生活费我没饭吃\n🚪：52/66/88/188/66以上开朋友圈。\n💕想入的可以私我要赞赏码/支付宝口令也支持 谢谢爸爸\n谢谢关注喵\n❣️❣️❣️门槛or普通转账都是不退的！！！❣️❣️❣️❣️❣️",
+        "id": "1749512000340942848",
+        "location": "在你身边",
+        "name": "千花瞳🐹",
+        "pinned_tweet_id": "1816715704852447677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991257216759001090/xAL5LV_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 195,
+          "like_count": 1047,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1536
+        },
+        "username": "jiu95061",
+        "verified": false
+      }
+    ]
+  }
+}

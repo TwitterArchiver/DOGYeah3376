@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1949767937205612569",
+    "created_at": "2025-07-28T10:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T11:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949784335785369749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836667117896388608",
+          "start": 0,
+          "username": "henrik12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949784335785369749",
+    "in_reply_to_user_id": "1836667117896388608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949784013217894457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@henrik12138 诡秘不活了吗😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1949767937205612569",
+        "created_at": "2025-07-28T10:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T11:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949784335785369749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836667117896388608",
+              "start": 0,
+              "username": "henrik12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949784335785369749",
+        "in_reply_to_user_id": "1836667117896388608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949784013217894457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@henrik12138 诡秘不活了吗😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836667117896388608",
+        "conversation_id": "1949767937205612569",
+        "created_at": "2025-07-28T10:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T11:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949784013217894457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949784013217894457",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949779525509976463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 想戒掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 494,
+          "like_count": 19280,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 673
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T07:22:29.000Z",
+        "description": "叫我小唯就好 日常嗑药 打游戏  欢迎找我聊天",
+        "id": "1836667117896388608",
+        "name": "普瑞巴林单推人",
+        "pinned_tweet_id": "1943215825529242092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910713555806281734/oBUXKSoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 118,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 283
+        },
+        "username": "henrik12138",
+        "verified": false
+      }
+    ]
+  }
+}

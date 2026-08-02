@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1971031493565890593",
+    "created_at": "2025-09-25T01:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T02:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971031493565890593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1866458229527764992",
+          "start": 3,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971031493565890593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971026458492776801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Citrus_amara: od又有什么不好的呢，开发自己的大脑，让意识主宰神经...我的身体当然要随着我的心意变化...\n灵能飞升这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1971031493565890593",
+        "created_at": "2025-09-25T01:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T02:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971031493565890593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1866458229527764992",
+              "start": 3,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971031493565890593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971026458492776801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Citrus_amara: od又有什么不好的呢，开发自己的大脑，让意识主宰神经...我的身体当然要随着我的心意变化...\n灵能飞升这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1971026458492776801",
+        "created_at": "2025-09-25T01:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T02:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971026458492776801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971026458492776801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "od又有什么不好的呢，开发自己的大脑，让意识主宰神经...我的身体当然要随着我的心意变化...\n灵能飞升这一块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 941,
+          "like_count": 43743,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2703
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "odtwt"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 453,
+          "like_count": 7526,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 2833
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

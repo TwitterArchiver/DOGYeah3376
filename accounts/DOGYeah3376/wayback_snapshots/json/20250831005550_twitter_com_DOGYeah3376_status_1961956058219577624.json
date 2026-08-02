@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1961955933137015066",
+    "created_at": "2025-08-31T00:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T01:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961956058219577624"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1961956058219577624",
+    "in_reply_to_user_id": "1676500088221478912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961955933137015066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想吃pr80😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1961955933137015066",
+        "created_at": "2025-08-31T00:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T01:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961956058219577624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961956058219577624",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961955933137015066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想吃pr80😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1961955933137015066",
+        "created_at": "2025-08-31T00:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T01:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961955933137015066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyyyy_pog/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yyyyy_pog/status/1961955640735387943",
+              "start": 7,
+              "url": "https://t.co/hZpp2Q5pi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961955933137015066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961955640735387943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个也是我（ https://t.co/hZpp2Q5pi1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 835,
+          "like_count": 34808,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1971
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

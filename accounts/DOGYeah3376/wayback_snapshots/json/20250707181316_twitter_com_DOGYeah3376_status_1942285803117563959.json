@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1942224737184211142",
+    "created_at": "2025-07-07T18:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T19:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942285803117563959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "sxshuishuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942285803117563959",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942224737184211142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxshuishuimao 无性别厕所你崛起吧\n还能解决女生厕所排队 男生厕所空很多的问题😉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1942224732637536256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvQrGp7WoAAqir2.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1942224737184211142",
+        "created_at": "2025-07-07T18:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T19:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942285803117563959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "sxshuishuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942285803117563959",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942224737184211142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxshuishuimao 无性别厕所你崛起吧\n还能解决女生厕所排队 男生厕所空很多的问题😉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942224732637536256"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "1942224737184211142",
+        "created_at": "2025-07-07T14:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T15:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942224737184211142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5eqPdtqW5e",
+              "end": 35,
+              "expanded_url": "https://x.com/sxshuishuimao/status/1942224737184211142/photo/1",
+              "media_key": "3_1942224732637536256",
+              "start": 12,
+              "url": "https://t.co/5eqPdtqW5e"
+            },
+            {
+              "display_url": "x.com/sxshuishuimao/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/sxshuishuimao/status/1941478180826816942",
+              "start": 36,
+              "url": "https://t.co/IkcGcSwrsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942224737184211142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941478180826816942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这下见到了，全隔间厕所 https://t.co/5eqPdtqW5e https://t.co/IkcGcSwrsH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 303,
+          "like_count": 11284,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 389
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "07 ｜互fo｜INFP-t｜ HRT咨詢｜不吃肉不是素食主義者喵｜灌注水貓謝謝喵｜拼圖積木代拼｜最愛14歲｜是豪貓不o不圓不割不死｜提問箱鏈接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922116318553141248/h-kb4WKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 1012,
+          "like_count": 194,
+          "listed_count": 5,
+          "media_count": 1323,
+          "tweet_count": 7583
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "sxshuishuimao",
+        "verified": true
+      }
+    ]
+  }
+}

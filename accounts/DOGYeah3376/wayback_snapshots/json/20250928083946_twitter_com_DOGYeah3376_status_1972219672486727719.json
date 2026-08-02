@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1971889960690335744"
+      ],
+      "media_source_tweet_id": [
+        "1971890144686063951"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1972219672486727719",
+    "created_at": "2025-09-28T08:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T09:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972219672486727719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1355718864751964160",
+          "start": 3,
+          "username": "P1PEGraphics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5GpSmiwtWC",
+          "end": 41,
+          "expanded_url": "https://x.com/P1PEGraphics/status/1971890144686063951/video/1",
+          "media_key": "13_1971889960690335744",
+          "start": 18,
+          "url": "https://t.co/5GpSmiwtWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972219672486727719",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3523
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971890144686063951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @P1PEGraphics: https://t.co/5GpSmiwtWC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12708,
+        "height": 1470,
+        "media_key": "13_1971889960690335744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1971889960690335744/img/u-sjQ0jOWuW1EM06.jpg",
+        "public_metrics": {
+          "view_count": 260274
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971889960690335744/vid/avc1/776x720/0D7qPcr2rrVNDLAw.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971889960690335744/vid/avc1/1586x1470/7uY_6ZBrfcOGdZ9w.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971889960690335744/vid/avc1/388x360/K628nAj_XfSSyeMY.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971889960690335744/vid/avc1/290x270/B7ZjWIei4L6hZ8yu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1971889960690335744/pl/NwwNpx9LmjgR3zBO.m3u8?v=cfc"
+          }
+        ],
+        "width": 1586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971889960690335744"
+          ],
+          "media_source_tweet_id": [
+            "1971890144686063951"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1972219672486727719",
+        "created_at": "2025-09-28T08:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T09:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972219672486727719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1355718864751964160",
+              "start": 3,
+              "username": "P1PEGraphics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5GpSmiwtWC",
+              "end": 41,
+              "expanded_url": "https://x.com/P1PEGraphics/status/1971890144686063951/video/1",
+              "media_key": "13_1971889960690335744",
+              "start": 18,
+              "url": "https://t.co/5GpSmiwtWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972219672486727719",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3523
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971890144686063951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @P1PEGraphics: https://t.co/5GpSmiwtWC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971889960690335744"
+          ]
+        },
+        "author_id": "1355718864751964160",
+        "conversation_id": "1971890144686063951",
+        "created_at": "2025-09-27T10:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T11:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971890144686063951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5GpSmiwtWC",
+              "end": 23,
+              "expanded_url": "https://x.com/P1PEGraphics/status/1971890144686063951/video/1",
+              "media_key": "13_1971889960690335744",
+              "start": 0,
+              "url": "https://t.co/5GpSmiwtWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971890144686063951",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4777,
+          "impression_count": 590579,
+          "like_count": 37300,
+          "quote_count": 11,
+          "reply_count": 11,
+          "retweet_count": 3523
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5GpSmiwtWC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 946,
+          "like_count": 45487,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2836
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T03:25:46.000Z",
+        "description": "Illustrator / animator",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "piku.page/@p1pe",
+                "end": 23,
+                "expanded_url": "http://piku.page/@p1pe",
+                "start": 0,
+                "url": "https://t.co/4thosEJm2p"
+              }
+            ]
+          }
+        },
+        "id": "1355718864751964160",
+        "name": "P1PE",
+        "pinned_tweet_id": "1851977869305745682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885850680541511680/cYCdxyVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26855,
+          "following_count": 87,
+          "like_count": 25020,
+          "listed_count": 170,
+          "media_count": 415,
+          "tweet_count": 1463
+        },
+        "url": "https://t.co/4thosEJm2p",
+        "username": "P1PEGraphics",
+        "verified": true
+      }
+    ]
+  }
+}

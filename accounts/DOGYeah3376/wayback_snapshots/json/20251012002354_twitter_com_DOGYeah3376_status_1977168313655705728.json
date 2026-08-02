@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1977110150805962781",
+    "created_at": "2025-10-12T00:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T01:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977168313655705728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1920501952112402432",
+          "start": 0,
+          "username": "zhzizhzizj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977168313655705728",
+    "in_reply_to_user_id": "1920501952112402432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977110150805962781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhzizhzizj 神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977110132153815040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3AbMKTakAAS_fT.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1977110150805962781",
+        "created_at": "2025-10-12T00:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T01:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977168313655705728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920501952112402432",
+              "start": 0,
+              "username": "zhzizhzizj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977168313655705728",
+        "in_reply_to_user_id": "1920501952112402432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977110150805962781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhzizhzizj 神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977110132153815040"
+          ]
+        },
+        "author_id": "1920501952112402432",
+        "conversation_id": "1977110150805962781",
+        "created_at": "2025-10-11T20:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T21:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977110150805962781"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 0,
+              "normalized_text": "娥",
+              "probability": 0.4803,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPwNUX3rKI",
+              "end": 25,
+              "expanded_url": "https://x.com/zhzizhzizj/status/1977110150805962781/photo/1",
+              "media_key": "3_1977110132153815040",
+              "start": 2,
+              "url": "https://t.co/hPwNUX3rKI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977110150805962781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "娥 https://t.co/hPwNUX3rKI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1977003730294956431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 972,
+          "like_count": 50860,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 3264
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T15:32:10.000Z",
+        "description": "活的好惨",
+        "id": "1920501952112402432",
+        "name": "不管我怎么想都是你妈死了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974331348308353024/lBaZwOZv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 44,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 218
+        },
+        "username": "zhzizhzizj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1985192638811873422",
+    "created_at": "2025-11-03T03:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T04:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985192638811873422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1784624918484934656",
+          "start": 3,
+          "username": "meowmeowmeow0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985192638811873422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 297
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984292284851216810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meowmeowmeow0v0: 你对我的占有欲窥探欲控制欲太低了\n我真的很失望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1985192638811873422",
+        "created_at": "2025-11-03T03:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T04:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985192638811873422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1784624918484934656",
+              "start": 3,
+              "username": "meowmeowmeow0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985192638811873422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984292284851216810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meowmeowmeow0v0: 你对我的占有欲窥探欲控制欲太低了\n我真的很失望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784624918484934656",
+        "conversation_id": "1984292284851216810",
+        "created_at": "2025-10-31T16:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984292284851216810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984292284851216810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 242079,
+          "like_count": 1698,
+          "quote_count": 18,
+          "reply_count": 28,
+          "retweet_count": 297
+        },
+        "reply_settings": "everyone",
+        "text": "你对我的占有欲窥探欲控制欲太低了\n我真的很失望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1039,
+          "like_count": 57923,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 3813
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T16:45:21.000Z",
+        "description": "^ ^我要稳稳的幸福^ ^",
+        "id": "1784624918484934656",
+        "location": "🚪",
+        "name": "小泡芙",
+        "pinned_tweet_id": "1985050081318560165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784625145946198016/oVr17f0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29166,
+          "following_count": 58,
+          "like_count": 10092,
+          "listed_count": 62,
+          "media_count": 144,
+          "tweet_count": 2547
+        },
+        "username": "meowmeowmeow0v0",
+        "verified": false
+      }
+    ]
+  }
+}

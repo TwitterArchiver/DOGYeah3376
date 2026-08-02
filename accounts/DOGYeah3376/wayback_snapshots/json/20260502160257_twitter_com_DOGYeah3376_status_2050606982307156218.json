@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050606974249947136"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050606982307156218",
+    "created_at": "2026-05-02T16:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T17:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050606982307156218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qbRtXDgVx9",
+          "end": 29,
+          "expanded_url": "https://x.com/DOGYeah3376/status/2050606982307156218/photo/1",
+          "media_key": "3_2050606974249947136",
+          "start": 6,
+          "url": "https://t.co/qbRtXDgVx9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050606982307156218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的新壁纸 https://t.co/qbRtXDgVx9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050606974249947136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHU4LbIbUAACBnT.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050606974249947136"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050606982307156218",
+        "created_at": "2026-05-02T16:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050606982307156218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbRtXDgVx9",
+              "end": 29,
+              "expanded_url": "https://x.com/DOGYeah3376/status/2050606982307156218/photo/1",
+              "media_key": "3_2050606974249947136",
+              "start": 6,
+              "url": "https://t.co/qbRtXDgVx9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050606982307156218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的新壁纸 https://t.co/qbRtXDgVx9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 1148,
+          "like_count": 74192,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 5187
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

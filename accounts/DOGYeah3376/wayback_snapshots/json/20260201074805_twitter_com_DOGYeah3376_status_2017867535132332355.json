@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2017867535132332355",
+    "created_at": "2026-02-01T07:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T08:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017867535132332355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896175390005342208",
+          "start": 3,
+          "username": "Chufeinya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017867535132332355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017581360836448473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chufeinya: 被x教洗脑的孩子们的几个特征，大家务必提高警惕⚠️⚠️⚠️\n1喜欢喝彩色罐装饮料🥤\n2经常吃五颜六色的小药片💊🍥\n3不爱上学🏫\n4手机上有个黑白色的叉❎\n5变得厌男，不喜欢男的🤮👲🏻\n6沉默寡言🤭\n7隐私意识变强，经常锁房门🔓\n8不爱吃父母做的菜🤢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2017867535132332355",
+        "created_at": "2026-02-01T07:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T08:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017867535132332355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896175390005342208",
+              "start": 3,
+              "username": "Chufeinya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017867535132332355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017581360836448473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chufeinya: 被x教洗脑的孩子们的几个特征，大家务必提高警惕⚠️⚠️⚠️\n1喜欢喝彩色罐装饮料🥤\n2经常吃五颜六色的小药片💊🍥\n3不爱上学🏫\n4手机上有个黑白色的叉❎\n5变得厌男，不喜欢男的🤮👲🏻\n6沉默寡言🤭\n7隐私意识变强，经常锁房门🔓\n8不爱吃父母做的菜🤢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896175390005342208",
+        "conversation_id": "2017581360836448473",
+        "created_at": "2026-01-31T12:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017581360836448473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017581360836448473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6870,
+          "like_count": 124,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "被x教洗脑的孩子们的几个特征，大家务必提高警惕⚠️⚠️⚠️\n1喜欢喝彩色罐装饮料🥤\n2经常吃五颜六色的小药片💊🍥\n3不爱上学🏫\n4手机上有个黑白色的叉❎\n5变得厌男，不喜欢男的🤮👲🏻\n6沉默寡言🤭\n7隐私意识变强，经常锁房门🔓\n8不爱吃父母做的菜🤢🍲\n9房间里有消毒用品和刀具🔪\n10聊天记录里有「姐姐」💁🏻‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭 @Yyyyy_pog｜主人❤️  @opaoguonai1108｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "opaoguonai1108"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "2012168616947458541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 1090,
+          "like_count": 68922,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4409
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "em chuyển/lesbian | 连夜梦觉 Liên Dạ Mộng Giác | 我那未曾谋面的姐姐因我逝，我要替她活下去😖 | @Chufeinyax",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Chufeinyax"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "琅琊",
+        "name": "初菲",
+        "pinned_tweet_id": "2017581360836448473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943719684911845376/4TIxDZo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 1822,
+          "like_count": 16723,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 1268
+        },
+        "username": "Chufeinya",
+        "verified": false
+      }
+    ]
+  }
+}

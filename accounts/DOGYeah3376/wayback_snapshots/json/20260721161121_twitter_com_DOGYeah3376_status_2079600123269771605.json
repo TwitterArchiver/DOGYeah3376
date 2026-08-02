@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078849672500916224"
+      ],
+      "media_source_tweet_id": [
+        "2078849681166327815"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "2079600123269771605",
+    "created_at": "2026-07-21T16:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T17:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079600123269771605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2069279367721799680",
+          "start": 3,
+          "username": "GweiloX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sTsMaIqi2v",
+          "end": 64,
+          "expanded_url": "https://x.com/GweiloX/status/2078849681166327815/photo/1",
+          "media_key": "3_2078849672500916224",
+          "start": 41,
+          "url": "https://t.co/sTsMaIqi2v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079600123269771605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 261
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078849681166327815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GweiloX: 香港人這一次還能幫你們說出去，以後未必能啦。且珍惜吧。 https://t.co/sTsMaIqi2v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1594,
+        "media_key": "3_2078849672500916224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmOw07asAAvu7t.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078849672500916224"
+          ]
+        },
+        "author_id": "2069279367721799680",
+        "conversation_id": "2078849681166327815",
+        "created_at": "2026-07-19T14:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078849681166327815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sTsMaIqi2v",
+              "end": 51,
+              "expanded_url": "https://x.com/GweiloX/status/2078849681166327815/photo/1",
+              "media_key": "3_2078849672500916224",
+              "start": 28,
+              "url": "https://t.co/sTsMaIqi2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078849681166327815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 49622,
+          "like_count": 2655,
+          "quote_count": 4,
+          "reply_count": 64,
+          "retweet_count": 261
+        },
+        "reply_settings": "everyone",
+        "text": "香港人這一次還能幫你們說出去，以後未必能啦。且珍惜吧。 https://t.co/sTsMaIqi2v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078849672500916224"
+          ],
+          "media_source_tweet_id": [
+            "2078849681166327815"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "2079600123269771605",
+        "created_at": "2026-07-21T16:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079600123269771605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069279367721799680",
+              "start": 3,
+              "username": "GweiloX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sTsMaIqi2v",
+              "end": 64,
+              "expanded_url": "https://x.com/GweiloX/status/2078849681166327815/photo/1",
+              "media_key": "3_2078849672500916224",
+              "start": 41,
+              "url": "https://t.co/sTsMaIqi2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079600123269771605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 261
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078849681166327815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GweiloX: 香港人這一次還能幫你們說出去，以後未必能啦。且珍惜吧。 https://t.co/sTsMaIqi2v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @YyyyyIsntPog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "YyyyyIsntPog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 1109,
+          "like_count": 75855,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 5369
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T04:41:07.000Z",
+        "description": "戰鬥力超強",
+        "id": "2069279367721799680",
+        "name": "Samson",
+        "pinned_tweet_id": "2077092419980677209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078418695643430912/p_M-XKRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 103,
+          "like_count": 715,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "GweiloX",
+        "verified": false
+      }
+    ]
+  }
+}

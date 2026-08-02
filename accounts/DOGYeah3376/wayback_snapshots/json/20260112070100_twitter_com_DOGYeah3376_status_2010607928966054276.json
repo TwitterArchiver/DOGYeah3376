@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010203341796659200"
+      ],
+      "media_source_tweet_id": [
+        "2010259885808857446"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "2010607928966054276",
+    "created_at": "2026-01-12T07:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T08:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010607928966054276"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "Cannabis",
+          "probability": 0.4735,
+          "start": 30,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557420747928256512",
+          "start": 3,
+          "username": "_StonersRUs_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fN4f4QDUmn",
+          "end": 62,
+          "expanded_url": "https://x.com/_StonersRUs_/status/2010259885808857446/photo/1",
+          "media_key": "3_2010203341796659200",
+          "start": 39,
+          "url": "https://t.co/fN4f4QDUmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010607928966054276",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6883
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010259885808857446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_StonersRUs_: Alcohol Vs. Cannabis https://t.co/fN4f4QDUmn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 348,
+        "media_key": "3_2010203341796659200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WtSfIX0AAcO6r.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010203341796659200"
+          ],
+          "media_source_tweet_id": [
+            "2010259885808857446"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "2010607928966054276",
+        "created_at": "2026-01-12T07:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010607928966054276"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Cannabis",
+              "probability": 0.4735,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557420747928256512",
+              "start": 3,
+              "username": "_StonersRUs_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fN4f4QDUmn",
+              "end": 62,
+              "expanded_url": "https://x.com/_StonersRUs_/status/2010259885808857446/photo/1",
+              "media_key": "3_2010203341796659200",
+              "start": 39,
+              "url": "https://t.co/fN4f4QDUmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010607928966054276",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6883
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010259885808857446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_StonersRUs_: Alcohol Vs. Cannabis https://t.co/fN4f4QDUmn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010203341796659200"
+          ]
+        },
+        "author_id": "1557420747928256512",
+        "conversation_id": "2010259885808857446",
+        "created_at": "2026-01-11T07:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010259885808857446"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Cannabis",
+              "probability": 0.4353,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fN4f4QDUmn",
+              "end": 44,
+              "expanded_url": "https://x.com/_StonersRUs_/status/2010259885808857446/photo/1",
+              "media_key": "3_2010203341796659200",
+              "start": 21,
+              "url": "https://t.co/fN4f4QDUmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010259885808857446",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4160,
+          "impression_count": 2223445,
+          "like_count": 92281,
+          "quote_count": 390,
+          "reply_count": 408,
+          "retweet_count": 6883
+        },
+        "reply_settings": "everyone",
+        "text": "Alcohol Vs. Cannabis https://t.co/fN4f4QDUmn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 1077,
+          "like_count": 66974,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 4219
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T17:37:06.000Z",
+        "description": "#1 Cannabis Community 🍃 Bringing stoners together! Hosting Monthly Giveaways + Subscriber Giveaways 🎁 Check Out Our Official Links 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/stonersrus",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/stonersrus",
+                "start": 0,
+                "url": "https://t.co/T7TR8ieMIv"
+              }
+            ]
+          }
+        },
+        "id": "1557420747928256512",
+        "location": "OUR LINKS  👉",
+        "name": "STONERS R US 🍃",
+        "pinned_tweet_id": "2010259885808857446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914166839728332800/nOztDpNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425004,
+          "following_count": 374,
+          "like_count": 183983,
+          "listed_count": 288,
+          "media_count": 8101,
+          "tweet_count": 48801
+        },
+        "url": "https://t.co/T7TR8ieMIv",
+        "username": "_StonersRUs_",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "AE",
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

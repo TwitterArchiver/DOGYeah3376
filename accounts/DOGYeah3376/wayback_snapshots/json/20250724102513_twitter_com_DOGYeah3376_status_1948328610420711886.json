@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1947143245190062127",
+    "created_at": "2025-07-24T10:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T11:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948328610420711886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1667385380692439040",
+          "start": 0,
+          "username": "iuu_0_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948328610420711886",
+    "in_reply_to_user_id": "1667385380692439040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947293318427390306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iuu_0_o 不吃了 吃了20t被家里人带到icu了😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1947143245190062127",
+        "created_at": "2025-07-24T10:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T11:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948328610420711886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1667385380692439040",
+              "start": 0,
+              "username": "iuu_0_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948328610420711886",
+        "in_reply_to_user_id": "1667385380692439040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947293318427390306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iuu_0_o 不吃了 吃了20t被家里人带到icu了😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667385380692439040",
+        "conversation_id": "1947143245190062127",
+        "created_at": "2025-07-21T13:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T14:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947293318427390306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947293318427390306",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947143245190062127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 别吃。我第一次就吃了6t吐惨了，垃圾药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "是一只可爱的小狗呀｜15岁无证含糖mtx｜含糖2025.6.4｜深柜｜自伤 od｜互fo｜买糖找@pattifly｜最好的妹妹@xiaoyieQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "pattifly"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 458,
+          "like_count": 18266,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 620
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T04:17:20.000Z",
+        "description": "🚪52｜自伤｜od｜精神状态不稳定哈",
+        "id": "1667385380692439040",
+        "name": "pr",
+        "pinned_tweet_id": "1898735897979568278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918683932041846784/LJcfKBn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 118,
+          "like_count": 812,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 359
+        },
+        "username": "iuu_0_o",
+        "verified": false
+      }
+    ]
+  }
+}

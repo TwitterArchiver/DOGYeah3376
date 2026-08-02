@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2042545415434703179",
+    "created_at": "2026-04-10T10:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T11:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042545549002576068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889313848668090368",
+          "start": 0,
+          "username": "Yyyyy_pog"
+        },
+        {
+          "end": 23,
+          "id": "1981959741141377024",
+          "start": 11,
+          "username": "xshxXXXXXXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042545549002576068",
+    "in_reply_to_user_id": "1889313848668090368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042545415434703179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yyyyy_pog @xshxXXXXXXX ㊗️99呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2042545401694425089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiUOJGakAEeIUr.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2042545415434703179",
+        "created_at": "2026-04-10T10:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042545549002576068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889313848668090368",
+              "start": 0,
+              "username": "Yyyyy_pog"
+            },
+            {
+              "end": 23,
+              "id": "1981959741141377024",
+              "start": 11,
+              "username": "xshxXXXXXXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042545549002576068",
+        "in_reply_to_user_id": "1889313848668090368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042545415434703179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yyyyy_pog @xshxXXXXXXX ㊗️99呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042545401694425089"
+          ]
+        },
+        "author_id": "1889313848668090368",
+        "conversation_id": "2042545415434703179",
+        "created_at": "2026-04-10T10:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042545415434703179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1981959741141377024",
+              "start": 12,
+              "username": "xshxXXXXXXX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L607gXHd4Q",
+              "end": 48,
+              "expanded_url": "https://x.com/Yyyyy_pog/status/2042545415434703179/photo/1",
+              "media_key": "3_2042545401694425089",
+              "start": 25,
+              "url": "https://t.co/L607gXHd4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042545415434703179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "获得了恋人赠送的千纸鹤。@xshxXXXXXXX https://t.co/L607gXHd4Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2039536218569052226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1124,
+          "like_count": 71969,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 4973
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜ 多意识体｜ 彩虹系统｜号主是目前的主导y总｜身体09 ｜我o我割｜我有精神病｜enby｜可爱小狗@DOGYeah3376 ｜自家狗兼恋人@xshxXXXXXXX ｜妹妹@suikachanqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "DOGYeah3376"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "xshxXXXXXXX"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "suikachanqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "Yyyyy🎗️",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040964718878433280/anUmYhbX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 217,
+          "like_count": 40383,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 3535
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "Yyyyy_pog",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T05:43:56.000Z",
+        "description": "叫我sh就好！｜16岁｜大概是mtx｜住宿生｜完全音游玩家！｜音游龄2年｜phigros16.14｜日pjsk无判32fc｜4kreg5｜dfc9dan后光｜mai12834｜偶尔od｜主人（也是恋人）世界第一！！^^@Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 109,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          }
+        },
+        "id": "1981959741141377024",
+        "location": "y总床上ᗜ𖥦ᗜ",
+        "name": "sh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981960126694121472/z4ZewZtI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 31,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "xshxXXXXXXX",
+        "verified": false
+      }
+    ]
+  }
+}

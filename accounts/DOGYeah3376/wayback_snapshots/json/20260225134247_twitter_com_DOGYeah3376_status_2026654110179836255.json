@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2026535649889890410",
+    "created_at": "2026-02-25T13:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T14:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026654110179836255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2024754918494756864",
+          "start": 0,
+          "username": "Xusinan3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026654110179836255",
+    "in_reply_to_user_id": "2024754918494756864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026627333055197692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xusinan3 晶哥别吊了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026627323240534016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAG0B3aUAAXngW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2026535649889890410",
+        "created_at": "2026-02-25T13:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T14:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026654110179836255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2024754918494756864",
+              "start": 0,
+              "username": "Xusinan3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026654110179836255",
+        "in_reply_to_user_id": "2024754918494756864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026627333055197692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xusinan3 晶哥别吊了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026627323240534016"
+          ]
+        },
+        "author_id": "2024754918494756864",
+        "conversation_id": "2026535649889890410",
+        "created_at": "2026-02-25T11:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026627333055197692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wiHIHHrEEP",
+              "end": 41,
+              "expanded_url": "https://x.com/Xusinan3/status/2026627333055197692/photo/1",
+              "media_key": "3_2026627323240534016",
+              "start": 18,
+              "url": "https://t.co/wiHIHHrEEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026627333055197692",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026535649889890410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 那我呢… https://t.co/wiHIHHrEEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭 @Yyyyy_pog｜主人❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 111,
+                "start": 96,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "2026128260955042011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 1122,
+          "like_count": 70050,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 4603
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T07:56:18.000Z",
+        "description": "自己是个精神病人，出各种精神类药物，精二类及以下的可以快递，精一需要我去医院开，然后面交，一手货源价格便宜，欢迎咨询各种问题",
+        "id": "2024754918494756864",
+        "name": "思诺思、艾司唑仑（各种精二类）",
+        "pinned_tweet_id": "2025603555286204875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026586914627923968/wqtE4P-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 32
+        },
+        "username": "Xusinan3",
+        "verified": false
+      }
+    ]
+  }
+}

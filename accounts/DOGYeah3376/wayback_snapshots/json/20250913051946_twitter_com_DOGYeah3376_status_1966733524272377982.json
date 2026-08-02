@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1966709592244846632",
+    "created_at": "2025-09-13T05:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T06:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966733524272377982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889313848668090368",
+          "start": 0,
+          "username": "Yyyyy_pog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966733524272377982",
+    "in_reply_to_user_id": "1889313848668090368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966732649453715620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yyyyy_pog 好 小皮会接受权威的治疗的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1966709592244846632",
+        "created_at": "2025-09-13T05:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T06:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966733524272377982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889313848668090368",
+              "start": 0,
+              "username": "Yyyyy_pog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966733524272377982",
+        "in_reply_to_user_id": "1889313848668090368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966732649453715620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yyyyy_pog 好 小皮会接受权威的治疗的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "1966709592244846632",
+        "created_at": "2025-09-13T05:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T06:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966732649453715620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966732649453715620",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966731375509397795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 ……其实你不应该对我抱如此大的希望，认为我是你治疗好自己的途径。我只能提供一些帮助，但光靠我是完全不够的，至少在现阶段是这样的。专业的帮助是必须的，把治愈你寄托在我身上是会失望的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 884,
+          "like_count": 38313,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 2359
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜ 多意识体｜ 彩虹系统｜号主是目前的主导y总｜身体09 ｜我o我割｜我有精神病｜友跨｜非二元性别",
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "Yyyyy🎗️",
+        "pinned_tweet_id": "1958371694600667167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940355956900065281/iA07LVMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 105,
+          "like_count": 17104,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1511
+        },
+        "username": "Yyyyy_pog",
+        "verified": false
+      }
+    ]
+  }
+}

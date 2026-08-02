@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1942275285413486842",
+    "created_at": "2025-07-08T16:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T17:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942617582978359426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813144373820813312",
+          "start": 0,
+          "username": "laoda63870"
+        },
+        {
+          "end": 24,
+          "id": "1909553877739085825",
+          "start": 12,
+          "username": "TOKYOheshan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942617582978359426",
+    "in_reply_to_user_id": "1813144373820813312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942538447723307245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laoda63870 @TOKYOheshan 生理不适了🆘"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45975,
+        "height": 708,
+        "media_key": "7_1942538375053139968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1942538375053139968/pu/img/RKEIOAaNDR5yOeJd.jpg",
+        "public_metrics": {
+          "view_count": 691
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942538375053139968/pu/vid/avc1/320x472/1lkWZRt25019dOBi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942538375053139968/pu/vid/avc1/480x708/VH18fr55xoDj7QXw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1942538375053139968/pu/pl/s7I7ZwfzYH4B036k.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1942275285413486842",
+        "created_at": "2025-07-08T16:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T17:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942617582978359426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813144373820813312",
+              "start": 0,
+              "username": "laoda63870"
+            },
+            {
+              "end": 24,
+              "id": "1909553877739085825",
+              "start": 12,
+              "username": "TOKYOheshan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942617582978359426",
+        "in_reply_to_user_id": "1813144373820813312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942538447723307245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laoda63870 @TOKYOheshan 生理不适了🆘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1942538375053139968"
+          ]
+        },
+        "author_id": "1813144373820813312",
+        "conversation_id": "1942275285413486842",
+        "created_at": "2025-07-08T10:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T11:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942538447723307245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909553877739085825",
+              "start": 0,
+              "username": "TOKYOheshan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3iY1wC5zWz",
+              "end": 42,
+              "expanded_url": "https://x.com/laoda63870/status/1942538447723307245/video/1",
+              "media_key": "7_1942538375053139968",
+              "start": 19,
+              "url": "https://t.co/3iY1wC5zWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942538447723307245",
+        "in_reply_to_user_id": "1909553877739085825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1313,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942275285413486842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOKYOheshan 原视频拿去 https://t.co/3iY1wC5zWz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 311,
+          "like_count": 11963,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 400
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T09:31:43.000Z",
+        "description": "00后文科男//不搞H//鉴证//喜欢历史，政治和BA//支持:民众党(白营)，国民党(蓝营)//反对：支黑，民进党，极端粉红//信仰：三民主义//互fo//最喜欢去的地方：中國臺灣（臺北）//六四态度:中立//日奈厨💜//天下為公，人民万岁// 不自由，毋宁死",
+        "id": "1813144373820813312",
+        "location": "Central & Western District",
+        "name": "saito",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883498956946374656/gkAw0NNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 680,
+          "like_count": 4980,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 4842
+        },
+        "username": "laoda63870",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "互联网冲浪找史炒作高手 07无药男娘 IP🇯🇵日本東京 成分复杂：键政｜抽象｜二次元｜神友｜自由民主｜无神论｜LGBTQ🏳️‍🌈｜女裝｜舞萌痴｜永雏塔菲｜東雪蓮 ｜进击的巨人｜MYGO｜平常会更新日常或抽象爱国TV 互fo扩列请私信 欢迎线下找我玩 逃生舱:@heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 129,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象耶格尔",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942513800084594688/rlG9AqcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4744,
+          "following_count": 542,
+          "like_count": 620,
+          "listed_count": 10,
+          "media_count": 247,
+          "tweet_count": 422
+        },
+        "username": "TOKYOheshan",
+        "verified": true
+      }
+    ]
+  }
+}

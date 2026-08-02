@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1944304182649139547",
+    "created_at": "2025-07-17T03:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T04:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945685256046346522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1913309341735956480",
+          "start": 0,
+          "username": "lnzhngrn2487771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945685256046346522",
+    "in_reply_to_user_id": "1913309341735956480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945679663558525418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnzhngrn2487771 普瑞巴林"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1944304182649139547",
+        "created_at": "2025-07-17T03:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T04:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945685256046346522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1913309341735956480",
+              "start": 0,
+              "username": "lnzhngrn2487771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945685256046346522",
+        "in_reply_to_user_id": "1913309341735956480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945679663558525418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnzhngrn2487771 普瑞巴林"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913309341735956480",
+        "conversation_id": "1944304182649139547",
+        "created_at": "2025-07-17T02:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T03:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945679663558525418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945679663558525418",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945670320922538072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 pr是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx 自伤 od 互fo（没看到的戳我一下好了） 最好的妹妹@xiaoyieQAQ 谢谢你的关注😉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 410,
+          "like_count": 16290,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 533
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T19:11:33.000Z",
+        "description": "药娘？｜玩 战争雷霆，钢铁雄心4，KARDS｜171cm 58kg｜无证含糖｜生日2010.11.28｜互fo",
+        "id": "1913309341735956480",
+        "location": "云南昆明",
+        "name": "营养要均衡🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945340147651817472/IMAUgUVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 50,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 27
+        },
+        "username": "lnzhngrn2487771",
+        "verified": false
+      }
+    ]
+  }
+}

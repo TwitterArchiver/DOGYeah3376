@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038969745706512384"
+      ],
+      "media_source_tweet_id": [
+        "2038969762139845053"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2038970820845002991",
+    "created_at": "2026-03-31T13:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T14:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038970820845002991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1442726671841312769",
+          "start": 3,
+          "username": "eziral778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yguQ4HwSP2",
+          "end": 44,
+          "expanded_url": "https://x.com/eziral778/status/2038969762139845053/photo/1",
+          "media_key": "3_2038969745706512384",
+          "start": 21,
+          "url": "https://t.co/yguQ4HwSP2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038970820845002991",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038969762139845053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eziral778: 雷霆新发色 https://t.co/yguQ4HwSP2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2038969745706512384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvgLkia8AAMILr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038969745706512384"
+          ],
+          "media_source_tweet_id": [
+            "2038969762139845053"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2038970820845002991",
+        "created_at": "2026-03-31T13:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038970820845002991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1442726671841312769",
+              "start": 3,
+              "username": "eziral778"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yguQ4HwSP2",
+              "end": 44,
+              "expanded_url": "https://x.com/eziral778/status/2038969762139845053/photo/1",
+              "media_key": "3_2038969745706512384",
+              "start": 21,
+              "url": "https://t.co/yguQ4HwSP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038970820845002991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038969762139845053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eziral778: 雷霆新发色 https://t.co/yguQ4HwSP2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038969745706512384"
+          ]
+        },
+        "author_id": "1442726671841312769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2038969762139845053",
+        "created_at": "2026-03-31T13:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038969762139845053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yguQ4HwSP2",
+              "end": 29,
+              "expanded_url": "https://x.com/eziral778/status/2038969762139845053/photo/1",
+              "media_key": "3_2038969745706512384",
+              "start": 6,
+              "url": "https://t.co/yguQ4HwSP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038969762139845053",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "雷霆新发色 https://t.co/yguQ4HwSP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2031387789141717030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 1126,
+          "like_count": 71269,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 4870
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T05:43:55.000Z",
+        "description": "这里什么也没有",
+        "id": "1442726671841312769",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "念念",
+        "pinned_tweet_id": "2024363219876528515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850224171013521408/fHAVWYAJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 625,
+          "like_count": 2136,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1594
+        },
+        "username": "eziral778",
+        "verified": false
+      }
+    ]
+  }
+}

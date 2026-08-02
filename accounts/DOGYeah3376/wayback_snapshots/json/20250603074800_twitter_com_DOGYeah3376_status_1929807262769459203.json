@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1929743793894707331",
+    "created_at": "2025-06-03T07:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T08:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929807262769459203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870022570353012736",
+          "start": 0,
+          "username": "kukudejiaxibei"
+        },
+        {
+          "end": 27,
+          "id": "1740248854975696896",
+          "start": 16,
+          "username": "Illusory_P"
+        },
+        {
+          "end": 44,
+          "id": "1782803139554582528",
+          "start": 28,
+          "username": "mark55264249396"
+        },
+        {
+          "end": 57,
+          "id": "1775233891026206721",
+          "start": 45,
+          "username": "niaoniaomao"
+        },
+        {
+          "end": 72,
+          "id": "1929104916565622784",
+          "start": 58,
+          "username": "overdosestill"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929807262769459203",
+    "in_reply_to_user_id": "1870022570353012736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929743793894707331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukudejiaxibei @Illusory_P @mark55264249396 @niaoniaomao @overdosestill 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1929743790560235522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsfTwNfb0AI_fLn.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1929743793894707331",
+        "created_at": "2025-06-03T07:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T08:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929807262769459203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870022570353012736",
+              "start": 0,
+              "username": "kukudejiaxibei"
+            },
+            {
+              "end": 27,
+              "id": "1740248854975696896",
+              "start": 16,
+              "username": "Illusory_P"
+            },
+            {
+              "end": 44,
+              "id": "1782803139554582528",
+              "start": 28,
+              "username": "mark55264249396"
+            },
+            {
+              "end": 57,
+              "id": "1775233891026206721",
+              "start": 45,
+              "username": "niaoniaomao"
+            },
+            {
+              "end": 72,
+              "id": "1929104916565622784",
+              "start": 58,
+              "username": "overdosestill"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929807262769459203",
+        "in_reply_to_user_id": "1870022570353012736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929743793894707331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukudejiaxibei @Illusory_P @mark55264249396 @niaoniaomao @overdosestill 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929743790560235522"
+          ]
+        },
+        "author_id": "1870022570353012736",
+        "conversation_id": "1929743793894707331",
+        "created_at": "2025-06-03T03:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T04:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929743793894707331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1676500088221478912",
+              "start": 22,
+              "username": "DOGYeah3376"
+            },
+            {
+              "end": 46,
+              "id": "1740248854975696896",
+              "start": 35,
+              "username": "Illusory_P"
+            },
+            {
+              "end": 69,
+              "id": "1782803139554582528",
+              "start": 53,
+              "username": "mark55264249396"
+            },
+            {
+              "end": 88,
+              "id": "1775233891026206721",
+              "start": 76,
+              "username": "niaoniaomao"
+            },
+            {
+              "end": 103,
+              "id": "1929104916565622784",
+              "start": 89,
+              "username": "overdosestill"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinityweet.me/family-tree?la…",
+              "end": 131,
+              "expanded_url": "https://infinityweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1927715987446722560/X7pHj17f?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1927715987446722560/X7pHj17f?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinityweet.me/family-tree?lang=zh",
+              "url": "https://t.co/38r2m20lVi"
+            },
+            {
+              "display_url": "pic.x.com/3llbBOwGbN",
+              "end": 155,
+              "expanded_url": "https://x.com/kukudejiaxibei/status/1929743793894707331/photo/1",
+              "media_key": "3_1929743790560235522",
+              "start": 132,
+              "url": "https://t.co/3llbBOwGbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929743793894707331",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @DOGYeah3376 @Illusory_P\n👰 配偶: @mark55264249396\n👶 孩子: @niaoniaomao @overdosestill\n\n➡️ https://t.co/38r2m20lVi https://t.co/3llbBOwGbN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 233,
+          "like_count": 5641,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 243
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T08:25:12.000Z",
+        "description": "06年INFJ+♍️\n是个在军队基地待过的傻逼\n擅长文学艺术类\nsteamID:1151422332\n粥批/米游/supercell\n烹饪/烘焙/调酒\nEN🇺🇸/ESP🇪🇸/CN🇨🇳\n朋友@NataliaIcey2006\n@lyb1007\n涩猫猫@jiang_chua28655\n笨老公@xiyimeng04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "NataliaIcey2006"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "lyb1007"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "jiang_chua28655"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "xiyimeng04"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NataliaICEY060…",
+                "end": 23,
+                "expanded_url": "https://t.me/NataliaICEY060910https://ngl.link/kukudejiaxibei1",
+                "start": 0,
+                "url": "https://t.co/lGi3Ux0J3v"
+              }
+            ]
+          }
+        },
+        "id": "1870022570353012736",
+        "location": "山西省晋中市太谷区",
+        "name": "贾西贝🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913754050249846784/oWJ2G5vF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 2197,
+          "like_count": 21054,
+          "listed_count": 2,
+          "media_count": 545,
+          "tweet_count": 5413
+        },
+        "url": "https://t.co/lGi3Ux0J3v",
+        "username": "kukudejiaxibei",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T05:50:42.000Z",
+        "description": "16YMtF/HRT.2023/生日4.17/持证含糖/女高生活中/反向深柜中/在逃lo娘/常驻武汉/不敢再发照片怕被认出/来和我贴贴!/",
+        "id": "1740248854975696896",
+        "location": "夢之彼方",
+        "name": "月すき🏳️‍⚧",
+        "pinned_tweet_id": "1884891403861336264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929445905402392576/KFCLocRE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 312,
+          "like_count": 17445,
+          "listed_count": 5,
+          "media_count": 261,
+          "tweet_count": 2249
+        },
+        "username": "Illusory_P",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T16:06:13.000Z",
+        "description": "一个迷失自己的人",
+        "id": "1782803139554582528",
+        "name": "mark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915574289648017408/3wbGMIIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 104,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "mark55264249396",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T18:48:56.000Z",
+        "description": "看我不爽请告诉我让我爽一下",
+        "id": "1775233891026206721",
+        "location": "猫猫头山",
+        "name": "🍞",
+        "pinned_tweet_id": "1796051627045990779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916203470019039234/iRbSX1XL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 232,
+          "like_count": 5080,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1814
+        },
+        "username": "niaoniaomao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T09:17:23.000Z",
+        "description": "mtx（f）/od/自毁倾向",
+        "id": "1929104916565622784",
+        "name": "itsmyflout🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929123669001035777/UkXNPtwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 22,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "overdosestill",
+        "verified": false
+      }
+    ]
+  }
+}

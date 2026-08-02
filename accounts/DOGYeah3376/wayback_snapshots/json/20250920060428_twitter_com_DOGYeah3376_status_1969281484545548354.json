@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1969281484545548354",
+    "created_at": "2025-09-20T06:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T07:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969281484545548354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minokakay/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/minokakay/status/1969132016663679123",
+          "start": 13,
+          "url": "https://t.co/MXm58Q5imn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969281484545548354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969132016663679123",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们班怎么没有oder🥺 https://t.co/MXm58Q5imn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1969281484545548354",
+        "created_at": "2025-09-20T06:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T07:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969281484545548354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/minokakay/status/1969132016663679123",
+              "start": 13,
+              "url": "https://t.co/MXm58Q5imn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969281484545548354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969132016663679123",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们班怎么没有oder🥺 https://t.co/MXm58Q5imn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1969132016663679123",
+        "created_at": "2025-09-19T20:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T21:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969132016663679123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lianshufa/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/lianshufa/status/1968981909397991474",
+              "start": 13,
+              "url": "https://t.co/tNrqSPhywB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969132016663679123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4192,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968981909397991474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们班怎么没有oder🥺 https://t.co/tNrqSPhywB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 924,
+          "like_count": 40916,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 2555
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX 长居🇭🇰🇯🇵🇹🇭买HRT补佳乐色普龙诺坤复/减肥/促智找 @ChosekiNoraneko，全球可寄，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10061,
+          "following_count": 938,
+          "like_count": 44645,
+          "listed_count": 35,
+          "media_count": 1451,
+          "tweet_count": 21278
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

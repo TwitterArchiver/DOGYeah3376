@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1981310538358673587",
+    "created_at": "2025-10-24T06:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T07:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981601817239879874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822447334749614080",
+          "start": 0,
+          "username": "chenwai29719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981601817239879874",
+    "in_reply_to_user_id": "1822447334749614080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981587723824894296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenwai29719 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1981310538358673587",
+        "created_at": "2025-10-24T06:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T07:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981601817239879874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822447334749614080",
+              "start": 0,
+              "username": "chenwai29719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981601817239879874",
+        "in_reply_to_user_id": "1822447334749614080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981587723824894296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenwai29719 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822447334749614080",
+        "conversation_id": "1981310538358673587",
+        "created_at": "2025-10-24T05:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T06:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981587723824894296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981587723824894296",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981310538358673587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我是，女孩。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979171735669719041/xwbTRqej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 1021,
+          "like_count": 54802,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3556
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T01:38:11.000Z",
+        "description": "07/心理精神都有问题/自伤od自杀/ftx/非二元性别/泛性恋/爱听摇滚金属/疑似多意识体\n一般都会回fo",
+        "id": "1822447334749614080",
+        "name": "尘外",
+        "pinned_tweet_id": "1980068482650959937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945350840199634944/hOFuYJd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 89,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 271
+        },
+        "username": "chenwai29719",
+        "verified": false
+      }
+    ]
+  }
+}

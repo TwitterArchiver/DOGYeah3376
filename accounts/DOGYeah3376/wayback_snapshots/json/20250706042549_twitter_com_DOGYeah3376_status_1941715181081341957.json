@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1920173669336191315",
+    "created_at": "2025-07-06T04:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T05:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941715181081341957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1918920268296359936",
+          "start": 0,
+          "username": "FIREFLY040132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941715181081341957",
+    "in_reply_to_user_id": "1918920268296359936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920173669336191315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FIREFLY040132 碰到这个胸我就嘎吧一下死地上🆘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1920173669336191315",
+        "created_at": "2025-07-06T04:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T05:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941715181081341957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1918920268296359936",
+              "start": 0,
+              "username": "FIREFLY040132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941715181081341957",
+        "in_reply_to_user_id": "1918920268296359936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920173669336191315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FIREFLY040132 碰到这个胸我就嘎吧一下死地上🆘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918920268296359936",
+        "conversation_id": "1920173669336191315",
+        "created_at": "2025-05-07T17:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T18:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920173669336191315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920173669336191315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1491,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受，感觉周围全都是偏见，穿女装会有人说，刮毛会有人说，被碰到酸痛的胸部，只能蹲在地上，不敢说什么，周围人都不理解，无法辩解，鼻子好酸，好想哭。。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 291,
+          "like_count": 10795,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 366
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T06:47:07.000Z",
+        "description": "15岁没出息小废物，断粮断药，没钱没玩具没衣服，三无产品，求收留",
+        "id": "1918920268296359936",
+        "name": "FIREFLY🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921224896283025408/Ug-tyeGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 261,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 142
+        },
+        "username": "FIREFLY040132",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1966385766357254605",
+    "created_at": "2025-09-12T06:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T07:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966385766357254605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dogyeah3376/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/dogyeah3376/status/1963852487112425637",
+          "start": 5,
+          "url": "https://t.co/EWm3r2URus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966385766357254605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963852487112425637",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天依旧 https://t.co/EWm3r2URus"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1966385766357254605",
+        "created_at": "2025-09-12T06:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T07:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966385766357254605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dogyeah3376/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/dogyeah3376/status/1963852487112425637",
+              "start": 5,
+              "url": "https://t.co/EWm3r2URus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966385766357254605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963852487112425637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天依旧 https://t.co/EWm3r2URus"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1963852487112425637",
+        "created_at": "2025-09-05T06:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T07:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963852487112425637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963852487112425637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 427,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在等一个人的降临"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 876,
+          "like_count": 37791,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 2291
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

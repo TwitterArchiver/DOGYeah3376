@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1952557127303852404",
+    "created_at": "2025-08-05T02:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T03:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952557127303852404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1892595590527377408",
+          "start": 3,
+          "username": "lngyj147021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952557127303852404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952029285449130323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lngyj147021: 贫乳就是很可爱啊！我喜欢所有贫乳的妹子（没有不喜欢大胸的意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1952557127303852404",
+        "created_at": "2025-08-05T02:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T03:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952557127303852404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 3,
+              "username": "lngyj147021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952557127303852404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952029285449130323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lngyj147021: 贫乳就是很可爱啊！我喜欢所有贫乳的妹子（没有不喜欢大胸的意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1952029285449130323",
+        "created_at": "2025-08-03T15:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952029285449130323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952029285449130323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 86524,
+          "like_count": 786,
+          "quote_count": 12,
+          "reply_count": 115,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "贫乳就是很可爱啊！我喜欢所有贫乳的妹子（没有不喜欢大胸的意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 577,
+          "like_count": 22555,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 779
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "喜欢哥哥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=nOeFiTlJ",
+                "start": 0,
+                "url": "https://t.co/xN6wfZYFOP"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "自用蜂鸟VPN→",
+        "name": "咪",
+        "pinned_tweet_id": "1945879751144398874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933912341722361856/Ekgkt8Ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 152,
+          "like_count": 157,
+          "listed_count": 2,
+          "media_count": 551,
+          "tweet_count": 3195
+        },
+        "url": "https://t.co/xN6wfZYFOP",
+        "username": "lngyj147021",
+        "verified": false
+      }
+    ]
+  }
+}

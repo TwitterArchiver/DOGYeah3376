@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2012097243353108480"
+      ],
+      "media_source_tweet_id": [
+        "2012097319651668000"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "2012379516404928712",
+    "created_at": "2026-01-17T04:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T05:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012379516404928712"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Bad Apple",
+          "probability": 0.3191,
+          "start": 26,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1905833562907246592",
+          "start": 3,
+          "username": "koi_okazawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S4WVmI34dX",
+          "end": 95,
+          "expanded_url": "https://x.com/koi_okazawa/status/2012097319651668000/video/1",
+          "media_key": "13_2012097243353108480",
+          "start": 72,
+          "url": "https://t.co/S4WVmI34dX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012379516404928712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5435
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012097319651668000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koi_okazawa: 【再現してみた】 Bad Apple‼︎ PV\n【全身黒タイツ】\n\n小道具はいくつ出てきているでしょうか…！ https://t.co/S4WVmI34dX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19233,
+        "height": 1280,
+        "media_key": "13_2012097243353108480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012097243353108480/img/TXv3UscNUHYJLiPe.jpg",
+        "public_metrics": {
+          "view_count": 440555
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012097243353108480/vid/avc1/320x568/8TROt0eXspXEaJNK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012097243353108480/vid/avc1/480x852/Yb5L-7lCo8HeIXfu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012097243353108480/vid/avc1/720x1280/RfA80z3xnNHFyIYo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012097243353108480/pl/3XUKkr7XeGpCxcFO.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012097243353108480"
+          ],
+          "media_source_tweet_id": [
+            "2012097319651668000"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "2012379516404928712",
+        "created_at": "2026-01-17T04:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T05:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012379516404928712"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Bad Apple",
+              "probability": 0.3191,
+              "start": 26,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1905833562907246592",
+              "start": 3,
+              "username": "koi_okazawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S4WVmI34dX",
+              "end": 95,
+              "expanded_url": "https://x.com/koi_okazawa/status/2012097319651668000/video/1",
+              "media_key": "13_2012097243353108480",
+              "start": 72,
+              "url": "https://t.co/S4WVmI34dX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012379516404928712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5435
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012097319651668000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koi_okazawa: 【再現してみた】 Bad Apple‼︎ PV\n【全身黒タイツ】\n\n小道具はいくつ出てきているでしょうか…！ https://t.co/S4WVmI34dX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012097243353108480"
+          ]
+        },
+        "author_id": "1905833562907246592",
+        "conversation_id": "2012097319651668000",
+        "created_at": "2026-01-16T09:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T10:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012097319651668000"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Bad Apple",
+              "probability": 0.3394,
+              "start": 9,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S4WVmI34dX",
+              "end": 78,
+              "expanded_url": "https://x.com/koi_okazawa/status/2012097319651668000/video/1",
+              "media_key": "13_2012097243353108480",
+              "start": 55,
+              "url": "https://t.co/S4WVmI34dX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012097319651668000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5379,
+          "impression_count": 2616797,
+          "like_count": 41325,
+          "quote_count": 189,
+          "reply_count": 119,
+          "retweet_count": 5435
+        },
+        "reply_settings": "everyone",
+        "text": "【再現してみた】 Bad Apple‼︎ PV\n【全身黒タイツ】\n\n小道具はいくつ出てきているでしょうか…！ https://t.co/S4WVmI34dX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 1079,
+          "like_count": 67599,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 4290
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T04:06:47.000Z",
+        "description": "岡澤恋（おかざわこい）です！現在17歳/高校2年生/スラックライン世界チャンピオン/ボカロ好き/お仕事のご依頼はこちらからお願いします→ https://t.co/qm9NxP9JhX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "slackline-research.com/pages/koi-okaz…",
+                "end": 92,
+                "expanded_url": "https://slackline-research.com/pages/koi-okazawa",
+                "start": 69,
+                "url": "https://t.co/qm9NxP9JhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/koi_okazawa?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/koi_okazawa?igsh=MWpiOWRlZ3N4NmJ3Ng==",
+                "start": 0,
+                "url": "https://t.co/z2qjCohdwj"
+              }
+            ]
+          }
+        },
+        "id": "1905833562907246592",
+        "name": "岡澤恋",
+        "pinned_tweet_id": "1905850915225309643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905836397698994176/RPz7Fg7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6079,
+          "following_count": 17,
+          "like_count": 186,
+          "listed_count": 39,
+          "media_count": 49,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/z2qjCohdwj",
+        "username": "koi_okazawa",
+        "verified": false
+      }
+    ]
+  }
+}

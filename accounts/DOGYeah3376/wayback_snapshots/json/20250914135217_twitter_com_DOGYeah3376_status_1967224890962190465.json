@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1967224890962190465",
+    "created_at": "2025-09-14T13:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T14:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967224890962190465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Shell_WO_Ghost…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Shell_WO_Ghost/status/1966919611775136169",
+          "start": 14,
+          "url": "https://t.co/VZZ8dbuXA8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967224890962190465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966919611775136169",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我需要一个爱我的人把我杀掉 https://t.co/VZZ8dbuXA8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1967224890962190465",
+        "created_at": "2025-09-14T13:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967224890962190465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shell_WO_Ghost…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Shell_WO_Ghost/status/1966919611775136169",
+              "start": 14,
+              "url": "https://t.co/VZZ8dbuXA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967224890962190465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966919611775136169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我需要一个爱我的人把我杀掉 https://t.co/VZZ8dbuXA8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630596839530708994",
+        "conversation_id": "1966919611775136169",
+        "created_at": "2025-09-13T17:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T18:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966919611775136169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966919611775136169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们bpd是不是就是喜欢犯贱，然后遇到一个真的精神病把你们杀了就好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1967114418552238506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 895,
+          "like_count": 38749,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 2413
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T15:52:53.000Z",
+        "description": "Sisters of the Moon",
+        "id": "1630596839530708994",
+        "name": "Valery Kyrie 🖤🩶🤍💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717584658559639554/eWtnF57K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 461,
+          "like_count": 1522,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1787
+        },
+        "username": "Shell_WO_Ghost",
+        "verified": false
+      }
+    ]
+  }
+}

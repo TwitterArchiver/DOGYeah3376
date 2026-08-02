@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1972135545909531113",
+    "created_at": "2025-09-28T03:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T04:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972135545909531113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1339446920511569920",
+          "start": 3,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972135545909531113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966247261954097643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shudesu00: 祈祷我妈上白班"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1972135545909531113",
+        "created_at": "2025-09-28T03:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T04:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972135545909531113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1339446920511569920",
+              "start": 3,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972135545909531113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966247261954097643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shudesu00: 祈祷我妈上白班"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "1966247261954097643",
+        "created_at": "2025-09-11T21:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T22:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966247261954097643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966247261954097643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 749,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祈祷我妈上白班"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 945,
+          "like_count": 45256,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2829
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "ftx_hrt中_They/it_习惯性点赞_过量_aspd_愛🩵＠CoFfffEeeeE1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "CoFfffEeeeE1"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932288019887001600/qzDa0LNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4239,
+          "following_count": 2224,
+          "like_count": 119284,
+          "listed_count": 7,
+          "media_count": 1652,
+          "tweet_count": 17569
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

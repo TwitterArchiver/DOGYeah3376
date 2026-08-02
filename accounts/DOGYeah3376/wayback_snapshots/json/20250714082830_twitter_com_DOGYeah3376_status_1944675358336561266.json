@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944653908682682368"
+      ],
+      "media_source_tweet_id": [
+        "1944663404142006338"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1944675358336561266",
+    "created_at": "2025-07-14T08:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T09:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944675358336561266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3140679366",
+          "start": 3,
+          "username": "rare_jpg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VV6pcjZpWe",
+          "end": 37,
+          "expanded_url": "https://x.com/rare_jpg/status/1944663404142006338/photo/1",
+          "media_key": "3_1944653908682682368",
+          "start": 14,
+          "url": "https://t.co/VV6pcjZpWe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944675358336561266",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944663404142006338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rare_jpg: https://t.co/VV6pcjZpWe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1944653908682682368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvzMbT4bMAAZVj7.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944653908682682368"
+          ],
+          "media_source_tweet_id": [
+            "1944663404142006338"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1944675358336561266",
+        "created_at": "2025-07-14T08:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T09:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944675358336561266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3140679366",
+              "start": 3,
+              "username": "rare_jpg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VV6pcjZpWe",
+              "end": 37,
+              "expanded_url": "https://x.com/rare_jpg/status/1944663404142006338/photo/1",
+              "media_key": "3_1944653908682682368",
+              "start": 14,
+              "url": "https://t.co/VV6pcjZpWe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944675358336561266",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944663404142006338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rare_jpg: https://t.co/VV6pcjZpWe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944653908682682368"
+          ]
+        },
+        "author_id": "3140679366",
+        "conversation_id": "1944663404142006338",
+        "created_at": "2025-07-14T07:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T08:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944663404142006338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VV6pcjZpWe",
+              "end": 23,
+              "expanded_url": "https://x.com/rare_jpg/status/1944663404142006338/photo/1",
+              "media_key": "3_1944653908682682368",
+              "start": 0,
+              "url": "https://t.co/VV6pcjZpWe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944663404142006338",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 7163,
+          "like_count": 467,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VV6pcjZpWe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtf 自伤 od 互fo（没看到的戳我一下好了）       最好的妹妹@xiaoyieQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 382,
+          "like_count": 15397,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 491
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-05T20:50:17.000Z",
+        "description": "the internet.",
+        "id": "3140679366",
+        "location": "🌐",
+        "name": "rare.jpg",
+        "pinned_tweet_id": "1944392421758169122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854365475003920384/mbml_UNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133234,
+          "following_count": 0,
+          "like_count": 1992,
+          "listed_count": 225,
+          "media_count": 1104,
+          "tweet_count": 1157
+        },
+        "username": "rare_jpg",
+        "verified": true
+      }
+    ]
+  }
+}

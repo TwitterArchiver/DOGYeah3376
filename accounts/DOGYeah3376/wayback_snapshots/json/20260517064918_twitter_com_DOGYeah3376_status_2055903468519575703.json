@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2055903468519575703",
+    "created_at": "2026-05-17T06:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055903468519575703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dogyeah3376/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/dogyeah3376/status/2055593077272928681",
+          "start": 20,
+          "url": "https://t.co/RqdeBtyLVs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055903468519575703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055593077272928681",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幻觉来的特别快特别爽 我现在偷偷回味中 https://t.co/RqdeBtyLVs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2055903468519575703",
+        "created_at": "2026-05-17T06:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055903468519575703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dogyeah3376/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/dogyeah3376/status/2055593077272928681",
+              "start": 20,
+              "url": "https://t.co/RqdeBtyLVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055903468519575703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055593077272928681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幻觉来的特别快特别爽 我现在偷偷回味中 https://t.co/RqdeBtyLVs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2055593077272928681",
+        "created_at": "2026-05-16T10:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055593077272928681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055593077272928681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8413,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可能是我第一次类似吸毒尝试吧\n我朋友递给我的电子烟烟不大 他让我把烟吞进去 我出现了触觉加强解离 但是不是玉米那种看不清的\n我不会去尝试任何上头电子烟 我抽了两口之后我变成了一个傻子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 1139,
+          "like_count": 75089,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5280
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1951674252190507352",
+    "created_at": "2025-08-05T00:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T01:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952531113353871724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836667117896388608",
+          "start": 0,
+          "username": "henrik12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952531113353871724",
+    "in_reply_to_user_id": "1836667117896388608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952531026015588714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@henrik12138 对不起…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1951674252190507352",
+        "created_at": "2025-08-05T00:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T01:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952531113353871724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836667117896388608",
+              "start": 0,
+              "username": "henrik12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952531113353871724",
+        "in_reply_to_user_id": "1836667117896388608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952531026015588714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@henrik12138 对不起…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836667117896388608",
+        "conversation_id": "1951674252190507352",
+        "created_at": "2025-08-05T00:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T01:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952531026015588714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952531026015588714",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952159525198516581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 这句话和我妈说的一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 574,
+          "like_count": 22354,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 773
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T07:22:29.000Z",
+        "description": "叫我小唯就好 日常嗑药 打游戏  欢迎找我聊天",
+        "id": "1836667117896388608",
+        "name": "普瑞巴林单推人",
+        "pinned_tweet_id": "1943215825529242092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910713555806281734/oBUXKSoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 123,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 316
+        },
+        "username": "henrik12138",
+        "verified": false
+      }
+    ]
+  }
+}

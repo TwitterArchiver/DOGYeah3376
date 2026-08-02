@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1958107184983925047",
+    "created_at": "2025-08-23T10:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T11:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959202045040476447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727009916353990656",
+          "start": 0,
+          "username": "ZhengYi0429"
+        },
+        {
+          "end": 25,
+          "id": "1910183513539940352",
+          "start": 13,
+          "username": "weilaiguowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959202045040476447",
+    "in_reply_to_user_id": "1727009916353990656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959201783638794489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhengYi0429 @weilaiguowo 呜呜我不会的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1958107184983925047",
+        "created_at": "2025-08-23T10:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T11:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959202045040476447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727009916353990656",
+              "start": 0,
+              "username": "ZhengYi0429"
+            },
+            {
+              "end": 25,
+              "id": "1910183513539940352",
+              "start": 13,
+              "username": "weilaiguowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959202045040476447",
+        "in_reply_to_user_id": "1727009916353990656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959201783638794489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhengYi0429 @weilaiguowo 呜呜我不会的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727009916353990656",
+        "conversation_id": "1958107184983925047",
+        "created_at": "2025-08-23T10:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T11:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959201783638794489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            },
+            {
+              "end": 25,
+              "id": "1910183513539940352",
+              "start": 13,
+              "username": "weilaiguowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959201783638794489",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959200150645268683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 @weilaiguowo 会好的，绝对会好的，所以千万别自杀啊，以后就会好起来的。꒦ິ^꒦ິ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 795,
+          "like_count": 32359,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1722
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T17:03:53.000Z",
+        "description": "友跨顺直/已暂停所有无偿救助行动/欢迎扩列/可以聊天/随机掉落金币/请勿怀揣恶意",
+        "id": "1727009916353990656",
+        "name": "正义",
+        "pinned_tweet_id": "1959182870393880844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922745793250750465/06JbG3ZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 226,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 177
+        },
+        "username": "ZhengYi0429",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T04:10:24.000Z",
+        "description": "🌈mtf🏳️‍⚧️🍥｜🇨🇦🇨🇳｜民国95年生人｜中国国民党｜三民主义统一中国｜m｜接受女双和女s｜拒绝粉红｜拒绝非真诚｜拒绝直女｜拒绝反🌈",
+        "id": "1910183513539940352",
+        "name": "Anna🟦⚪️🟦🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936097567349026816/vDE3x_vg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 654,
+          "like_count": 1678,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1022
+        },
+        "username": "weilaiguowo",
+        "verified": false
+      }
+    ]
+  }
+}

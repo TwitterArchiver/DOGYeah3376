@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1956192776133206345",
+    "created_at": "2025-08-15T05:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T06:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956220467951624543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1683775057552883714",
+          "start": 0,
+          "username": "RealWuling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956220467951624543",
+    "in_reply_to_user_id": "1683775057552883714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956192776133206345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealWuling 感觉好难…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 47,
+        "media_key": "3_1956192745636421633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXK8BPa4AEKshC.png",
+        "width": 314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1956192776133206345",
+        "created_at": "2025-08-15T05:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T06:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956220467951624543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1683775057552883714",
+              "start": 0,
+              "username": "RealWuling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956220467951624543",
+        "in_reply_to_user_id": "1683775057552883714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956192776133206345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealWuling 感觉好难…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956192745636421633"
+          ]
+        },
+        "author_id": "1683775057552883714",
+        "conversation_id": "1956192776133206345",
+        "created_at": "2025-08-15T03:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T04:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956192776133206345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDYoxkdGpS",
+              "end": 30,
+              "expanded_url": "https://x.com/RealWuling/status/1956192776133206345/photo/1",
+              "media_key": "3_1956192745636421633",
+              "start": 7,
+              "url": "https://t.co/YDYoxkdGpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956192776133206345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是...嘛？ https://t.co/YDYoxkdGpS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 704,
+          "like_count": 28473,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1400
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T09:44:05.000Z",
+        "description": "^ヾ(≧▽≦*)o\n友跨ww是想变可爱的男孩子！可以找我来玩！欢迎互fo\nINFP-T 想变可爱猫猫！喜欢百合贴贴ww\n08在上高三ww所以如果没回复真的很抱歉！！\ntg：https://t.co/Nz4nVVMPFb\ntg频道：https://t.co/uMouQiyGKz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/wuling1337",
+                "end": 109,
+                "expanded_url": "http://t.me/wuling1337",
+                "start": 86,
+                "url": "https://t.co/Nz4nVVMPFb"
+              },
+              {
+                "display_url": "t.me/wulingNya",
+                "end": 138,
+                "expanded_url": "http://t.me/wulingNya",
+                "start": 115,
+                "url": "https://t.co/uMouQiyGKz"
+              }
+            ]
+          }
+        },
+        "id": "1683775057552883714",
+        "name": "WuLing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948002983318605824/i8KwtzuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 123,
+          "like_count": 2818,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 372
+        },
+        "username": "RealWuling",
+        "verified": false
+      }
+    ]
+  }
+}

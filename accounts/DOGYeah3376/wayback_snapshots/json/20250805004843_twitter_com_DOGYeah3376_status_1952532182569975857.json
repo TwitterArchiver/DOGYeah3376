@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1947360285872034082",
+    "created_at": "2025-08-05T00:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T01:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952532182569975857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859219215062028288",
+          "start": 0,
+          "username": "jiang_chua28655"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952532182569975857",
+    "in_reply_to_user_id": "1859219215062028288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947360285872034082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiang_chua28655 愈美片嘿嘿嘿😈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1947360267798777859",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwZp2JPbEAMckL7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1947360285872034082",
+        "created_at": "2025-08-05T00:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T01:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952532182569975857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859219215062028288",
+              "start": 0,
+              "username": "jiang_chua28655"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952532182569975857",
+        "in_reply_to_user_id": "1859219215062028288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947360285872034082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiang_chua28655 愈美片嘿嘿嘿😈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947360267798777859"
+          ]
+        },
+        "author_id": "1859219215062028288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1947360285872034082",
+        "created_at": "2025-07-21T18:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T19:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947360285872034082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eO0fdPV3Km",
+              "end": 84,
+              "expanded_url": "https://x.com/jiang_chua28655/status/1947360285872034082/photo/1",
+              "media_key": "3_1947360267798777859",
+              "start": 61,
+              "url": "https://t.co/eO0fdPV3Km"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947360285872034082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1469,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吃喵\n吃完后闭上眼好像有幻觉诶，然后对距离感感觉有点变化，我妹妹离我挺近的，但是我感觉他很远，用手一摸才发现就在我旁边 https://t.co/eO0fdPV3Km"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 574,
+          "like_count": 22359,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 775
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T12:56:33.000Z",
+        "description": "回济宁了喵~过几天妹妹也来济宁\n可爱的狗狗@hry_xsu  \n天天导管的杂鱼@WinkCat1234\n涩涩方面的同类@kukudejiaxibei\n喵呜~老婆老婆@NorthLingkongRd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "hry_xsu"
+              },
+              {
+                "end": 51,
+                "start": 39,
+                "username": "WinkCat1234"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "kukudejiaxibei"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "NorthLingkongRd"
+              }
+            ]
+          }
+        },
+        "id": "1859219215062028288",
+        "location": "山东济宁",
+        "name": "涩涩の喵🍥",
+        "pinned_tweet_id": "1911406933405204650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879070661320073216/nSTgIxRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2049,
+          "following_count": 55,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 934
+        },
+        "username": "jiang_chua28655",
+        "verified": false
+      }
+    ]
+  }
+}

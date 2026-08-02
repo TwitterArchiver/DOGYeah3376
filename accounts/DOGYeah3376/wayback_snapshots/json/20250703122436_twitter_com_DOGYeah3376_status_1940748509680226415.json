@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1940654381046923321",
+    "created_at": "2025-07-03T12:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T13:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940748509680226415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1224014088381952002",
+          "start": 0,
+          "username": "YeBuYiya"
+        },
+        {
+          "end": 19,
+          "id": "1519673257552936961",
+          "start": 10,
+          "username": "canger_6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940748509680226415",
+    "in_reply_to_user_id": "1224014088381952002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940746887801520338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeBuYiya @canger_6 可能是的吧\n填太多不清楚 精度会下降的吧😧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1940746887801520338].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1940746887801520338",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1940746887801520338"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1940654381046923321",
+        "created_at": "2025-07-03T12:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T13:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940748509680226415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1224014088381952002",
+              "start": 0,
+              "username": "YeBuYiya"
+            },
+            {
+              "end": 19,
+              "id": "1519673257552936961",
+              "start": 10,
+              "username": "canger_6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940748509680226415",
+        "in_reply_to_user_id": "1224014088381952002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940746887801520338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeBuYiya @canger_6 可能是的吧\n填太多不清楚 精度会下降的吧😧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 284,
+          "like_count": 10035,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 338
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T16:58:04.000Z",
+        "description": "一个普通底层跨性别者，年过三十老药娘，争取活到自然死，为了那个虚无缥缈的目标而努力，换过很多工作，有很多技能，但是全都没什么用，目前正在摆地摊卖水果，有一个坚韧不屈的灵魂积极向上，感觉人生过去了好久好久，又好像没过多久",
+        "id": "1224014088381952002",
+        "location": "世界树",
+        "name": "花里花拉🍥🍬🍭（戒烟成功版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889319444943712256/q0DfpVgO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 308,
+          "like_count": 2650,
+          "listed_count": 6,
+          "media_count": 181,
+          "tweet_count": 1725
+        },
+        "username": "YeBuYiya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T13:42:02.000Z",
+        "description": "",
+        "id": "1519673257552936961",
+        "name": "苍耳🍥",
+        "pinned_tweet_id": "1884277251916849221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911427592407715841/rc5-mWIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1621,
+          "following_count": 1260,
+          "like_count": 24908,
+          "listed_count": 5,
+          "media_count": 1474,
+          "tweet_count": 5530
+        },
+        "username": "canger_6",
+        "verified": false
+      }
+    ]
+  }
+}

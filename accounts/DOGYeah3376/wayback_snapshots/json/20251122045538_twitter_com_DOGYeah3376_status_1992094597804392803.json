@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1991881754425340160",
+    "created_at": "2025-11-22T04:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T05:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992094597804392803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        },
+        {
+          "end": 28,
+          "id": "1867090453226721280",
+          "start": 17,
+          "username": "xiaoyieQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992094597804392803",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991881754425340160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six 是不是@xiaoyieQAQ 干的😡😡😡\n这家伙一直在传播od何意味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_1991881751380275200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6SV5kGasAAToN4.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1991881754425340160",
+        "created_at": "2025-11-22T04:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992094597804392803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            },
+            {
+              "end": 28,
+              "id": "1867090453226721280",
+              "start": 17,
+              "username": "xiaoyieQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992094597804392803",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991881754425340160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 是不是@xiaoyieQAQ 干的😡😡😡\n这家伙一直在传播od何意味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991881751380275200"
+          ]
+        },
+        "author_id": "622036546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1991881754425340160",
+        "created_at": "2025-11-21T14:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991881754425340160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JekjqYGe9k",
+              "end": 31,
+              "expanded_url": "https://x.com/overdose_six/status/1991881754425340160/photo/1",
+              "media_key": "3_1991881751380275200",
+              "start": 8,
+              "url": "https://t.co/JekjqYGe9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991881754425340160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "化学极乐这一块 https://t.co/JekjqYGe9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 1063,
+          "like_count": 61578,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 4023
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科:https://t.co/BlAoDIjruc | 药物代购 | 报告投稿 | 里账号:@fuck_8964 | 提问箱:https://t.co/b5c8bbmW1y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "http://overdose.day",
+                "start": 7,
+                "url": "https://t.co/BlAoDIjruc"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 91,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 68,
+                "url": "https://t.co/b5c8bbmW1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjruc"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985352940517810176/U5hFAjvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2362,
+          "following_count": 71,
+          "like_count": 11107,
+          "listed_count": 9,
+          "media_count": 549,
+          "tweet_count": 3408
+        },
+        "url": "https://t.co/BlAoDIjruc",
+        "username": "overdose_six",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T06:13:58.000Z",
+        "description": "｜12年mtf喵喵🍥｜私信fo｜欢迎访问https://t.co/1gjRmSZXjQ｜多意识体｜有主｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 43,
+                "expanded_url": "https://overdose.day/",
+                "start": 20,
+                "url": "https://t.co/1gjRmSZXjQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/1gjRmSZXjQ"
+              }
+            ]
+          }
+        },
+        "id": "1867090453226721280",
+        "location": "喵喵喵",
+        "name": "杂鱼洛雨🍥",
+        "pinned_tweet_id": "1912881731172241581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946657647949717504/jyBSNOCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 418,
+          "like_count": 5483,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/1gjRmSZXjQ",
+        "username": "xiaoyieQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

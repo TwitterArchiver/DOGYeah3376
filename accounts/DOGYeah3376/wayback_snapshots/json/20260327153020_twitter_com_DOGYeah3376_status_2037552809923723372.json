@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2037519596664865256",
+    "created_at": "2026-03-27T15:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037552809923723372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667129907795886081",
+          "start": 0,
+          "username": "mods999_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037552809923723372",
+    "in_reply_to_user_id": "1667129907795886081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037544522281107726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mods999_ 会更早痛苦吧 而且会有深深的无力感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2037519596664865256",
+        "created_at": "2026-03-27T15:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037552809923723372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667129907795886081",
+              "start": 0,
+              "username": "mods999_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037552809923723372",
+        "in_reply_to_user_id": "1667129907795886081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037544522281107726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mods999_ 会更早痛苦吧 而且会有深深的无力感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667129907795886081",
+        "conversation_id": "2037519596664865256",
+        "created_at": "2026-03-27T14:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037544522281107726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037544522281107726",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037519596664865256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 早晚结果都是一样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2031387789141717030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 1122,
+          "like_count": 70833,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 4793
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T11:22:09.000Z",
+        "description": "常用id：mods999/网友夏顺亚/白武男，基本都会回fo",
+        "id": "1667129907795886081",
+        "location": "阿克西斯",
+        "name": "网友夏顺亚",
+        "pinned_tweet_id": "2037120174533579253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030572155969384449/y_RsRxaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 424,
+          "like_count": 33154,
+          "listed_count": 2,
+          "media_count": 1270,
+          "tweet_count": 5462
+        },
+        "username": "mods999_",
+        "verified": false
+      }
+    ]
+  }
+}

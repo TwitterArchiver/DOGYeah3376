@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1991913513791725939",
+    "created_at": "2025-11-22T07:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T08:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992134590958604311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934928841476378624",
+          "start": 0,
+          "username": "11chips_"
+        },
+        {
+          "end": 23,
+          "id": "1866458229527764992",
+          "start": 10,
+          "username": "Citrus_amara"
+        },
+        {
+          "end": 40,
+          "id": "1444716723978981380",
+          "start": 24,
+          "username": "EleanorAnatidae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992134590958604311",
+    "in_reply_to_user_id": "1934928841476378624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992127203870679376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11chips_ @Citrus_amara @EleanorAnatidae 不能说od一定坏 能治好心理问题就好好的\n也不能说一定好 因为会伤身体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1991913513791725939",
+        "created_at": "2025-11-22T07:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992134590958604311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934928841476378624",
+              "start": 0,
+              "username": "11chips_"
+            },
+            {
+              "end": 23,
+              "id": "1866458229527764992",
+              "start": 10,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 40,
+              "id": "1444716723978981380",
+              "start": 24,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992134590958604311",
+        "in_reply_to_user_id": "1934928841476378624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992127203870679376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11chips_ @Citrus_amara @EleanorAnatidae 不能说od一定坏 能治好心理问题就好好的\n也不能说一定好 因为会伤身体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934928841476378624",
+        "conversation_id": "1991913513791725939",
+        "created_at": "2025-11-22T07:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992127203870679376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 30,
+              "id": "1444716723978981380",
+              "start": 14,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992127203870679376",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991989878415032818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @EleanorAnatidae 如果od是好的，你为什么不带着你爸爸妈妈爷爷奶奶一起去做呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 1064,
+          "like_count": 61776,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 4028
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T10:59:34.000Z",
+        "description": "Everyone dies, but not everyone lives",
+        "id": "1934928841476378624",
+        "name": "我独自升级",
+        "pinned_tweet_id": "1985232384309219330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991929387395276800/9OgBMPZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 138,
+          "like_count": 668,
+          "listed_count": 4,
+          "media_count": 48,
+          "tweet_count": 167
+        },
+        "username": "11chips_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 820,
+          "like_count": 12709,
+          "listed_count": 4,
+          "media_count": 190,
+          "tweet_count": 5417
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "Eleanor/👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Shirlene_girl"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 1789,
+          "like_count": 21116,
+          "listed_count": 9,
+          "media_count": 125,
+          "tweet_count": 5675
+        },
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

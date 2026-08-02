@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1955184083711169024",
+    "created_at": "2025-08-12T08:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T09:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955185467303006242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1798598577431990272",
+          "start": 0,
+          "username": "PopoWrld999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955185467303006242",
+    "in_reply_to_user_id": "1798598577431990272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955184083711169024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PopoWrld999 不要死好不好popo🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955184076069208064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyI1juSbAAA4Xxo.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1955184083711169024",
+        "created_at": "2025-08-12T08:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T09:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955185467303006242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1798598577431990272",
+              "start": 0,
+              "username": "PopoWrld999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955185467303006242",
+        "in_reply_to_user_id": "1798598577431990272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955184083711169024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PopoWrld999 不要死好不好popo🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955184076069208064"
+          ]
+        },
+        "author_id": "1798598577431990272",
+        "conversation_id": "1955184083711169024",
+        "created_at": "2025-08-12T08:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T09:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955184083711169024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhlhTmAtu3",
+              "end": 50,
+              "expanded_url": "https://x.com/PopoWrld999/status/1955184083711169024/photo/1",
+              "media_key": "3_1955184076069208064",
+              "start": 27,
+              "url": "https://t.co/zhlhTmAtu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955184083711169024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能给我点钱…就只剩这点了\n根本不够我买药自杀的🥺🥲 https://t.co/zhlhTmAtu3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 676,
+          "like_count": 26943,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1215
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T06:11:39.000Z",
+        "description": "是popo (づ￣ ³￣)づmtx ｜ 吃药含糖无证🍥 ｜17岁 体重46到47 身高164抑郁焦虑常驻 ptsd｜逃离计划启动！！！｜爱所有温暖的美好的生命-永远.｜避难所@popoUknowWhat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 87,
+                "username": "popoUknowWhat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/liam_swrld",
+                "end": 23,
+                "expanded_url": "https://t.me/liam_swrld",
+                "start": 0,
+                "url": "https://t.co/Vgy8aPwPVD"
+              }
+            ]
+          }
+        },
+        "id": "1798598577431990272",
+        "location": "在梦里❤️‍🩹",
+        "name": "popo/laim🍥",
+        "pinned_tweet_id": "1944977373696266717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953768841647206401/17kKdWg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 376,
+          "like_count": 12139,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 3287
+        },
+        "url": "https://t.co/Vgy8aPwPVD",
+        "username": "PopoWrld999",
+        "verified": false
+      }
+    ]
+  }
+}

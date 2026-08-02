@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1952697958463614991",
+    "created_at": "2025-08-06T05:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T06:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952959572479754326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1495386210977517568",
+          "start": 0,
+          "username": "qianzao520"
+        },
+        {
+          "end": 27,
+          "id": "1865419581206208512",
+          "start": 12,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952959572479754326",
+    "in_reply_to_user_id": "1495386210977517568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952700897001193755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianzao520 @DDzhanshou5150 这个神秘记忆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1083,
+        "media_key": "3_1952700893742456832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxljHfQbYAAgk9K.jpg",
+        "width": 1175
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1952697958463614991",
+        "created_at": "2025-08-06T05:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T06:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952959572479754326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1495386210977517568",
+              "start": 0,
+              "username": "qianzao520"
+            },
+            {
+              "end": 27,
+              "id": "1865419581206208512",
+              "start": 12,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952959572479754326",
+        "in_reply_to_user_id": "1495386210977517568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952700897001193755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianzao520 @DDzhanshou5150 这个神秘记忆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952700893742456832"
+          ]
+        },
+        "author_id": "1495386210977517568",
+        "conversation_id": "1952697958463614991",
+        "created_at": "2025-08-05T11:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T12:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952700897001193755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cGLYsQoFrp",
+              "end": 123,
+              "expanded_url": "https://x.com/qianzao520/status/1952700897001193755/photo/1",
+              "media_key": "3_1952700893742456832",
+              "start": 100,
+              "url": "https://t.co/cGLYsQoFrp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952700897001193755",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952697958463614991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 和本人聊天可能遇到：\n1.早上刚税xing教打错一排字\n2.吃什么?\n3.喝什么?\n4.非常多的: 爱! 爱! 爱!!!\n5.莫名其妙又重复一遍刚刚的话\n6.吃什么? https://t.co/cGLYsQoFrp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 586,
+          "like_count": 23483,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 821
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T13:14:08.000Z",
+        "description": "Name：卡佩拉/信仰：基督新教/性格：温良仅限对人/Like：蹂躏与虐杀，爱，格斗游戏，音乐/Hate：偷拍，傻逼，失败，30帧，解迷游戏/\n『本小姐对你们的感情不是书的指示，是真心的，是纯爱』\n/爱上本小姐所以fo了的话，除了三无号本小姐基本都会回fo，因为本小姐全心全意的爱着大家噢😈💀",
+        "id": "1495386210977517568",
+        "location": "露格尼卡王国",
+        "name": "色欲大罪司教: 卡佩拉.艾梅拉妲.露格尼卡✝",
+        "pinned_tweet_id": "1951895889322357112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950994450349694981/owlsKde4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 363,
+          "like_count": 13856,
+          "listed_count": 1,
+          "media_count": 1002,
+          "tweet_count": 5766
+        },
+        "username": "qianzao520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5076,
+          "following_count": 5322,
+          "like_count": 18641,
+          "listed_count": 8,
+          "media_count": 3470,
+          "tweet_count": 26569
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

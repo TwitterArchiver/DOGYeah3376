@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1994354923094393310",
+    "created_at": "2025-11-29T07:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T08:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994662809666556194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531874456997863424",
+          "start": 0,
+          "username": "guodongmaikefe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994662809666556194",
+    "in_reply_to_user_id": "1531874456997863424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994354923094393310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guodongmaikefe2 沙县豪华大酒店吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3060,
+        "media_key": "3_1994354914768953344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61fOnrboAAzH5m.jpg",
+        "width": 3060
+      },
+      {
+        "height": 3060,
+        "media_key": "3_1994354916840906752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61fOvZbIAAcbiR.jpg",
+        "width": 3060
+      },
+      {
+        "height": 3060,
+        "media_key": "3_1994354916186554368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61fOs9agAA-RM5.jpg",
+        "width": 3060
+      },
+      {
+        "height": 3060,
+        "media_key": "3_1994354916601765890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61fOugaIAIJDWX.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1994354923094393310",
+        "created_at": "2025-11-29T07:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994662809666556194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531874456997863424",
+              "start": 0,
+              "username": "guodongmaikefe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994662809666556194",
+        "in_reply_to_user_id": "1531874456997863424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994354923094393310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guodongmaikefe2 沙县豪华大酒店吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994354914768953344",
+            "3_1994354916840906752",
+            "3_1994354916186554368",
+            "3_1994354916601765890"
+          ]
+        },
+        "author_id": "1531874456997863424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1994354923094393310",
+        "created_at": "2025-11-28T10:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994354923094393310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7NnCbpwow",
+              "end": 25,
+              "expanded_url": "https://x.com/guodongmaikefe2/status/1994354923094393310/photo/1",
+              "media_key": "3_1994354914768953344",
+              "start": 2,
+              "url": "https://t.co/S7NnCbpwow"
+            },
+            {
+              "display_url": "pic.x.com/S7NnCbpwow",
+              "end": 25,
+              "expanded_url": "https://x.com/guodongmaikefe2/status/1994354923094393310/photo/1",
+              "media_key": "3_1994354916840906752",
+              "start": 2,
+              "url": "https://t.co/S7NnCbpwow"
+            },
+            {
+              "display_url": "pic.x.com/S7NnCbpwow",
+              "end": 25,
+              "expanded_url": "https://x.com/guodongmaikefe2/status/1994354923094393310/photo/1",
+              "media_key": "3_1994354916186554368",
+              "start": 2,
+              "url": "https://t.co/S7NnCbpwow"
+            },
+            {
+              "display_url": "pic.x.com/S7NnCbpwow",
+              "end": 25,
+              "expanded_url": "https://x.com/guodongmaikefe2/status/1994354923094393310/photo/1",
+              "media_key": "3_1994354916601765890",
+              "start": 2,
+              "url": "https://t.co/S7NnCbpwow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994354923094393310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咩 https://t.co/S7NnCbpwow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 1082,
+          "like_count": 63995,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 4075
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "纵欲无故，嗑药无度/不要做药物的奴隶，不要被任何事物掌控/我会一直给你点赞⌓‿⌓/抑郁焦虑/我脑子有病/同类互fo/发癫/异性恋/恐gay/恐跨/",
+        "id": "1531874456997863424",
+        "location": "明天",
+        "name": "不开心就od",
+        "pinned_tweet_id": "1993644506605146148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 139,
+          "like_count": 5924,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 783
+        },
+        "username": "guodongmaikefe2",
+        "verified": false
+      }
+    ]
+  }
+}

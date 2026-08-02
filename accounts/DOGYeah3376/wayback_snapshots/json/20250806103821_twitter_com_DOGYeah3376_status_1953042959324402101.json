@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1953039159393742936",
+    "created_at": "2025-08-06T10:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T11:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953042959324402101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444716723978981380",
+          "start": 0,
+          "username": "EleanorAnatidae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953042959324402101",
+    "in_reply_to_user_id": "1444716723978981380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953039159393742936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EleanorAnatidae 加油🥺越来越pass"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953039147964481537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqWwebawAEd8Dg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1953039159393742936",
+        "created_at": "2025-08-06T10:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T11:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953042959324402101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444716723978981380",
+              "start": 0,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953042959324402101",
+        "in_reply_to_user_id": "1444716723978981380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953039159393742936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleanorAnatidae 加油🥺越来越pass"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953039147964481537"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "1953039159393742936",
+        "created_at": "2025-08-06T10:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T11:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953039159393742936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8PSzlIATcl",
+              "end": 111,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/1953039159393742936/photo/1",
+              "media_key": "3_1953039147964481537",
+              "start": 88,
+              "url": "https://t.co/8PSzlIATcl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953039159393742936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女大十八变！\n2018.5（郭楠时期）—》2023.9（吃糖一个月）-〉2024.6（hrt大半年+留头发）-》2025.7（被家里人强迫剪头发，断糖大半年，重新吃糖1个月） https://t.co/8PSzlIATcl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 587,
+          "like_count": 23725,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 831
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "mtf🏳️‍⚧️/👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 46,
+                "start": 32,
+                "username": "Shirlene_girl"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2392,
+          "following_count": 1578,
+          "like_count": 19282,
+          "listed_count": 7,
+          "media_count": 107,
+          "tweet_count": 4951
+        },
+        "username": "EleanorAnatidae",
+        "verified": true
+      }
+    ]
+  }
+}

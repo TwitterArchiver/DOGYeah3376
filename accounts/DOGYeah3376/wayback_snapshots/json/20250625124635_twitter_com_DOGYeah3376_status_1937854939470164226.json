@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1937544323022962867",
+    "created_at": "2025-06-25T12:46:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T13:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937854939470164226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "sxshuishuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937854939470164226",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937544323022962867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxshuishuimao 因为绝对的男女不平等 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1937544323022962867",
+        "created_at": "2025-06-25T12:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T13:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937854939470164226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "sxshuishuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937854939470164226",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937544323022962867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxshuishuimao 因为绝对的男女不平等 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1937544323022962867",
+        "created_at": "2025-06-24T16:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T17:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937544323022962867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937544323022962867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8397,
+          "like_count": 152,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么雌就是堕，雄就是起？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 258,
+          "like_count": 7394,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 260
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "07 ｜互fo｜INFP-t｜ HRT咨询｜不吃肉不是素食主义者喵｜灌注水猫谢谢喵｜拼图积木代拼｜最喜欢14岁了｜提问箱链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你1.7km",
+        "name": "神仙水水猫🍕🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922116318553141248/h-kb4WKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 1033,
+          "like_count": 191,
+          "listed_count": 4,
+          "media_count": 1062,
+          "tweet_count": 6649
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "sxshuishuimao",
+        "verified": true
+      }
+    ]
+  }
+}

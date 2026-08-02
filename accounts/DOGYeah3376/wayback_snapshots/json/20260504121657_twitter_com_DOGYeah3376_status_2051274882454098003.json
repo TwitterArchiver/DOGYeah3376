@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2051265290768691289",
+    "created_at": "2026-05-04T12:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051274882454098003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2051203738283687936",
+          "start": 0,
+          "username": "suika981222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051274882454098003",
+    "in_reply_to_user_id": "2051203738283687936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051269928788046030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suika981222 我只是说我讨厌那种说od会影响整个社会的说法\n因为我od只会伤害我的身体 就像自残一样又没有划到别人身上"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2051269928788046030].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2051269928788046030",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2051269928788046030"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2051265290768691289",
+        "created_at": "2026-05-04T12:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051274882454098003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051203738283687936",
+              "start": 0,
+              "username": "suika981222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051274882454098003",
+        "in_reply_to_user_id": "2051203738283687936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051269928788046030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suika981222 我只是说我讨厌那种说od会影响整个社会的说法\n因为我od只会伤害我的身体 就像自残一样又没有划到别人身上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 1151,
+          "like_count": 74322,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5203
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T07:35:15.000Z",
+        "description": "不機嫌なスイカちゃん/精̴̢̪̾͊̄神̵̘͍͛不̸̥̞̰̉̋́安̶̼̲͒定̵̳̑͘/高校1年生/上海/mtf🏳️‍⚧️/地雷女/リスカ/アルコール🍷依存 / 撮り鉄🚞 / ねこ🐱/友人のみ垢/@yyyyy_pogと@xshxxxxxxxxの娘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 96,
+                "username": "yyyyy_pog"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "xshxxxxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naenara.com.kp",
+                "end": 23,
+                "expanded_url": "http://naenara.com.kp",
+                "start": 0,
+                "url": "https://t.co/QguVbqEGyC"
+              }
+            ]
+          }
+        },
+        "id": "2051203738283687936",
+        "location": "ねこ民国　シャンハイ市",
+        "name": "🍉スイカちゃん🏳️‍⚧️🍥（友人のみ）",
+        "pinned_tweet_id": "2051232778721919425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051206965968437248/6eHYabaA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 20,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "url": "https://t.co/QguVbqEGyC",
+        "username": "suika981222",
+        "verified": false
+      }
+    ]
+  }
+}

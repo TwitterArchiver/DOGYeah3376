@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2055164639944835248",
+    "created_at": "2026-05-15T05:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055164639944835248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/habsburg334/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/habsburg334/status/2054767995864359174",
+          "start": 10,
+          "url": "https://t.co/VbDaKY3snb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055164639944835248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054767995864359174",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "祖国有我请祖国放心 https://t.co/VbDaKY3snb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2054767918970187777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQAiSIWMAEaK33.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2055164639944835248",
+        "created_at": "2026-05-15T05:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055164639944835248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/habsburg334/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/habsburg334/status/2054767995864359174",
+              "start": 10,
+              "url": "https://t.co/VbDaKY3snb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055164639944835248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054767995864359174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "祖国有我请祖国放心 https://t.co/VbDaKY3snb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054767918970187777"
+          ]
+        },
+        "author_id": "1219652999087345665",
+        "conversation_id": "2054767995864359174",
+        "created_at": "2026-05-14T03:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054767995864359174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wEiytChyEF",
+              "end": 35,
+              "expanded_url": "https://x.com/habsburg334/status/2054767995864359174/photo/1",
+              "media_key": "3_2054767918970187777",
+              "start": 12,
+              "url": "https://t.co/wEiytChyEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054767995864359174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2040,
+          "impression_count": 5956328,
+          "like_count": 24267,
+          "quote_count": 140,
+          "reply_count": 1154,
+          "retweet_count": 647
+        },
+        "reply_settings": "everyone",
+        "text": "给习主席整不会了... https://t.co/wEiytChyEF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 1142,
+          "like_count": 75041,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5273
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-21T16:08:45.000Z",
+        "description": "巴蜀利亞托利黨人 papist 男人是女人的头 如同基督是教会的头",
+        "id": "1219652999087345665",
+        "name": "🚁Habsburg🚁",
+        "pinned_tweet_id": "2041429023046160447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535263546459639809/2ms5z5wV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 699,
+          "like_count": 35848,
+          "listed_count": 14,
+          "media_count": 1082,
+          "tweet_count": 27627
+        },
+        "username": "habsburg334",
+        "verified": false
+      }
+    ]
+  }
+}

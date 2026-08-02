@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053521731969548288"
+      ],
+      "media_source_tweet_id": [
+        "2053521736453296173"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "2053818042891858275",
+    "created_at": "2026-05-11T12:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053818042891858275"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 17,
+          "tag": "pondering"
+        },
+        {
+          "end": 32,
+          "start": 28,
+          "tag": "lmk"
+        },
+        {
+          "end": 41,
+          "start": 33,
+          "tag": "thinker"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2000418135686647808",
+          "start": 3,
+          "username": "ultraCLAIR3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d2kTGBcRqc",
+          "end": 65,
+          "expanded_url": "https://x.com/ultraCLAIR3/status/2053521736453296173/photo/1",
+          "media_key": "3_2053521731969548288",
+          "start": 42,
+          "url": "https://t.co/d2kTGBcRqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053818042891858275",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2726
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053521736453296173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ultraCLAIR3: #pondering #lmk #thinker https://t.co/d2kTGBcRqc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053521731969548288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-TIpyXAAAHtx5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053521731969548288"
+          ],
+          "media_source_tweet_id": [
+            "2053521736453296173"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "2053818042891858275",
+        "created_at": "2026-05-11T12:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053818042891858275"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 17,
+              "tag": "pondering"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "lmk"
+            },
+            {
+              "end": 41,
+              "start": 33,
+              "tag": "thinker"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000418135686647808",
+              "start": 3,
+              "username": "ultraCLAIR3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2kTGBcRqc",
+              "end": 65,
+              "expanded_url": "https://x.com/ultraCLAIR3/status/2053521736453296173/photo/1",
+              "media_key": "3_2053521731969548288",
+              "start": 42,
+              "url": "https://t.co/d2kTGBcRqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053818042891858275",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2726
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053521736453296173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ultraCLAIR3: #pondering #lmk #thinker https://t.co/d2kTGBcRqc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053521731969548288"
+          ]
+        },
+        "author_id": "2000418135686647808",
+        "conversation_id": "2053521736453296173",
+        "created_at": "2026-05-10T17:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053521736453296173"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "pondering"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "lmk"
+            },
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "thinker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2kTGBcRqc",
+              "end": 48,
+              "expanded_url": "https://x.com/ultraCLAIR3/status/2053521736453296173/photo/1",
+              "media_key": "3_2053521731969548288",
+              "start": 25,
+              "url": "https://t.co/d2kTGBcRqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053521736453296173",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1428,
+          "impression_count": 289088,
+          "like_count": 29857,
+          "quote_count": 147,
+          "reply_count": 65,
+          "retweet_count": 2726
+        },
+        "reply_settings": "everyone",
+        "text": "#pondering #lmk #thinker https://t.co/d2kTGBcRqc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 1139,
+          "like_count": 74792,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 5247
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T04:10:36.000Z",
+        "description": "Not good and definitely not great. @klairityclash member | priv: @bldybodyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "klairityclash"
+              },
+              {
+                "end": 75,
+                "start": 65,
+                "username": "bldybodyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ultraclair3",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ultraclair3",
+                "start": 0,
+                "url": "https://t.co/cFCus4wijx"
+              }
+            ]
+          }
+        },
+        "id": "2000418135686647808",
+        "location": "an foid",
+        "name": "joyfulgirl2007 🏳️‍⚧️",
+        "pinned_tweet_id": "2053570680545845370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053616082020110337/HKhmZ5K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 79,
+          "like_count": 4798,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/cFCus4wijx",
+        "username": "ultraCLAIR3",
+        "verified": false
+      }
+    ]
+  }
+}

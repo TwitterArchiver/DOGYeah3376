@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959286151317254144"
+      ],
+      "media_source_tweet_id": [
+        "1959286158523068530"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1959495579085455381",
+    "created_at": "2025-08-24T05:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T06:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959495579085455381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1891923925518647296",
+          "start": 3,
+          "username": "Nacreous_1969"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3PeVAFzAbN",
+          "end": 59,
+          "expanded_url": "https://x.com/Nacreous_1969/status/1959286158523068530/photo/1",
+          "media_key": "3_1959286151317254144",
+          "start": 36,
+          "url": "https://t.co/3PeVAFzAbN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959495579085455381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959286158523068530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nacreous_1969: 宝宝们补药跳楼不然会变成这个样子 https://t.co/3PeVAFzAbN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1959286151317254144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzDIX7abcAAISnn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959286151317254144"
+          ],
+          "media_source_tweet_id": [
+            "1959286158523068530"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1959495579085455381",
+        "created_at": "2025-08-24T05:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T06:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959495579085455381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1891923925518647296",
+              "start": 3,
+              "username": "Nacreous_1969"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3PeVAFzAbN",
+              "end": 59,
+              "expanded_url": "https://x.com/Nacreous_1969/status/1959286158523068530/photo/1",
+              "media_key": "3_1959286151317254144",
+              "start": 36,
+              "url": "https://t.co/3PeVAFzAbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959495579085455381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959286158523068530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nacreous_1969: 宝宝们补药跳楼不然会变成这个样子 https://t.co/3PeVAFzAbN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959286151317254144"
+          ]
+        },
+        "author_id": "1891923925518647296",
+        "conversation_id": "1959286158523068530",
+        "created_at": "2025-08-23T16:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T17:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959286158523068530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3PeVAFzAbN",
+              "end": 40,
+              "expanded_url": "https://x.com/Nacreous_1969/status/1959286158523068530/photo/1",
+              "media_key": "3_1959286151317254144",
+              "start": 17,
+              "url": "https://t.co/3PeVAFzAbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959286158523068530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们补药跳楼不然会变成这个样子 https://t.co/3PeVAFzAbN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 800,
+          "like_count": 32533,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1728
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T18:53:14.000Z",
+        "description": "无性恋、三无猪咪｜想要有好多宝宝开幼儿园｜可能是纯良小女孩｜偶尔偏意识流、风格多变｜负能@Narcissus_1969",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "Narcissus_1969"
+              }
+            ]
+          }
+        },
+        "id": "1891923925518647296",
+        "name": "ˊ ∇ ˋ",
+        "pinned_tweet_id": "1896286314410238362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891924024084619264/BMGMJAcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 77,
+          "like_count": 2611,
+          "listed_count": 5,
+          "media_count": 380,
+          "tweet_count": 883
+        },
+        "username": "Nacreous_1969",
+        "verified": false
+      }
+    ]
+  }
+}

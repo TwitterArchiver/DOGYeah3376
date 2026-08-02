@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1956999006078509067",
+    "created_at": "2025-08-17T08:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T09:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956999006078509067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "622036546",
+          "start": 3,
+          "username": "oder_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956999006078509067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956725184976855484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oder_666: 愈美的味道是真恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1956999006078509067",
+        "created_at": "2025-08-17T08:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T09:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956999006078509067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "622036546",
+              "start": 3,
+              "username": "oder_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956999006078509067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956725184976855484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oder_666: 愈美的味道是真恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "1956725184976855484",
+        "created_at": "2025-08-16T14:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T15:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956725184976855484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956725184976855484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "愈美的味道是真恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 736,
+          "like_count": 30176,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1469
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "09|负能|自伤|od|非二元|精神病|欢迎互fo| 可以叫我Munou|中文名是無能🥰 我的互关可以找我扩列",
+        "id": "622036546",
+        "location": "精神病院",
+        "name": "むのう",
+        "pinned_tweet_id": "1943307259796459789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953135385317449728/x6Sb1ZoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 129,
+          "like_count": 4594,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1028
+        },
+        "username": "oder_666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1952318750667288806",
+    "created_at": "2025-08-05T11:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T12:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952687804170838378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1916128320103890944",
+          "start": 0,
+          "username": "Angeldust_g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952687804170838378",
+    "in_reply_to_user_id": "1916128320103890944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952684827947253954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angeldust_g 戒断怎么办 我真的很需要一个人/药来帮我去焦虑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1952318750667288806",
+        "created_at": "2025-08-05T11:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T12:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952687804170838378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1916128320103890944",
+              "start": 0,
+              "username": "Angeldust_g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952687804170838378",
+        "in_reply_to_user_id": "1916128320103890944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952684827947253954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angeldust_g 戒断怎么办 我真的很需要一个人/药来帮我去焦虑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916128320103890944",
+        "conversation_id": "1952318750667288806",
+        "created_at": "2025-08-05T10:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T11:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952684827947253954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952684827947253954",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952681127094759566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 控制频率可以降低耐受( ･᷄ὢ･᷅ )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 579,
+          "like_count": 23007,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 800
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T13:52:53.000Z",
+        "description": "存在于世界夹缝之中的幽灵｜#odtwt｜#shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "odtwt"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1916128320103890944",
+        "name": "天使尘",
+        "pinned_tweet_id": "1948394194734924106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934546666427916288/WzGE0zLt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 158,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 562
+        },
+        "username": "Angeldust_g",
+        "verified": false
+      }
+    ]
+  }
+}

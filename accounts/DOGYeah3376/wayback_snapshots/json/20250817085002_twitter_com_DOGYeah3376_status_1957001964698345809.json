@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1956999408731767168",
+    "created_at": "2025-08-17T08:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T09:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957001964698345809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1783437897963556865",
+          "start": 0,
+          "username": "Sllivo307"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957001964698345809",
+    "in_reply_to_user_id": "1783437897963556865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957001388375810485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sllivo307 一起吃😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1956999408731767168",
+        "created_at": "2025-08-17T08:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T09:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957001964698345809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1783437897963556865",
+              "start": 0,
+              "username": "Sllivo307"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957001964698345809",
+        "in_reply_to_user_id": "1783437897963556865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957001388375810485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sllivo307 一起吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783437897963556865",
+        "conversation_id": "1956999408731767168",
+        "created_at": "2025-08-17T08:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T09:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957001388375810485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957001388375810485",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956999408731767168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 我支持你因为我又想买了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 737,
+          "like_count": 30255,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1474
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T10:08:33.000Z",
+        "description": "智商有问题的别和我聊天我怕被传染成傻逼",
+        "id": "1783437897963556865",
+        "name": "你误会了我真的不是恋丑癖",
+        "pinned_tweet_id": "1783441692793635230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956342199442087936/hHYCMsx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 17,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 196
+        },
+        "username": "Sllivo307",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1962869017909342287",
+    "created_at": "2025-09-02T13:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T14:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962869017909342287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Revive_Meink/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Revive_Meink/status/1962863697904169287",
+          "start": 4,
+          "url": "https://t.co/fLsTDeLiUl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962869017909342287",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962863697904169287",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "高端局 https://t.co/fLsTDeLiUl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1962869017909342287",
+        "created_at": "2025-09-02T13:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962869017909342287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Revive_Meink/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Revive_Meink/status/1962863697904169287",
+              "start": 4,
+              "url": "https://t.co/fLsTDeLiUl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962869017909342287",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962863697904169287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高端局 https://t.co/fLsTDeLiUl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1962863696750804992"
+          ]
+        },
+        "author_id": "1884627325398212611",
+        "conversation_id": "1962863687313621376",
+        "created_at": "2025-09-02T13:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962863697904169287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1676500088221478912",
+              "start": 11,
+              "username": "DOGYeah3376"
+            },
+            {
+              "end": 51,
+              "id": "1390652924481527810",
+              "start": 37,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962863697904169287",
+        "in_reply_to_user_id": "1884627325398212611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962863694213255416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二组：\n \n小皮🍥\n@DOGYeah3376\n\nvs\n\n🍀🍥竹蜻蜓🍥🍀\n@zqtlovekris99"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 847,
+          "like_count": 35113,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2032
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "二十二月系统\n\n男的\n\n里推：@knimaisey\n（包括但不限于 崩溃、吐苦水、扭曲病态三观、暴论）\n\n乱涂乱画：@Victimized_P\n（百年一更，画技是坨屎。）\n———\n你好':3 \n我是一个永远八岁的小孩 :D \n梦想是当一辈子长不大的小孩！你的梦想是什么？\n———\n点一下这个？\n｜\nV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "knimaisey"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "username": "Victimized_P"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "location": "SilverLawn",
+        "name": "铭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960065486793650177/G2OaOR4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 252,
+          "like_count": 8746,
+          "listed_count": 3,
+          "media_count": 715,
+          "tweet_count": 4196
+        },
+        "username": "Revive_Meink",
+        "verified": false
+      }
+    ]
+  }
+}

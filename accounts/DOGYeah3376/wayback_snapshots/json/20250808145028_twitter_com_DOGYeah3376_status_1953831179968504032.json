@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1953770958067519857",
+    "created_at": "2025-08-08T14:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T15:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953831179968504032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1933212338674675714",
+          "start": 0,
+          "username": "0v0cc44"
+        },
+        {
+          "end": 22,
+          "id": "1866458229527764992",
+          "start": 9,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953831179968504032",
+    "in_reply_to_user_id": "1933212338674675714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953786523012464970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0v0cc44 @Citrus_amara 我也是...就开始和梦一样的幻想了 但是可以随时拉自己回到现实..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1953770958067519857",
+        "created_at": "2025-08-08T14:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T15:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953831179968504032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1933212338674675714",
+              "start": 0,
+              "username": "0v0cc44"
+            },
+            {
+              "end": 22,
+              "id": "1866458229527764992",
+              "start": 9,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953831179968504032",
+        "in_reply_to_user_id": "1933212338674675714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953786523012464970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0v0cc44 @Citrus_amara 我也是...就开始和梦一样的幻想了 但是可以随时拉自己回到现实..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933212338674675714",
+        "conversation_id": "1953770958067519857",
+        "created_at": "2025-08-08T11:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953786523012464970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953786523012464970",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953770958067519857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 我不清楚是不是解离不过我药效里脑袋里会多很多不存在没经历过的记忆 像是没睡着脑袋里就开始做梦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜无证含糖mtx｜中焦重抑bpd｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 625,
+          "like_count": 24748,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 909
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T17:18:50.000Z",
+        "description": "铭刻存在的痕迹｜OD｜精神病｜泛性恋｜喜欢可爱的孩子｜摄影｜流浪｜…",
+        "id": "1933212338674675714",
+        "location": "风落下的地方",
+        "name": "鲤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953674888881090564/4uBZb2t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 104,
+          "like_count": 819,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 581
+        },
+        "username": "0v0cc44",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "L-星团",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 281,
+          "like_count": 2157,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 988
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1921422435280138259",
+    "created_at": "2025-05-11T09:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T10:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921500921344754120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891923925518647296",
+          "start": 0,
+          "username": "Nacreous_1969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921500921344754120",
+    "in_reply_to_user_id": "1891923925518647296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921422435280138259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nacreous_1969 主播是那种帅帅的姐姐🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 286,
+        "media_key": "3_1921422427973689344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqpDhKLXIAAuXDz.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1921422435280138259",
+        "created_at": "2025-05-11T09:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T10:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921500921344754120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891923925518647296",
+              "start": 0,
+              "username": "Nacreous_1969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921500921344754120",
+        "in_reply_to_user_id": "1891923925518647296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921422435280138259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nacreous_1969 主播是那种帅帅的姐姐🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921422427973689344"
+          ]
+        },
+        "author_id": "1891923925518647296",
+        "conversation_id": "1921422435280138259",
+        "created_at": "2025-05-11T04:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T05:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921422435280138259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sD8VF2I0Oe",
+              "end": 105,
+              "expanded_url": "https://x.com/Nacreous_1969/status/1921422435280138259/photo/1",
+              "media_key": "3_1921422427973689344",
+              "start": 82,
+              "url": "https://t.co/sD8VF2I0Oe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921422435280138259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今个寄个快递，上门了我把东西给他，又下了一单，包装的时候叫我，美…帅哥？，欲美又止啊嗯。后面给他找了几个差不多大的包装盒，最后一次还是叫美女了，还是太雌雄莫辨了。 https://t.co/sD8VF2I0Oe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 206,
+          "like_count": 4458,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 215
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T18:53:14.000Z",
+        "description": "无性恋、愿望是变水仙｜转生常客｜阿斯说是｜欢迎互fo｜想要有好多宝宝开幼儿园｜小号@Narcissus_1969",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "Narcissus_1969"
+              }
+            ]
+          }
+        },
+        "id": "1891923925518647296",
+        "name": "ˊ ∇ ˋ",
+        "pinned_tweet_id": "1896286314410238362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891924024084619264/BMGMJAcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 47,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 345
+        },
+        "username": "Nacreous_1969",
+        "verified": false
+      }
+    ]
+  }
+}

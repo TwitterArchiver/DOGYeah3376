@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1893567644982485188",
+    "created_at": "2025-02-23T07:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T08:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893567644982485188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 63,
+          "id": "868831876315848705",
+          "start": 54,
+          "username": "idr_labs"
+        }
+      ],
+      "urls": [
+        {
+          "description": "我的性别坐标：",
+          "display_url": "idrlabs.com/cn/gender-coor…",
+          "end": 49,
+          "expanded_url": "https://www.idrlabs.com/cn/gender-coordinates/25-61.25/result.php",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1893567645724876800/nLRMadXO?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1893567645724876800/nLRMadXO?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 26,
+          "status": 200,
+          "title": "我是25%男性，61.25%女性，我属于女性象限。",
+          "unwound_url": "https://www.idrlabs.com/cn/gender-coordinates/25-61.25/result.php",
+          "url": "https://t.co/MG2sOxxC0u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893567644982485188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是25%男性，61.25%女性，我属于女性象限。 https://t.co/MG2sOxxC0u via @idr_labs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1893567644982485188",
+        "created_at": "2025-02-23T07:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T08:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893567644982485188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 63,
+              "id": "868831876315848705",
+              "start": 54,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "我的性别坐标：",
+              "display_url": "idrlabs.com/cn/gender-coor…",
+              "end": 49,
+              "expanded_url": "https://www.idrlabs.com/cn/gender-coordinates/25-61.25/result.php",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1893567645724876800/nLRMadXO?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1893567645724876800/nLRMadXO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "我是25%男性，61.25%女性，我属于女性象限。",
+              "unwound_url": "https://www.idrlabs.com/cn/gender-coordinates/25-61.25/result.php",
+              "url": "https://t.co/MG2sOxxC0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893567644982485188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是25%男性，61.25%女性，我属于女性象限。 https://t.co/MG2sOxxC0u via @idr_labs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我们又该何去何从../mtf/10-1-23/178cm/110斤/讨厌肢体接触/infp/睡不醒～/缺爱/不回消息可能是死了也可能是在学校/特斯拉车主 求求了别封我号",
+        "id": "1676500088221478912",
+        "name": "小皮🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 24,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T14:10:36.000Z",
+        "description": "",
+        "id": "868831876315848705",
+        "name": "IDR Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966651156813504512/DxWIg43W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9884,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 44,
+          "media_count": 19,
+          "tweet_count": 790
+        },
+        "username": "idr_labs",
+        "verified": false
+      }
+    ]
+  }
+}

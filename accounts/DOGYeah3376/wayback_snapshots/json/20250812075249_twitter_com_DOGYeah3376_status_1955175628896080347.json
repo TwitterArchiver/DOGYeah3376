@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1955175628896080347",
+    "created_at": "2025-08-12T07:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T08:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955175628896080347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kagurazakaazur…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/kagurazakaazure/status/1955160987050606926",
+          "start": 8,
+          "url": "https://t.co/BT5uDcYuNG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955175628896080347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955160987050606926",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也不想上学。 https://t.co/BT5uDcYuNG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1955175628896080347",
+        "created_at": "2025-08-12T07:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T08:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955175628896080347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagurazakaazur…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/kagurazakaazure/status/1955160987050606926",
+              "start": 8,
+              "url": "https://t.co/BT5uDcYuNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955175628896080347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955160987050606926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也不想上学。 https://t.co/BT5uDcYuNG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1955160987050606926",
+        "created_at": "2025-08-12T06:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T07:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955160987050606926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955160987050606926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生你妈逼学，老子不想读大学我他妈想自杀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 674,
+          "like_count": 26840,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1205
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "读书和抽大麻没有区别，都是捧着死掉的植物产生幻觉。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "7sRef",
+        "name": "翎檬味的水彩笔🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953644429375680514/GLsW-xlM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7949,
+          "following_count": 1319,
+          "like_count": 43250,
+          "listed_count": 10,
+          "media_count": 3105,
+          "tweet_count": 24917
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

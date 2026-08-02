@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1955088450593435701",
+    "created_at": "2025-08-12T06:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T07:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955148282646417553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680508885394927616",
+          "start": 0,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955148282646417553",
+    "in_reply_to_user_id": "1680508885394927616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955088450593435701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_realname 好像之前几个月前出过事 就是关于这些针剂 很多药商什么日雌都不敢卖了就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1955088450593435701",
+        "created_at": "2025-08-12T06:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T07:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955148282646417553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955148282646417553",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955088450593435701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname 好像之前几个月前出过事 就是关于这些针剂 很多药商什么日雌都不敢卖了就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680508885394927616",
+        "conversation_id": "1955088450593435701",
+        "created_at": "2025-08-12T02:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T03:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955088450593435701"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "hrt"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "ftm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955088450593435701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 769,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为要上学 真名想换一种hrt给药方式 换成十一酸睾酮针剂 推油们有靠谱的药商推荐吗\n#hrt #ftm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 674,
+          "like_count": 26701,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1188
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "不要自杀，我可以陪你聊天。❤️：@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10988,
+          "following_count": 6134,
+          "like_count": 63987,
+          "listed_count": 31,
+          "media_count": 2515,
+          "tweet_count": 18623
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

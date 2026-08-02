@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2063598774887629254",
+    "created_at": "2026-06-08T06:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063873153219297618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847991999812841472",
+          "start": 0,
+          "username": "okone_ile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063873153219297618",
+    "in_reply_to_user_id": "1847991999812841472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063599272399175686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@okone_ile 对。普瑞上瘾之后我就没有完全戒掉的经历。\n不要尝试普瑞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2063598774887629254",
+        "created_at": "2026-06-08T06:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063873153219297618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847991999812841472",
+              "start": 0,
+              "username": "okone_ile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063873153219297618",
+        "in_reply_to_user_id": "1847991999812841472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063599272399175686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@okone_ile 对。普瑞上瘾之后我就没有完全戒掉的经历。\n不要尝试普瑞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847991999812841472",
+        "conversation_id": "2063598774887629254",
+        "created_at": "2026-06-07T12:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063599272399175686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063599272399175686",
+        "in_reply_to_user_id": "1847991999812841472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 901,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063598774887629254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "だから、依存性のあるエフェドリンとかコデインとかトラマドールとかプレガバリンとかブロモバレリル尿素とかにハマると予後悪い\nメジコンで時々遊ぶのは割といい選択だと思う、辞めやすいから"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 1132,
+          "like_count": 75522,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 5335
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T13:23:32.000Z",
+        "description": "青学生 07♀ お別れブロック\n@okonekonosub \n最愛の恋人💍@u06112o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "okonekonosub"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "username": "u06112o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "A.double.suicide.com",
+                "end": 23,
+                "expanded_url": "http://A.double.suicide.com",
+                "start": 0,
+                "url": "https://t.co/8qwNI2gCwL"
+              }
+            ]
+          }
+        },
+        "id": "1847991999812841472",
+        "location": "まじめにふまじめ❤︎",
+        "name": "おこねこ",
+        "pinned_tweet_id": "2056701230949535894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057758986708172800/kDeGcCCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 169,
+          "like_count": 10377,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 1814
+        },
+        "url": "https://t.co/8qwNI2gCwL",
+        "username": "okone_ile",
+        "verified": false
+      }
+    ]
+  }
+}

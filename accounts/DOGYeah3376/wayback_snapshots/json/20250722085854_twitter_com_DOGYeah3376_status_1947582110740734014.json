@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947464726705016834"
+      ],
+      "media_source_tweet_id": [
+        "1947464730408538242"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1947582110740734014",
+    "created_at": "2025-07-22T08:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T09:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947582110740734014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1460246971382308866",
+          "start": 3,
+          "username": "qibao269"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qMaeTWjcNP",
+          "end": 80,
+          "expanded_url": "https://x.com/qibao269/status/1947464730408538242/photo/1",
+          "media_key": "3_1947464726705016834",
+          "start": 57,
+          "url": "https://t.co/qMaeTWjcNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947582110740734014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947464730408538242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qibao269: 很多人提出说，我们应该“废除性别”。我认为这种讲法比较模糊，具体说来，我们应该 —— https://t.co/qMaeTWjcNP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2263,
+        "media_key": "3_1947464726705016834",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwbI2c_bEAIeQKh.jpg",
+        "width": 1482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947464726705016834"
+          ],
+          "media_source_tweet_id": [
+            "1947464730408538242"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1947582110740734014",
+        "created_at": "2025-07-22T08:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T09:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947582110740734014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1460246971382308866",
+              "start": 3,
+              "username": "qibao269"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qMaeTWjcNP",
+              "end": 80,
+              "expanded_url": "https://x.com/qibao269/status/1947464730408538242/photo/1",
+              "media_key": "3_1947464726705016834",
+              "start": 57,
+              "url": "https://t.co/qMaeTWjcNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947582110740734014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947464730408538242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qibao269: 很多人提出说，我们应该“废除性别”。我认为这种讲法比较模糊，具体说来，我们应该 —— https://t.co/qMaeTWjcNP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947464726705016834"
+          ]
+        },
+        "author_id": "1460246971382308866",
+        "conversation_id": "1947464730408538242",
+        "created_at": "2025-07-22T01:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T02:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947464730408538242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qMaeTWjcNP",
+              "end": 66,
+              "expanded_url": "https://x.com/qibao269/status/1947464730408538242/photo/1",
+              "media_key": "3_1947464726705016834",
+              "start": 43,
+              "url": "https://t.co/qMaeTWjcNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947464730408538242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3281,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "很多人提出说，我们应该“废除性别”。我认为这种讲法比较模糊，具体说来，我们应该 —— https://t.co/qMaeTWjcNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "是一只可爱的小狗呀｜15岁无证含糖mtx｜含糖2025.6.4｜深柜｜自伤 od｜互fo｜买糖找@pattifly｜最好的妹妹@xiaoyieQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "pattifly"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 452,
+          "like_count": 17852,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 613
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-15T14:03:12.000Z",
+        "description": "我是小药娘糖商 现在我就是客服一样下单发货 泰色加补652 单一泰色650 泰补84 减肥药透明971 （仰制食欲 分解脂肪）白色971排出油脂的 （买透明971送白色971）每次下单后都要截图订单号给我确认后发货哦 买糖咨询下单请私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yaoyaomiao",
+                "end": 23,
+                "expanded_url": "https://t.me/yaoyaomiao",
+                "start": 0,
+                "url": "https://t.co/WerkIoi7gS"
+              }
+            ]
+          }
+        },
+        "id": "1460246971382308866",
+        "location": "泰国",
+        "name": "卖糖的小药娘可平台🍥",
+        "pinned_tweet_id": "1698554030287671772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921923963158208512/taaQ-kv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4981,
+          "following_count": 1275,
+          "like_count": 2012,
+          "listed_count": 12,
+          "media_count": 254,
+          "tweet_count": 1757
+        },
+        "url": "https://t.co/WerkIoi7gS",
+        "username": "qibao269",
+        "verified": true
+      }
+    ]
+  }
+}

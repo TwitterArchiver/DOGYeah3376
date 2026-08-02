@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1953663863477424586",
+    "created_at": "2025-08-08T04:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T05:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953674918216052766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1592189823892295680",
+          "start": 0,
+          "username": "MaplesyrupMagic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953674918216052766",
+    "in_reply_to_user_id": "1592189823892295680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953663863477424586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaplesyrupMagic 感觉坐飞机会好点（？\n因为没有网络什么的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1953663863477424586",
+        "created_at": "2025-08-08T04:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T05:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953674918216052766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1592189823892295680",
+              "start": 0,
+              "username": "MaplesyrupMagic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953674918216052766",
+        "in_reply_to_user_id": "1592189823892295680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953663863477424586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaplesyrupMagic 感觉坐飞机会好点（？\n因为没有网络什么的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592189823892295680",
+        "conversation_id": "1953663863477424586",
+        "created_at": "2025-08-08T03:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T04:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953663863477424586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953663863477424586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "火车上有人睡觉打呼噜，有人抖音外放，有小孩乱叫，我想杀人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 608,
+          "like_count": 24346,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 874
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T16:16:58.000Z",
+        "description": "还活着已经战胜百分之百死掉的人了",
+        "id": "1592189823892295680",
+        "location": "床上",
+        "name": "Magic枫糖",
+        "pinned_tweet_id": "1948957698655166873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937444677961285634/oZLqCZ7O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 639,
+          "like_count": 7024,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1279
+        },
+        "username": "MaplesyrupMagic",
+        "verified": false
+      }
+    ]
+  }
+}

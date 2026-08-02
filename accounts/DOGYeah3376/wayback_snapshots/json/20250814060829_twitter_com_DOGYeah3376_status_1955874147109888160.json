@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1955824270124392586",
+    "created_at": "2025-08-14T06:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T07:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955874147109888160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892240715100594176",
+          "start": 0,
+          "username": "chuF6yuanmen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955874147109888160",
+    "in_reply_to_user_id": "1892240715100594176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955824270124392586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuF6yuanmen 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1955824270124392586",
+        "created_at": "2025-08-14T06:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T07:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955874147109888160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892240715100594176",
+              "start": 0,
+              "username": "chuF6yuanmen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955874147109888160",
+        "in_reply_to_user_id": "1892240715100594176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955824270124392586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuF6yuanmen 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892240715100594176",
+        "conversation_id": "1955824270124392586",
+        "created_at": "2025-08-14T02:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T03:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955824270124392586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955824270124392586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只拥抱的话多少钱…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 699,
+          "like_count": 28100,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1358
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T15:52:22.000Z",
+        "description": "04｜hrt:25 3.1🍥｜喵喵喵｜mtf｜174/50｜是个废物｜同类互fo｜不见证",
+        "id": "1892240715100594176",
+        "name": "⁺✞假期重度依赖ɞ✟₊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916893727714684928/Jly1jONk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 584,
+          "like_count": 3392,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1439
+        },
+        "username": "chuF6yuanmen",
+        "verified": false
+      }
+    ]
+  }
+}

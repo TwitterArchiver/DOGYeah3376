@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053373879813636096"
+      ],
+      "media_source_tweet_id": [
+        "2053373947178287523"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "2054061830667112534",
+    "created_at": "2026-05-12T04:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T05:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054061830667112534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1859513376168345600",
+          "start": 3,
+          "username": "mmdmggdg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MfgnrcllDA",
+          "end": 41,
+          "expanded_url": "https://x.com/mmdmggdg/status/2053373947178287523/photo/1",
+          "media_key": "3_2053373879813636096",
+          "start": 18,
+          "url": "https://t.co/MfgnrcllDA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054061830667112534",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 702
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053373947178287523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmdmggdg: ·_， https://t.co/MfgnrcllDA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2053373879813636096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8MqhlbgAAA_0u.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053373879813636096"
+          ],
+          "media_source_tweet_id": [
+            "2053373947178287523"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "2054061830667112534",
+        "created_at": "2026-05-12T04:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T05:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054061830667112534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1859513376168345600",
+              "start": 3,
+              "username": "mmdmggdg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfgnrcllDA",
+              "end": 41,
+              "expanded_url": "https://x.com/mmdmggdg/status/2053373947178287523/photo/1",
+              "media_key": "3_2053373879813636096",
+              "start": 18,
+              "url": "https://t.co/MfgnrcllDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054061830667112534",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 702
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053373947178287523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmdmggdg: ·_， https://t.co/MfgnrcllDA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053373879813636096"
+          ]
+        },
+        "author_id": "1859513376168345600",
+        "conversation_id": "2053373947178287523",
+        "created_at": "2026-05-10T07:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053373947178287523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfgnrcllDA",
+              "end": 27,
+              "expanded_url": "https://x.com/mmdmggdg/status/2053373947178287523/photo/1",
+              "media_key": "3_2053373879813636096",
+              "start": 4,
+              "url": "https://t.co/MfgnrcllDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053373947178287523",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 120190,
+          "like_count": 5097,
+          "quote_count": 40,
+          "reply_count": 33,
+          "retweet_count": 702
+        },
+        "reply_settings": "everyone",
+        "text": "·_， https://t.co/MfgnrcllDA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 1140,
+          "like_count": 74807,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 5248
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T08:25:29.000Z",
+        "description": "23｜搞砸小狗把自己拼回來了 ⌏𖾕𖾝꙼ᩚ𛲕𖾟ੑ ̼̮᳗⸝ܸ︧ࣺ˄ࣹ˄⸜ܸ︨𞣒 ᦣ𞣒⸃=========3｜繼續當迷途小狗 ꒰ ´͈ω`͈꒱｜不換臉照 不想破壞你們的幻想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mmdmggdg1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mmdmggdg1",
+                "start": 0,
+                "url": "https://t.co/Q1iqO1US9X"
+              }
+            ]
+          }
+        },
+        "id": "1859513376168345600",
+        "location": "出門散步踩到彈殼",
+        "name": "𝗦𝗮𝘀𝗼𝗿𝗶𝗶",
+        "pinned_tweet_id": "2037527776283304441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048975390413369344/ZXxZvTeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5817,
+          "following_count": 304,
+          "like_count": 37914,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 1015
+        },
+        "url": "https://t.co/Q1iqO1US9X",
+        "username": "mmdmggdg",
+        "verified": false
+      }
+    ]
+  }
+}

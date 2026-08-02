@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945700446527512576"
+      ],
+      "media_source_tweet_id": [
+        "1945700449686011949"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1946400390729388339",
+    "created_at": "2025-07-19T02:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T03:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946400390729388339"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1455144569188749316",
+          "start": 3,
+          "username": "laplacemaow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z5X8CEGKFj",
+          "end": 124,
+          "expanded_url": "https://x.com/laplacemaow/status/1945700449686011949/photo/1",
+          "media_key": "3_1945700446527512576",
+          "start": 101,
+          "url": "https://t.co/z5X8CEGKFj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946400390729388339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945700449686011949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laplacemaow: 要说药娘的优势么\n打雌半个月才发情一次\n比男体炫压抑状态\n每天打胶\n脑子被性欲控制好太多了👌🏻\n省下来的发情时间可以用来提升自我\n😉上进的男生都应该变成xyn\n#男娘 https://t.co/z5X8CEGKFj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945700446527512576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwCEP1KXYAAJKdr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945700446527512576"
+          ],
+          "media_source_tweet_id": [
+            "1945700449686011949"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1946400390729388339",
+        "created_at": "2025-07-19T02:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T03:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946400390729388339"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "男娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1455144569188749316",
+              "start": 3,
+              "username": "laplacemaow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5X8CEGKFj",
+              "end": 124,
+              "expanded_url": "https://x.com/laplacemaow/status/1945700449686011949/photo/1",
+              "media_key": "3_1945700446527512576",
+              "start": 101,
+              "url": "https://t.co/z5X8CEGKFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946400390729388339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945700449686011949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laplacemaow: 要说药娘的优势么\n打雌半个月才发情一次\n比男体炫压抑状态\n每天打胶\n脑子被性欲控制好太多了👌🏻\n省下来的发情时间可以用来提升自我\n😉上进的男生都应该变成xyn\n#男娘 https://t.co/z5X8CEGKFj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945700446527512576"
+          ]
+        },
+        "author_id": "1455144569188749316",
+        "conversation_id": "1945700449686011949",
+        "created_at": "2025-07-17T04:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T05:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945700449686011949"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5X8CEGKFj",
+              "end": 107,
+              "expanded_url": "https://x.com/laplacemaow/status/1945700449686011949/photo/1",
+              "media_key": "3_1945700446527512576",
+              "start": 84,
+              "url": "https://t.co/z5X8CEGKFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945700449686011949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 59424,
+          "like_count": 569,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "要说药娘的优势么\n打雌半个月才发情一次\n比男体炫压抑状态\n每天打胶\n脑子被性欲控制好太多了👌🏻\n省下来的发情时间可以用来提升自我\n😉上进的男生都应该变成xyn\n#男娘 https://t.co/z5X8CEGKFj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx 自伤 od 互fo 最好的妹妹@xiaoyieQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 427,
+          "like_count": 16857,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 558
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T12:08:04.000Z",
+        "description": "🥳👉🏻新号@ogrinsama/病娇/社畜|想变好看rle中/INTJ人格/偏S/非二元/是武装直升机/抽象锐评区推主❤️/口嗨怪别太认真/随缘更新❤️|经常意识流❤️/（长期缺朋友/需要你来主动）/魔怔人会屏蔽/【❤️最好的女儿Undyne🐟❤️】\n门槛🚪:2✖️疯狂星期四zfb口令🧧😉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "ogrinsama"
+              }
+            ]
+          }
+        },
+        "id": "1455144569188749316",
+        "location": "重庆/武汉",
+        "name": "寒糖欧格林🍥🎀",
+        "pinned_tweet_id": "1785642657592799586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861863293742407680/JSp-mM3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7655,
+          "following_count": 422,
+          "like_count": 4882,
+          "listed_count": 19,
+          "media_count": 139,
+          "tweet_count": 2463
+        },
+        "username": "laplacemaow",
+        "verified": false
+      }
+    ]
+  }
+}

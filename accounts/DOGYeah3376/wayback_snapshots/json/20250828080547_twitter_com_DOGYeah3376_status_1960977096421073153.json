@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1960977096421073153",
+    "created_at": "2025-08-28T08:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T09:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960977096421073153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/citrus_amara/s…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/citrus_amara/status/1960669710514528455",
+          "start": 27,
+          "url": "https://t.co/Oi8CWwc5pB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960977096421073153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 21,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960669710514528455",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开学我想每天都在pr的药效里面\n小皮的社交能力好弱。 https://t.co/Oi8CWwc5pB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1960977096421073153",
+        "created_at": "2025-08-28T08:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T09:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960977096421073153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/citrus_amara/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/citrus_amara/status/1960669710514528455",
+              "start": 27,
+              "url": "https://t.co/Oi8CWwc5pB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960977096421073153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960669710514528455",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开学我想每天都在pr的药效里面\n小皮的社交能力好弱。 https://t.co/Oi8CWwc5pB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1960669213418234095",
+        "created_at": "2025-08-27T11:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T12:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960669710514528455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960669710514528455",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960669560740192696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我顶着普瑞和他聊天能把天聊死，哥们啊？？？我很开朗了好不好我不吃普瑞我是一句话都说不出来的那种人你知道吗？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 826,
+          "like_count": 34380,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1872
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 371,
+          "like_count": 4699,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1884
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

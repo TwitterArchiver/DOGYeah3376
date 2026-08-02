@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1974007642864439451",
+    "created_at": "2025-10-04T06:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T07:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974357191718289594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "522147771",
+          "start": 0,
+          "username": "N_N_DPT"
+        },
+        {
+          "end": 18,
+          "id": "1646454241324830720",
+          "start": 9,
+          "username": "tube1925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974357191718289594",
+    "in_reply_to_user_id": "522147771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974085095930945704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N_N_DPT @tube1925 最没钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1974007642864439451",
+        "created_at": "2025-10-04T06:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T07:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974357191718289594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "522147771",
+              "start": 0,
+              "username": "N_N_DPT"
+            },
+            {
+              "end": 18,
+              "id": "1646454241324830720",
+              "start": 9,
+              "username": "tube1925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974357191718289594",
+        "in_reply_to_user_id": "522147771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974085095930945704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_N_DPT @tube1925 最没钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "522147771",
+        "conversation_id": "1974007642864439451",
+        "created_at": "2025-10-03T12:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T13:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974085095930945704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646454241324830720",
+              "start": 0,
+              "username": "tube1925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974085095930945704",
+        "in_reply_to_user_id": "1646454241324830720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974079292041789473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tube1925 逾期了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1971966535494521160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 958,
+          "like_count": 47796,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 2994
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "化学极乐百科:https://t.co/pYOLeaidWM\n博客：https://t.co/KtrQvROgFR\ngalgame资源站：https://t.co/WlcdxebtRf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "https://www.overdose.day",
+                "start": 7,
+                "url": "https://t.co/pYOLeaidWM"
+              },
+              {
+                "display_url": "blog.pr80.bid",
+                "end": 57,
+                "expanded_url": "https://blog.pr80.bid",
+                "start": 34,
+                "url": "https://t.co/KtrQvROgFR"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 92,
+                "expanded_url": "https://www.pr80.bid/",
+                "start": 69,
+                "url": "https://t.co/WlcdxebtRf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYAeM8"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二丙基色胺🔯",
+        "pinned_tweet_id": "1966707693030408507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 2089,
+          "like_count": 722,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 1169
+        },
+        "url": "https://t.co/c6WOvYAeM8",
+        "username": "N_N_DPT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T10:04:33.000Z",
+        "description": "Hola!你好,我是一只也可以叫我will/男性/高中生(休学)/NEET/友跨🏳️‍⚧️/酒精依赖🥃/信仰天主✝️/爱好:撸猫🐱/摄影📷/文学📖使用的语言:中文🇨🇳英语🇺🇸西语🇲🇽/适度涉政/主要发点碎碎念和日常/一个在人间凑数的废柴",
+        "id": "1646454241324830720",
+        "location": "小马利亚,坎特洛特城",
+        "name": "一只",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872125929033752576/g6_gdy6W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 91,
+          "like_count": 20511,
+          "listed_count": 2,
+          "media_count": 319,
+          "tweet_count": 10238
+        },
+        "username": "tube1925",
+        "verified": false
+      }
+    ]
+  }
+}

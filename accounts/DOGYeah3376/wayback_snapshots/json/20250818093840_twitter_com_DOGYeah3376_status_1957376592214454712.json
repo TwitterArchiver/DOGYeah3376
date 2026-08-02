@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1957376592214454712",
+    "created_at": "2025-08-18T09:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T10:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957376592214454712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1479696561302999042",
+          "start": 3,
+          "username": "quite8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957376592214454712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956769384531419462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quite8964: 其实，免术换证的一个底层逻辑是，性别在这个地方已经被解构了，换句话说，就是无论你是男是女，在法律/行政/制度上不会被区别对待，是性别平等的一种体现。\n\n但是国内目前是“重女轻男”的制度/法律环境，身份证第一位是姓名第二位就是性别。想要实现平等都难办…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1957376592214454712",
+        "created_at": "2025-08-18T09:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T10:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957376592214454712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1479696561302999042",
+              "start": 3,
+              "username": "quite8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957376592214454712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956769384531419462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quite8964: 其实，免术换证的一个底层逻辑是，性别在这个地方已经被解构了，换句话说，就是无论你是男是女，在法律/行政/制度上不会被区别对待，是性别平等的一种体现。\n\n但是国内目前是“重女轻男”的制度/法律环境，身份证第一位是姓名第二位就是性别。想要实现平等都难办…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479696561302999042",
+        "conversation_id": "1956769384531419462",
+        "created_at": "2025-08-16T17:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T18:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956769384531419462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mukdengise/sta…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/mukdengise/status/1956405403627225567",
+              "start": 140,
+              "url": "https://t.co/kfZc2kWVK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956769384531419462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7059,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956405403627225567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实，免术换证的一个底层逻辑是，性别在这个地方已经被解构了，换句话说，就是无论你是男是女，在法律/行政/制度上不会被区别对待，是性别平等的一种体现。\n\n但是国内目前是“重女轻男”的制度/法律环境，身份证第一位是姓名第二位就是性别。想要实现平等都难办，更不要说消解性别这一概念了。 https://t.co/kfZc2kWVK8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 749,
+          "like_count": 30565,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1527
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "pinned_tweet_id": "1941924482798788819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10589,
+          "following_count": 2902,
+          "like_count": 31008,
+          "listed_count": 23,
+          "media_count": 655,
+          "tweet_count": 13679
+        },
+        "username": "quite8964",
+        "verified": false
+      }
+    ]
+  }
+}

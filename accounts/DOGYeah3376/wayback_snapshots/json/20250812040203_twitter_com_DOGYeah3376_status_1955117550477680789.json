@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1954958508333601163",
+    "created_at": "2025-08-12T04:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T05:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955117550477680789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2840236608",
+          "start": 0,
+          "username": "StarNekOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955117550477680789",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955117064743719156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarNekOvO 不用申请吗👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1954958508333601163",
+        "created_at": "2025-08-12T04:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955117550477680789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2840236608",
+              "start": 0,
+              "username": "StarNekOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955117550477680789",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955117064743719156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarNekOvO 不用申请吗👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "1954958508333601163",
+        "created_at": "2025-08-12T04:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955117064743719156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955117064743719156",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955116966005686289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 门票70多x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 671,
+          "like_count": 26624,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1172
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "⭐️🌕Queer? 安全(心理学)/算法，可以在新加坡/杭州/吉隆坡偶遇 ，暑假 0721 术略略略，然后可能去🇵🇹🇳🇱🇫🇮，INFJ 双相重抑躁焦bpdADHD，吃🧱才能动呀。 Star ＞ whoami⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ㅤ⠀／dev／null",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/nVL53sBJjI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "Star Neko🪼",
+        "pinned_tweet_id": "1951156001383784733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954523179210412032/uPFFzavK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3856,
+          "following_count": 1748,
+          "like_count": 22548,
+          "listed_count": 12,
+          "media_count": 970,
+          "tweet_count": 8086
+        },
+        "url": "https://t.co/nVL53sBJjI",
+        "username": "StarNekOvO",
+        "verified": true
+      }
+    ]
+  }
+}

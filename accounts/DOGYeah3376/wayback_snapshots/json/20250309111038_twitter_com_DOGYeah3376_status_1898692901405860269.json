@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898391164715483137"
+      ],
+      "media_source_tweet_id": [
+        "1898391172558794869"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1898692901405860269",
+    "created_at": "2025-03-09T11:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T12:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898692901405860269"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "ミクの日"
+        },
+        {
+          "end": 31,
+          "start": 22,
+          "tag": "ミクの日2025"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1419597578866335744",
+          "start": 3,
+          "username": "ArameDraw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AQ3A7GZYyV",
+          "end": 55,
+          "expanded_url": "https://x.com/ArameDraw/status/1898391172558794869/photo/1",
+          "media_key": "3_1898391164715483137",
+          "start": 32,
+          "url": "https://t.co/AQ3A7GZYyV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898692901405860269",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1976
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898391172558794869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArameDraw: #ミクの日\n #ミクの日2025 https://t.co/AQ3A7GZYyV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1416,
+        "media_key": "3_1898391164715483137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlhwtMmbQAEiOJ9.jpg",
+        "width": 1003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898391164715483137"
+          ],
+          "media_source_tweet_id": [
+            "1898391172558794869"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1898692901405860269",
+        "created_at": "2025-03-09T11:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T12:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898692901405860269"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "ミクの日"
+            },
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "ミクの日2025"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1419597578866335744",
+              "start": 3,
+              "username": "ArameDraw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQ3A7GZYyV",
+              "end": 55,
+              "expanded_url": "https://x.com/ArameDraw/status/1898391172558794869/photo/1",
+              "media_key": "3_1898391164715483137",
+              "start": 32,
+              "url": "https://t.co/AQ3A7GZYyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898692901405860269",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1976
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898391172558794869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArameDraw: #ミクの日\n #ミクの日2025 https://t.co/AQ3A7GZYyV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898391164715483137"
+          ]
+        },
+        "author_id": "1419597578866335744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          }
+        ],
+        "conversation_id": "1898391172558794869",
+        "created_at": "2025-03-08T15:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T16:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898391172558794869"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ミクの日"
+            },
+            {
+              "end": 16,
+              "start": 7,
+              "tag": "ミクの日2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQ3A7GZYyV",
+              "end": 40,
+              "expanded_url": "https://x.com/ArameDraw/status/1898391172558794869/photo/1",
+              "media_key": "3_1898391164715483137",
+              "start": 17,
+              "url": "https://t.co/AQ3A7GZYyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898391172558794869",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 710,
+          "impression_count": 152984,
+          "like_count": 15957,
+          "quote_count": 12,
+          "reply_count": 7,
+          "retweet_count": 1976
+        },
+        "reply_settings": "everyone",
+        "text": "#ミクの日\n #ミクの日2025 https://t.co/AQ3A7GZYyV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我们又该何去何从../mtx？/10-1-23/178cm/107斤/讨厌肢体接触/infp/睡不醒～/缺爱/特斯拉车主 求求了别封我号/淡推",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 90,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 73
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T09:56:58.000Z",
+        "description": "何かあればDMかメールまで✨ Skeb→https://t.co/SNBGlyExPc FANBOX→https://t.co/Y21lZg1sj3 メール→aramedraw@gmail.com https://t.co/ndVfJQdcVe うちの子FA感想→#あらめどろう",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 139,
+                "start": 132,
+                "tag": "あらめどろう"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ArameDraw",
+                "end": 43,
+                "expanded_url": "http://skeb.jp/@ArameDraw",
+                "start": 20,
+                "url": "https://t.co/SNBGlyExPc"
+              },
+              {
+                "display_url": "aramedraw.fanbox.cc",
+                "end": 74,
+                "expanded_url": "http://aramedraw.fanbox.cc",
+                "start": 51,
+                "url": "https://t.co/Y21lZg1sj3"
+              },
+              {
+                "display_url": "youtube.com/@ARAMEDRAW",
+                "end": 122,
+                "expanded_url": "https://www.youtube.com/@ARAMEDRAW",
+                "start": 99,
+                "url": "https://t.co/ndVfJQdcVe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/Aram…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/ArameDraw",
+                "start": 0,
+                "url": "https://t.co/pE8NXyXSdV"
+              }
+            ]
+          }
+        },
+        "id": "1419597578866335744",
+        "location": "AI学習✖️無断転載、無断利用も✖️",
+        "name": "あらめ",
+        "pinned_tweet_id": "1887641362683863185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882557192307695617/BQ7_ybaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6645,
+          "following_count": 372,
+          "like_count": 5896,
+          "listed_count": 63,
+          "media_count": 977,
+          "tweet_count": 10591
+        },
+        "url": "https://t.co/pE8NXyXSdV",
+        "username": "ArameDraw",
+        "verified": false
+      }
+    ]
+  }
+}

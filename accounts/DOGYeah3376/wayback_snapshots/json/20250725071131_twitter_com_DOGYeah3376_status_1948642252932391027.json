@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1947143245190062127",
+    "created_at": "2025-07-25T07:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T08:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948642252932391027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836667117896388608",
+          "start": 0,
+          "username": "henrik12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948642252932391027",
+    "in_reply_to_user_id": "1836667117896388608",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948642129322147905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@henrik12138 😘😘😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1947143245190062127",
+        "created_at": "2025-07-25T07:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T08:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948642252932391027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836667117896388608",
+              "start": 0,
+              "username": "henrik12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948642252932391027",
+        "in_reply_to_user_id": "1836667117896388608",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948642129322147905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@henrik12138 😘😘😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836667117896388608",
+        "conversation_id": "1947143245190062127",
+        "created_at": "2025-07-25T07:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T08:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948642129322147905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948642129322147905",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948641867337531609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 真乖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 469,
+          "like_count": 18497,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 623
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T07:22:29.000Z",
+        "description": "叫我小唯就好 日常嗑药 打游戏  欢迎找我聊天",
+        "id": "1836667117896388608",
+        "name": "普瑞巴林单推人",
+        "pinned_tweet_id": "1943215825529242092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910713555806281734/oBUXKSoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 101,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 230
+        },
+        "username": "henrik12138",
+        "verified": false
+      }
+    ]
+  }
+}

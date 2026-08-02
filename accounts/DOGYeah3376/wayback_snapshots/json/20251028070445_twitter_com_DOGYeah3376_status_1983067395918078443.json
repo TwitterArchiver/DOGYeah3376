@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1983067115885400436",
+    "created_at": "2025-10-28T07:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T08:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983067395918078443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1970504759762419712",
+          "start": 0,
+          "username": "DRepouso1119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983067395918078443",
+    "in_reply_to_user_id": "1970504759762419712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983067115885400436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DRepouso1119 哦不…指甲😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983066871575523331",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VE0B4asAMuWeN.jpg",
+        "width": 1388
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983066868115222529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VEz0_asAEgDQ3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983066868115222528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VEz0_asAAouzY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983066868903751683",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VEz37asAML4NC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1983067115885400436",
+        "created_at": "2025-10-28T07:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T08:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983067395918078443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DRepouso1119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983067395918078443",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983067115885400436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DRepouso1119 哦不…指甲😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983066871575523331",
+            "3_1983066868115222529",
+            "3_1983066868115222528",
+            "3_1983066868903751683"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983067115885400436",
+        "created_at": "2025-10-28T07:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T08:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983067115885400436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T9PagOG5Lq",
+              "end": 51,
+              "expanded_url": "https://x.com/DRepouso1119/status/1983067115885400436/photo/1",
+              "media_key": "3_1983066871575523331",
+              "start": 28,
+              "url": "https://t.co/T9PagOG5Lq"
+            },
+            {
+              "display_url": "pic.x.com/T9PagOG5Lq",
+              "end": 51,
+              "expanded_url": "https://x.com/DRepouso1119/status/1983067115885400436/photo/1",
+              "media_key": "3_1983066868115222529",
+              "start": 28,
+              "url": "https://t.co/T9PagOG5Lq"
+            },
+            {
+              "display_url": "pic.x.com/T9PagOG5Lq",
+              "end": 51,
+              "expanded_url": "https://x.com/DRepouso1119/status/1983067115885400436/photo/1",
+              "media_key": "3_1983066868115222528",
+              "start": 28,
+              "url": "https://t.co/T9PagOG5Lq"
+            },
+            {
+              "display_url": "pic.x.com/T9PagOG5Lq",
+              "end": 51,
+              "expanded_url": "https://x.com/DRepouso1119/status/1983067115885400436/photo/1",
+              "media_key": "3_1983066868903751683",
+              "start": 28,
+              "url": "https://t.co/T9PagOG5Lq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983067115885400436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起我连o四天已经晕啦 好久没发推～我有好多想发的！ https://t.co/T9PagOG5Lq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979171735669719041/xwbTRqej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 1029,
+          "like_count": 56285,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 3705
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ 碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "DOMINGO DE REPOUSO",
+        "pinned_tweet_id": "1975119491806990560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974189674689409029/W9v5F7Ey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 130,
+          "like_count": 1182,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 531
+        },
+        "username": "DRepouso1119",
+        "verified": false
+      }
+    ]
+  }
+}

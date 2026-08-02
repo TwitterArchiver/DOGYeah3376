@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1965091711086178704",
+    "created_at": "2025-09-09T00:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T01:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965205688986337425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870022570353012736",
+          "start": 0,
+          "username": "kukudejiaxibei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965205688986337425",
+    "in_reply_to_user_id": "1870022570353012736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965091711086178704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukudejiaxibei 贝贝生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 182,
+        "media_key": "3_1965091707554615296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Vofxvb0AAdtBh.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1965091711086178704",
+        "created_at": "2025-09-09T00:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T01:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965205688986337425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870022570353012736",
+              "start": 0,
+              "username": "kukudejiaxibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965205688986337425",
+        "in_reply_to_user_id": "1870022570353012736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965091711086178704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukudejiaxibei 贝贝生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965091707554615296"
+          ]
+        },
+        "author_id": "1870022570353012736",
+        "conversation_id": "1965091711086178704",
+        "created_at": "2025-09-08T16:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965091711086178704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/umjnh7UYph",
+              "end": 49,
+              "expanded_url": "https://x.com/kukudejiaxibei/status/1965091711086178704/photo/1",
+              "media_key": "3_1965091707554615296",
+              "start": 26,
+              "url": "https://t.co/umjnh7UYph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965091711086178704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 439,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是农历的生日\n明天是公立的生日\n大家也要开心哦 https://t.co/umjnh7UYph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 863,
+          "like_count": 36628,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2223
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T08:25:12.000Z",
+        "description": "06liner INFJ Virgo♍\n🎮Gaming|🍸 Bartending 🍳 Cooking  \nBFF: @NataliaIcey2006💖@No1uk_\nBF:@xiyimeng04💕\nCat:@jiang_chua28655🐾\nHope I can transition✨\n🇺🇸/🇪🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "NataliaIcey2006"
+              },
+              {
+                "end": 82,
+                "start": 75,
+                "username": "No1uk_"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "xiyimeng04"
+              },
+              {
+                "end": 119,
+                "start": 103,
+                "username": "jiang_chua28655"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NataliaICEY060…",
+                "end": 23,
+                "expanded_url": "https://t.me/NataliaICEY060910https://ngl.link/kukudejiaxibei1",
+                "start": 0,
+                "url": "https://t.co/lGi3Ux1gT3"
+              }
+            ]
+          }
+        },
+        "id": "1870022570353012736",
+        "location": "Sanctum 9 Inner Ring of Virgo",
+        "name": "Jasiber🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1909221888443949341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933061552678318083/-zQhXG_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1639,
+          "following_count": 2690,
+          "like_count": 23957,
+          "listed_count": 2,
+          "media_count": 693,
+          "tweet_count": 6471
+        },
+        "url": "https://t.co/lGi3Ux1gT3",
+        "username": "kukudejiaxibei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1898784346720600528",
+    "created_at": "2025-03-10T11:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T12:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899057040582173115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899057040582173115",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898784346720600528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowCatherina 最看不懂的一集"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1898784346720600528",
+        "created_at": "2025-03-10T11:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T12:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899057040582173115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899057040582173115",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898784346720600528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina 最看不懂的一集"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "1898784346720600528",
+        "created_at": "2025-03-09T17:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T18:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898784346720600528"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "奈酱日报"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898784346720600528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 632,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#奈酱日报 \n1. 欧洲计划增加6700亿英镑军费开支\n2. 俄罗斯间谍组建雇佣兵控制欧洲难民流向\n3. 美国宇航局阿尔特弥斯二号任务核心阶段全面完成\n4.  特朗普的关税和减税措施引发美国经济担忧\n5. 纳斯达克计划提供24小时交易"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 99,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 79
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "20INFP｜⚠️是一只学不会说话和社交的小阿斯｜🏫Monash｜🐈/🏹/🚴/💻｜CS&EE&AM｜某司高管(逃)｜🍝FSM｜BA4RIO｜GPG pubKey: C1D9 84F0 BBA1 B3B9｜🚪50,啥也没有｜持证嗓音训练师 160CNY｜❤️@Carafutaba @AsabaSeiban",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 128,
+                "username": "Carafutaba"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "AsabaSeiban"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cntt.uk",
+                "end": 23,
+                "expanded_url": "http://cntt.uk",
+                "start": 0,
+                "url": "https://t.co/l3eIEXmMQf"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈",
+        "pinned_tweet_id": "1828895115416613251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893683122824429568/1r72TXoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5130,
+          "following_count": 1010,
+          "like_count": 45581,
+          "listed_count": 16,
+          "media_count": 1498,
+          "tweet_count": 16329
+        },
+        "url": "https://t.co/l3eIEXmMQf",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

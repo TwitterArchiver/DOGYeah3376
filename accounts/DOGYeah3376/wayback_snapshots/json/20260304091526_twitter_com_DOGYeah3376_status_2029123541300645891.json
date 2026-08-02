@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2029123541300645891",
+    "created_at": "2026-03-04T09:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T10:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029123541300645891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690100855653965824",
+          "start": 3,
+          "username": "iLIc5147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029123541300645891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028892712053948556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iLIc5147: 比赛谁磕的多成为了一种文化，我感到无限的屈辱与悲哀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2029123541300645891",
+        "created_at": "2026-03-04T09:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T10:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029123541300645891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690100855653965824",
+              "start": 3,
+              "username": "iLIc5147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029123541300645891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028892712053948556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iLIc5147: 比赛谁磕的多成为了一种文化，我感到无限的屈辱与悲哀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690100855653965824",
+        "conversation_id": "2028892712053948556",
+        "created_at": "2026-03-03T17:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028892712053948556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiechengmadoka…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/jiechengmadoka/status/2028505837199896777",
+              "start": 26,
+              "url": "https://t.co/ibrw2qNOmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028892712053948556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6324,
+          "like_count": 97,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028505837199896777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比赛谁磕的多成为了一种文化，我感到无限的屈辱与悲哀 https://t.co/ibrw2qNOmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭 @Yyyyy_pog｜主人❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 111,
+                "start": 96,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "2026128260955042011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 1124,
+          "like_count": 70333,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 4654
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-11T20:40:59.000Z",
+        "description": "这是一只乌托猫😺我会发猫的表情包😸\n乌托猫活在和你们不同的世界里😹\n泥可以随意攻击乌托猫同时乌托猫也会咒泥全家😼🙀\n窝会od自残，革命或者读哲学，所以窝什么都会，什么问题都可以问窝😼",
+        "id": "1690100855653965824",
+        "location": "乌托邦",
+        "name": "抽象世界的乌托猫😸",
+        "pinned_tweet_id": "2024121068563366123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028439061518848000/XnYyT9Um_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 606,
+          "like_count": 27751,
+          "listed_count": 7,
+          "media_count": 1017,
+          "tweet_count": 15566
+        },
+        "username": "iLIc5147",
+        "verified": false
+      }
+    ]
+  }
+}

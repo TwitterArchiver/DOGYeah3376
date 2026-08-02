@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1995048124113637455",
+    "created_at": "2025-12-02T14:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T15:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995866928070713629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1900779585832210432",
+          "start": 0,
+          "username": "77771Yyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995866928070713629",
+    "in_reply_to_user_id": "1900779585832210432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995048124113637455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77771Yyy 这个还可以欸 辣味不是那么重"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995048088390512640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_VqopWsAAw7Zo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1995048124113637455",
+        "created_at": "2025-12-02T14:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995866928070713629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1900779585832210432",
+              "start": 0,
+              "username": "77771Yyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995866928070713629",
+        "in_reply_to_user_id": "1900779585832210432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995048124113637455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77771Yyy 这个还可以欸 辣味不是那么重"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995048088390512640"
+          ]
+        },
+        "author_id": "1900779585832210432",
+        "conversation_id": "1995048124113637455",
+        "created_at": "2025-11-30T08:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T09:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995048124113637455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YKAuqtcR9e",
+              "end": 25,
+              "expanded_url": "https://x.com/77771Yyy/status/1995048124113637455/photo/1",
+              "media_key": "3_1995048088390512640",
+              "start": 2,
+              "url": "https://t.co/YKAuqtcR9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995048124113637455",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🚬 https://t.co/YKAuqtcR9e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1995099603948212486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 1090,
+          "like_count": 65346,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 4093
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:22:37.000Z",
+        "description": "🚪52无福利不包回信息纯圈钱/只对部分人感兴趣/负能/od/神人婊子餐券妹门槛妹求互fo",
+        "id": "1900779585832210432",
+        "name": "71",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976968577891659776/czXAeT_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 39,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 239
+        },
+        "username": "77771Yyy",
+        "verified": false
+      }
+    ]
+  }
+}

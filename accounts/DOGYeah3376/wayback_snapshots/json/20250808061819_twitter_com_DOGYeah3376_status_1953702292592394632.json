@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1953679865389211944",
+    "created_at": "2025-08-08T06:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T07:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953702292592394632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1731619388388741120",
+          "start": 0,
+          "username": "lin12_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953702292592394632",
+    "in_reply_to_user_id": "1731619388388741120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953700528333943127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin12_qwq 嗯呐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1953679865389211944",
+        "created_at": "2025-08-08T06:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T07:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953702292592394632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1731619388388741120",
+              "start": 0,
+              "username": "lin12_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953702292592394632",
+        "in_reply_to_user_id": "1731619388388741120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953700528333943127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin12_qwq 嗯呐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731619388388741120",
+        "conversation_id": "1953679865389211944",
+        "created_at": "2025-08-08T06:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T07:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953700528333943127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953700528333943127",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953679865389211944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 都好可爱呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 616,
+          "like_count": 24617,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 887
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T10:20:24.000Z",
+        "description": "村里连网线了:3可以叫我郁/琳_ ̫ _ 社会边缘老鼠人 🚪88/152纯绿吱～偶尔掉落视频///回复有些慢局促是不太会说话不是高冷 互fo大欢迎💟",
+        "id": "1731619388388741120",
+        "name": "郁🍫",
+        "pinned_tweet_id": "1953190136780603873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953329872920604672/0-7ACiR3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 34,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 30
+        },
+        "username": "lin12_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1900002894755356817",
+    "created_at": "2025-03-14T08:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T09:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900461056650047822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870022570353012736",
+          "start": 0,
+          "username": "kukudejiaxibei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900461056650047822",
+    "in_reply_to_user_id": "1870022570353012736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900002894755356817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukudejiaxibei 臭宝宝你怎么了🤯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1900002894755356817",
+        "created_at": "2025-03-14T08:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T09:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900461056650047822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870022570353012736",
+              "start": 0,
+              "username": "kukudejiaxibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900461056650047822",
+        "in_reply_to_user_id": "1870022570353012736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900002894755356817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukudejiaxibei 臭宝宝你怎么了🤯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870022570353012736",
+        "conversation_id": "1900002894755356817",
+        "created_at": "2025-03-13T01:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T02:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900002894755356817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900002894755356817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 416,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "emm\n或许吧\n过不了几天\n可能………\n我不知道\n真的把答应好的\n全都尽力做到了吗？\n你不知道\n一切都是建立在信任危机的友谊\n一切都是狡辩与逃避\n这真的是我需要的？\n曾经的约定\n又有几分真心话？\n你甚至不会说出你的真心话\n又怎么让我活下去？\n朋友间的互相帮助\n你真的在意吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 113,
+          "like_count": 858,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 94
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T08:25:12.000Z",
+        "description": "06年/INFJ+处女座/HRT-24.10.21/擅长文学类和艺术类/SteamID：1151422332/红警2&心灵终结/CR&COC/明日方舟/原神/GTA/生化危机/COD/CS&HL/梦想是成为酷酷的大姐头/愿意奉献自我/九年最佳劳委/已退学/希望大家也可以变成自己心中的样子/烹饪和烘焙/人格解体现实解体/",
+        "id": "1870022570353012736",
+        "location": "山西",
+        "name": "贾西贝🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1883690657166070162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892818047792291840/SlcITqpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 902,
+          "like_count": 11752,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 2666
+        },
+        "username": "kukudejiaxibei",
+        "verified": false
+      }
+    ]
+  }
+}

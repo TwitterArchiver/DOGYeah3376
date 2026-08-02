@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1893455313484890499",
+    "created_at": "2025-02-23T01:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T02:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893474675113763095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596939907859202049",
+          "start": 0,
+          "username": "mishamimihemumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893474675113763095",
+    "in_reply_to_user_id": "1596939907859202049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893455313484890499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mishamimihemumu 宝宝加油！😉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 96296,
+        "height": 1280,
+        "media_key": "7_1893455151773413376",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1893455151773413376/pu/img/NdP-3_f4fEtQAcyO.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1893455151773413376/pu/vid/avc1/320x568/if7PQawJD0lcNxfD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1893455151773413376/pu/vid/avc1/480x852/B0QmMc8IXkBTtpIJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1893455151773413376/pu/vid/avc1/720x1280/KGVbIDKY63Lmu2nU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1893455151773413376/pu/pl/DnwdmEGJcPbwugUY.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1893455313484890499",
+        "created_at": "2025-02-23T01:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T02:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893474675113763095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596939907859202049",
+              "start": 0,
+              "username": "mishamimihemumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893474675113763095",
+        "in_reply_to_user_id": "1596939907859202049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893455313484890499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mishamimihemumu 宝宝加油！😉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1893455151773413376"
+          ]
+        },
+        "author_id": "1596939907859202049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1893455313484890499",
+        "created_at": "2025-02-23T00:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T01:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893455313484890499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sxrN3RvTFV",
+              "end": 47,
+              "expanded_url": "https://x.com/mishamimihemumu/status/1893455313484890499/video/1",
+              "media_key": "7_1893455151773413376",
+              "start": 24,
+              "url": "https://t.co/sxrN3RvTFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893455313484890499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "进来看xyn的孤独摇滚nwn\n顺便听听我碎碎念 https://t.co/sxrN3RvTFV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我们又该何去何从../mtf/10-1-23/178cm/110斤/讨厌肢体接触/infp/睡不醒～/缺爱/不回消息可能是死了也可能是在学校/特斯拉车主 求求了别封我号",
+        "id": "1676500088221478912",
+        "name": "小皮🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T18:52:19.000Z",
+        "description": "✨这里是米莎米米和墓墓三姐妹❤️\n✨  最喜欢和同类扩列贴贴无法拒绝✨  可爱的孩子请多多和我互fo🥺❤️\n✨  偶尔发疯骂人崩溃极度不稳定❤️\n✨  特别特别缺爱所以会很烦人❤️\n✨  在国外读书所以一时半会不回国\n      钢琴/电吉他/贝斯/烹饪烧烤\n✨不定期抽奖和发福利/擦边涩涩",
+        "id": "1596939907859202049",
+        "location": "Belarus'Minsk",
+        "name": "🍥米莎米莎✨🏳️‍⚧️⚧️🏴‍☠️🇧🇾",
+        "pinned_tweet_id": "1892517050477637650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888794200797253632/pCJnu6Ax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 217,
+          "like_count": 5416,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 363
+        },
+        "username": "mishamimihemumu",
+        "verified": false
+      }
+    ]
+  }
+}

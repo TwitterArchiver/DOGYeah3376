@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1917802750605472178",
+    "created_at": "2025-05-01T16:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T17:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917975045726441672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818731995310309376",
+          "start": 0,
+          "username": "MOLeren198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917975045726441672",
+    "in_reply_to_user_id": "1818731995310309376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917802750605472178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MOLeren198964 其实我还是喜欢11那种圆润的外壳的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1917802750605472178",
+        "created_at": "2025-05-01T16:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T17:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917975045726441672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818731995310309376",
+              "start": 0,
+              "username": "MOLeren198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917975045726441672",
+        "in_reply_to_user_id": "1818731995310309376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917802750605472178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MOLeren198964 其实我还是喜欢11那种圆润的外壳的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818731995310309376",
+        "conversation_id": "1917802750605472178",
+        "created_at": "2025-05-01T04:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T05:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917802750605472178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917802750605472178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3384,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "妈的手机坏了\n被我强制性修好了\n结果我妈说不给我买手机了😭\n现在谁还在用iPhone11pro啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 196,
+          "like_count": 3251,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 175
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "不熟：@isaactan8964 小号：@Moleren114514 主人🥺：@5mRtist姐姐：@IAmTheSolipsism想挂的朋友：@charming_xiaoyu @ShadowlessmoonR @my0790042212731",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "isaactan8964"
+              },
+              {
+                "end": 34,
+                "start": 20,
+                "username": "Moleren114514"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "5mRtist"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "IAmTheSolipsism"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "ShadowlessmoonR"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "my0790042212731"
+              }
+            ]
+          }
+        },
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "ㄇㄌㄖ蘋果汁",
+        "pinned_tweet_id": "1907810174527852850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895102259245260805/JLObg4-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 1876,
+          "like_count": 121164,
+          "listed_count": 11,
+          "media_count": 949,
+          "tweet_count": 20474
+        },
+        "username": "MOLeren198964",
+        "verified": false
+      }
+    ]
+  }
+}

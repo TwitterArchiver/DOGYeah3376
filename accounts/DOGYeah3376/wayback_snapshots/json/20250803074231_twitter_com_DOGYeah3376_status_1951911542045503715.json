@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1951864835131490404",
+    "created_at": "2025-08-03T07:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T08:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951911542045503715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1913309341735956480",
+          "start": 0,
+          "username": "yingyang_MTF"
+        },
+        {
+          "end": 29,
+          "id": "1324190854085369857",
+          "start": 14,
+          "username": "2541404751Hiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951911542045503715",
+    "in_reply_to_user_id": "1913309341735956480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951868532993712289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingyang_MTF @2541404751Hiko 舒服感 安心感 去焦虑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1951864835131490404",
+        "created_at": "2025-08-03T07:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T08:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951911542045503715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1913309341735956480",
+              "start": 0,
+              "username": "yingyang_MTF"
+            },
+            {
+              "end": 29,
+              "id": "1324190854085369857",
+              "start": 14,
+              "username": "2541404751Hiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951911542045503715",
+        "in_reply_to_user_id": "1913309341735956480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951868532993712289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingyang_MTF @2541404751Hiko 舒服感 安心感 去焦虑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913309341735956480",
+        "conversation_id": "1951864835131490404",
+        "created_at": "2025-08-03T04:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T05:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951868532993712289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1324190854085369857",
+              "start": 0,
+              "username": "2541404751Hiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951868532993712289",
+        "in_reply_to_user_id": "1324190854085369857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951866863304221142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2541404751Hiko 能具体说说吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 557,
+          "like_count": 21806,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 757
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T19:11:33.000Z",
+        "description": "小药娘｜玩 战争雷霆，钢铁雄心4，KARDS｜171cm 58kg｜无证含糖｜生日2010.11.28｜互fo｜只会中文｜QQ:3344269844(扩列)｜有时傻傻的｜社恐｜想要找对象！！",
+        "id": "1913309341735956480",
+        "location": "谁知道呢",
+        "name": "营养要均衡🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950147286937587715/jqqsbiqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 114,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 124
+        },
+        "username": "yingyang_MTF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:24:51.000Z",
+        "description": "2002大龄mtf/无证含糖hrt2025.5.18-7.5/178 64/intj/不建政/od成瘾/重度焦虑性抑郁症 多重人格 ptsd 状态已完全失控/住院19天/已打赢三次复活赛/爱的人@XIAOAOBI2002",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 97,
+                "username": "XIAOAOBI2002"
+              }
+            ]
+          }
+        },
+        "id": "1324190854085369857",
+        "location": "南阳/西安/北京",
+        "name": "HYiko🏳️‍⚧️🍥（右美沙芬的救赎）",
+        "pinned_tweet_id": "1939206643910422781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937165068979904513/qetGv_L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 93,
+          "like_count": 90,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 132
+        },
+        "username": "2541404751Hiko",
+        "verified": false
+      }
+    ]
+  }
+}

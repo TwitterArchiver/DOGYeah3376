@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2040746905089798269",
+    "created_at": "2026-04-05T11:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T12:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040747058039308499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1442726671841312769",
+          "start": 0,
+          "username": "eziral778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040747058039308499",
+    "in_reply_to_user_id": "1442726671841312769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040746905089798269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eziral778 os好好看想和你同居"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2040746893685526528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIwfMqbkAAKU7R.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2040746905089798269",
+        "created_at": "2026-04-05T11:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040747058039308499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442726671841312769",
+              "start": 0,
+              "username": "eziral778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040747058039308499",
+        "in_reply_to_user_id": "1442726671841312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040746905089798269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eziral778 os好好看想和你同居"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040746893685526528"
+          ]
+        },
+        "author_id": "1442726671841312769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2040746905089798269",
+        "created_at": "2026-04-05T11:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040746905089798269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zce74QGaHJ",
+              "end": 29,
+              "expanded_url": "https://x.com/eziral778/status/2040746905089798269/photo/1",
+              "media_key": "3_2040746893685526528",
+              "start": 6,
+              "url": "https://t.co/zce74QGaHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040746905089798269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人夫感吗 https://t.co/zce74QGaHJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2039535060714766555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 1127,
+          "like_count": 71612,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 4921
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T05:43:55.000Z",
+        "description": "这里什么也没有",
+        "id": "1442726671841312769",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "念念",
+        "pinned_tweet_id": "2024363219876528515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850224171013521408/fHAVWYAJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 629,
+          "like_count": 2154,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1609
+        },
+        "username": "eziral778",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1947032128115585207",
+    "created_at": "2025-07-20T21:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T22:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947039332231241946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1925363092931960832",
+          "start": 0,
+          "username": "lingyuanyuan07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947039332231241946",
+    "in_reply_to_user_id": "1925363092931960832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947036335690420298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingyuanyuan07 pr的耐药太难受了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1947032128115585207",
+        "created_at": "2025-07-20T21:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T22:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947039332231241946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1925363092931960832",
+              "start": 0,
+              "username": "lingyuanyuan07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947039332231241946",
+        "in_reply_to_user_id": "1925363092931960832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947036335690420298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyuanyuan07 pr的耐药太难受了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925363092931960832",
+        "conversation_id": "1947032128115585207",
+        "created_at": "2025-07-20T20:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T21:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947036335690420298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947036335690420298",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947035800702783745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 红普15块起了，我一次将近一盒最多两盒…太贵惹，换换其他的试试说不定哪天耐药会下去…我剩下的pr也就够吃一回的，要达到晕过去的效果，之前连续几天都在o导致有一次40多两个小时有点晕，然后吐了两口神奇的没反应了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx 深柜 自伤 od 互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 442,
+          "like_count": 17398,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 583
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T01:28:43.000Z",
+        "description": "这里是泠鸢鸳，07年小女孩一枚/贴贴狂热爱好者/缺爱/od/双相/想瘦想瘦/想要浑身是伤浑身是血，啊啊啊为毛我xp是这个，现居济宁~想要钱钱X﹏X🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭一点就炸，炸你一脸芒果(互fo私信喵，如果没回的话)嗜睡…Q924641769~聊天~",
+        "id": "1925363092931960832",
+        "name": "泠鸢酱酱酱🍥(上架自己中)",
+        "pinned_tweet_id": "1944007371594117584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927640098541379584/WCdK-iFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 230,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 789
+        },
+        "username": "lingyuanyuan07",
+        "verified": false
+      }
+    ]
+  }
+}

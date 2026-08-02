@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2040473629134364934",
+    "created_at": "2026-04-04T17:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040482719109677560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1886289385177669632",
+          "start": 0,
+          "username": "Lizzy_522"
+        },
+        {
+          "end": 26,
+          "id": "1831567909908574208",
+          "start": 11,
+          "username": "opaoguonai1108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040482719109677560",
+    "in_reply_to_user_id": "1886289385177669632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040480733073223993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lizzy_522 @opaoguonai1108 比熊四代 130左右"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2040473629134364934",
+        "created_at": "2026-04-04T17:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040482719109677560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1886289385177669632",
+              "start": 0,
+              "username": "Lizzy_522"
+            },
+            {
+              "end": 26,
+              "id": "1831567909908574208",
+              "start": 11,
+              "username": "opaoguonai1108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040482719109677560",
+        "in_reply_to_user_id": "1886289385177669632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040480733073223993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lizzy_522 @opaoguonai1108 比熊四代 130左右"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886289385177669632",
+        "conversation_id": "2040473629134364934",
+        "created_at": "2026-04-04T17:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040480733073223993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            },
+            {
+              "end": 28,
+              "id": "1831567909908574208",
+              "start": 13,
+              "username": "opaoguonai1108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040480733073223993",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040473629134364934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 @opaoguonai1108 这电子烟是什么啊，好好看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2039535060714766555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 1127,
+          "like_count": 71526,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 4909
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T05:43:38.000Z",
+        "description": "08 he/they enby.双相、焦虑症正在治疗。烟鬼、酗酒、磕药蛆戒割中。成分复杂，钢琴，滚圈涉猎广泛，硬摇滚、迷幻摇滚、独立摇滚、jpop…负能，日常发神经吐苦水，友所有群体，查成分回fo。 现生朋友刷到我请自行绕道。骚逼@KKKaoru_弟弟@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 115,
+                "username": "KKKaoru_"
+              },
+              {
+                "end": 135,
+                "start": 126,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/RDVwBMCX6v"
+              }
+            ]
+          }
+        },
+        "id": "1886289385177669632",
+        "name": "リジー",
+        "pinned_tweet_id": "2027517222768521252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997491540915294208/kFKVZs05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 355,
+          "like_count": 18452,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2869
+        },
+        "url": "https://t.co/RDVwBMCX6v",
+        "username": "Lizzy_522",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T05:40:02.000Z",
+        "description": "Mevius｜死無葬身之地｜悼亡者",
+        "id": "1831567909908574208",
+        "name": "幽靈",
+        "pinned_tweet_id": "1922324215920771354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017559285413384193/3k28LMEX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 103,
+          "like_count": 1407,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 688
+        },
+        "username": "opaoguonai1108",
+        "verified": false
+      }
+    ]
+  }
+}

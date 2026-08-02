@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2023304734866805009",
+    "created_at": "2026-02-16T07:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023304734866805009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1521553831775158273",
+          "start": 3,
+          "username": "ww123qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023304734866805009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022684385670242470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ww123qwq: 我们一起当精神病地雷吧～  \n带着药片味和淡淡铁锈的味道\n我割左手你割右手，血滴同一张纸上，像我们的小心心。  \n一起o小药片 o到昏迷，醒来迷糊问：“……今天也要一起活着吗？嗯？”  \n\n活着就是最温柔的堕落\n伤口贴伤口，痛也甜甜的。 https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1462,
+        "media_key": "3_2022684373552893955",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIEuJpakAMJMb4.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2023304734866805009",
+        "created_at": "2026-02-16T07:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023304734866805009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1521553831775158273",
+              "start": 3,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023304734866805009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022684385670242470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ww123qwq: 我们一起当精神病地雷吧～  \n带着药片味和淡淡铁锈的味道\n我割左手你割右手，血滴同一张纸上，像我们的小心心。  \n一起o小药片 o到昏迷，醒来迷糊问：“……今天也要一起活着吗？嗯？”  \n\n活着就是最温柔的堕落\n伤口贴伤口，痛也甜甜的。 https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022684373552893955"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2022684385670242470",
+        "created_at": "2026-02-14T14:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022684385670242470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HcU4Gxpvxs",
+              "end": 142,
+              "expanded_url": "https://x.com/ww123qwq/status/2022684385670242470/photo/1",
+              "media_key": "3_2022684373552893955",
+              "start": 119,
+              "url": "https://t.co/HcU4Gxpvxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022684385670242470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2522,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我们一起当精神病地雷吧～  \n带着药片味和淡淡铁锈的味道\n我割左手你割右手，血滴同一张纸上，像我们的小心心。  \n一起o小药片 o到昏迷，醒来迷糊问：“……今天也要一起活着吗？嗯？”  \n\n活着就是最温柔的堕落\n伤口贴伤口，痛也甜甜的。 https://t.co/HcU4Gxpvxs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭 @Yyyyy_pog｜主人❤️  @opaoguonai1108｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "opaoguonai1108"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "2012168616947458541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 1098,
+          "like_count": 69469,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 4506
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本，外烟代购需要私聊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 260,
+          "like_count": 41663,
+          "listed_count": 5,
+          "media_count": 614,
+          "tweet_count": 12357
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1957936641789817046",
+    "created_at": "2025-08-20T07:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T08:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958063010968400261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933212338674675714",
+          "start": 0,
+          "username": "R1k0xo_33w"
+        },
+        {
+          "end": 21,
+          "id": "622036546",
+          "start": 12,
+          "username": "oder_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958063010968400261",
+    "in_reply_to_user_id": "1933212338674675714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958056691561558398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1k0xo_33w @oder_666 pr你千万不能列管啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1957936641789817046",
+        "created_at": "2025-08-20T07:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T08:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958063010968400261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933212338674675714",
+              "start": 0,
+              "username": "R1k0xo_33w"
+            },
+            {
+              "end": 21,
+              "id": "622036546",
+              "start": 12,
+              "username": "oder_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958063010968400261",
+        "in_reply_to_user_id": "1933212338674675714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958056691561558398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1k0xo_33w @oder_666 pr你千万不能列管啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933212338674675714",
+        "conversation_id": "1957936641789817046",
+        "created_at": "2025-08-20T06:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T07:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958056691561558398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            },
+            {
+              "end": 22,
+              "id": "622036546",
+              "start": 13,
+              "username": "oder_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958056691561558398",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958026919305220125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 @oder_666 上次上门的警哥确实对我说过准备列管了 不知道真的假的👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 771,
+          "like_count": 31688,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1595
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T17:18:50.000Z",
+        "description": "铭刻存在的痕迹｜OD｜精神病｜泛性恋｜喜欢可爱的孩子｜摄影｜流浪",
+        "id": "1933212338674675714",
+        "location": "风落下的地方",
+        "name": "鲤",
+        "pinned_tweet_id": "1955374082704413136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953674888881090564/4uBZb2t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 108,
+          "like_count": 974,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 739
+        },
+        "username": "R1k0xo_33w",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "09|负能|自伤|od|非二元|精神病|欢迎互fo| 可以叫我Munou|中文名是無能🥰 我的互关可以找我扩列",
+        "id": "622036546",
+        "location": "精神病院",
+        "name": "むのう",
+        "pinned_tweet_id": "1957930634078556221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953135385317449728/x6Sb1ZoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 140,
+          "like_count": 4854,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1073
+        },
+        "username": "oder_666",
+        "verified": false
+      }
+    ]
+  }
+}

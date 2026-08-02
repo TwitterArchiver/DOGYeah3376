@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1990975514874687591",
+    "created_at": "2025-11-19T10:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T11:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991088891051556894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1505851491734720515",
+          "start": 0,
+          "username": "momo_yu_Apple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991088891051556894",
+    "in_reply_to_user_id": "1505851491734720515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990975514874687591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momo_yu_Apple 幸存者偏差吧。\n经常刷mtf的就会很少刷到ftm了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1990975514874687591",
+        "created_at": "2025-11-19T10:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T11:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991088891051556894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1505851491734720515",
+              "start": 0,
+              "username": "momo_yu_Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991088891051556894",
+        "in_reply_to_user_id": "1505851491734720515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990975514874687591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momo_yu_Apple 幸存者偏差吧。\n经常刷mtf的就会很少刷到ftm了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505851491734720515",
+        "conversation_id": "1990975514874687591",
+        "created_at": "2025-11-19T02:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T03:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990975514874687591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990975514874687591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 578,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒戒你好，我的父母没有赌中50%的概率，让我出生时为女生\n\n为什么各位跨性别人群中，mtf赌错为男生的概率比ftm赌错为女生的概率大呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 1060,
+          "like_count": 60694,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 3995
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T10:19:23.000Z",
+        "description": "04年大龄||178/70(减肥中)/80b||终身不可srs||🚪60接线下实习圆角||有个爱我的父母已经很幸福了||部分言论不要太较真",
+        "id": "1505851491734720515",
+        "name": "玉茉茉喵🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983747427325898869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982279720688320512/fMn-1YUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 305,
+          "like_count": 435,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 1050
+        },
+        "username": "momo_yu_Apple",
+        "verified": false
+      }
+    ]
+  }
+}

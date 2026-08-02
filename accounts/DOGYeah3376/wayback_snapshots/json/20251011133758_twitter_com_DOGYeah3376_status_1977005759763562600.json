@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1976637845839491380",
+    "created_at": "2025-10-11T13:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T14:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977005759763562600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1824818634809806848",
+          "start": 0,
+          "username": "hsgmxz"
+        },
+        {
+          "end": 19,
+          "id": "1817821126640496640",
+          "start": 8,
+          "username": "MTNEKO8964"
+        },
+        {
+          "end": 31,
+          "id": "1946598569747894273",
+          "start": 20,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977005759763562600",
+    "in_reply_to_user_id": "1824818634809806848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976896738649948376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsgmxz @MTNEKO8964 @xmin240286 太坏了😡😡😡"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [xmin240286].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "xmin240286",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "xmin240286"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1976637845839491380",
+        "created_at": "2025-10-11T13:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977005759763562600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1824818634809806848",
+              "start": 0,
+              "username": "hsgmxz"
+            },
+            {
+              "end": 19,
+              "id": "1817821126640496640",
+              "start": 8,
+              "username": "MTNEKO8964"
+            },
+            {
+              "end": 31,
+              "id": "1946598569747894273",
+              "start": 20,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977005759763562600",
+        "in_reply_to_user_id": "1824818634809806848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976896738649948376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsgmxz @MTNEKO8964 @xmin240286 太坏了😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824818634809806848",
+        "conversation_id": "1976637845839491380",
+        "created_at": "2025-10-11T06:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T07:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976896738649948376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817821126640496640",
+              "start": 0,
+              "username": "MTNEKO8964"
+            },
+            {
+              "end": 23,
+              "id": "1946598569747894273",
+              "start": 12,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976896738649948376",
+        "in_reply_to_user_id": "1817821126640496640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976896339679322616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTNEKO8964 @xmin240286 账号好像被某些人恶意举报封了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/tlkubLbwMZ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1977003730294956431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 970,
+          "like_count": 50815,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 3255
+        },
+        "url": "https://t.co/tlkubLbwMZ",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|14岁mtf🏳️‍⚧️|🍥2025.7.26|初音ミク大好き。🥰|11.1.24|同类互fo|欢迎贴贴😺|极度社恐|重焦重郁|intp-t|匿名提问箱https://t.co/eJ9r7Nq5dA|❤️@hrklovehonoka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 137,
+                "username": "hrklovehonoka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hsgmxz1",
+                "end": 134,
+                "expanded_url": "http://ngl.link/hsgmxz1",
+                "start": 111,
+                "url": "https://t.co/eJ9r7Nq5dA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mx_honoka",
+                "end": 23,
+                "expanded_url": "http://t.me/mx_honoka",
+                "start": 0,
+                "url": "https://t.co/Xrx6CgHeeR"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1976137894059462813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956290303792660480/uak33Kmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 1140,
+          "like_count": 6914,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/Xrx6CgHeeR",
+        "username": "hsgmxz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T07:15:16.000Z",
+        "description": "MtX🍥 / hrt：25.2.11 / 55cm 169kg｜极度社恐 / 泛性恋 / 社会化程度极低的阿斯 / 一只努力学习做好人类的猫｜面条的tg频道https://t.co/6TaiTWHzEF｜妈妈@Tim_Pan_5｜对象🥺🍜❤️@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Tim_Pan_5"
+              },
+              {
+                "end": 137,
+                "start": 121,
+                "username": "sanmiguelnoodle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123456",
+                "end": 101,
+                "expanded_url": "http://t.me/MTNEKO123456",
+                "start": 78,
+                "url": "https://t.co/6TaiTWHzEF"
+              }
+            ]
+          }
+        },
+        "id": "1817821126640496640",
+        "location": "评鉴亚硝酸钠的路上",
+        "name": "面条喵🍥🐱🐈",
+        "pinned_tweet_id": "1959530946673418708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972232480225951744/Lga0T62B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 2508,
+          "like_count": 38833,
+          "listed_count": 5,
+          "media_count": 556,
+          "tweet_count": 5634
+        },
+        "username": "MTNEKO8964",
+        "verified": true
+      }
+    ]
+  }
+}

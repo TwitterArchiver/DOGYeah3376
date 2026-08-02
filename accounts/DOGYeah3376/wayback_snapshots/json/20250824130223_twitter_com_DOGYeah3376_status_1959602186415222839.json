@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1959163683436994695",
+    "created_at": "2025-08-24T13:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T14:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959602186415222839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1677252589182943232",
+          "start": 0,
+          "username": "ln_fbsq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959602186415222839",
+    "in_reply_to_user_id": "1677252589182943232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959163683436994695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ln_fbsq 晚安哦🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1959163683436994695",
+        "created_at": "2025-08-24T13:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T14:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959602186415222839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1677252589182943232",
+              "start": 0,
+              "username": "ln_fbsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959602186415222839",
+        "in_reply_to_user_id": "1677252589182943232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959163683436994695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ln_fbsq 晚安哦🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677252589182943232",
+        "conversation_id": "1959163683436994695",
+        "created_at": "2025-08-23T07:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T08:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959163683436994695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Carol’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1lDxL…",
+              "end": 31,
+              "expanded_url": "https://x.com/i/spaces/1lDxLBZdBwMGm",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1959163684900806656/Z4Ptu4zI?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1959163684900806656/Z4Ptu4zI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "Happening now: 再见，傻逼世界",
+              "unwound_url": "https://twitter.com/i/spaces/1lDxLBZdBwMGm/peek",
+              "url": "https://t.co/3leQR3wdjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959163683436994695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 15738,
+          "like_count": 51,
+          "quote_count": 5,
+          "reply_count": 37,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "再见，傻逼世界 https://t.co/3leQR3wdjc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 803,
+          "like_count": 32710,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1749
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T09:46:02.000Z",
+        "description": "会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的会死的",
+        "id": "1677252589182943232",
+        "name": "Carol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957747536141373440/ldAE0XTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 467,
+          "like_count": 41937,
+          "listed_count": 8,
+          "media_count": 1490,
+          "tweet_count": 11387
+        },
+        "username": "ln_fbsq",
+        "verified": false
+      }
+    ]
+  }
+}

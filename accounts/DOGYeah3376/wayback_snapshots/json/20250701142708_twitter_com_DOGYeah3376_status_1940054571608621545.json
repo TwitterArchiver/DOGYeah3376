@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1939761978249003224",
+    "created_at": "2025-07-01T14:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T15:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940054571608621545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1557292893181685760",
+          "start": 0,
+          "username": "hajimi198964"
+        },
+        {
+          "end": 30,
+          "id": "1889453110650871808",
+          "start": 14,
+          "username": "qinghuan5865471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940054571608621545",
+    "in_reply_to_user_id": "1557292893181685760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939987933395894713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajimi198964 @qinghuan5865471 这个还是有点伤身体了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1939761978249003224",
+        "created_at": "2025-07-01T14:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T15:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940054571608621545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1557292893181685760",
+              "start": 0,
+              "username": "hajimi198964"
+            },
+            {
+              "end": 30,
+              "id": "1889453110650871808",
+              "start": 14,
+              "username": "qinghuan5865471"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940054571608621545",
+        "in_reply_to_user_id": "1557292893181685760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939987933395894713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajimi198964 @qinghuan5865471 这个还是有点伤身体了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557292893181685760",
+        "conversation_id": "1939761978249003224",
+        "created_at": "2025-07-01T10:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T11:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939987933395894713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889453110650871808",
+              "start": 0,
+              "username": "qinghuan5865471"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939987933395894713",
+        "in_reply_to_user_id": "1889453110650871808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939761978249003224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinghuan5865471 自慰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 280,
+          "like_count": 9531,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 318
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T09:09:27.000Z",
+        "description": "我关注你不一定是我支持你的观点 只是因为我觉得你很有趣。重度百合豚。可能会发画。如果你发现我发了第二人称的辱骂内容，请不要担心，我只是在辱骂自己，这是我的习惯抱歉。\n老婆@Limonene_只是淡推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Limonene_"
+              }
+            ]
+          }
+        },
+        "id": "1557292893181685760",
+        "location": "吉吉国",
+        "name": "泣（百合重度依赖）",
+        "pinned_tweet_id": "1933937973177053470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857990543172947968/aBmKu5Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 505,
+          "like_count": 60099,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 3636
+        },
+        "username": "hajimi198964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T23:15:14.000Z",
+        "description": "生产日期2011，0130。一个人，生产地来到我们的大东北☝🏻🤓辽宁本溪|姐姐@8nuecLav||老公@Washiyin_Neko||女鹅@Xiaokongyu233|。 赤伶，清欢，远山微暮，云舒，阿拉斯托都是我，QQ号2592258482，我很希望大家可以加我QQ一起打游戏一起聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "8nuecLav"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "Washiyin_Neko"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Xiaokongyu233"
+              }
+            ]
+          }
+        },
+        "id": "1889453110650871808",
+        "location": "辽宁本溪",
+        "name": "AD🍥",
+        "pinned_tweet_id": "1920445082718568582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937743287890403328/vQv1R8pZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 379,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 748
+        },
+        "username": "qinghuan5865471",
+        "verified": false
+      }
+    ]
+  }
+}

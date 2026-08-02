@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1975931277980078274",
+    "created_at": "2025-10-09T09:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T10:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976211644159344924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1020533760",
+          "start": 0,
+          "username": "kukulizaliliana"
+        },
+        {
+          "end": 32,
+          "id": "1346651417533173762",
+          "start": 17,
+          "username": "quaintlotus142"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976211644159344924",
+    "in_reply_to_user_id": "1020533760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976131460865102017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukulizaliliana @quaintlotus142 好喷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1975931277980078274",
+        "created_at": "2025-10-09T09:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T10:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976211644159344924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1020533760",
+              "start": 0,
+              "username": "kukulizaliliana"
+            },
+            {
+              "end": 32,
+              "id": "1346651417533173762",
+              "start": 17,
+              "username": "quaintlotus142"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976211644159344924",
+        "in_reply_to_user_id": "1020533760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976131460865102017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukulizaliliana @quaintlotus142 好喷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1020533760",
+        "conversation_id": "1975931277980078274",
+        "created_at": "2025-10-09T03:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T04:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976131460865102017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1346651417533173762",
+              "start": 0,
+              "username": "quaintlotus142"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976131460865102017",
+        "in_reply_to_user_id": "1346651417533173762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 215,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975931277980078274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quaintlotus142 男的是什么？大逼塞子？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1975919647062163537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 964,
+          "like_count": 50103,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 3180
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-18T20:01:13.000Z",
+        "description": "",
+        "id": "1020533760",
+        "location": "Russia",
+        "name": "Йона",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1462528137741414408/VuqlcCkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 13,
+          "like_count": 637,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "username": "kukulizaliliana",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-06T02:55:05.000Z",
+        "description": "我见诸君多有病，料诸君见我应如是。 我和好友一起玩的小频道，欢迎订阅https://t.co/kkL3mlBTGq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@runningchives…",
+                "end": 57,
+                "expanded_url": "https://youtube.com/@runningchives?si=Rz59Ci5VjfPbFZXO",
+                "start": 34,
+                "url": "https://t.co/kkL3mlBTGq"
+              }
+            ]
+          }
+        },
+        "id": "1346651417533173762",
+        "name": "逃跑的韭菜🇺🇸",
+        "pinned_tweet_id": "1960300596268876200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871725076812341248/NKGrglZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51244,
+          "following_count": 1655,
+          "like_count": 129795,
+          "listed_count": 123,
+          "media_count": 5116,
+          "tweet_count": 62113
+        },
+        "username": "quaintlotus142",
+        "verified": true
+      }
+    ]
+  }
+}

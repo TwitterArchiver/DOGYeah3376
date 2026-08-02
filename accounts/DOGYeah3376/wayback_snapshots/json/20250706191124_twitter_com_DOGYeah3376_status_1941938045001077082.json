@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941779531053875200"
+      ],
+      "media_source_tweet_id": [
+        "1941779535759839367"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1941938045001077082",
+    "created_at": "2025-07-06T19:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T20:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941938045001077082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1589809419822329857",
+          "start": 3,
+          "username": "jianlvup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XMVpLeYS02",
+          "end": 50,
+          "expanded_url": "https://x.com/jianlvup/status/1941779535759839367/photo/1",
+          "media_key": "3_1941779531053875200",
+          "start": 27,
+          "url": "https://t.co/XMVpLeYS02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941938045001077082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941779535759839367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jianlvup: 这手适合做什么样的工作？ https://t.co/XMVpLeYS02"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_1941779531053875200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvKWMgyXQAA_70B.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941779531053875200"
+          ],
+          "media_source_tweet_id": [
+            "1941779535759839367"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1941938045001077082",
+        "created_at": "2025-07-06T19:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T20:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941938045001077082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1589809419822329857",
+              "start": 3,
+              "username": "jianlvup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMVpLeYS02",
+              "end": 50,
+              "expanded_url": "https://x.com/jianlvup/status/1941779535759839367/photo/1",
+              "media_key": "3_1941779531053875200",
+              "start": 27,
+              "url": "https://t.co/XMVpLeYS02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941938045001077082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941779535759839367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jianlvup: 这手适合做什么样的工作？ https://t.co/XMVpLeYS02"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941779531053875200"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1941779535759839367",
+        "created_at": "2025-07-06T08:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T09:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941779535759839367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMVpLeYS02",
+              "end": 36,
+              "expanded_url": "https://x.com/jianlvup/status/1941779535759839367/photo/1",
+              "media_key": "3_1941779531053875200",
+              "start": 13,
+              "url": "https://t.co/XMVpLeYS02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941779535759839367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1407,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这手适合做什么样的工作？ https://t.co/XMVpLeYS02"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 295,
+          "like_count": 11056,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 371
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "jianlvya"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1941777186781860021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4376,
+          "following_count": 984,
+          "like_count": 21832,
+          "listed_count": 13,
+          "media_count": 858,
+          "tweet_count": 2084
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

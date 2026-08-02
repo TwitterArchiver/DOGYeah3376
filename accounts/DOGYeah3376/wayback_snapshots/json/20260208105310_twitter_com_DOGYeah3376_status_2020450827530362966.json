@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020119989286760449"
+      ],
+      "media_source_tweet_id": [
+        "2020120700330057853"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "2020450827530362966",
+    "created_at": "2026-02-08T10:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T11:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020450827530362966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1964446286662553601",
+          "start": 3,
+          "username": "chibikki__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7oDzeOEizx",
+          "end": 91,
+          "expanded_url": "https://x.com/chibikki__/status/2020120700330057853/photo/1",
+          "media_key": "3_2020119989286760449",
+          "start": 68,
+          "url": "https://t.co/7oDzeOEizx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020450827530362966",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6309
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020120700330057853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chibikki__: 「どうして人間は自らを傷つけるのか？」\n“Why do human hurt themselves?” https://t.co/7oDzeOEizx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1614,
+        "media_key": "3_2020119989286760449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjobV0acAEimf-.png",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020119989286760449"
+          ],
+          "media_source_tweet_id": [
+            "2020120700330057853"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "2020450827530362966",
+        "created_at": "2026-02-08T10:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T11:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020450827530362966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1964446286662553601",
+              "start": 3,
+              "username": "chibikki__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7oDzeOEizx",
+              "end": 91,
+              "expanded_url": "https://x.com/chibikki__/status/2020120700330057853/photo/1",
+              "media_key": "3_2020119989286760449",
+              "start": 68,
+              "url": "https://t.co/7oDzeOEizx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020450827530362966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6309
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020120700330057853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chibikki__: 「どうして人間は自らを傷つけるのか？」\n“Why do human hurt themselves?” https://t.co/7oDzeOEizx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020119989286760449"
+          ]
+        },
+        "author_id": "1964446286662553601",
+        "conversation_id": "2020120700330057853",
+        "created_at": "2026-02-07T13:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T14:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020120700330057853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7oDzeOEizx",
+              "end": 75,
+              "expanded_url": "https://x.com/chibikki__/status/2020120700330057853/photo/1",
+              "media_key": "3_2020119989286760449",
+              "start": 52,
+              "url": "https://t.co/7oDzeOEizx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020120700330057853",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5415,
+          "impression_count": 539123,
+          "like_count": 54560,
+          "quote_count": 154,
+          "reply_count": 115,
+          "retweet_count": 6309
+        },
+        "reply_settings": "everyone",
+        "text": "「どうして人間は自らを傷つけるのか？」\n“Why do human hurt themselves?” https://t.co/7oDzeOEizx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭 @Yyyyy_pog｜主人❤️  @opaoguonai1108｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "opaoguonai1108"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "2012168616947458541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1079,
+          "like_count": 69146,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 4449
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T21:51:25.000Z",
+        "description": "ドット絵｜work📧: chibikki.work@gmail.com｜Don’t use my pictures without permission ｜https://t.co/M0xP3CTqqd ｜ 🖌️: https://t.co/zvl7gZfRyW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "potofu.me/chibikki",
+                "end": 101,
+                "expanded_url": "https://potofu.me/chibikki",
+                "start": 78,
+                "url": "https://t.co/M0xP3CTqqd"
+              },
+              {
+                "display_url": "vgen.co/chibikki",
+                "end": 131,
+                "expanded_url": "http://vgen.co/chibikki",
+                "start": 108,
+                "url": "https://t.co/zvl7gZfRyW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/chibikki",
+                "end": 23,
+                "expanded_url": "https://patreon.com/chibikki",
+                "start": 0,
+                "url": "https://t.co/wb5r8wpPIr"
+              }
+            ]
+          }
+        },
+        "id": "1964446286662553601",
+        "location": "GMT+07:00",
+        "name": "chibikki",
+        "pinned_tweet_id": "2007102344048333272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968795536322142209/5yh1Uhle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8315,
+          "following_count": 197,
+          "like_count": 1686,
+          "listed_count": 30,
+          "media_count": 62,
+          "tweet_count": 144
+        },
+        "url": "https://t.co/wb5r8wpPIr",
+        "username": "chibikki__",
+        "verified": false
+      }
+    ]
+  }
+}

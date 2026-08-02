@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2040382932733567050",
+    "created_at": "2026-04-04T10:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T11:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040382932733567050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yyyyy_pog/stat…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/yyyyy_pog/status/2040378508698919139",
+          "start": 38,
+          "url": "https://t.co/8IRIpzsmVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040382932733567050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040378508698919139",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好吧我貌似对不是很好的人充满攻击性\n貌似我不在乎？\n也许这只是我的性格罢了 https://t.co/8IRIpzsmVl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2040382932733567050",
+        "created_at": "2026-04-04T10:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040382932733567050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyyyy_pog/stat…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/yyyyy_pog/status/2040378508698919139",
+              "start": 38,
+              "url": "https://t.co/8IRIpzsmVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040382932733567050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040378508698919139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吧我貌似对不是很好的人充满攻击性\n貌似我不在乎？\n也许这只是我的性格罢了 https://t.co/8IRIpzsmVl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2040378508698919139",
+        "created_at": "2026-04-04T10:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040378508698919139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040378508698919139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我只要对一个人打上“爱上的人”的标签，对此人好感度就会持续缓慢上升\n现在搞懂为啥qxxg能把我好感度刷这么高了估计是标签问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2039535060714766555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 1127,
+          "like_count": 71511,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 4903
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜ 多意识体｜ 彩虹系统｜号主是目前的主导y总｜身体09 ｜我o我割｜我有精神病｜enby｜可爱小狗@DOGYeah3376 ｜自家狗兼恋人@xshxXXXXXXX ｜妹妹@suikachanqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "DOGYeah3376"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "xshxXXXXXXX"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "suikachanqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "Yyyyy🎗️",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984630292771192833/wVVRgYY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 211,
+          "like_count": 40012,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 3513
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "Yyyyy_pog",
+        "verified": false
+      }
+    ]
+  }
+}

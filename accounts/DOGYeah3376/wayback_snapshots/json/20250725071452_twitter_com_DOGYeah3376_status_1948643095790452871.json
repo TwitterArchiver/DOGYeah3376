@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1948643095790452871",
+    "created_at": "2025-07-25T07:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T08:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948643095790452871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1866728880158982144",
+          "start": 3,
+          "username": "TianAn_men8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948643095790452871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948034563604951229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TianAn_men8964: 我们缺爱b会把每句“我爱你”都当真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1948643095790452871",
+        "created_at": "2025-07-25T07:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T08:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948643095790452871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1866728880158982144",
+              "start": 3,
+              "username": "TianAn_men8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948643095790452871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948034563604951229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TianAn_men8964: 我们缺爱b会把每句“我爱你”都当真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866728880158982144",
+        "conversation_id": "1948034563604951229",
+        "created_at": "2025-07-23T14:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T15:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948034563604951229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948034563604951229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12290,
+          "like_count": 194,
+          "quote_count": 6,
+          "reply_count": 21,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "我们缺爱b会把每句“我爱你”都当真的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 469,
+          "like_count": 18505,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 625
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T06:17:14.000Z",
+        "description": "一些碎碎念 / brat / 🚪88",
+        "id": "1866728880158982144",
+        "name": "neko",
+        "pinned_tweet_id": "1947836625184296997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946151080523595776/LdS3WsVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 48,
+          "like_count": 901,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 140
+        },
+        "username": "TianAn_men8964",
+        "verified": false
+      }
+    ]
+  }
+}

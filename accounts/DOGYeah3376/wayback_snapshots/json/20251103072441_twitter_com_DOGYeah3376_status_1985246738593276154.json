@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1985118949512761656",
+    "created_at": "2025-11-03T07:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T08:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985246738593276154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1736764672999878656",
+          "start": 0,
+          "username": "BAKA__0902"
+        },
+        {
+          "end": 25,
+          "id": "1822447334749614080",
+          "start": 12,
+          "username": "chenwai29719"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/salviaswc/stat…",
+          "end": 49,
+          "expanded_url": "https://x.com/salviaswc/status/1952999436579422233",
+          "start": 26,
+          "url": "https://t.co/mmqxKfNbFO"
+        },
+        {
+          "display_url": "x.com/salviaswc/stat…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/salviaswc/status/1952999436579422233",
+          "start": 50,
+          "url": "https://t.co/R2QE6ABd2z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985246738593276154",
+    "in_reply_to_user_id": "1736764672999878656",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952999436579422233",
+        "type": "quoted"
+      },
+      {
+        "id": "1985235857075532167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BAKA__0902 @chenwai29719 https://t.co/mmqxKfNbFO https://t.co/R2QE6ABd2z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952997656113950720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxpxBVPXsAA_mpF.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1985118949512761656",
+        "created_at": "2025-11-03T07:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T08:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985246738593276154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736764672999878656",
+              "start": 0,
+              "username": "BAKA__0902"
+            },
+            {
+              "end": 25,
+              "id": "1822447334749614080",
+              "start": 12,
+              "username": "chenwai29719"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/salviaswc/stat…",
+              "end": 49,
+              "expanded_url": "https://x.com/salviaswc/status/1952999436579422233",
+              "start": 26,
+              "url": "https://t.co/mmqxKfNbFO"
+            },
+            {
+              "display_url": "x.com/salviaswc/stat…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/salviaswc/status/1952999436579422233",
+              "start": 50,
+              "url": "https://t.co/R2QE6ABd2z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985246738593276154",
+        "in_reply_to_user_id": "1736764672999878656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952999436579422233",
+            "type": "quoted"
+          },
+          {
+            "id": "1985235857075532167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BAKA__0902 @chenwai29719 https://t.co/mmqxKfNbFO https://t.co/R2QE6ABd2z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952997656113950720"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1952999436579422233",
+        "created_at": "2025-08-06T07:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T08:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952999436579422233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Substance Journaling",
+              "display_url": "play.google.com/store/apps/det…",
+              "end": 164,
+              "expanded_url": "https://play.google.com/store/apps/details?id=com.isaakhanimann.journal",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/1958065203070803968/HbYB2uWl?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1958065203070803968/HbYB2uWl?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 141,
+              "status": 200,
+              "title": "PsychonautWiki Journal - Apps on Google Play",
+              "unwound_url": "https://play.google.com/store/apps/details?id=com.isaakhanimann.journal",
+              "url": "https://t.co/bpsJ6N815g"
+            },
+            {
+              "display_url": "pic.x.com/CnXAFavtoU",
+              "end": 188,
+              "expanded_url": "https://x.com/SalviaSWC/status/1952999436579422233/photo/1",
+              "media_key": "3_1952997656113950720",
+              "start": 165,
+              "url": "https://t.co/CnXAFavtoU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952999436579422233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 12385,
+          "like_count": 171,
+          "quote_count": 5,
+          "reply_count": 20,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "推荐一个软件，PsychonauntWiki Journal，内置了绝大多数药物\n用户可以将服药时间，用药剂量输入这个软件。根据输入数据，它自动绘制药效曲线图并警药物联用风险\n用户可以按时间或药物，查看服药历史，以及服药间隔时间，推断是否存在耐药性，是否有成瘾性服药行为\n下载地址:https://t.co/bpsJ6N815g https://t.co/CnXAFavtoU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736764672999878656",
+        "conversation_id": "1985118949512761656",
+        "created_at": "2025-11-03T06:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T07:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985235857075532167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            },
+            {
+              "end": 26,
+              "id": "1822447334749614080",
+              "start": 13,
+              "username": "chenwai29719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985235857075532167",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985198237872206109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 @chenwai29719 请问这是什么软件呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1038,
+          "like_count": 57997,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 3816
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T15:05:45.000Z",
+        "description": "好想吃麦当劳",
+        "id": "1736764672999878656",
+        "name": "不爱我我就去死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736765008410030080/YkbvUROX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 848,
+          "like_count": 4681,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 1053
+        },
+        "username": "BAKA__0902",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T01:38:11.000Z",
+        "description": "07/💊🩸/ftx/非二元性别/泛性恋/爱听摇滚金属/疑似多意识体/adhd+asd /抑郁焦虑但双相存疑\n忘记回fo请私信",
+        "id": "1822447334749614080",
+        "name": "尘外(普瑞愈美激推)",
+        "pinned_tweet_id": "1980068482650959937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985045271924137985/AfwlOWEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 126,
+          "like_count": 90,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 351
+        },
+        "username": "chenwai29719",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 646,
+          "like_count": 10020,
+          "listed_count": 7,
+          "media_count": 141,
+          "tweet_count": 3151
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

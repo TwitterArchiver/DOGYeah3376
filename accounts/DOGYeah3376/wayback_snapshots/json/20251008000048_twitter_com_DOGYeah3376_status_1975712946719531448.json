@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1975635158880702861",
+    "created_at": "2025-10-08T00:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T01:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975712946719531448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933212338674675714",
+          "start": 0,
+          "username": "R1k0xo_33w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975712946719531448",
+    "in_reply_to_user_id": "1933212338674675714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975635158880702861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1k0xo_33w 咋这么幸福😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1975635156498284544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2rdtRzagAAYdJl.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1975635153834938368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2rdtH4bEAA57pp.jpg",
+        "width": 960
+      },
+      {
+        "height": 960,
+        "media_key": "3_1975635154250162176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2rdtJba4AAbKqo.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_1975635155667841024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2rdtOta8AAXsCw.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1975635158880702861",
+        "created_at": "2025-10-08T00:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T01:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975712946719531448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933212338674675714",
+              "start": 0,
+              "username": "R1k0xo_33w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975712946719531448",
+        "in_reply_to_user_id": "1933212338674675714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975635158880702861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1k0xo_33w 咋这么幸福😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975635156498284544",
+            "3_1975635153834938368",
+            "3_1975635154250162176",
+            "3_1975635155667841024"
+          ]
+        },
+        "author_id": "1933212338674675714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1975635158880702861",
+        "created_at": "2025-10-07T18:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T19:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975635158880702861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RPhrztuek",
+              "end": 96,
+              "expanded_url": "https://x.com/R1k0xo_33w/status/1975635158880702861/photo/1",
+              "media_key": "3_1975635156498284544",
+              "start": 73,
+              "url": "https://t.co/6RPhrztuek"
+            },
+            {
+              "display_url": "pic.x.com/6RPhrztuek",
+              "end": 96,
+              "expanded_url": "https://x.com/R1k0xo_33w/status/1975635158880702861/photo/1",
+              "media_key": "3_1975635153834938368",
+              "start": 73,
+              "url": "https://t.co/6RPhrztuek"
+            },
+            {
+              "display_url": "pic.x.com/6RPhrztuek",
+              "end": 96,
+              "expanded_url": "https://x.com/R1k0xo_33w/status/1975635158880702861/photo/1",
+              "media_key": "3_1975635154250162176",
+              "start": 73,
+              "url": "https://t.co/6RPhrztuek"
+            },
+            {
+              "display_url": "pic.x.com/6RPhrztuek",
+              "end": 96,
+              "expanded_url": "https://x.com/R1k0xo_33w/status/1975635158880702861/photo/1",
+              "media_key": "3_1975635155667841024",
+              "start": 73,
+              "url": "https://t.co/6RPhrztuek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975635158880702861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和女朋友od出街吃漂亮饭 点酒不可以做干马天尼时我就知道大事不好 果然 后面菜品虽说过得去但实属一般 而且 莫吉托你好歹多给我点柠檬汁和薄荷吧! https://t.co/6RPhrztuek"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1971966535494521160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 959,
+          "like_count": 49546,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 3133
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T17:18:50.000Z",
+        "description": "铭刻存在的痕迹｜OD｜精神病｜泛性恋｜喜欢可爱的孩子｜流浪｜我是混乱的孩子",
+        "id": "1933212338674675714",
+        "location": "风落下的地方",
+        "name": "鲤",
+        "pinned_tweet_id": "1955374082704413136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953674888881090564/4uBZb2t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 135,
+          "like_count": 1194,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1016
+        },
+        "username": "R1k0xo_33w",
+        "verified": true
+      }
+    ]
+  }
+}

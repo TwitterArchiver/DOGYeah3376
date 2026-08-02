@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1946442066718048337",
+    "created_at": "2025-07-20T11:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T12:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946901355534422466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1706552874002784256",
+          "start": 0,
+          "username": "dixy83653190084"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946901355534422466",
+    "in_reply_to_user_id": "1706552874002784256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946893281578893429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dixy83653190084 乖孩子不要了解哦😉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1946442066718048337",
+        "created_at": "2025-07-20T11:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T12:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946901355534422466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1706552874002784256",
+              "start": 0,
+              "username": "dixy83653190084"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946901355534422466",
+        "in_reply_to_user_id": "1706552874002784256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946893281578893429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dixy83653190084 乖孩子不要了解哦😉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706552874002784256",
+        "conversation_id": "1946442066718048337",
+        "created_at": "2025-07-20T11:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T12:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946893281578893429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946893281578893429",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946442066718048337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 od是什么(ㅇㅅㅇ❀)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx 深柜 自伤 od 互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 438,
+          "like_count": 17291,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 579
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T06:15:12.000Z",
+        "description": "04mtx/f？正在超绝减肥中……无时无刻不在缺爱( ◢д◣)。",
+        "id": "1706552874002784256",
+        "name": "栬镹🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945785095337431040/B3zWvljF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 22,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "dixy83653190084",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2058618318827970703",
+    "created_at": "2026-05-25T01:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058721943327851002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047419861606051840",
+          "start": 0,
+          "username": "Kanaderu_kas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058721943327851002",
+    "in_reply_to_user_id": "2047419861606051840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058618318827970703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanaderu_kas 抗一天我就受不了了卧槽 这个人是神吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 954,
+        "media_key": "3_2058618310951161856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGucmBb0AAZT2n.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2058618318827970703",
+        "created_at": "2026-05-25T01:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058721943327851002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047419861606051840",
+              "start": 0,
+              "username": "Kanaderu_kas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058721943327851002",
+        "in_reply_to_user_id": "2047419861606051840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058618318827970703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanaderu_kas 抗一天我就受不了了卧槽 这个人是神吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058618310951161856"
+          ]
+        },
+        "author_id": "2047419861606051840",
+        "conversation_id": "2058618318827970703",
+        "created_at": "2026-05-24T18:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058618318827970703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9CfTRxDMZ",
+              "end": 36,
+              "expanded_url": "https://x.com/Kanaderu_kas/status/2058618318827970703/photo/1",
+              "media_key": "3_2058618310951161856",
+              "start": 13,
+              "url": "https://t.co/n9CfTRxDMZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058618318827970703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "硬扛三天pr戒断死人微活 https://t.co/n9CfTRxDMZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 1132,
+          "like_count": 75356,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 5314
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T21:00:32.000Z",
+        "description": "19岁/简中🇨🇳繁中🇭🇰日语🇯🇵/🩸🔪/只od/躁鬱/重郁/重焦虑/狂躁/人格分裂/解离型漫游/倾诉欲望高/打扰到您的话抱歉/互fo",
+        "id": "2047419861606051840",
+        "location": "✟昇天✟",
+        "name": "Kanaderu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047421090679701504/4pVhv_SX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 31,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 210
+        },
+        "username": "Kanaderu_kas",
+        "verified": false
+      }
+    ]
+  }
+}

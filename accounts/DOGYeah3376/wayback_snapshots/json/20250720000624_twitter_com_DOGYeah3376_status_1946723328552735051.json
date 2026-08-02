@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1946723328552735051",
+    "created_at": "2025-07-20T00:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T01:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946723328552735051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1946477037432009175",
+          "start": 8,
+          "url": "https://t.co/jYuYwRll5C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946723328552735051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 34,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946477037432009175",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "余杭人怎么活啊 https://t.co/jYuYwRll5C"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31001,
+        "height": 1280,
+        "media_key": "13_1946476981161254913",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946476981161254913/img/Xt5gSnQAHs7XMpcf.jpg",
+        "public_metrics": {
+          "view_count": 495991
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946476981161254913/vid/avc1/320x568/hVErxp-QOOeapiSb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946476981161254913/vid/avc1/480x852/E5WpZDZJMBLu-BD-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946476981161254913/vid/avc1/720x1280/FX_0dxnSW-yqms87.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946476981161254913/pl/1sKD0UIEbdhsdG1I.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1946723328552735051",
+        "created_at": "2025-07-20T00:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T01:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946723328552735051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1946477037432009175",
+              "start": 8,
+              "url": "https://t.co/jYuYwRll5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946723328552735051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946477037432009175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "余杭人怎么活啊 https://t.co/jYuYwRll5C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946476981161254913"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1946477037432009175",
+        "created_at": "2025-07-19T07:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T08:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946477037432009175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DB7a2c6RaQ",
+              "end": 63,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1946477037432009175/video/1",
+              "media_key": "13_1946476981161254913",
+              "start": 40,
+              "url": "https://t.co/DB7a2c6RaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946477037432009175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 558,
+          "impression_count": 1105223,
+          "like_count": 3988,
+          "quote_count": 50,
+          "reply_count": 303,
+          "retweet_count": 449
+        },
+        "reply_settings": "everyone",
+        "text": "7月18日，有杭州余杭网友做水质实验，仅用短短三十秒，全新的滤芯就变成了褐色。 https://t.co/DB7a2c6RaQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx 深柜 自伤 od 互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 436,
+          "like_count": 17207,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 575
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036977,
+          "following_count": 977,
+          "like_count": 7642,
+          "listed_count": 8199,
+          "media_count": 31896,
+          "tweet_count": 38548
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

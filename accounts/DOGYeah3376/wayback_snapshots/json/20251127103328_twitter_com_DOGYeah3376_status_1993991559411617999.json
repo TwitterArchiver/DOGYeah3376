@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993876458834653184"
+      ],
+      "media_source_tweet_id": [
+        "1993876465998549311"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1993991559411617999",
+    "created_at": "2025-11-27T10:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T11:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993991559411617999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1866458229527764992",
+          "start": 3,
+          "username": "Citrus_amara"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rD2wuUXeHV",
+          "end": 41,
+          "expanded_url": "https://x.com/Citrus_amara/status/1993876465998549311/photo/1",
+          "media_key": "3_1993876458834653184",
+          "start": 18,
+          "url": "https://t.co/rD2wuUXeHV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993991559411617999",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993876465998549311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Citrus_amara: https://t.co/rD2wuUXeHV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 805,
+        "media_key": "3_1993876458834653184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6usE0bacAA3Vw6.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993876458834653184"
+          ],
+          "media_source_tweet_id": [
+            "1993876465998549311"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1993991559411617999",
+        "created_at": "2025-11-27T10:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T11:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993991559411617999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1866458229527764992",
+              "start": 3,
+              "username": "Citrus_amara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rD2wuUXeHV",
+              "end": 41,
+              "expanded_url": "https://x.com/Citrus_amara/status/1993876465998549311/photo/1",
+              "media_key": "3_1993876458834653184",
+              "start": 18,
+              "url": "https://t.co/rD2wuUXeHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993991559411617999",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993876465998549311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Citrus_amara: https://t.co/rD2wuUXeHV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993876458834653184"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1993876465998549311",
+        "created_at": "2025-11-27T02:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993876465998549311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rD2wuUXeHV",
+              "end": 23,
+              "expanded_url": "https://x.com/Citrus_amara/status/1993876465998549311/photo/1",
+              "media_key": "3_1993876458834653184",
+              "start": 0,
+              "url": "https://t.co/rD2wuUXeHV"
+            },
+            {
+              "display_url": "x.com/TangYuwenMTF/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/TangYuwenMTF/status/1993554211263725920",
+              "start": 24,
+              "url": "https://t.co/8gN4ZYpIFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993876465998549311",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1024,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993554211263725920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/rD2wuUXeHV https://t.co/8gN4ZYpIFG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 1077,
+          "like_count": 62968,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 4053
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "1988559012858646661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 845,
+          "like_count": 13220,
+          "listed_count": 4,
+          "media_count": 209,
+          "tweet_count": 5813
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

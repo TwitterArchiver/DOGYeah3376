@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1954000069583417682",
+    "created_at": "2025-08-09T10:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T11:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954122947343585651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1720002363409469440",
+          "start": 0,
+          "username": "Priestess1878"
+        },
+        {
+          "end": 23,
+          "id": "1933212338674675714",
+          "start": 15,
+          "username": "0v0cc44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954122947343585651",
+    "in_reply_to_user_id": "1720002363409469440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954122767416328666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Priestess1878 @0v0cc44 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1954000069583417682",
+        "created_at": "2025-08-09T10:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T11:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954122947343585651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1720002363409469440",
+              "start": 0,
+              "username": "Priestess1878"
+            },
+            {
+              "end": 23,
+              "id": "1933212338674675714",
+              "start": 15,
+              "username": "0v0cc44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954122947343585651",
+        "in_reply_to_user_id": "1720002363409469440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954122767416328666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Priestess1878 @0v0cc44 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720002363409469440",
+        "conversation_id": "1954000069583417682",
+        "created_at": "2025-08-09T10:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T11:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954122767416328666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            },
+            {
+              "end": 21,
+              "id": "1933212338674675714",
+              "start": 13,
+              "username": "0v0cc44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954122767416328666",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954122430634701045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 @0v0cc44 回来就嗯造pr80🤓☝️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜无证含糖mtx｜中焦重抑bpd｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 648,
+          "like_count": 25456,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1004
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-02T08:58:24.000Z",
+        "description": "椰奶龙椰丨菇吉菇丨椰菇库路曼波？南北丨绿豆不哒椰友丨哒哈阿西噶压；哦吗丨吉利椰哪漫步南北绿豆。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "RuleBritainia.uk",
+                "end": 23,
+                "expanded_url": "http://RuleBritainia.uk",
+                "start": 0,
+                "url": "https://t.co/Xoq5ZnEqwW"
+              }
+            ]
+          }
+        },
+        "id": "1720002363409469440",
+        "location": "Сыктывкар",
+        "name": "lithia符格🌂",
+        "pinned_tweet_id": "1946414447657918752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952060852624044032/1WfW_Qmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 403,
+          "like_count": 8711,
+          "listed_count": 2,
+          "media_count": 1229,
+          "tweet_count": 9595
+        },
+        "url": "https://t.co/Xoq5ZnEqwW",
+        "username": "Priestess1878",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-12T17:18:50.000Z",
+        "description": "铭刻存在的痕迹｜OD｜精神病｜泛性恋｜喜欢可爱的孩子｜摄影｜流浪｜…",
+        "id": "1933212338674675714",
+        "location": "风落下的地方",
+        "name": "鲤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953674888881090564/4uBZb2t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 107,
+          "like_count": 833,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 619
+        },
+        "username": "0v0cc44",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047160026159325184"
+      ],
+      "media_source_tweet_id": [
+        "2047160028822651165"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "2047256168595435862",
+    "created_at": "2026-04-23T10:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047256168595435862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1962425480612851712",
+          "start": 3,
+          "username": "yaowubaike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SFpGWOxV9j",
+          "end": 76,
+          "expanded_url": "https://x.com/yaowubaike/status/2047160028822651165/photo/1",
+          "media_key": "3_2047160026159325184",
+          "start": 53,
+          "url": "https://t.co/SFpGWOxV9j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047256168595435862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047160028822651165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaowubaike: 不得了，！这个，愈美普瑞禁售。我要，o，感康？操你妈。，我要，肝？衰竭。 https://t.co/SFpGWOxV9j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_2047160026159325184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGj5Mo2bIAADp6C.jpg",
+        "width": 803
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047160026159325184"
+          ],
+          "media_source_tweet_id": [
+            "2047160028822651165"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "2047256168595435862",
+        "created_at": "2026-04-23T10:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047256168595435862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1962425480612851712",
+              "start": 3,
+              "username": "yaowubaike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SFpGWOxV9j",
+              "end": 76,
+              "expanded_url": "https://x.com/yaowubaike/status/2047160028822651165/photo/1",
+              "media_key": "3_2047160026159325184",
+              "start": 53,
+              "url": "https://t.co/SFpGWOxV9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047256168595435862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047160028822651165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaowubaike: 不得了，！这个，愈美普瑞禁售。我要，o，感康？操你妈。，我要，肝？衰竭。 https://t.co/SFpGWOxV9j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047160026159325184"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "2047160028822651165",
+        "created_at": "2026-04-23T03:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047160028822651165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SFpGWOxV9j",
+              "end": 60,
+              "expanded_url": "https://x.com/yaowubaike/status/2047160028822651165/photo/1",
+              "media_key": "3_2047160026159325184",
+              "start": 37,
+              "url": "https://t.co/SFpGWOxV9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047160028822651165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2689,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不得了，！这个，愈美普瑞禁售。我要，o，感康？操你妈。，我要，肝？衰竭。 https://t.co/SFpGWOxV9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2046198454188449899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 1132,
+          "like_count": 73313,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 5105
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3712,
+          "following_count": 33,
+          "like_count": 556,
+          "listed_count": 4,
+          "media_count": 76,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930805685325099008"
+      ],
+      "media_source_tweet_id": [
+        "1931485068763046210"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1943455399526699217",
+    "created_at": "2025-07-10T23:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T00:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943455399526699217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1868192149277462528",
+          "start": 3,
+          "username": "yuany7777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g6CB9URNtD",
+          "end": 44,
+          "expanded_url": "https://x.com/yuany7777/status/1931485068763046210/photo/1",
+          "media_key": "3_1930805685325099008",
+          "start": 21,
+          "url": "https://t.co/g6CB9URNtD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943455399526699217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931485068763046210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuany7777: 请扫码取件 https://t.co/g6CB9URNtD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_1930805685325099008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsuZinwbcAA8gVw.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930805685325099008"
+          ],
+          "media_source_tweet_id": [
+            "1931485068763046210"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1943455399526699217",
+        "created_at": "2025-07-10T23:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T00:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943455399526699217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1868192149277462528",
+              "start": 3,
+              "username": "yuany7777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6CB9URNtD",
+              "end": 44,
+              "expanded_url": "https://x.com/yuany7777/status/1931485068763046210/photo/1",
+              "media_key": "3_1930805685325099008",
+              "start": 21,
+              "url": "https://t.co/g6CB9URNtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943455399526699217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931485068763046210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuany7777: 请扫码取件 https://t.co/g6CB9URNtD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930805685325099008"
+          ]
+        },
+        "author_id": "1868192149277462528",
+        "conversation_id": "1931485068763046210",
+        "created_at": "2025-06-07T22:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T23:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931485068763046210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6CB9URNtD",
+              "end": 29,
+              "expanded_url": "https://x.com/yuany7777/status/1931485068763046210/photo/1",
+              "media_key": "3_1930805685325099008",
+              "start": 6,
+              "url": "https://t.co/g6CB9URNtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931485068763046210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 115865,
+          "like_count": 238,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "请扫码取件 https://t.co/g6CB9URNtD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 343,
+          "like_count": 13373,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 446
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:11:48.000Z",
+        "description": "神经宝藏小女子\n你的互联网闺蜜\n欢迎每个焦虑和内耗的灵魂",
+        "id": "1868192149277462528",
+        "name": "Orange（互fo）",
+        "pinned_tweet_id": "1902158073936171148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891022509958725632/-I-ktb2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9795,
+          "following_count": 7384,
+          "like_count": 33595,
+          "listed_count": 8,
+          "media_count": 550,
+          "tweet_count": 12520
+        },
+        "username": "yuany7777",
+        "verified": true
+      }
+    ]
+  }
+}

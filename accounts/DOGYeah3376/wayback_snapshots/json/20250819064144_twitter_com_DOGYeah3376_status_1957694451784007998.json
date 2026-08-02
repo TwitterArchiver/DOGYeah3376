@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1957694451784007998",
+    "created_at": "2025-08-19T06:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T07:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957694451784007998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tofucurd999/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/tofucurd999/status/1957352673319284945",
+          "start": 18,
+          "url": "https://t.co/4rHlSVYD7O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957694451784007998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957352673319284945",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我爸之前也这么说我的生命是他们给的 https://t.co/4rHlSVYD7O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1957694451784007998",
+        "created_at": "2025-08-19T06:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T07:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957694451784007998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tofucurd999/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/tofucurd999/status/1957352673319284945",
+              "start": 18,
+              "url": "https://t.co/4rHlSVYD7O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957694451784007998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957352673319284945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爸之前也这么说我的生命是他们给的 https://t.co/4rHlSVYD7O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511950915934187521",
+        "conversation_id": "1957352673319284945",
+        "created_at": "2025-08-18T08:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T09:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957352673319284945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957352673319284945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4616,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "老登招笑语录\n你的身体不仅是你的\n也是父母给的\n所以不要用雌激素伤害自己👌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 763,
+          "like_count": 31365,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1551
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T06:16:13.000Z",
+        "description": "08上海｜🏳️‍⚧️无证深柜-24.5.14 mtf 同类互fo｜躁郁｜惊恐｜病娇｜有喜欢的宝宝｜容貌焦虑｜独居｜ISFJ｜日常｜轻度zcod｜不圆｜无政治立场｜猫娘｜绝望燃尽的一刻，希望就会来临，正如黎明时光会褪尽整夜黑暗♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tofucurd999",
+                "end": 23,
+                "expanded_url": "http://t.me/tofucurd999",
+                "start": 0,
+                "url": "https://t.co/t9JuOSvGDF"
+              }
+            ]
+          }
+        },
+        "id": "1511950915934187521",
+        "name": "🏳️‍⚧️巧克力豆腐猫🍥",
+        "pinned_tweet_id": "1893293744973107670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814673517780348928/O0ZUCW1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 1952,
+          "like_count": 4579,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/t9JuOSvGDF",
+        "username": "Tofucurd999",
+        "verified": false
+      }
+    ]
+  }
+}

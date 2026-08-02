@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1957302088016577014",
+    "created_at": "2025-08-18T15:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T16:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957470736375070752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780642673713356800",
+          "start": 0,
+          "username": "zhsy211427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957470736375070752",
+    "in_reply_to_user_id": "1780642673713356800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957470471521480734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhsy211427 养🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1957302088016577014",
+        "created_at": "2025-08-18T15:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957470736375070752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780642673713356800",
+              "start": 0,
+              "username": "zhsy211427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957470736375070752",
+        "in_reply_to_user_id": "1780642673713356800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957470471521480734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhsy211427 养🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780642673713356800",
+        "conversation_id": "1957302088016577014",
+        "created_at": "2025-08-18T15:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957470471521480734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957470471521480734",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957302088016577014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 养tupla!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 758,
+          "like_count": 30739,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1535
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T17:01:27.000Z",
+        "description": "另一个人,之前的已经死去了",
+        "id": "1780642673713356800",
+        "name": "无",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876133551264985088/f0P2uBOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 100,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 207
+        },
+        "username": "zhsy211427",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898651444720652288"
+      ],
+      "media_source_tweet_id": [
+        "1898651451552845901"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1899057354446106772",
+    "created_at": "2025-03-10T11:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T12:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899057354446106772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1655060945155289089",
+          "start": 3,
+          "username": "bolero_march_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b2jG8TFOvc",
+          "end": 53,
+          "expanded_url": "https://x.com/bolero_march_ai/status/1898651451552845901/photo/1",
+          "media_key": "3_1898651444720652288",
+          "start": 30,
+          "url": "https://t.co/b2jG8TFOvc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899057354446106772",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898651451552845901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bolero_march_ai: shy girl https://t.co/b2jG8TFOvc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898651444720652288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlldbfLbUAAlhJC.jpg",
+        "width": 1543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898651444720652288"
+          ],
+          "media_source_tweet_id": [
+            "1898651451552845901"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1899057354446106772",
+        "created_at": "2025-03-10T11:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T12:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899057354446106772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1655060945155289089",
+              "start": 3,
+              "username": "bolero_march_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b2jG8TFOvc",
+              "end": 53,
+              "expanded_url": "https://x.com/bolero_march_ai/status/1898651451552845901/photo/1",
+              "media_key": "3_1898651444720652288",
+              "start": 30,
+              "url": "https://t.co/b2jG8TFOvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899057354446106772",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898651451552845901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bolero_march_ai: shy girl https://t.co/b2jG8TFOvc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898651444720652288"
+          ]
+        },
+        "author_id": "1655060945155289089",
+        "conversation_id": "1898651451552845901",
+        "created_at": "2025-03-09T08:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T09:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898651451552845901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b2jG8TFOvc",
+              "end": 32,
+              "expanded_url": "https://x.com/bolero_march_ai/status/1898651451552845901/photo/1",
+              "media_key": "3_1898651444720652288",
+              "start": 9,
+              "url": "https://t.co/b2jG8TFOvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898651451552845901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 9488,
+          "like_count": 451,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "shy girl https://t.co/b2jG8TFOvc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 101,
+          "like_count": 720,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 81
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T04:04:37.000Z",
+        "description": "｜AI illustration｜I am not a creator｜",
+        "id": "1655060945155289089",
+        "name": "ボレロのマーチ@AIart",
+        "pinned_tweet_id": "1790524199775445312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713772741344849920/m-twxk1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9246,
+          "following_count": 314,
+          "like_count": 26417,
+          "listed_count": 77,
+          "media_count": 369,
+          "tweet_count": 712
+        },
+        "username": "bolero_march_ai",
+        "verified": false
+      }
+    ]
+  }
+}

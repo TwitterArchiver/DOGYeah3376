@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2048075013631451256",
+    "created_at": "2026-04-26T12:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T13:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048384684560982414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2016194044280324096",
+          "start": 0,
+          "username": "Mint3o3042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048384684560982414",
+    "in_reply_to_user_id": "2016194044280324096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048382182041792527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mint3o3042 也不可能一天瘦三斤吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2048075013631451256",
+        "created_at": "2026-04-26T12:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048384684560982414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2016194044280324096",
+              "start": 0,
+              "username": "Mint3o3042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048384684560982414",
+        "in_reply_to_user_id": "2016194044280324096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048382182041792527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mint3o3042 也不可能一天瘦三斤吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016194044280324096",
+        "conversation_id": "2048075013631451256",
+        "created_at": "2026-04-26T12:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048382182041792527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048382182041792527",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048075013631451256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 pr会水肿 反正我是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2048299892788101364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 1143,
+          "like_count": 73462,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 5127
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T16:59:30.000Z",
+        "description": "薄荷 06 贪食ed 52vx/88聊天/188 分享日常谢谢你的观看 不接线下不11 请不要骚扰我 只回复口令 女孩可以和我互动互fo谢谢",
+        "id": "2016194044280324096",
+        "location": "别骂我行吗",
+        "name": "薄荷",
+        "pinned_tweet_id": "2022043730619040086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041948043289690112/bFJDIH2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3235,
+          "following_count": 2,
+          "like_count": 108,
+          "listed_count": 5,
+          "media_count": 124,
+          "tweet_count": 639
+        },
+        "username": "Mint3o3042",
+        "verified": false
+      }
+    ]
+  }
+}

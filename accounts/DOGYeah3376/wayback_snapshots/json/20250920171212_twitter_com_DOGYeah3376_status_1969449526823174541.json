@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1969239299016003750",
+    "created_at": "2025-09-20T17:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T18:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969449526823174541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943628759074312192",
+          "start": 0,
+          "username": "k3633455837"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969449526823174541",
+    "in_reply_to_user_id": "1943628759074312192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969449355934605553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k3633455837 600mg以上就是乱吃浪费钱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1969239299016003750",
+        "created_at": "2025-09-20T17:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T18:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969449526823174541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943628759074312192",
+              "start": 0,
+              "username": "k3633455837"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969449526823174541",
+        "in_reply_to_user_id": "1943628759074312192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969449355934605553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k3633455837 600mg以上就是乱吃浪费钱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943628759074312192",
+        "conversation_id": "1969239299016003750",
+        "created_at": "2025-09-20T17:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T18:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969449355934605553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969449355934605553",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969239299016003750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 那么高的剂量真的舒服吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 929,
+          "like_count": 41024,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 2563
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T11:09:53.000Z",
+        "description": "好累",
+        "id": "1943628759074312192",
+        "location": "天国",
+        "name": "反季雪.",
+        "pinned_tweet_id": "1969410272449479029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964294116659154944/mrWeciqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 55,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 654
+        },
+        "username": "k3633455837",
+        "verified": false
+      }
+    ]
+  }
+}

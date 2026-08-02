@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1961952429450363060",
+    "created_at": "2025-08-31T00:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T01:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961952429450363060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/henrik12138/st…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/henrik12138/status/1961949908472406080",
+          "start": 23,
+          "url": "https://t.co/ON4K743sNo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961952429450363060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961949908472406080",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有人能莫名其妙陪我玩永劫无间 感觉好好玩 https://t.co/ON4K743sNo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1961952429450363060",
+        "created_at": "2025-08-31T00:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T01:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961952429450363060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/henrik12138/st…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/henrik12138/status/1961949908472406080",
+              "start": 23,
+              "url": "https://t.co/ON4K743sNo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961952429450363060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961949908472406080",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有人能莫名其妙陪我玩永劫无间 感觉好好玩 https://t.co/ON4K743sNo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836667117896388608",
+        "conversation_id": "1961949908472406080",
+        "created_at": "2025-08-31T00:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T01:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961949908472406080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961949908472406080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人能莫名其妙陪我玩守望先锋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 834,
+          "like_count": 34782,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1962
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T07:22:29.000Z",
+        "description": "叫我小唯就好 日常嗑药 打游戏  欢迎找我聊天",
+        "id": "1836667117896388608",
+        "name": "普瑞巴林单推人",
+        "pinned_tweet_id": "1943215825529242092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910713555806281734/oBUXKSoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 123,
+          "like_count": 622,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 368
+        },
+        "username": "henrik12138",
+        "verified": false
+      }
+    ]
+  }
+}

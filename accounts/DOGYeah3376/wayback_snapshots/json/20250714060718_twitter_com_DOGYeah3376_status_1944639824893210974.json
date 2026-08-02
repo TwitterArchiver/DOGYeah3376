@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1944639824893210974",
+    "created_at": "2025-07-14T06:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T07:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944639824893210974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697903165570686976",
+          "start": 3,
+          "username": "kikoxts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944639824893210974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944186230180045291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kikoxts: 面对突如其来的情绪，是日常随身携带药物更有效还是随身携带美工刀更有用？刚刚不知道为什么就被悲伤包围了，还有轻微的呕吐感.........."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1944639824893210974",
+        "created_at": "2025-07-14T06:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T07:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944639824893210974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697903165570686976",
+              "start": 3,
+              "username": "kikoxts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944639824893210974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944186230180045291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kikoxts: 面对突如其来的情绪，是日常随身携带药物更有效还是随身携带美工刀更有用？刚刚不知道为什么就被悲伤包围了，还有轻微的呕吐感.........."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697903165570686976",
+        "conversation_id": "1944186230180045291",
+        "created_at": "2025-07-13T00:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T01:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944186230180045291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944186230180045291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "面对突如其来的情绪，是日常随身携带药物更有效还是随身携带美工刀更有用？刚刚不知道为什么就被悲伤包围了，还有轻微的呕吐感.........."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtf 自伤 od 互fo（没看到的戳我一下好了）       最好的妹妹@xiaoyieQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 382,
+          "like_count": 15368,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 489
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T09:24:11.000Z",
+        "description": "这里是精神封印不稳定的INFP-A笨蛋一只。情绪有时会有点极端（在改了，在改了）（新建文件夹）由于心理问题有时会极度渴望安全感。想见每只友善同类一面。（偶有🩸图掉落）永远的好朋友@HJS_2403_0可爱奇奇@ringochichidim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "HJS_2403_0"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "ringochichidim"
+              }
+            ]
+          }
+        },
+        "id": "1697903165570686976",
+        "location": "随机刷新在你身边1000米以内",
+        "name": "是kiko哦~",
+        "pinned_tweet_id": "1899655556660429124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895111547455762433/svnvayy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 354,
+          "like_count": 4752,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1803
+        },
+        "username": "kikoxts",
+        "verified": false
+      }
+    ]
+  }
+}

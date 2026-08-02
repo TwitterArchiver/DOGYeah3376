@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1960578324989931558",
+    "created_at": "2025-08-27T05:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T06:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960578324989931558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Stellaris117/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Stellaris117/status/1960503281387770220",
+          "start": 8,
+          "url": "https://t.co/5onfItbFY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960578324989931558",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960503281387770220",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我求你了。。。 https://t.co/5onfItbFY7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1960578324989931558",
+        "created_at": "2025-08-27T05:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T06:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960578324989931558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Stellaris117/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Stellaris117/status/1960503281387770220",
+              "start": 8,
+              "url": "https://t.co/5onfItbFY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960578324989931558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960503281387770220",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我求你了。。。 https://t.co/5onfItbFY7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "868665576574431234",
+        "conversation_id": "1960493408566567116",
+        "created_at": "2025-08-27T00:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T01:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960503281387770220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790399279129088000",
+              "start": 0,
+              "username": "yanshiyo"
+            },
+            {
+              "end": 18,
+              "id": "522147771",
+              "start": 10,
+              "username": "N_N_DET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960503281387770220",
+        "in_reply_to_user_id": "1790399279129088000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960502828843327900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanshiyo @N_N_DET 还有啊 哈哈哈哈 磕完你要上厕所吧  叔叔能从市政污水管网微弱的含量里 锁定你所在的小区"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 823,
+          "like_count": 34133,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1823
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T03:09:47.000Z",
+        "description": "太极两仪玄门修士    承三清正道，演阴阳枢机 《妙乐万机参玄契》情天欲海藏道真，铁律金枢亦通神。七情弦动生妙相，齿轮转处现玄根。阴极阳眼互根本，造化同出太极门。莫向两边寻究竟，灵台空明自超伦。【道统真言】天工开物显道妙，灵明悟真见本心。若向枢机参两仪，方知造化即玄音。",
+        "id": "868665576574431234",
+        "location": "pyongyang",
+        "name": "☯️Null layman 空空道人☯️",
+        "pinned_tweet_id": "1959413917601714308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947951647642300416/8ioCHZJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 569,
+          "like_count": 40167,
+          "listed_count": 5,
+          "media_count": 1224,
+          "tweet_count": 16440
+        },
+        "username": "Stellaris117",
+        "verified": false
+      }
+    ]
+  }
+}

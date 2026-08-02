@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1980948503267561827",
+    "created_at": "2025-10-22T11:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T12:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980957669252055071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        },
+        {
+          "end": 22,
+          "id": "1597161610799636483",
+          "start": 10,
+          "username": "TiAmosuisui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980957669252055071",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980948887100891609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs @TiAmosuisui 🈷️吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1980948503267561827",
+        "created_at": "2025-10-22T11:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T12:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980957669252055071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            },
+            {
+              "end": 22,
+              "id": "1597161610799636483",
+              "start": 10,
+              "username": "TiAmosuisui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980957669252055071",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980948887100891609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs @TiAmosuisui 🈷️吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845491203124441093",
+        "conversation_id": "1980948503267561827",
+        "created_at": "2025-10-22T10:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980948887100891609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1597161610799636483",
+              "start": 0,
+              "username": "TiAmosuisui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980948887100891609",
+        "in_reply_to_user_id": "1597161610799636483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980948503267561827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TiAmosuisui 🈷️吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979171735669719041/xwbTRqej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 1020,
+          "like_count": 54433,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3511
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "不知名的yu huacs 还有碘伏和酒精 \n友所有群体 最喜欢的自己也不知道\n   成分复杂 双相焦虑   精神分裂治疗中 overdose lain     公路车\n第二人格 @yuhuacs5570\n最好の兄弟 @Lizzy6315\n路边一条 @DOGYeah3376",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "Lizzy6315"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "username": "DOGYeah3376"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdoNl"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "你的心里",
+        "name": "余华成霜",
+        "pinned_tweet_id": "1964136320097538290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962121961225793536/84wpXl9U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 1005,
+          "like_count": 91098,
+          "listed_count": 10,
+          "media_count": 1683,
+          "tweet_count": 15278
+        },
+        "url": "https://t.co/fGARwmdoNl",
+        "username": "yu_huacs",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T09:33:07.000Z",
+        "description": "小则宝💕聊天🚪8888",
+        "id": "1597161610799636483",
+        "location": "TiAmo",
+        "name": "小则身体健康天天开心",
+        "pinned_tweet_id": "1911057071270752764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741099621320138752/VVf9gK3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 58,
+          "like_count": 6280,
+          "listed_count": 6,
+          "media_count": 1005,
+          "tweet_count": 12095
+        },
+        "username": "TiAmosuisui",
+        "verified": false
+      }
+    ]
+  }
+}

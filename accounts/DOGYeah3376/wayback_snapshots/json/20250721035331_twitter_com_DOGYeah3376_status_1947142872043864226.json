@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944391487602544640"
+      ],
+      "media_source_tweet_id": [
+        "1944391518338293870"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1947142872043864226",
+    "created_at": "2025-07-21T03:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T04:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947142872043864226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1209537362411212800",
+          "start": 3,
+          "username": "x_nisuke_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cxsIlyYmyt",
+          "end": 43,
+          "expanded_url": "https://x.com/x_nisuke_x/status/1944391518338293870/photo/1",
+          "media_key": "3_1944391487602544640",
+          "start": 20,
+          "url": "https://t.co/cxsIlyYmyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947142872043864226",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1119
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944391518338293870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_nisuke_x: ame https://t.co/cxsIlyYmyt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1325,
+        "media_key": "3_1944391487602544640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvvdwZLX0AAw4Aa.jpg",
+        "width": 1678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944391487602544640"
+          ],
+          "media_source_tweet_id": [
+            "1944391518338293870"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1947142872043864226",
+        "created_at": "2025-07-21T03:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T04:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947142872043864226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1209537362411212800",
+              "start": 3,
+              "username": "x_nisuke_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxsIlyYmyt",
+              "end": 43,
+              "expanded_url": "https://x.com/x_nisuke_x/status/1944391518338293870/photo/1",
+              "media_key": "3_1944391487602544640",
+              "start": 20,
+              "url": "https://t.co/cxsIlyYmyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947142872043864226",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1119
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944391518338293870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_nisuke_x: ame https://t.co/cxsIlyYmyt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944391487602544640"
+          ]
+        },
+        "author_id": "1209537362411212800",
+        "conversation_id": "1944391518338293870",
+        "created_at": "2025-07-13T13:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944391518338293870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxsIlyYmyt",
+              "end": 27,
+              "expanded_url": "https://x.com/x_nisuke_x/status/1944391518338293870/photo/1",
+              "media_key": "3_1944391487602544640",
+              "start": 4,
+              "url": "https://t.co/cxsIlyYmyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944391518338293870",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1046,
+          "impression_count": 95043,
+          "like_count": 7474,
+          "quote_count": 23,
+          "reply_count": 7,
+          "retweet_count": 1119
+        },
+        "reply_settings": "everyone",
+        "text": "ame https://t.co/cxsIlyYmyt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "是一只可爱的小狗呀｜无证含糖mtx｜深柜｜自伤 od｜互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 444,
+          "like_count": 17547,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 594
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-24T18:12:40.000Z",
+        "description": "boktai‖NSO‖HSR‖UTAU‖touhou‖DOLL‖OC‖yaoi artist🇯🇵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discordapp.com/users/x_nisuke…",
+                "end": 23,
+                "expanded_url": "http://discordapp.com/users/x_nisuke_x",
+                "start": 0,
+                "url": "https://t.co/hcsvTMMDqG"
+              }
+            ]
+          }
+        },
+        "id": "1209537362411212800",
+        "location": "Hell",
+        "name": "弐助/Nisuke@busy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939336784720134144/x78cgZSw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 72,
+          "like_count": 3335,
+          "listed_count": 11,
+          "media_count": 563,
+          "tweet_count": 2579
+        },
+        "url": "https://t.co/hcsvTMMDqG",
+        "username": "x_nisuke_x",
+        "verified": false
+      }
+    ]
+  }
+}

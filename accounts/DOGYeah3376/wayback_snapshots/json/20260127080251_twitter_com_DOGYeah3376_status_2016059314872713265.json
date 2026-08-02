@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2016059314872713265",
+    "created_at": "2026-01-27T08:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T09:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016059314872713265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1550358687062994946",
+          "start": 3,
+          "username": "wenqing18973238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016059314872713265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015739933676425247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wenqing18973238: 我们不说卧轨，我们说生命奔向呼啸。\n我们不说服毒，我们说生命吻别甘醇。\n我们不说割脉，我们说生命漫过掌纹。\n我们不说自焚，我们说生命燃成霞光。\n我们不说绝食，我们说生命归于清寂。\n我们不说跳楼，我们说生命掷地有声。\n我们不说跳河，我们说…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2016059314872713265",
+        "created_at": "2026-01-27T08:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T09:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016059314872713265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1550358687062994946",
+              "start": 3,
+              "username": "wenqing18973238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016059314872713265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015739933676425247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wenqing18973238: 我们不说卧轨，我们说生命奔向呼啸。\n我们不说服毒，我们说生命吻别甘醇。\n我们不说割脉，我们说生命漫过掌纹。\n我们不说自焚，我们说生命燃成霞光。\n我们不说绝食，我们说生命归于清寂。\n我们不说跳楼，我们说生命掷地有声。\n我们不说跳河，我们说…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550358687062994946",
+        "conversation_id": "2015739933676425247",
+        "created_at": "2026-01-26T10:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015739933676425247"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015739933676425247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 46631,
+          "like_count": 1406,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "我们不说卧轨，我们说生命奔向呼啸。\n我们不说服毒，我们说生命吻别甘醇。\n我们不说割脉，我们说生命漫过掌纹。\n我们不说自焚，我们说生命燃成霞光。\n我们不说绝食，我们说生命归于清寂。\n我们不说跳楼，我们说生命掷地有声。\n我们不说跳河，我们说生命随波逐流。\n我们不说上吊，我们说生命随风而动。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 1087,
+          "like_count": 68454,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 4365
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T05:55:01.000Z",
+        "description": "新世界並不很新，舊世界並不很旧。20歲/法學在讀",
+        "id": "1550358687062994946",
+        "name": "Naka（埃迪卡拉紀水母幽靈）",
+        "pinned_tweet_id": "2011117064002683113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973425672623468544/i_bHcaYY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 2410,
+          "like_count": 15937,
+          "listed_count": 5,
+          "media_count": 185,
+          "tweet_count": 2764
+        },
+        "username": "wenqing18973238",
+        "verified": false
+      }
+    ]
+  }
+}

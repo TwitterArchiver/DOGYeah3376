@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942548111173222400"
+      ],
+      "media_source_tweet_id": [
+        "1942548191905472659"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1942859957592023429",
+    "created_at": "2025-07-09T08:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T09:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942859957592023429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1760996307705982976",
+          "start": 3,
+          "username": "OvO_Qian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/88koNqe6Nk",
+          "end": 47,
+          "expanded_url": "https://x.com/OvO_Qian/status/1942548191905472659/photo/1",
+          "media_key": "3_1942548111173222400",
+          "start": 24,
+          "url": "https://t.co/88koNqe6Nk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942859957592023429",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942548191905472659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OvO_Qian: 用棒子把自己玩爽了 https://t.co/88koNqe6Nk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942548111173222400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvVRNw2WAAAGA1e.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942548111173222400"
+          ],
+          "media_source_tweet_id": [
+            "1942548191905472659"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1942859957592023429",
+        "created_at": "2025-07-09T08:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T09:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942859957592023429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1760996307705982976",
+              "start": 3,
+              "username": "OvO_Qian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/88koNqe6Nk",
+              "end": 47,
+              "expanded_url": "https://x.com/OvO_Qian/status/1942548191905472659/photo/1",
+              "media_key": "3_1942548111173222400",
+              "start": 24,
+              "url": "https://t.co/88koNqe6Nk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942859957592023429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942548191905472659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OvO_Qian: 用棒子把自己玩爽了 https://t.co/88koNqe6Nk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942548111173222400"
+          ]
+        },
+        "author_id": "1760996307705982976",
+        "conversation_id": "1942548191905472659",
+        "created_at": "2025-07-08T11:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T12:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942548191905472659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/88koNqe6Nk",
+              "end": 33,
+              "expanded_url": "https://x.com/OvO_Qian/status/1942548191905472659/photo/1",
+              "media_key": "3_1942548111173222400",
+              "start": 10,
+              "url": "https://t.co/88koNqe6Nk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942548191905472659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 11817,
+          "like_count": 192,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "用棒子把自己玩爽了 https://t.co/88koNqe6Nk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 323,
+          "like_count": 12540,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 426
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T11:54:22.000Z",
+        "description": "男娘♂丨无聊上来玩玩推丨同好可扩列～丨H内容都在门槛内丨🚪198＝vx好友位（朋友圈有脸照）+涩涩福利（视蘋群+🐰包+定制）丨",
+        "id": "1760996307705982976",
+        "location": "随机刷新",
+        "name": "铃木 花音",
+        "pinned_tweet_id": "1807744637500850302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785920004632039424/jlwAGGKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57862,
+          "following_count": 384,
+          "like_count": 4243,
+          "listed_count": 131,
+          "media_count": 206,
+          "tweet_count": 4531
+        },
+        "username": "OvO_Qian",
+        "verified": false
+      }
+    ]
+  }
+}

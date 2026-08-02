@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1971500810594058744",
+    "created_at": "2025-09-27T16:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T17:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971977181271413195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1971006655430262784",
+          "start": 0,
+          "username": "FxxkApexLegend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971977181271413195",
+    "in_reply_to_user_id": "1971006655430262784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971976495842418718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FxxkApexLegend 可以试试先幻想朋友转t的过程\n我以前有好多幻想朋友所以成声只花了一个月（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1971500810594058744",
+        "created_at": "2025-09-27T16:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T17:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971977181271413195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1971006655430262784",
+              "start": 0,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971977181271413195",
+        "in_reply_to_user_id": "1971006655430262784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971976495842418718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FxxkApexLegend 可以试试先幻想朋友转t的过程\n我以前有好多幻想朋友所以成声只花了一个月（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971006655430262784",
+        "conversation_id": "1971500810594058744",
+        "created_at": "2025-09-27T16:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T17:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971976495842418718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971976495842418718",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971976228111634459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 戒了也不行😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 945,
+          "like_count": 45067,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2825
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "“青野怎么不玩地平线去推特卖药了”/我是「翎」 / 🏳️‍⚧️🍥MtX💛🤍💜🖤(she?/they) /26fall🇨🇦🇬🇧 / Apex地平线从新手到入门到账号已注销 / 舞萌痴/雷见证or反跨 / 小账@KagurazakaAkira ❤️@juhao0721 / 担保买药找@minokakay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "KagurazakaAkira"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "juhao0721"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/All…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Allenium",
+                "start": 0,
+                "url": "https://t.co/a5iMW7sZie"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "🚪68但是只有我发牢骚",
+        "name": "🍀🍥青野🍥🍀",
+        "pinned_tweet_id": "1971656298539503670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971157025330704384/YaGDwMwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 140,
+          "like_count": 444,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/a5iMW7sZie",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

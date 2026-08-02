@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1957427360443318557",
+    "created_at": "2025-08-18T13:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T14:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957441197645103266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870022570353012736",
+          "start": 0,
+          "username": "kukudejiaxibei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957441197645103266",
+    "in_reply_to_user_id": "1870022570353012736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957427360443318557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukudejiaxibei 不要死好不好🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1957427360443318557",
+        "created_at": "2025-08-18T13:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T14:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957441197645103266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870022570353012736",
+              "start": 0,
+              "username": "kukudejiaxibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957441197645103266",
+        "in_reply_to_user_id": "1870022570353012736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957427360443318557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukudejiaxibei 不要死好不好🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1957427356018331648"
+          ]
+        },
+        "author_id": "1870022570353012736",
+        "conversation_id": "1957427360443318557",
+        "created_at": "2025-08-18T13:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T14:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957427360443318557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957427360443318557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于问题对我可能很严重\n所以来询问大家的意见\nPS：看热闹的人和不喜欢的人可以闭嘴\n\n我最近状态越来越差了\n也不知道这么好了\n虽然说25岁自杀但是我应该也撑不了多久了吧？（也有可能是今年生日晚上）\n帮我做下决定好了\n…\nMix thislike this pick it like a locksmith — by i9bonsai《locksmith》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 751,
+          "like_count": 30609,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1530
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T08:25:12.000Z",
+        "description": "06liner INFJ Virgo♍\n🎮Gaming|🍸 Bartending 🍳 Cooking  \nBFF: @NataliaIcey2006💖@lyb1007\nBF:@xiyimeng04💕\nCat:@jiang_chua28655🐾\nHope I can transition✨\n🇺🇸/🇪🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "NataliaIcey2006"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "lyb1007"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "xiyimeng04"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "jiang_chua28655"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NataliaICEY060…",
+                "end": 23,
+                "expanded_url": "https://t.me/NataliaICEY060910https://ngl.link/kukudejiaxibei1",
+                "start": 0,
+                "url": "https://t.co/lGi3Ux1gT3"
+              }
+            ]
+          }
+        },
+        "id": "1870022570353012736",
+        "location": "Sanctum 9 Inner Ring of Virgo",
+        "name": "Jasiber🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1909221888443949341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933061552678318083/-zQhXG_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 2615,
+          "like_count": 23391,
+          "listed_count": 1,
+          "media_count": 660,
+          "tweet_count": 6317
+        },
+        "url": "https://t.co/lGi3Ux1gT3",
+        "username": "kukudejiaxibei",
+        "verified": false
+      }
+    ]
+  }
+}

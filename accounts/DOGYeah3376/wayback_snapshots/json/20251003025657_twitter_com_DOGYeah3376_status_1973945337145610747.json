@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1973945337145610747",
+    "created_at": "2025-10-03T02:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T03:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973945337145610747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yinsuecci/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/yinsuecci/status/1973607144705700126",
+          "start": 3,
+          "url": "https://t.co/MKsLPQJXJb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973945337145610747",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973607144705700126",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥺🥺 https://t.co/MKsLPQJXJb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1973945337145610747",
+        "created_at": "2025-10-03T02:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T03:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973945337145610747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yinsuecci/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/yinsuecci/status/1973607144705700126",
+              "start": 3,
+              "url": "https://t.co/MKsLPQJXJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973945337145610747",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973607144705700126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥺🥺 https://t.co/MKsLPQJXJb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841098665001435141",
+        "conversation_id": "1973607144705700126",
+        "created_at": "2025-10-02T04:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T05:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973607144705700126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973607144705700126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 483,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你最好的朋友，最好的朋友是你吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1971966535494521160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 956,
+          "like_count": 47457,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2966
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:52:21.000Z",
+        "description": "思念無言，柔情滿庭院\n只想做个蠢蠢的萝莉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mathblog.udclass.top",
+                "end": 23,
+                "expanded_url": "http://www.mathblog.udclass.top/",
+                "start": 0,
+                "url": "https://t.co/2IdjFbFe0b"
+              }
+            ]
+          }
+        },
+        "id": "1841098665001435141",
+        "location": "Mars",
+        "name": "櫻序曦葉",
+        "pinned_tweet_id": "1962081693487264131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841098965305212928/s3dIlbtB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 168,
+          "like_count": 52,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/2IdjFbFe0b",
+        "username": "yinsuecci",
+        "verified": false
+      }
+    ]
+  }
+}

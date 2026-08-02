@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1928530272519164414",
+    "created_at": "2025-06-01T09:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T10:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929108152269562215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1141510147023364096",
+          "start": 0,
+          "username": "XZJccm"
+        },
+        {
+          "end": 18,
+          "id": "1883846307988832256",
+          "start": 8,
+          "username": "iroli_123"
+        },
+        {
+          "end": 31,
+          "id": "1890779651787911168",
+          "start": 19,
+          "username": "LethicFable"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929108152269562215",
+    "in_reply_to_user_id": "1141510147023364096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929107822530244614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XZJccm @iroli_123 @LethicFable 是的是的 我只能说我经历的是这样的 在接受压迫的时候也接收到了保护 只能说自己强大才能逃出吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1928530272519164414",
+        "created_at": "2025-06-01T09:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T10:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929108152269562215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1141510147023364096",
+              "start": 0,
+              "username": "XZJccm"
+            },
+            {
+              "end": 18,
+              "id": "1883846307988832256",
+              "start": 8,
+              "username": "iroli_123"
+            },
+            {
+              "end": 31,
+              "id": "1890779651787911168",
+              "start": 19,
+              "username": "LethicFable"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929108152269562215",
+        "in_reply_to_user_id": "1141510147023364096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929107822530244614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XZJccm @iroli_123 @LethicFable 是的是的 我只能说我经历的是这样的 在接受压迫的时候也接收到了保护 只能说自己强大才能逃出吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1141510147023364096",
+        "conversation_id": "1928530272519164414",
+        "created_at": "2025-06-01T09:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T10:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929107822530244614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            },
+            {
+              "end": 23,
+              "id": "1883846307988832256",
+              "start": 13,
+              "username": "iroli_123"
+            },
+            {
+              "end": 36,
+              "id": "1890779651787911168",
+              "start": 24,
+              "username": "LethicFable"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929107822530244614",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929099342457016765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 @iroli_123 @LethicFable 事实是不稳固的，发生在你身上的事情未必发生在别人身上，你可能刚好具有普遍性，也可能刚好具有独特性。我并不否认事实是事实，只是不同事实太多了。我理解你对家里男性的不满，我已经听见了你的表达，希望你在家中男性的压迫下勇敢的为自己撑起一片天地。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 219,
+          "like_count": 5420,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 228
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-20T00:56:42.000Z",
+        "description": "梦想是无忧无虑成为宠物的那天",
+        "id": "1141510147023364096",
+        "location": "不可视境界线",
+        "name": "着又zy🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766907596680892416/4DmRPfDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5536,
+          "following_count": 462,
+          "like_count": 6496,
+          "listed_count": 47,
+          "media_count": 108,
+          "tweet_count": 1268
+        },
+        "username": "XZJccm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T11:56:00.000Z",
+        "description": "链上/二级/后端程序员",
+        "id": "1883846307988832256",
+        "name": "iroli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888893972438994944/T2L1Xl7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 166,
+          "like_count": 959,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 171
+        },
+        "username": "iroli_123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:06:29.000Z",
+        "description": "坠落在地底世界的人类",
+        "id": "1890779651787911168",
+        "name": "Andrew",
+        "pinned_tweet_id": "1928094655729795225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924558698690838530/IUPBrsPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 83,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 152
+        },
+        "username": "LethicFable",
+        "verified": false
+      }
+    ]
+  }
+}

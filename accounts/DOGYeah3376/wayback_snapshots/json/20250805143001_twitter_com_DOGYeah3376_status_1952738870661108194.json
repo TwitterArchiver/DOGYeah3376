@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1952680911415156744",
+    "created_at": "2025-08-05T14:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T15:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952738870661108194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1951919014244126720",
+          "start": 0,
+          "username": "w9404170534338"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952738870661108194",
+    "in_reply_to_user_id": "1951919014244126720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952728533220172013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w9404170534338 对吧…宝宝🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1952680911415156744",
+        "created_at": "2025-08-05T14:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T15:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952738870661108194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1951919014244126720",
+              "start": 0,
+              "username": "w9404170534338"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952738870661108194",
+        "in_reply_to_user_id": "1951919014244126720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952728533220172013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w9404170534338 对吧…宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951919014244126720",
+        "conversation_id": "1952680911415156744",
+        "created_at": "2025-08-05T13:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T14:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952728533220172013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952728533220172013",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952727856418619619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 这不是爱意吧这"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 581,
+          "like_count": 23041,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 806
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T08:12:21.000Z",
+        "description": "...",
+        "id": "1951919014244126720",
+        "name": "w",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951919826924126208/Cd9uVKeS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 7,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 48
+        },
+        "username": "w9404170534338",
+        "verified": false
+      }
+    ]
+  }
+}

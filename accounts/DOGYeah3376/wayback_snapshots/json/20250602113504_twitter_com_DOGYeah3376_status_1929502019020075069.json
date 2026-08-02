@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887371995811110912"
+      ],
+      "media_source_tweet_id": [
+        "1887371998881296599"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1929502019020075069",
+    "created_at": "2025-06-02T11:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T12:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929502019020075069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692153576636710912",
+          "start": 3,
+          "username": "TheFoxLife"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pvg7Qr1R4V",
+          "end": 39,
+          "expanded_url": "https://x.com/TheFoxLife/status/1887371998881296599/photo/1",
+          "media_key": "3_1887371995811110912",
+          "start": 16,
+          "url": "https://t.co/Pvg7Qr1R4V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929502019020075069",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 580
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887371998881296599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheFoxLife: https://t.co/Pvg7Qr1R4V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_1887371995811110912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjFK1JlXYAAgqZh.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887371995811110912"
+          ],
+          "media_source_tweet_id": [
+            "1887371998881296599"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1929502019020075069",
+        "created_at": "2025-06-02T11:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T12:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929502019020075069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692153576636710912",
+              "start": 3,
+              "username": "TheFoxLife"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pvg7Qr1R4V",
+              "end": 39,
+              "expanded_url": "https://x.com/TheFoxLife/status/1887371998881296599/photo/1",
+              "media_key": "3_1887371995811110912",
+              "start": 16,
+              "url": "https://t.co/Pvg7Qr1R4V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929502019020075069",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 580
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887371998881296599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheFoxLife: https://t.co/Pvg7Qr1R4V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887371995811110912"
+          ]
+        },
+        "author_id": "1692153576636710912",
+        "conversation_id": "1887371998881296599",
+        "created_at": "2025-02-06T05:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T06:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887371998881296599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pvg7Qr1R4V",
+              "end": 23,
+              "expanded_url": "https://x.com/TheFoxLife/status/1887371998881296599/photo/1",
+              "media_key": "3_1887371995811110912",
+              "start": 0,
+              "url": "https://t.co/Pvg7Qr1R4V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887371998881296599",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 323,
+          "impression_count": 91763,
+          "like_count": 4934,
+          "quote_count": 58,
+          "reply_count": 6,
+          "retweet_count": 580
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Pvg7Qr1R4V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 227,
+          "like_count": 5532,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 233
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T12:37:29.000Z",
+        "description": "🌿 Step into 🍁 The Fox Life 🌾🦊 .a world of charm, mischief, and beauty! 🐾 Enjoy daily fox videos & photos that bring endless joy. Follow for your daily🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TheFoxLife7",
+                "end": 23,
+                "expanded_url": "http://t.me/TheFoxLife7",
+                "start": 0,
+                "url": "https://t.co/HsTsNQZBg4"
+              }
+            ]
+          }
+        },
+        "id": "1692153576636710912",
+        "name": "🍁 𝓣𝓱𝓮 𝓕𝓸𝔁 𝓛𝓲𝓯𝓮 🌾🦊",
+        "pinned_tweet_id": "1866923358241296733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886969360603828224/r5SHy9Va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25218,
+          "following_count": 1277,
+          "like_count": 11390,
+          "listed_count": 61,
+          "media_count": 5818,
+          "tweet_count": 15679
+        },
+        "url": "https://t.co/HsTsNQZBg4",
+        "username": "TheFoxLife",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1949639310233436303",
+    "created_at": "2025-07-28T01:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T02:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949639310233436303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lingyuanyuan07…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/lingyuanyuan07/status/1949597868148568125",
+          "start": 113,
+          "url": "https://t.co/Z1BeoChuQ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949639310233436303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949597868148568125",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想被包养养，每天玩电脑，吃饭饭，睡觉觉，挨草草，我嘞个好耶，飞起来啦…我要当od大王，阿巴阿巴我是网瘾少女…有个电脑加住的地方加饭饭就可以随便超飞我，不过没人会选我呀，我废物，进厂~狗不干我干…啦啊啊啊啊啊阿巴阿巴阿巴嘻嘻 https://t.co/Z1BeoChuQ7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1949639310233436303",
+        "created_at": "2025-07-28T01:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T02:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949639310233436303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingyuanyuan07…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/lingyuanyuan07/status/1949597868148568125",
+              "start": 113,
+              "url": "https://t.co/Z1BeoChuQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949639310233436303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949597868148568125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想被包养养，每天玩电脑，吃饭饭，睡觉觉，挨草草，我嘞个好耶，飞起来啦…我要当od大王，阿巴阿巴我是网瘾少女…有个电脑加住的地方加饭饭就可以随便超飞我，不过没人会选我呀，我废物，进厂~狗不干我干…啦啊啊啊啊啊阿巴阿巴阿巴嘻嘻 https://t.co/Z1BeoChuQ7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925363092931960832",
+        "conversation_id": "1949597868148568125",
+        "created_at": "2025-07-27T22:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T23:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949597868148568125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949597868148568125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想被包养养，每天玩电脑，吃饭饭，睡觉觉，挨草草，我嘞个好耶，飞起来啦…我要当od大王，阿巴阿巴我是网瘾少女…有个电脑加住的地方加饭饭就可以随便超飞我，不过没人会选我呀，我废物，进厂~狗不干我干…啦啊啊啊啊啊阿巴阿巴阿巴嘻嘻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 487,
+          "like_count": 19129,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 663
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T01:28:43.000Z",
+        "description": "这里是泠鸢鸳，07年小女孩一枚/贴贴狂热爱好者/缺爱/od/双相/想瘦想瘦/想要浑身是伤浑身是血，啊啊啊为毛我xp是这个，现居济宁~想要钱钱X﹏X🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭一点就炸，炸你一脸芒果(互fo私信喵，如果没回的话)嗜睡…Q924641769~聊天~",
+        "id": "1925363092931960832",
+        "name": "泠鸢酱酱酱🍥(上架自己中)",
+        "pinned_tweet_id": "1944007371594117584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927640098541379584/WCdK-iFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 245,
+          "like_count": 684,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 890
+        },
+        "username": "lingyuanyuan07",
+        "verified": false
+      }
+    ]
+  }
+}

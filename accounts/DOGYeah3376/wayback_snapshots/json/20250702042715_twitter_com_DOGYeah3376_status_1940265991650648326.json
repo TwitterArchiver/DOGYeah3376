@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1940212166646538691",
+    "created_at": "2025-07-02T04:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T05:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940265991650648326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "SnowfairySerina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940265991650648326",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940212166646538691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowfairySerina 如此有活力😧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1940212166646538691",
+        "created_at": "2025-07-02T04:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T05:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940265991650648326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940265991650648326",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940212166646538691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina 如此有活力😧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869440990970556416",
+        "conversation_id": "1940212166646538691",
+        "created_at": "2025-07-02T00:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T01:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940212166646538691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940212166646538691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越看到自杀的我就越感觉自己不能随便似，因为如果都死完了谁来创造新世界的曙光呢。我有我的使命，无论周围发生什么，我都会屹立不倒的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 281,
+          "like_count": 9618,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 322
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "福冈在住/铁路吟游诗人/mtf//我是一颗星，4亿岁了/象征自由开放包容团结的深空四角星旗必将走向世界///\n我的柚柚猫咪是最可爱的，我永远爱大猫咪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yaokuanguniver…",
+                "end": 23,
+                "expanded_url": "https://t.me/yaokuanguniverse",
+                "start": 0,
+                "url": "https://t.co/C5JIQAhDNj"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "星空文明摄平星系云屏市北云区星辰官邸",
+        "name": "🌈⛩️雪原剑仙🏳️‍⚧️✨（星空驻地观察员）",
+        "pinned_tweet_id": "1940218096658391152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936323099076460544/Q47kACZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 548,
+          "like_count": 1398,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 1738
+        },
+        "url": "https://t.co/C5JIQAhDNj",
+        "username": "SnowfairySerina",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1908466429340328139",
+    "created_at": "2025-04-05T10:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T11:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908466429340328139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1600208165269741570",
+          "start": 3,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908466429340328139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908130968361136327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeowCatherina: 想和香香软软的xyn贴贴 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1908466429340328139",
+        "created_at": "2025-04-05T10:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T11:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908466429340328139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1600208165269741570",
+              "start": 3,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908466429340328139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908130968361136327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MeowCatherina: 想和香香软软的xyn贴贴 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "1908130968361136327",
+        "created_at": "2025-04-04T12:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T13:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908130968361136327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908130968361136327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3636,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想和香香软软的xyn贴贴 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 163,
+          "like_count": 1816,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 115
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "20INTP｜⚠️一只学不会说话和社交的AuDHD｜🏫Monash｜🐈/🏹/🚴/💻｜CS&EE&AM｜某司高管(逃)｜🍝FSM｜BA4RI*｜GPG pubKey: C1D9 84F0 BBA1 B3B9｜🚪50,啥也没有｜持证嗓音训练师 160CNY｜❤️@Carafutaba @AsabaSeiban",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 129,
+                "username": "Carafutaba"
+              },
+              {
+                "end": 153,
+                "start": 141,
+                "username": "AsabaSeiban"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cntt.uk",
+                "end": 23,
+                "expanded_url": "http://cntt.uk",
+                "start": 0,
+                "url": "https://t.co/l3eIEXmMQf"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈",
+        "pinned_tweet_id": "1828895115416613251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906720680164589568/QYK6UxuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5340,
+          "following_count": 1011,
+          "like_count": 49362,
+          "listed_count": 16,
+          "media_count": 1557,
+          "tweet_count": 17359
+        },
+        "url": "https://t.co/l3eIEXmMQf",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

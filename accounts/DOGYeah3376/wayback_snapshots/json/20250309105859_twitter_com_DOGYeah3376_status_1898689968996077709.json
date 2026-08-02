@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898191427743760388"
+      ],
+      "media_source_tweet_id": [
+        "1898191433229910016"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1898689968996077709",
+    "created_at": "2025-03-09T10:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T11:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898689968996077709"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 23,
+          "tag": "フリーアイコン"
+        },
+        {
+          "end": 41,
+          "start": 33,
+          "tag": "フリーヘッダー"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1726943286710185984",
+          "start": 3,
+          "username": "xxas8888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gyvPXyg4BD",
+          "end": 65,
+          "expanded_url": "https://x.com/xxas8888/status/1898191433229910016/photo/1",
+          "media_key": "3_1898191427743760388",
+          "start": 42,
+          "url": "https://t.co/gyvPXyg4BD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898689968996077709",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898191433229910016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxas8888: オフっぽいね\n\n #フリーアイコン  #フリーヘッダー https://t.co/gyvPXyg4BD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1898191427743760388",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gle7C-ZbwAQeYVw.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898191427743760388"
+          ],
+          "media_source_tweet_id": [
+            "1898191433229910016"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1898689968996077709",
+        "created_at": "2025-03-09T10:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T11:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898689968996077709"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "フリーアイコン"
+            },
+            {
+              "end": 41,
+              "start": 33,
+              "tag": "フリーヘッダー"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1726943286710185984",
+              "start": 3,
+              "username": "xxas8888"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gyvPXyg4BD",
+              "end": 65,
+              "expanded_url": "https://x.com/xxas8888/status/1898191433229910016/photo/1",
+              "media_key": "3_1898191427743760388",
+              "start": 42,
+              "url": "https://t.co/gyvPXyg4BD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898689968996077709",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898191433229910016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxas8888: オフっぽいね\n\n #フリーアイコン  #フリーヘッダー https://t.co/gyvPXyg4BD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898191427743760388"
+          ]
+        },
+        "author_id": "1726943286710185984",
+        "conversation_id": "1898191433229910016",
+        "created_at": "2025-03-08T01:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T02:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898191433229910016"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "フリーアイコン"
+            },
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "フリーヘッダー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gyvPXyg4BD",
+              "end": 51,
+              "expanded_url": "https://x.com/xxas8888/status/1898191433229910016/photo/1",
+              "media_key": "3_1898191427743760388",
+              "start": 28,
+              "url": "https://t.co/gyvPXyg4BD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898191433229910016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 13590,
+          "like_count": 456,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "オフっぽいね\n\n #フリーアイコン  #フリーヘッダー https://t.co/gyvPXyg4BD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我们又该何去何从../mtx？/10-1-23/178cm/107斤/讨厌肢体接触/infp/睡不醒～/缺爱/特斯拉车主 求求了别封我号/淡推",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 88,
+          "like_count": 594,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 71
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T12:39:07.000Z",
+        "description": "AIart by nijijourney / AI Graphical Therapist / 敬語と絵文字が上手な人が好き / 利用時のﾙｰﾙはlitlinkに 📮https://t.co/E5TqystY80 #asのぬりえテンプレ #asさんぬりました",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 107,
+                "tag": "asのぬりえテンプレ"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "tag": "asさんぬりました"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mond.how/ja/xxas8888_2",
+                "end": 106,
+                "expanded_url": "https://mond.how/ja/xxas8888_2",
+                "start": 83,
+                "url": "https://t.co/E5TqystY80"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/AIpic8888",
+                "end": 23,
+                "expanded_url": "https://lit.link/AIpic8888",
+                "start": 0,
+                "url": "https://t.co/TWUMvVX1U9"
+              }
+            ]
+          }
+        },
+        "id": "1726943286710185984",
+        "location": "目から心の栄養を(* ॑꒳ ॑🫶🏻)",
+        "name": "as🐼💭",
+        "pinned_tweet_id": "1897986679119691955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886699640613167105/0Mv2DfDb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17462,
+          "following_count": 2,
+          "like_count": 15488,
+          "listed_count": 74,
+          "media_count": 4392,
+          "tweet_count": 10778
+        },
+        "url": "https://t.co/TWUMvVX1U9",
+        "username": "xxas8888",
+        "verified": true
+      }
+    ]
+  }
+}

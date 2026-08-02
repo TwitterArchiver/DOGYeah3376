@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1967150240911515811",
+    "created_at": "2025-09-14T08:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T09:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967150240911515811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dogyeah3376/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/dogyeah3376/status/1965411764193120585",
+          "start": 14,
+          "url": "https://t.co/m7b3duu3Hu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967150240911515811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965411764193120585",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "转这个的人好多。现在才发现 https://t.co/m7b3duu3Hu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1967150240911515811",
+        "created_at": "2025-09-14T08:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T09:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967150240911515811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dogyeah3376/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/dogyeah3376/status/1965411764193120585",
+              "start": 14,
+              "url": "https://t.co/m7b3duu3Hu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967150240911515811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965411764193120585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转这个的人好多。现在才发现 https://t.co/m7b3duu3Hu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1965411764193120585",
+        "created_at": "2025-09-09T13:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T14:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965411764193120585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinbao0x0/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/xinbao0x0/status/1965090423577428451",
+              "start": 20,
+              "url": "https://t.co/TxhgVNIzgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965411764193120585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1202,
+          "like_count": 19,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965090423577428451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们不要再od割手了 我们一起去天堂吧 https://t.co/TxhgVNIzgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1967114418552238506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 891,
+          "like_count": 38520,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 2382
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1971805169454404004",
+    "created_at": "2025-09-27T05:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T06:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971805169454404004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1889313848668090368",
+          "start": 3,
+          "username": "Yyyyy_pog"
+        },
+        {
+          "end": 28,
+          "id": "1884627325398212611",
+          "start": 15,
+          "username": "Revive_Meink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971805169454404004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971805101200412821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yyyyy_pog: @Revive_Meink 摸摸……学校的傻逼死无全尸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1971805169454404004",
+        "created_at": "2025-09-27T05:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T06:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971805169454404004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1889313848668090368",
+              "start": 3,
+              "username": "Yyyyy_pog"
+            },
+            {
+              "end": 28,
+              "id": "1884627325398212611",
+              "start": 15,
+              "username": "Revive_Meink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971805169454404004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971805101200412821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yyyyy_pog: @Revive_Meink 摸摸……学校的傻逼死无全尸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "1971678543546630329",
+        "created_at": "2025-09-27T05:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T06:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971805101200412821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884627325398212611",
+              "start": 0,
+              "username": "Revive_Meink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971805101200412821",
+        "in_reply_to_user_id": "1884627325398212611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971678543546630329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Revive_Meink 摸摸……学校的傻逼死无全尸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 945,
+          "like_count": 44766,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 2799
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜ 多意识体｜ 彩虹系统｜号主是目前的主导y总｜身体09 ｜我o我割｜我有精神病｜友跨｜非二元性别｜可爱小狗@DOGYeah3376",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "DOGYeah3376"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "Yyyyy🎗️",
+        "pinned_tweet_id": "1958371694600667167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967070319178293248/dpcldNoc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 112,
+          "like_count": 17898,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1672
+        },
+        "username": "Yyyyy_pog",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "enby\n|\n二十二月系统\n|\n里推：@knimaisey\n（包括但不限于 触发、病态思维、暴论）\n|\n呃画的都放这里好了：@Victimized_P\n———\n你好':3 我是一个永远八岁的小孩 :D 梦想是当一辈子长不大的小孩！你的梦想是什么？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "knimaisey"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "Victimized_P"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "location": "SilverLawn",
+        "name": "铭（前世莱铭系统）",
+        "pinned_tweet_id": "1967642148142248263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967641855916408832/jQaKZyad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 257,
+          "like_count": 9981,
+          "listed_count": 3,
+          "media_count": 785,
+          "tweet_count": 4758
+        },
+        "username": "Revive_Meink",
+        "verified": false
+      }
+    ]
+  }
+}

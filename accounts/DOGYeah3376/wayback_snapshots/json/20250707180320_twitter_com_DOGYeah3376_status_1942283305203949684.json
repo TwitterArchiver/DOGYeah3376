@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940435623946371072"
+      ],
+      "media_source_tweet_id": [
+        "1940435635116134471"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1942283305203949684",
+    "created_at": "2025-07-07T18:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T19:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942283305203949684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1891923925518647296",
+          "start": 3,
+          "username": "Nacreous_1969"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hEMtjX3yuP",
+          "end": 51,
+          "expanded_url": "https://x.com/Nacreous_1969/status/1940435635116134471/photo/1",
+          "media_key": "3_1940435623946371072",
+          "start": 28,
+          "url": "https://t.co/hEMtjX3yuP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942283305203949684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940435635116134471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nacreous_1969: 我会一直视奸你的 https://t.co/hEMtjX3yuP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940435623946371072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu3P60rWQAAo6vg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940435623946371072"
+          ],
+          "media_source_tweet_id": [
+            "1940435635116134471"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1942283305203949684",
+        "created_at": "2025-07-07T18:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T19:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942283305203949684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1891923925518647296",
+              "start": 3,
+              "username": "Nacreous_1969"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEMtjX3yuP",
+              "end": 51,
+              "expanded_url": "https://x.com/Nacreous_1969/status/1940435635116134471/photo/1",
+              "media_key": "3_1940435623946371072",
+              "start": 28,
+              "url": "https://t.co/hEMtjX3yuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942283305203949684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940435635116134471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nacreous_1969: 我会一直视奸你的 https://t.co/hEMtjX3yuP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940435623946371072"
+          ]
+        },
+        "author_id": "1891923925518647296",
+        "conversation_id": "1940435635116134471",
+        "created_at": "2025-07-02T15:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T16:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940435635116134471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hEMtjX3yuP",
+              "end": 32,
+              "expanded_url": "https://x.com/Nacreous_1969/status/1940435635116134471/photo/1",
+              "media_key": "3_1940435623946371072",
+              "start": 9,
+              "url": "https://t.co/hEMtjX3yuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940435635116134471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 644,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我会一直视奸你的 https://t.co/hEMtjX3yuP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 303,
+          "like_count": 11269,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 387
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T18:53:14.000Z",
+        "description": "无性恋、愿望是变水仙｜想要有好多宝宝开幼儿园｜只想做纯良小女孩｜小号@Narcissus_1969 可能是偏阴暗的一面",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Narcissus_1969"
+              }
+            ]
+          }
+        },
+        "id": "1891923925518647296",
+        "name": "ˊ ∇ ˋ",
+        "pinned_tweet_id": "1896286314410238362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891924024084619264/BMGMJAcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 65,
+          "like_count": 1908,
+          "listed_count": 4,
+          "media_count": 328,
+          "tweet_count": 751
+        },
+        "username": "Nacreous_1969",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1986708990559199536",
+    "created_at": "2025-11-07T08:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T09:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986708990559199536"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mukdengise/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/mukdengise/status/1976862676602233217",
+          "start": 21,
+          "url": "https://t.co/RQaIaF2mCp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986708990559199536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976862676602233217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有些跨女还真有这种「女好男坏」思想。。。 https://t.co/RQaIaF2mCp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1986708990559199536",
+        "created_at": "2025-11-07T08:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986708990559199536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mukdengise/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/mukdengise/status/1976862676602233217",
+              "start": 21,
+              "url": "https://t.co/RQaIaF2mCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986708990559199536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976862676602233217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些跨女还真有这种「女好男坏」思想。。。 https://t.co/RQaIaF2mCp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "conversation_id": "1976862676602233217",
+        "created_at": "2025-10-11T04:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T05:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976862676602233217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976862676602233217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4201,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "构思做一期专门对话跨男的播客聊聊自身性别探索的经历与“男性气质”的污名化，以及自认为是女权主义者的跨男如何与自身性别认同/表达自处。我会想以女性主义的视角重新审视“男性气质”，以及反思在跨女/女性群体中普遍流行的“女好男坏”逻辑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1049,
+          "like_count": 58774,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3865
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "爱人类的探险者/IG: ilhajugvn/烹饪日常请见 #花路食堂/桔：@__Ju___Ju__/垃圾桶小号：@Lulu_ilha",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "花路食堂"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "__Ju___Ju__"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "Lulu_ilha"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960404590417076226/igUxxyXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9252,
+          "following_count": 743,
+          "like_count": 136361,
+          "listed_count": 0,
+          "media_count": 1695,
+          "tweet_count": 22480
+        },
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

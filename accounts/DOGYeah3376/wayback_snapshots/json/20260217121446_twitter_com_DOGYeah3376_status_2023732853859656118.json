@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2023416638180405573",
+    "created_at": "2026-02-17T12:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T13:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023732853859656118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1900779585832210432",
+          "start": 0,
+          "username": "77771Yyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023732853859656118",
+    "in_reply_to_user_id": "1900779585832210432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023726770562715671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77771Yyy 终于有人懂我了😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2023416638180405573",
+        "created_at": "2026-02-17T12:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023732853859656118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1900779585832210432",
+              "start": 0,
+              "username": "77771Yyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023732853859656118",
+        "in_reply_to_user_id": "1900779585832210432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023726770562715671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77771Yyy 终于有人懂我了😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900779585832210432",
+        "conversation_id": "2023416638180405573",
+        "created_at": "2026-02-17T11:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T12:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023726770562715671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023726770562715671",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023416638180405573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 那他吗是歌手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭 @Yyyyy_pog｜主人❤️  @opaoguonai1108｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "opaoguonai1108"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "2012168616947458541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 1101,
+          "like_count": 69606,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 4516
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:22:37.000Z",
+        "description": "🚪纯绿52/88/坐标10｜只对部分人感兴趣｜餐券 od 负能 自伤｜同类互fo｜漏了可以私信我 我很好相处 喜欢有礼貌的人 大部分时间在学校请等等我…",
+        "id": "1900779585832210432",
+        "name": "71",
+        "pinned_tweet_id": "2022208733133320205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976968577891659776/czXAeT_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 196,
+          "like_count": 2402,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1039
+        },
+        "username": "77771Yyy",
+        "verified": false
+      }
+    ]
+  }
+}

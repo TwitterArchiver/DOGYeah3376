@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1952632475915833409",
+    "created_at": "2025-08-05T07:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T08:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952632475915833409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701484460250890240",
+          "start": 3,
+          "username": "RinneMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952632475915833409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952606771316670651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RinneMTF: 理性讨论一下，这几年跨性别者生存状况是变好还是变坏…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1952632475915833409",
+        "created_at": "2025-08-05T07:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T08:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952632475915833409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701484460250890240",
+              "start": 3,
+              "username": "RinneMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952632475915833409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952606771316670651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RinneMTF: 理性讨论一下，这几年跨性别者生存状况是变好还是变坏…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "1952606771316670651",
+        "created_at": "2025-08-05T05:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T06:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952606771316670651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952606771316670651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "理性讨论一下，这几年跨性别者生存状况是变好还是变坏\n\n看到很多人说这两年国内乃至全球网上针对跨性别群体不包容言论有所增加，觉得社会在退步。但在我看来，跨性别群体的可见度和讨论度增加本身就是一种社会的进步。说一个对恐跨人士来说很虾仁猪心的事实，很多时候反跨宣传会起到反向效果，尤其在性别焦虑相关信息普及度不足的地区，恐跨宣传客观上反而促进了这类信息的扩散。已经觉醒的跨不会因为看到恐跨言论就改变自己的性别认同，但潜在的跨性别者却可能以此间接的意识到自己的问题所在。\n\n比如我就是原本一直错误的把自己的性别焦虑表现归咎于一大堆不相关的问题上，直到去年看到英国禁用青春期阻断剂的新闻，当时第一反应是早知道有这么好的东西（青春期阻断剂）我肯定一直用着，就不会因为青春期生长发育变得这么难看了。然后好奇这玩意跟跨性别有什么关系，顺着这条线去搜索了一番，再然后就彻底傻眼了……\n\n对于跨性别群体来说，最重要的还是要尽早意识到自己的性别认同（尤其是青春期开始前）。毕竟跨性别者一旦错过了医学干预的最佳时期，那么就会痛苦一辈子，永远没有补救的机会。所以说，网上恐跨的风气再怎么重，也总比一丁点存在感和讨论度都没有要好"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 154,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "理性讨论一下，这几年跨性别者生存状况是变好还是变坏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 578,
+          "like_count": 22886,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 786
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/中文，English /hrt: 2025.1.15/rle: 2025.2.10/ADHD, ASD /恐跨深柜觉醒党/家长党/生物系毕业/王者，崩铁，碧蓝航线",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2422,
+          "following_count": 1857,
+          "like_count": 711,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 856
+        },
+        "username": "RinneMTF",
+        "verified": true
+      }
+    ]
+  }
+}

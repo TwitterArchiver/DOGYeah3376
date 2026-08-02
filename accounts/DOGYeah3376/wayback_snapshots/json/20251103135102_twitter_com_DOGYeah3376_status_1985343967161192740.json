@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1982431041358004732",
+    "created_at": "2025-11-03T13:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T14:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985343967161192740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775557501016297472",
+          "start": 0,
+          "username": "Ayanami090130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985343967161192740",
+    "in_reply_to_user_id": "1775557501016297472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982431041358004732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami090130 晚安…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1982431041358004732",
+        "created_at": "2025-11-03T13:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985343967161192740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775557501016297472",
+              "start": 0,
+              "username": "Ayanami090130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985343967161192740",
+        "in_reply_to_user_id": "1775557501016297472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982431041358004732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami090130 晚安…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775557501016297472",
+        "conversation_id": "1982431041358004732",
+        "created_at": "2025-10-26T12:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T13:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982431041358004732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982431041358004732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢大家 以后不要再问我🚪还有互转等等的事了 我马上就重开了 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1039,
+          "like_count": 58051,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 3822
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T16:14:47.000Z",
+        "description": "叫我程程或者程少就好！09 性别薯条（加盐版）每天喜欢高强度od 私聊赞赏码 把推当日记发 偶尔出cos🚪88求溺爱（私信找我要收款码)",
+        "id": "1775557501016297472",
+        "location": "Taiwan",
+        "name": "一生当小三的命苦小cc",
+        "pinned_tweet_id": "1968545743045804460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915991324949680130/rlU7Qwq6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 81,
+          "like_count": 507,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 469
+        },
+        "username": "Ayanami090130",
+        "verified": false
+      }
+    ]
+  }
+}

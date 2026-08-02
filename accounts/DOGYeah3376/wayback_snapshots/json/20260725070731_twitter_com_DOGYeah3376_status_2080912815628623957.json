@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2080688377377222851",
+    "created_at": "2026-07-25T07:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080912815628623957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2054908136952352768",
+          "start": 0,
+          "username": "iuu_0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080912815628623957",
+    "in_reply_to_user_id": "2054908136952352768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080688377377222851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iuu_0_0 …你咋火了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11842,
+        "height": 720,
+        "media_key": "13_2080688145901961218",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080688145901961218/img/nM0d-Krkgeqob6UW.jpg",
+        "public_metrics": {
+          "view_count": 8744
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080688145901961218/vid/avc1/480x270/xK59AraPJJiNyi38.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080688145901961218/vid/avc1/640x360/6OTQLTu9OlvzQ5-S.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080688145901961218/vid/avc1/1280x720/2YdqDZ2gmK_615w2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080688145901961218/pl/wIFMkmzJpCLJ6jzs.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2080688377377222851",
+        "created_at": "2026-07-25T07:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080912815628623957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2054908136952352768",
+              "start": 0,
+              "username": "iuu_0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080912815628623957",
+        "in_reply_to_user_id": "2054908136952352768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080688377377222851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iuu_0_0 …你咋火了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080688145901961218"
+          ]
+        },
+        "author_id": "2054908136952352768",
+        "conversation_id": "2080688377377222851",
+        "created_at": "2026-07-24T16:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080688377377222851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8fEaScdOd9",
+              "end": 42,
+              "expanded_url": "https://x.com/iuu_0_0/status/2080688377377222851/video/1",
+              "media_key": "13_2080688145901961218",
+              "start": 19,
+              "url": "https://t.co/8fEaScdOd9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080688377377222851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 18209,
+          "like_count": 253,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "尼古丁喵喵 嗑药喵喵 酒精喵喵集结！ https://t.co/8fEaScdOd9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @YyyyyIsntPog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "YyyyyIsntPog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 1106,
+          "like_count": 75897,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 5373
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T12:57:32.000Z",
+        "description": "精神分裂",
+        "id": "2054908136952352768",
+        "name": "李怜彩",
+        "pinned_tweet_id": "2080705290148978981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055152633976139776/0ldffr94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 27,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "iuu_0_0",
+        "verified": false
+      }
+    ]
+  }
+}

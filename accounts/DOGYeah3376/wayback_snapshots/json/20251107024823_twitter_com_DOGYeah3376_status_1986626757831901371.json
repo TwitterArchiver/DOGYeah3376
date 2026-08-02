@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986127708812943360"
+      ],
+      "media_source_tweet_id": [
+        "1986127743235604542"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1986626757831901371",
+    "created_at": "2025-11-07T02:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T03:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986626757831901371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B4DyNOl51o",
+          "end": 55,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1986127743235604542/photo/1",
+          "media_key": "3_1986127708812943360",
+          "start": 32,
+          "url": "https://t.co/B4DyNOl51o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986626757831901371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986127743235604542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 心理委员这是我的新围巾 https://t.co/B4DyNOl51o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_1986127708812943360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5AkoNJbIAA4ikX.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986127708812943360"
+          ],
+          "media_source_tweet_id": [
+            "1986127743235604542"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1986626757831901371",
+        "created_at": "2025-11-07T02:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T03:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986626757831901371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4DyNOl51o",
+              "end": 55,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1986127743235604542/photo/1",
+              "media_key": "3_1986127708812943360",
+              "start": 32,
+              "url": "https://t.co/B4DyNOl51o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986626757831901371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986127743235604542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 心理委员这是我的新围巾 https://t.co/B4DyNOl51o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986127708812943360"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1986127743235604542",
+        "created_at": "2025-11-05T17:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T18:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986127743235604542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4DyNOl51o",
+              "end": 35,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1986127743235604542/photo/1",
+              "media_key": "3_1986127708812943360",
+              "start": 12,
+              "url": "https://t.co/B4DyNOl51o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986127743235604542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 92389,
+          "like_count": 1860,
+          "quote_count": 6,
+          "reply_count": 50,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "心理委员这是我的新围巾 https://t.co/B4DyNOl51o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1047,
+          "like_count": 58707,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3863
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9047,
+          "following_count": 7552,
+          "like_count": 26491,
+          "listed_count": 19,
+          "media_count": 6085,
+          "tweet_count": 39667
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

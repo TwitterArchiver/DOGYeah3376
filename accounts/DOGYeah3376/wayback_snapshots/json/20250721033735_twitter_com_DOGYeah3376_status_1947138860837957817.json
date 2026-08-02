@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1947115086986043469",
+    "created_at": "2025-07-21T03:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T04:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947138860837957817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1925363092931960832",
+          "start": 0,
+          "username": "lingyuanyuan07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947138860837957817",
+    "in_reply_to_user_id": "1925363092931960832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947115086986043469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingyuanyuan07 听说魔爪会影响pr药效（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_1947115071210971136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwWK10xW4AAYfZ4.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1947115086986043469",
+        "created_at": "2025-07-21T03:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T04:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947138860837957817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1925363092931960832",
+              "start": 0,
+              "username": "lingyuanyuan07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947138860837957817",
+        "in_reply_to_user_id": "1925363092931960832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947115086986043469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyuanyuan07 听说魔爪会影响pr药效（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947115071210971136"
+          ]
+        },
+        "author_id": "1925363092931960832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1947115086986043469",
+        "created_at": "2025-07-21T02:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T03:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947115086986043469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qu3na5v7OL",
+              "end": 52,
+              "expanded_url": "https://x.com/lingyuanyuan07/status/1947115086986043469/photo/1",
+              "media_key": "3_1947115071210971136",
+              "start": 29,
+              "url": "https://t.co/Qu3na5v7OL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947115086986043469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉嘿美团买哒粉魔抓~唉嘿，12玉米加10pr少吃点色色喵 https://t.co/Qu3na5v7OL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "是一只可爱的小狗呀｜无证含糖mtx｜深柜｜自伤 od｜互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 442,
+          "like_count": 17480,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 592
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T01:28:43.000Z",
+        "description": "这里是泠鸢鸳，07年小女孩一枚/贴贴狂热爱好者/缺爱/od/双相/想瘦想瘦/想要浑身是伤浑身是血，啊啊啊为毛我xp是这个，现居济宁~想要钱钱X﹏X🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭一点就炸，炸你一脸芒果(互fo私信喵，如果没回的话)嗜睡…Q924641769~聊天~",
+        "id": "1925363092931960832",
+        "name": "泠鸢酱酱酱🍥(上架自己中)",
+        "pinned_tweet_id": "1944007371594117584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927640098541379584/WCdK-iFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 230,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 793
+        },
+        "username": "lingyuanyuan07",
+        "verified": false
+      }
+    ]
+  }
+}

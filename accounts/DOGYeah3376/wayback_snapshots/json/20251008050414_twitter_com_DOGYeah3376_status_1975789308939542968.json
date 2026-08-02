@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1975789308939542968",
+    "created_at": "2025-10-08T05:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T06:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975789308939542968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zqtlovekris99/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/zqtlovekris99/status/1975760562433999204",
+          "start": 17,
+          "url": "https://t.co/7Lg5m99VVP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975789308939542968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975760562433999204",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "建模丑的转 如果看到乱转的扣问号 https://t.co/7Lg5m99VVP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1975789308939542968",
+        "created_at": "2025-10-08T05:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T06:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975789308939542968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/1975760562433999204",
+              "start": 17,
+              "url": "https://t.co/7Lg5m99VVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975789308939542968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975760562433999204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "建模丑的转 如果看到乱转的扣问号 https://t.co/7Lg5m99VVP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1975760562433999204",
+        "created_at": "2025-10-08T03:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975760562433999204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975760562433999204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "建模丑的转 如果看到乱转的扣问号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1971966535494521160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 961,
+          "like_count": 49606,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 3138
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1968873589135839354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10235,
+          "following_count": 991,
+          "like_count": 22302,
+          "listed_count": 10,
+          "media_count": 3694,
+          "tweet_count": 23241
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

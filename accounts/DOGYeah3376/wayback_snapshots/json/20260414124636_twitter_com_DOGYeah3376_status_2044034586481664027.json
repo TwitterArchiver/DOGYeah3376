@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2044029482806456503",
+    "created_at": "2026-04-14T12:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044034586481664027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1505680259974574080",
+          "start": 0,
+          "username": "yujiduantianmo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044034586481664027",
+    "in_reply_to_user_id": "1505680259974574080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044031278174089675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yujiduantianmo1 我是那种日常都能见到的朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2044029482806456503",
+        "created_at": "2026-04-14T12:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044034586481664027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1505680259974574080",
+              "start": 0,
+              "username": "yujiduantianmo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044034586481664027",
+        "in_reply_to_user_id": "1505680259974574080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044031278174089675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yujiduantianmo1 我是那种日常都能见到的朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505680259974574080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2044029482806456503",
+        "created_at": "2026-04-14T12:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044031278174089675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044031278174089675",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044029482806456503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 我也是.\n我姐姐有一个朋友,我能记住她年轻时留学法国,醒酒是中国特色传统,生孩子的时候尿不湿还很贵\n\n就是想不起来叫啥姓啥了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2039536218569052226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1124,
+          "like_count": 72426,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 5028
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T22:59:05.000Z",
+        "description": "米孝子/性压抑/鸡奸未行犯/百合豚/特摄小鬼/知识恋物癖/无我丑角/龟男/权力意志破产者/世俗猪/伪善者/圣母婊/人文主义小丑/精神太监/四爱实践失败者/狗汉奸/看似斯文败类实则文化有限/红色刽子手帮凶/",
+        "id": "1505680259974574080",
+        "location": "猿猴到超人的锁链",
+        "name": "于极端天魔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505680354904264705/LkgTp6OI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 251,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1641
+        },
+        "username": "yujiduantianmo1",
+        "verified": false
+      }
+    ]
+  }
+}

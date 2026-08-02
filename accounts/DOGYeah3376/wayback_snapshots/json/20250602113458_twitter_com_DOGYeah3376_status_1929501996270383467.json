@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889310750235357184"
+      ],
+      "media_source_tweet_id": [
+        "1889310788638101719"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1929501996270383467",
+    "created_at": "2025-06-02T11:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T12:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929501996270383467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2212244346",
+          "start": 3,
+          "username": "analog_2p"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bIqWgrwYKZ",
+          "end": 43,
+          "expanded_url": "https://x.com/analog_2p/status/1889310788638101719/photo/1",
+          "media_key": "3_1889310750235357184",
+          "start": 20,
+          "url": "https://t.co/bIqWgrwYKZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929501996270383467",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1158
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889310788638101719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @analog_2p: おやすみ https://t.co/bIqWgrwYKZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 595,
+        "media_key": "3_1889310750235357184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjguHgoa8AAVI9B.png",
+        "width": 585
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889310750235357184"
+          ],
+          "media_source_tweet_id": [
+            "1889310788638101719"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1929501996270383467",
+        "created_at": "2025-06-02T11:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T12:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929501996270383467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2212244346",
+              "start": 3,
+              "username": "analog_2p"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bIqWgrwYKZ",
+              "end": 43,
+              "expanded_url": "https://x.com/analog_2p/status/1889310788638101719/photo/1",
+              "media_key": "3_1889310750235357184",
+              "start": 20,
+              "url": "https://t.co/bIqWgrwYKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929501996270383467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1158
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889310788638101719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @analog_2p: おやすみ https://t.co/bIqWgrwYKZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889310750235357184"
+          ]
+        },
+        "author_id": "2212244346",
+        "conversation_id": "1889310788638101719",
+        "created_at": "2025-02-11T13:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T14:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889310788638101719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bIqWgrwYKZ",
+              "end": 28,
+              "expanded_url": "https://x.com/analog_2p/status/1889310788638101719/photo/1",
+              "media_key": "3_1889310750235357184",
+              "start": 5,
+              "url": "https://t.co/bIqWgrwYKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889310788638101719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 738,
+          "impression_count": 152157,
+          "like_count": 9626,
+          "quote_count": 17,
+          "reply_count": 13,
+          "retweet_count": 1158
+        },
+        "reply_settings": "everyone",
+        "text": "おやすみ https://t.co/bIqWgrwYKZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 226,
+          "like_count": 5531,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 232
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-24T10:12:28.000Z",
+        "description": "謎テンション大事ですよね。生まれたときもそうでした\n\nまじめ→ @analog2p\n謎グッズ→ https://t.co/kuLd2pkiQd #booth_pm",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 72,
+                "tag": "booth_pm"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "analog2p"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "di-ma.booth.pm",
+                "end": 71,
+                "expanded_url": "https://di-ma.booth.pm/",
+                "start": 48,
+                "url": "https://t.co/kuLd2pkiQd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "analog2p.com",
+                "end": 23,
+                "expanded_url": "http://www.analog2p.com",
+                "start": 0,
+                "url": "https://t.co/9tiInLgrRi"
+              }
+            ]
+          }
+        },
+        "id": "2212244346",
+        "location": "60Hz",
+        "name": "Di-ma📡",
+        "pinned_tweet_id": "1925765388014436416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924177426478743552/9yIobdRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4345,
+          "following_count": 1330,
+          "like_count": 184106,
+          "listed_count": 89,
+          "media_count": 11157,
+          "tweet_count": 112644
+        },
+        "url": "https://t.co/9tiInLgrRi",
+        "username": "analog_2p",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1944668315139670170",
+    "created_at": "2025-07-18T07:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T08:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946107540678619366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1724367733863944192",
+          "start": 0,
+          "username": "shaohong_s32578"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946107540678619366",
+    "in_reply_to_user_id": "1724367733863944192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946107211312206033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaohong_s32578 那是因为上太久了吧\n我的精神状态只允许我最多专注两节课\n🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1944668315139670170",
+        "created_at": "2025-07-18T07:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T08:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946107540678619366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1724367733863944192",
+              "start": 0,
+              "username": "shaohong_s32578"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946107540678619366",
+        "in_reply_to_user_id": "1724367733863944192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946107211312206033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaohong_s32578 那是因为上太久了吧\n我的精神状态只允许我最多专注两节课\n🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724367733863944192",
+        "conversation_id": "1944668315139670170",
+        "created_at": "2025-07-18T07:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T08:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946107211312206033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946107211312206033",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946106245687193734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 我吃12.5色 上最后两节课已经精神恍惚了😵‍💫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx 自伤 od 互fo（没看到的戳我一下好了） 最好的妹妹@xiaoyieQAQ 谢谢你的关注😉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 428,
+          "like_count": 16764,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 551
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T10:04:50.000Z",
+        "description": "09/MTF/2025.7.2/互fo",
+        "id": "1724367733863944192",
+        "name": "sunlin🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943349440967761923/00IZbQID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 75,
+          "like_count": 1191,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 70
+        },
+        "username": "shaohong_s32578",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1938180295636689341",
+    "created_at": "2025-06-29T02:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T03:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939143875203150113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1311700032228216833",
+          "start": 0,
+          "username": "sherry4869000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939143875203150113",
+    "in_reply_to_user_id": "1311700032228216833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939141382511493443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sherry4869000 我不想让我下面的东西有反应\n我吃的25mg色 2mg补"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1938180295636689341",
+        "created_at": "2025-06-29T02:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T03:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939143875203150113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1311700032228216833",
+              "start": 0,
+              "username": "sherry4869000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939143875203150113",
+        "in_reply_to_user_id": "1311700032228216833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939141382511493443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sherry4869000 我不想让我下面的东西有反应\n我吃的25mg色 2mg补"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311700032228216833",
+        "conversation_id": "1938180295636689341",
+        "created_at": "2025-06-29T01:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T02:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939141382511493443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939141382511493443",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938180295636689341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 你吃的太多了啊？！停一点，不然会对身体不好呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 270,
+          "like_count": 8588,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 295
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-01T16:10:44.000Z",
+        "description": "友達に排挤される危険人物、私にとってはもうちょっとぴったりだ",
+        "id": "1311700032228216833",
+        "location": "广东省, 中山市",
+        "name": "只吃鸡爪",
+        "pinned_tweet_id": "1935209509301141882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927691795862790144/miaBi8Fs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 1264,
+          "like_count": 9591,
+          "listed_count": 4,
+          "media_count": 161,
+          "tweet_count": 1814
+        },
+        "username": "sherry4869000",
+        "verified": false
+      }
+    ]
+  }
+}

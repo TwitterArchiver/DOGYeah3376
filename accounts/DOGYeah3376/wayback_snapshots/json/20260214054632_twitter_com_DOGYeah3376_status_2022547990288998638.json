@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022295490243768320"
+      ],
+      "media_source_tweet_id": [
+        "2022295493754474849"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "2022547990288998638",
+    "created_at": "2026-02-14T05:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T06:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022547990288998638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1847884802516799489",
+          "start": 3,
+          "username": "FemboyLoveerr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/abu6zjQ3vT",
+          "end": 42,
+          "expanded_url": "https://x.com/FemboyLoveerr/status/2022295493754474849/photo/1",
+          "media_key": "3_2022295490243768320",
+          "start": 19,
+          "url": "https://t.co/abu6zjQ3vT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022547990288998638",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1092
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022295493754474849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FemboyLoveerr: https://t.co/abu6zjQ3vT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1143,
+        "media_key": "3_2022295490243768320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCjCKbasAAHBOs.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022295490243768320"
+          ],
+          "media_source_tweet_id": [
+            "2022295493754474849"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "2022547990288998638",
+        "created_at": "2026-02-14T05:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022547990288998638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1847884802516799489",
+              "start": 3,
+              "username": "FemboyLoveerr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/abu6zjQ3vT",
+              "end": 42,
+              "expanded_url": "https://x.com/FemboyLoveerr/status/2022295493754474849/photo/1",
+              "media_key": "3_2022295490243768320",
+              "start": 19,
+              "url": "https://t.co/abu6zjQ3vT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022547990288998638",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1092
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022295493754474849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FemboyLoveerr: https://t.co/abu6zjQ3vT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022295490243768320"
+          ]
+        },
+        "author_id": "1847884802516799489",
+        "conversation_id": "2022295493754474849",
+        "created_at": "2026-02-13T13:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022295493754474849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/abu6zjQ3vT",
+              "end": 23,
+              "expanded_url": "https://x.com/FemboyLoveerr/status/2022295493754474849/photo/1",
+              "media_key": "3_2022295490243768320",
+              "start": 0,
+              "url": "https://t.co/abu6zjQ3vT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022295493754474849",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1376,
+          "impression_count": 180412,
+          "like_count": 14324,
+          "quote_count": 63,
+          "reply_count": 36,
+          "retweet_count": 1092
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/abu6zjQ3vT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭 @Yyyyy_pog｜主人❤️  @opaoguonai1108｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "opaoguonai1108"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "2012168616947458541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 1092,
+          "like_count": 69425,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 4498
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T06:19:06.000Z",
+        "description": "Hai :3",
+        "id": "1847884802516799489",
+        "name": ":3",
+        "pinned_tweet_id": "1878350352791093588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861534765490524160/JWCC3Hu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62887,
+          "following_count": 25,
+          "like_count": 11978,
+          "listed_count": 48,
+          "media_count": 1659,
+          "tweet_count": 7066
+        },
+        "username": "FemboyLoveerr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2039661463942652375",
+    "created_at": "2026-04-02T11:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039662330594931131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1442726671841312769",
+          "start": 0,
+          "username": "eziral778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039662330594931131",
+    "in_reply_to_user_id": "1442726671841312769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039661463942652375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eziral778 真挺好看的吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039661458431393792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5VSjPbwAA26lI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039661458477424640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5VSjaaIAAdwJ-.jpg",
+        "width": 1204
+      },
+      {
+        "height": 2248,
+        "media_key": "3_2039661456187379712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5VSa4a0AATYxr.jpg",
+        "width": 1773
+      },
+      {
+        "height": 2211,
+        "media_key": "3_2039661458662072320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5VSkGboAAIjrf.jpg",
+        "width": 1773
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2039661463942652375",
+        "created_at": "2026-04-02T11:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039662330594931131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442726671841312769",
+              "start": 0,
+              "username": "eziral778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039662330594931131",
+        "in_reply_to_user_id": "1442726671841312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039661463942652375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eziral778 真挺好看的吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039661458431393792",
+            "3_2039661458477424640",
+            "3_2039661456187379712",
+            "3_2039661458662072320"
+          ]
+        },
+        "author_id": "1442726671841312769",
+        "conversation_id": "2039661463942652375",
+        "created_at": "2026-04-02T11:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039661463942652375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7u6YoARrGY",
+              "end": 44,
+              "expanded_url": "https://x.com/eziral778/status/2039661463942652375/photo/1",
+              "media_key": "3_2039661458431393792",
+              "start": 21,
+              "url": "https://t.co/7u6YoARrGY"
+            },
+            {
+              "display_url": "pic.x.com/7u6YoARrGY",
+              "end": 44,
+              "expanded_url": "https://x.com/eziral778/status/2039661463942652375/photo/1",
+              "media_key": "3_2039661458477424640",
+              "start": 21,
+              "url": "https://t.co/7u6YoARrGY"
+            },
+            {
+              "display_url": "pic.x.com/7u6YoARrGY",
+              "end": 44,
+              "expanded_url": "https://x.com/eziral778/status/2039661463942652375/photo/1",
+              "media_key": "3_2039661456187379712",
+              "start": 21,
+              "url": "https://t.co/7u6YoARrGY"
+            },
+            {
+              "display_url": "pic.x.com/7u6YoARrGY",
+              "end": 44,
+              "expanded_url": "https://x.com/eziral778/status/2039661463942652375/photo/1",
+              "media_key": "3_2039661458662072320",
+              "start": 21,
+              "url": "https://t.co/7u6YoARrGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039661463942652375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我承认阁下图是p的很好，但我是用豆包p的 https://t.co/7u6YoARrGY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2031387789141717030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 1126,
+          "like_count": 71350,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 4880
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T05:43:55.000Z",
+        "description": "这里什么也没有",
+        "id": "1442726671841312769",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "念念",
+        "pinned_tweet_id": "2024363219876528515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850224171013521408/fHAVWYAJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 625,
+          "like_count": 2146,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1601
+        },
+        "username": "eziral778",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2041795221923737686",
+    "created_at": "2026-04-09T04:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T05:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042091313529811246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1667385380692439040",
+          "start": 0,
+          "username": "iuu_0_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042091313529811246",
+    "in_reply_to_user_id": "1667385380692439040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042091125994090591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iuu_0_o 原来这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2041795221923737686",
+        "created_at": "2026-04-09T04:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042091313529811246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1667385380692439040",
+              "start": 0,
+              "username": "iuu_0_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042091313529811246",
+        "in_reply_to_user_id": "1667385380692439040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042091125994090591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iuu_0_o 原来这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667385380692439040",
+        "conversation_id": "2041795221923737686",
+        "created_at": "2026-04-09T04:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042091125994090591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042091125994090591",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041795221923737686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 其实女孩子间也很少会有每天都聊天的，分人呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2039536218569052226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 1127,
+          "like_count": 71818,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 4962
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T04:17:20.000Z",
+        "description": "纯绿🚪52｜自伤｜od｜接伤口定制",
+        "id": "1667385380692439040",
+        "name": "李怜彩",
+        "pinned_tweet_id": "2017520608561795550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918683932041846784/LJcfKBn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 225,
+          "like_count": 4009,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 2280
+        },
+        "username": "iuu_0_o",
+        "verified": false
+      }
+    ]
+  }
+}

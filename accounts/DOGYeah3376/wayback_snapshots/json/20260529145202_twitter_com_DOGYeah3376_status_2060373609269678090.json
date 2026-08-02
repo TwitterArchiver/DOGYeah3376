@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2060373609269678090",
+    "created_at": "2026-05-29T14:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060373609269678090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943314462771154947",
+          "start": 3,
+          "username": "ddudawrl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060373609269678090",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 556
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059983767767335379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ddudawrl: como mexer no twitter em público se minha timeline é só porno"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2060373609269678090",
+        "created_at": "2026-05-29T14:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060373609269678090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943314462771154947",
+              "start": 3,
+              "username": "ddudawrl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060373609269678090",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 556
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059983767767335379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ddudawrl: como mexer no twitter em público se minha timeline é só porno"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943314462771154947",
+        "conversation_id": "2059983767767335379",
+        "created_at": "2026-05-28T13:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059983767767335379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059983767767335379",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 193707,
+          "like_count": 5847,
+          "quote_count": 32,
+          "reply_count": 193,
+          "retweet_count": 556
+        },
+        "reply_settings": "everyone",
+        "text": "como mexer no twitter em público se minha timeline é só porno"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 1130,
+          "like_count": 75482,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 5321
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T14:21:04.000Z",
+        "description": "Soy a la vez la plaga y la cura.",
+        "id": "1943314462771154947",
+        "name": "🩸",
+        "pinned_tweet_id": "2059983767767335379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057071123766886400/ZxaHtLce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 24,
+          "like_count": 6140,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 919
+        },
+        "username": "ddudawrl",
+        "verified": false
+      }
+    ]
+  }
+}

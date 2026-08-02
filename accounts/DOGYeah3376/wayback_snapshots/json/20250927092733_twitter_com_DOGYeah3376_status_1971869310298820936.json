@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1971869310298820936",
+    "created_at": "2025-09-27T09:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T10:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971869310298820936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0xuntitled/sta…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/0xuntitled/status/1971798887360090253",
+          "start": 23,
+          "url": "https://t.co/vJKVhFYGWY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971869310298820936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971798887360090253",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我最讨厌的两个精神症状就是被害妄想和记忆闪回 https://t.co/vJKVhFYGWY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1971869310298820936",
+        "created_at": "2025-09-27T09:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T10:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971869310298820936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xuntitled/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/0xuntitled/status/1971798887360090253",
+              "start": 23,
+              "url": "https://t.co/vJKVhFYGWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971869310298820936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971798887360090253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我最讨厌的两个精神症状就是被害妄想和记忆闪回 https://t.co/vJKVhFYGWY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946033647481712640",
+        "conversation_id": "1971798887360090253",
+        "created_at": "2025-09-27T04:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T05:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971798887360090253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971798887360090253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被害妄想的原因是真的发生过很糟糕的恶性事件。嗯！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 944,
+          "like_count": 44801,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 2804
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T02:26:05.000Z",
+        "description": "WARNING: 本账号可能含有 精神不安 负能🔪🩸💊 创伤相关｜混合型多意识体｜抑郁症强迫症确诊｜直fo是暗恋你｜LGBTQ+友好｜简体中文/正體中文/ENGLISH｜she/they/whatever｜17 forever",
+        "id": "1946033647481712640",
+        "location": "USA",
+        "name": "UNTITLED-0",
+        "pinned_tweet_id": "1969251062029729921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946034252627480576/aLc1tEgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 124,
+          "like_count": 2064,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 437
+        },
+        "username": "0xUNTITLED",
+        "verified": false
+      }
+    ]
+  }
+}

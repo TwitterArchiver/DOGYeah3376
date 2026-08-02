@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1949299849939337493",
+    "created_at": "2025-07-27T16:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T17:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949510725526827025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894359849812856834",
+          "start": 0,
+          "username": "x_overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949510725526827025",
+    "in_reply_to_user_id": "1894359849812856834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949508999591895470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_overdose_day 来😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1949299849939337493",
+        "created_at": "2025-07-27T16:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T17:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949510725526827025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894359849812856834",
+              "start": 0,
+              "username": "x_overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949510725526827025",
+        "in_reply_to_user_id": "1894359849812856834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949508999591895470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_overdose_day 来😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894359849812856834",
+        "conversation_id": "1949299849939337493",
+        "created_at": "2025-07-27T16:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T17:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949508999591895470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949508999591895470",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949429312165232791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 想加入吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 486,
+          "like_count": 19126,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 662
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T12:12:45.000Z",
+        "description": "wiki主:Sakura\n投稿请私信我\n欢迎访问https://t.co/Q0GM3RbtYz\nSakura的博客:https://t.co/4kNEb83oWR\n官方tg频道:https://t.co/W1o7mgfirc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 47,
+                "expanded_url": "https://overdose.day",
+                "start": 24,
+                "url": "https://t.co/Q0GM3RbtYz"
+              },
+              {
+                "display_url": "dmt.onl",
+                "end": 81,
+                "expanded_url": "https://dmt.onl",
+                "start": 58,
+                "url": "https://t.co/4kNEb83oWR"
+              },
+              {
+                "display_url": "t.me/overdose_dxm",
+                "end": 112,
+                "expanded_url": "https://t.me/overdose_dxm",
+                "start": 89,
+                "url": "https://t.co/W1o7mgfirc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day",
+                "start": 0,
+                "url": "https://t.co/Q0GM3RbtYz"
+              }
+            ]
+          }
+        },
+        "id": "1894359849812856834",
+        "location": "✝️天国✝️",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1949295980140220575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942170925098536960/cpWSRmjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 310,
+          "like_count": 176,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 224
+        },
+        "url": "https://t.co/Q0GM3RbtYz",
+        "username": "x_overdose_day",
+        "verified": true
+      }
+    ]
+  }
+}

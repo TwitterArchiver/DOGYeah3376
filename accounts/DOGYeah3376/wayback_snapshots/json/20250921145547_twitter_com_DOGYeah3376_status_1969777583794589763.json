@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1969775633879507349",
+    "created_at": "2025-09-21T14:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T15:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969777583794589763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1831567909908574208",
+          "start": 0,
+          "username": "1qva0TT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969777583794589763",
+    "in_reply_to_user_id": "1831567909908574208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969777286850527733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1qva0TT 不会不会 我没那么多钱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1969775633879507349",
+        "created_at": "2025-09-21T14:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T15:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969777583794589763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1831567909908574208",
+              "start": 0,
+              "username": "1qva0TT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969777583794589763",
+        "in_reply_to_user_id": "1831567909908574208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969777286850527733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1qva0TT 不会不会 我没那么多钱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831567909908574208",
+        "conversation_id": "1969775633879507349",
+        "created_at": "2025-09-21T14:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T15:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969777286850527733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969777286850527733",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969777110190584226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 别别别 我就是一开始opr哦多了 后面死活减不了量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 931,
+          "like_count": 41407,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 2618
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T05:40:02.000Z",
+        "description": "Mevius",
+        "id": "1831567909908574208",
+        "name": "幽靈",
+        "pinned_tweet_id": "1922324215920771354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968824225948737536/n6Nm4phv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 70,
+          "like_count": 1173,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 468
+        },
+        "username": "1qva0TT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2052330879004139612",
+    "created_at": "2026-05-08T01:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T02:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052565629782376884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1712342569609506816",
+          "start": 0,
+          "username": "178161021185w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052565629782376884",
+    "in_reply_to_user_id": "1712342569609506816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052552151180955913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@178161021185w 这集神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2052330879004139612",
+        "created_at": "2026-05-08T01:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T02:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052565629782376884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1712342569609506816",
+              "start": 0,
+              "username": "178161021185w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052565629782376884",
+        "in_reply_to_user_id": "1712342569609506816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052552151180955913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@178161021185w 这集神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712342569609506816",
+        "conversation_id": "2052330879004139612",
+        "created_at": "2026-05-08T00:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T01:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052552151180955913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052552151180955913",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052330879004139612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 我只懂在pr药效里吃蒸羊羔、蒸熊掌、蒸鹿尾儿、烧花鸭、烧雏鸡、烧子鹅，卤猪、卤鸭、酱鸡、腊肉、松花、小肚儿、晾肉、香肠儿，什锦苏盘儿、熏鸡白肚儿、清蒸八宝猪、江米酿鸭子，罐儿野鸡、罐儿鹌鹑、卤什件儿、卤子鹅、山鸡、兔脯、菜蟒、银鱼、清蒸哈士蟆!烩腰丝、烩鸭腰、烩鸭条、清拌鸭丝儿、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 1145,
+          "like_count": 74615,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 5233
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T05:41:05.000Z",
+        "description": "希望这一生不再看见色情和木桶饭/ 本账号一切内容由AI生成 All content on this account is AI-generated",
+        "id": "1712342569609506816",
+        "name": "abas@8964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048983533595856896/u6NVaA99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 19,
+          "like_count": 726,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 126
+        },
+        "username": "178161021185w",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1949370555544838547",
+    "created_at": "2025-07-27T08:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T09:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949381028268953749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1925363092931960832",
+          "start": 0,
+          "username": "lingyuanyuan07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949381028268953749",
+    "in_reply_to_user_id": "1925363092931960832",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949370555544838547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingyuanyuan07 🥹🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1949370555544838547",
+        "created_at": "2025-07-27T08:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T09:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949381028268953749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1925363092931960832",
+              "start": 0,
+              "username": "lingyuanyuan07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949381028268953749",
+        "in_reply_to_user_id": "1925363092931960832",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949370555544838547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyuanyuan07 🥹🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925363092931960832",
+        "conversation_id": "1949370555544838547",
+        "created_at": "2025-07-27T07:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T08:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949370555544838547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949370555544838547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望的我能活到头发变长…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 485,
+          "like_count": 19035,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 647
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T01:28:43.000Z",
+        "description": "这里是泠鸢鸳，07年小女孩一枚/贴贴狂热爱好者/缺爱/od/双相/想瘦想瘦/想要浑身是伤浑身是血，啊啊啊为毛我xp是这个，现居济宁~想要钱钱X﹏X🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭一点就炸，炸你一脸芒果(互fo私信喵，如果没回的话)嗜睡…Q924641769~聊天~",
+        "id": "1925363092931960832",
+        "name": "泠鸢酱酱酱🍥(上架自己中)",
+        "pinned_tweet_id": "1944007371594117584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927640098541379584/WCdK-iFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 240,
+          "like_count": 673,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 861
+        },
+        "username": "lingyuanyuan07",
+        "verified": false
+      }
+    ]
+  }
+}

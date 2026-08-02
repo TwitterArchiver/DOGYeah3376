@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2042481125193343111",
+    "created_at": "2026-04-10T06:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042483129936756827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900394907459850240",
+          "start": 0,
+          "username": "TouhouSeigen_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042483129936756827",
+    "in_reply_to_user_id": "1900394907459850240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042481125193343111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TouhouSeigen_ 自发性好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2042481125193343111",
+        "created_at": "2026-04-10T06:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042483129936756827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900394907459850240",
+              "start": 0,
+              "username": "TouhouSeigen_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042483129936756827",
+        "in_reply_to_user_id": "1900394907459850240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042481125193343111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TouhouSeigen_ 自发性好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900394907459850240",
+        "conversation_id": "2042481125193343111",
+        "created_at": "2026-04-10T05:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042481125193343111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042481125193343111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Tulpa突然增加了两个成员…自带形象和名称，啊啊…？（什么自发型）\n\n声音的话，目前暂且来说还是掺了点我的，不过没什么恶意，对话也能好好对话就是了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2039536218569052226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1124,
+          "like_count": 71943,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 4971
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T03:54:01.000Z",
+        "description": "海豹萬歲萬萬歲丨自殘內容注意 丨 简中 繁中混用丨賽博八字ISTP-T丨2011.7.26丨一般路過ftm丨泛性恋丨無證hrt丨hrt 2025.10.9丨可以叫我東方逝元（Tōhō Seigen）或上條鷹介（Kamijō Yōsuke）丨我衹是一隻海豹",
+        "id": "1900394907459850240",
+        "location": "地球",
+        "name": "Seigen🦭🏳‍⚧",
+        "pinned_tweet_id": "2037979857611841987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032688213819797507/AhFJyVZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 185,
+          "like_count": 7115,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 447
+        },
+        "username": "TouhouSeigen_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1958063875661918295",
+    "created_at": "2025-08-20T07:09:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T08:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958063875661918295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/r1k0xo_33w/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/r1k0xo_33w/status/1958063170402054193",
+          "start": 11,
+          "url": "https://t.co/LHSsePBf85"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958063875661918295",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958063170402054193",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "pr列管我就321跳 https://t.co/LHSsePBf85"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1958063875661918295",
+        "created_at": "2025-08-20T07:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T08:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958063875661918295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/r1k0xo_33w/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/r1k0xo_33w/status/1958063170402054193",
+              "start": 11,
+              "url": "https://t.co/LHSsePBf85"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958063875661918295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958063170402054193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "pr列管我就321跳 https://t.co/LHSsePBf85"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933212338674675714",
+        "conversation_id": "1957936641789817046",
+        "created_at": "2025-08-20T07:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T08:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958063170402054193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            },
+            {
+              "end": 22,
+              "id": "622036546",
+              "start": 13,
+              "username": "oder_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958063170402054193",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958063010968400261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 @oder_666 pr可能死的比ym还快🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 771,
+          "like_count": 31694,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1599
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T17:18:50.000Z",
+        "description": "铭刻存在的痕迹｜OD｜精神病｜泛性恋｜喜欢可爱的孩子｜摄影｜流浪",
+        "id": "1933212338674675714",
+        "location": "风落下的地方",
+        "name": "鲤",
+        "pinned_tweet_id": "1955374082704413136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953674888881090564/4uBZb2t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 108,
+          "like_count": 977,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 742
+        },
+        "username": "R1k0xo_33w",
+        "verified": true
+      }
+    ]
+  }
+}

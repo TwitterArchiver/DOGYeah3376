@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1942548132774236450",
+    "created_at": "2025-07-08T21:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T22:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942698969626538447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1383473182854684674",
+          "start": 0,
+          "username": "yuanwangnan"
+        },
+        {
+          "end": 26,
+          "id": "1692136120027320320",
+          "start": 13,
+          "username": "Cypress_7593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942698969626538447",
+    "in_reply_to_user_id": "1383473182854684674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942622553828385160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanwangnan @Cypress_7593 睡觉的时候发生什么我都不知道😩\n断片睡眠这一块./\n别人给我捅死了我估计也没感觉吧😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1942548132774236450",
+        "created_at": "2025-07-08T21:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T22:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942698969626538447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1383473182854684674",
+              "start": 0,
+              "username": "yuanwangnan"
+            },
+            {
+              "end": 26,
+              "id": "1692136120027320320",
+              "start": 13,
+              "username": "Cypress_7593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942698969626538447",
+        "in_reply_to_user_id": "1383473182854684674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942622553828385160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanwangnan @Cypress_7593 睡觉的时候发生什么我都不知道😩\n断片睡眠这一块./\n别人给我捅死了我估计也没感觉吧😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383473182854684674",
+        "conversation_id": "1942548132774236450",
+        "created_at": "2025-07-08T16:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T17:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942622553828385160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "Cypress_7593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942622553828385160",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942548132774236450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cypress_7593 不知道，但我觉得入睡后就是死亡体验卡，一切只有虚无"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 316,
+          "like_count": 12129,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 403
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T17:31:36.000Z",
+        "description": "06",
+        "id": "1383473182854684674",
+        "location": "广州",
+        "name": "十四",
+        "pinned_tweet_id": "1843571868097495426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829038118617088/OvMjP30T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3525,
+          "following_count": 132,
+          "like_count": 39603,
+          "listed_count": 13,
+          "media_count": 1967,
+          "tweet_count": 20990
+        },
+        "username": "yuanwangnan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "你好我是柏树七代目|精神状态是量子叠加态|成分复杂关注请谨慎|分裂情感性精神病&阿斯伯格|INFJ-T 5w6-tritype593-sp/so|无性恋&泛浪漫|查成分回fo|屏蔽必回敬|误block致歉|看我不爽建议您去死捏|第二人格\n@theDarkCypress|逃生舱@Cypress_1118",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 119,
+                "username": "theDarkCypress"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "Cypress_1118"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANITY】",
+        "pinned_tweet_id": "1940655533679432057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893603395346280448/j2VGmsv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 956,
+          "like_count": 17651,
+          "listed_count": 4,
+          "media_count": 660,
+          "tweet_count": 4818
+        },
+        "username": "Cypress_7593",
+        "verified": true
+      }
+    ]
+  }
+}

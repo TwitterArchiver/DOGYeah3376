@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1942714594839126347",
+    "created_at": "2025-07-08T22:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T23:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942714594839126347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chronoir301/st…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/chronoir301/status/1942591543011074546",
+          "start": 148,
+          "url": "https://t.co/57azyfsUxK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942714594839126347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942591543011074546",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我适台被包养的五大理由 \n1.好吃懒做，整个人和努力两个字没有半点关系 \n2.心里脆弱，除了被拍马屁听不得半点批评\n3.爱玩手机看电视，所以宅在家里很容易满足（用淘宝买东西），出去也不会随意霍霍\n4.眼界很高，即使被包养也会买贵的东西，让你更有动力挣钱\n5.我不管有没有钱都很善良，会随便给你草 https://t.co/57azyfsUxK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1942714594839126347",
+        "created_at": "2025-07-08T22:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T23:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942714594839126347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chronoir301/st…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/chronoir301/status/1942591543011074546",
+              "start": 148,
+              "url": "https://t.co/57azyfsUxK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942714594839126347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942591543011074546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我适台被包养的五大理由 \n1.好吃懒做，整个人和努力两个字没有半点关系 \n2.心里脆弱，除了被拍马屁听不得半点批评\n3.爱玩手机看电视，所以宅在家里很容易满足（用淘宝买东西），出去也不会随意霍霍\n4.眼界很高，即使被包养也会买贵的东西，让你更有动力挣钱\n5.我不管有没有钱都很善良，会随便给你草 https://t.co/57azyfsUxK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313694503362985989",
+        "conversation_id": "1942591543011074546",
+        "created_at": "2025-07-08T14:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T15:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942591543011074546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hiner233/statu…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/hiner233/status/1942568823292584426",
+              "start": 148,
+              "url": "https://t.co/yM6w4JTOIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942591543011074546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942568823292584426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我适台被包养的五大理由 \n1.好吃懒做，整个人和努力两个字没有半点关系 \n2.心里脆弱，除了被拍马屁听不得半点批评\n3.爱玩手机看电视，所以宅在家里很容易满足（用淘宝买东西），出去也不会随意霍霍\n4.眼界很高，即使被包养也会买贵的东西，让你更有动力挣钱\n5.我不管有没有钱都很善良，会随便给你草 https://t.co/yM6w4JTOIY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 318,
+          "like_count": 12170,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 405
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T04:16:00.000Z",
+        "description": "07|173 60 0.5 🌈E/INFP 经常变化\n\n看过的番不是特别多，一些热门也没看过|\n游戏:九，五，京，新月……舟（现云玩家）\n不算特别furry控，但是兽兽可爱❤️|在北京读书，比较随和，但是有底线|企鹅号:2903321490丨来问我问题喵https://t.co/yTbMLvl5Tk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chronoir2025",
+                "end": 150,
+                "expanded_url": "https://ngl.link/chronoir2025",
+                "start": 127,
+                "url": "https://t.co/yTbMLvl5Tk"
+              }
+            ]
+          }
+        },
+        "id": "1313694503362985989",
+        "location": "世界的中心",
+        "name": "辣条🏳️‍🌈",
+        "pinned_tweet_id": "1938878959183151167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938793077776228352/QJX3rWSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 454,
+          "like_count": 3319,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 909
+        },
+        "username": "ChroNoiR301",
+        "verified": false
+      }
+    ]
+  }
+}

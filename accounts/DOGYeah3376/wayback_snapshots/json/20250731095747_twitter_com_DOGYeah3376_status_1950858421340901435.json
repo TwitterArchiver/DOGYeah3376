@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1950843336170074298",
+    "created_at": "2025-07-31T09:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T10:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950858421340901435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1271278454537744384",
+          "start": 0,
+          "username": "Rabbit_Pussy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950858421340901435",
+    "in_reply_to_user_id": "1271278454537744384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950858282060693547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rabbit_Pussy 愈美难吃的要死🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1950843336170074298",
+        "created_at": "2025-07-31T09:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T10:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950858421340901435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1271278454537744384",
+              "start": 0,
+              "username": "Rabbit_Pussy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950858421340901435",
+        "in_reply_to_user_id": "1271278454537744384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950858282060693547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rabbit_Pussy 愈美难吃的要死🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271278454537744384",
+        "conversation_id": "1950843336170074298",
+        "created_at": "2025-07-31T09:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T10:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950858282060693547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950858282060693547",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950857185287622847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 抱抱～和愈美差不多其实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 513,
+          "like_count": 20304,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 702
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T03:09:46.000Z",
+        "description": "超大只兔子｜182cm｜木桶饭🏳️‍⚧️｜🚪门槛68/128口令红包｜同类免费｜逃生舱@ttt235711｜我的女仆@I_Xinnnnn ｜tg群：https://t.co/h5xkaaTV2V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "ttt235711"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "I_Xinnnnn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+Vs8TpJq44o0wZ…",
+                "end": 97,
+                "expanded_url": "https://t.me/+Vs8TpJq44o0wZmJl",
+                "start": 74,
+                "url": "https://t.co/h5xkaaTV2V"
+              }
+            ]
+          }
+        },
+        "id": "1271278454537744384",
+        "location": "Niger",
+        "name": "兔毛",
+        "pinned_tweet_id": "1942156708715085994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942435233652953088/fEOYSMWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3997,
+          "following_count": 2167,
+          "like_count": 26541,
+          "listed_count": 6,
+          "media_count": 903,
+          "tweet_count": 6521
+        },
+        "username": "Rabbit_Pussy",
+        "verified": false
+      }
+    ]
+  }
+}

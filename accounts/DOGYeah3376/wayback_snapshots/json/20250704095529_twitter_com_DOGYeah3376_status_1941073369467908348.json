@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1938680946565501145",
+    "created_at": "2025-07-04T09:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T10:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941073369467908348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867639848569372672",
+          "start": 0,
+          "username": "overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941073369467908348",
+    "in_reply_to_user_id": "1867639848569372672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938680946565501145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_day 感觉很看不下去啊\n前面是因为有点感同身受\n后面是因为感觉说教太多了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1971,
+        "media_key": "3_1938680943721738240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GueUC_dacAAqo_4.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1938680946565501145",
+        "created_at": "2025-07-04T09:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T10:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941073369467908348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867639848569372672",
+              "start": 0,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941073369467908348",
+        "in_reply_to_user_id": "1867639848569372672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938680946565501145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_day 感觉很看不下去啊\n前面是因为有点感同身受\n后面是因为感觉说教太多了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938680943721738240"
+          ]
+        },
+        "author_id": "1867639848569372672",
+        "conversation_id": "1938680946565501145",
+        "created_at": "2025-06-27T19:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T20:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938680946565501145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qo1WyHkChh",
+              "end": 33,
+              "expanded_url": "https://x.com/overdose_day/status/1938680946565501145/photo/1",
+              "media_key": "3_1938680943721738240",
+              "start": 10,
+              "url": "https://t.co/qo1WyHkChh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938680946565501145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 10820,
+          "like_count": 156,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "纪录片拍的挺好看的 https://t.co/qo1WyHkChh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 290,
+          "like_count": 10320,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 350
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "无偿分享精神活性化工原料，欢迎访问:https://t.co/bwfCFLxN8g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 41,
+                "expanded_url": "https://overdose.day",
+                "start": 18,
+                "url": "https://t.co/bwfCFLxN8g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "✝️药物百科✝️",
+        "pinned_tweet_id": "1921444982461718757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4358,
+          "following_count": 1864,
+          "like_count": 1167,
+          "listed_count": 3,
+          "media_count": 176,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

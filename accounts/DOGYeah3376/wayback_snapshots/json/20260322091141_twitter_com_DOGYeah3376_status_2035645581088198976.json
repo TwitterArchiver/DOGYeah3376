@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2035645581088198976",
+    "created_at": "2026-03-22T09:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T10:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035645581088198976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "193648759",
+          "start": 3,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035645581088198976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035310430252581331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ripo0079: 我今天在日本性别不一致学会（GI学会）上进行了发表，主题是来自中国的跨性别（AMAB）留学生及其所处的社会环境。\n同时，我也介绍了中国跨性别群体所拥有的文化（🍥标志）。\n中国当事人所形成的文化与社区力量，给予了我们勇气。\n谢谢！ https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2035310413995511809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7gCbnbEAE2Vlx.jpg",
+        "width": 3024
+      },
+      {
+        "height": 929,
+        "media_key": "3_2035310413999726592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7gCbobYAAC19I.jpg",
+        "width": 929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2035645581088198976",
+        "created_at": "2026-03-22T09:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T10:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035645581088198976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "193648759",
+              "start": 3,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035645581088198976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035310430252581331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ripo0079: 我今天在日本性别不一致学会（GI学会）上进行了发表，主题是来自中国的跨性别（AMAB）留学生及其所处的社会环境。\n同时，我也介绍了中国跨性别群体所拥有的文化（🍥标志）。\n中国当事人所形成的文化与社区力量，给予了我们勇气。\n谢谢！ https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035310413995511809",
+            "3_2035310413999726592"
+          ]
+        },
+        "author_id": "193648759",
+        "conversation_id": "2035310430252581331",
+        "created_at": "2026-03-21T10:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T11:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035310430252581331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYYIISj2bL",
+              "end": 138,
+              "expanded_url": "https://x.com/ripo0079/status/2035310430252581331/photo/1",
+              "media_key": "3_2035310413995511809",
+              "start": 115,
+              "url": "https://t.co/gYYIISj2bL"
+            },
+            {
+              "display_url": "pic.x.com/gYYIISj2bL",
+              "end": 138,
+              "expanded_url": "https://x.com/ripo0079/status/2035310430252581331/photo/1",
+              "media_key": "3_2035310413999726592",
+              "start": 115,
+              "url": "https://t.co/gYYIISj2bL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035310430252581331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 42141,
+          "like_count": 1128,
+          "quote_count": 8,
+          "reply_count": 27,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "我今天在日本性别不一致学会（GI学会）上进行了发表，主题是来自中国的跨性别（AMAB）留学生及其所处的社会环境。\n同时，我也介绍了中国跨性别群体所拥有的文化（🍥标志）。\n中国当事人所形成的文化与社区力量，给予了我们勇气。\n谢谢！ https://t.co/gYYIISj2bL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭 @Yyyyy_pog｜主人❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "2031387789141717030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1123,
+          "like_count": 70613,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 4761
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 21-NNT。国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "1995163218428432583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6888,
+          "following_count": 1364,
+          "like_count": 69571,
+          "listed_count": 121,
+          "media_count": 4264,
+          "tweet_count": 53449
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

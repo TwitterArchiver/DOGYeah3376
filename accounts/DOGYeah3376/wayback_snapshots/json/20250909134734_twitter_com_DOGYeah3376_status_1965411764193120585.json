@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1965411764193120585",
+    "created_at": "2025-09-09T13:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T14:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965411764193120585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xinbao0x0/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/xinbao0x0/status/1965090423577428451",
+          "start": 20,
+          "url": "https://t.co/TxhgVNIzgo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965411764193120585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965090423577428451",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们不要再od割手了 我们一起去天堂吧 https://t.co/TxhgVNIzgo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1965090418930089984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0VnUxPaAAABY2L.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1965411764193120585",
+        "created_at": "2025-09-09T13:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T14:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965411764193120585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinbao0x0/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/xinbao0x0/status/1965090423577428451",
+              "start": 20,
+              "url": "https://t.co/TxhgVNIzgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965411764193120585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965090423577428451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们不要再od割手了 我们一起去天堂吧 https://t.co/TxhgVNIzgo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965090418930089984"
+          ]
+        },
+        "author_id": "1816499982503231488",
+        "conversation_id": "1965090423577428451",
+        "created_at": "2025-09-08T16:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965090423577428451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rd15EBMAdt",
+              "end": 23,
+              "expanded_url": "https://x.com/xinbao0x0/status/1965090423577428451/photo/1",
+              "media_key": "3_1965090418930089984",
+              "start": 0,
+              "url": "https://t.co/rd15EBMAdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965090423577428451",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 890,
+          "impression_count": 94481,
+          "like_count": 11347,
+          "quote_count": 71,
+          "reply_count": 8,
+          "retweet_count": 2052
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rd15EBMAdt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 865,
+          "like_count": 36909,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2244
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:45:42.000Z",
+        "description": "sh / ed / an / bpd / mdd",
+        "id": "1816499982503231488",
+        "name": "零魂",
+        "pinned_tweet_id": "1916337608059486587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816503279104495616/xEPeK9t7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6692,
+          "following_count": 39,
+          "like_count": 133,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 234
+        },
+        "username": "xinbao0x0",
+        "verified": false
+      }
+    ]
+  }
+}

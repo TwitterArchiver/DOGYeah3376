@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1956696116323299765",
+    "created_at": "2025-08-18T02:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T03:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957272370319937588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1161855462674968576",
+          "start": 0,
+          "username": "sola_missYou"
+        },
+        {
+          "end": 22,
+          "id": "613074635",
+          "start": 14,
+          "username": "iTZQing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957272370319937588",
+    "in_reply_to_user_id": "1161855462674968576",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957268989916418152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sola_missYou @iTZQing 😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1956696116323299765",
+        "created_at": "2025-08-18T02:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T03:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957272370319937588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1161855462674968576",
+              "start": 0,
+              "username": "sola_missYou"
+            },
+            {
+              "end": 22,
+              "id": "613074635",
+              "start": 14,
+              "username": "iTZQing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957272370319937588",
+        "in_reply_to_user_id": "1161855462674968576",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957268989916418152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sola_missYou @iTZQing 😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1161855462674968576",
+        "conversation_id": "1956696116323299765",
+        "created_at": "2025-08-18T02:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T03:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957268989916418152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            },
+            {
+              "end": 21,
+              "id": "613074635",
+              "start": 13,
+              "username": "iTZQing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957268989916418152",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957005394452062503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 @iTZQing 那得有多疯狂啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 748,
+          "like_count": 30466,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1506
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-15T04:21:43.000Z",
+        "description": "上海打工的河南人‖苦逼的人生‖白茶清欢无别事，我在等风也等你。",
+        "id": "1161855462674968576",
+        "location": "中国",
+        "name": "馒头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161856230471675904/KufwcTqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 51,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 448
+        },
+        "username": "sola_missYou",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-20T02:58:20.000Z",
+        "description": "Amamiya Mafuyu, aka {\"Alexei\"}. 5′31″/114lb, 🚪67CNY. 是個笨蛋請多包容。🎈INFP-T. 🎀Mahō Shōjo. 💙💛Slava. 🍛Curry. 比我还笨@LeQing123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "LeQing123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gravatar.com/itzqing",
+                "end": 23,
+                "expanded_url": "https://gravatar.com/itzqing",
+                "start": 0,
+                "url": "https://t.co/VFMpbDVC8y"
+              }
+            ]
+          }
+        },
+        "id": "613074635",
+        "location": "ﾄｺﾖﾉｸﾆ",
+        "name": "雨宮 真冬",
+        "pinned_tweet_id": "1864699964825456644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850535613432528896/Vt79Kpzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 1050,
+          "like_count": 25960,
+          "listed_count": 11,
+          "media_count": 1743,
+          "tweet_count": 28049
+        },
+        "url": "https://t.co/VFMpbDVC8y",
+        "username": "iTZQing",
+        "verified": false
+      }
+    ]
+  }
+}

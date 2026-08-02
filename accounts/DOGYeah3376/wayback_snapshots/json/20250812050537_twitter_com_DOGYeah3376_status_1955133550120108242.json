@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1955133550120108242",
+    "created_at": "2025-08-12T05:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T06:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955133550120108242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dogyeah3376/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/dogyeah3376/status/1955130199990997077",
+          "start": 31,
+          "url": "https://t.co/BvFrcZOIUc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955133550120108242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955130199990997077",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "水溶c还有一个爽点就是可以用来遮愈美的苦味\n因为口子很大（？ https://t.co/BvFrcZOIUc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1955133550120108242",
+        "created_at": "2025-08-12T05:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T06:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955133550120108242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dogyeah3376/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/dogyeah3376/status/1955130199990997077",
+              "start": 31,
+              "url": "https://t.co/BvFrcZOIUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955133550120108242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955130199990997077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "水溶c还有一个爽点就是可以用来遮愈美的苦味\n因为口子很大（？ https://t.co/BvFrcZOIUc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1954759420195582214",
+        "created_at": "2025-08-12T04:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955130199990997077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1615251369509941248",
+              "start": 0,
+              "username": "Makoto_00590002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955130199990997077",
+        "in_reply_to_user_id": "1615251369509941248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954759420195582214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makoto_00590002 口腔溃疡我就喝水溶c\n话说真的有用吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 671,
+          "like_count": 26641,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1180
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

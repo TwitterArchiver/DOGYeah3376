@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1944027746025525316",
+    "created_at": "2025-07-17T09:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T10:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945772974042456168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850566498412318720",
+          "start": 0,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945772974042456168",
+    "in_reply_to_user_id": "1850566498412318720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944027746025525316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobo4444 萌😉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10166,
+        "height": 720,
+        "media_key": "13_1944026613680943111",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1944026613680943111/img/wKyOpohBvKrc3MKo.jpg",
+        "public_metrics": {
+          "view_count": 1159
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944026613680943111/vid/avc1/480x270/myqO0MTuTYNhLYVG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944026613680943111/vid/avc1/640x360/rvS_xynmhB-Dgu9d.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944026613680943111/vid/avc1/1280x720/onJqc8neFFKLRK7d.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1944026613680943111/pl/Y9Bo_4nrm54PA-ZF.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1944027746025525316",
+        "created_at": "2025-07-17T09:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945772974042456168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850566498412318720",
+              "start": 0,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945772974042456168",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944027746025525316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobo4444 萌😉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1944026613680943111"
+          ]
+        },
+        "author_id": "1850566498412318720",
+        "conversation_id": "1944027746025525316",
+        "created_at": "2025-07-12T13:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T14:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944027746025525316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DlQjrfWUxY",
+              "end": 23,
+              "expanded_url": "https://x.com/luobo4444/status/1944027746025525316/video/1",
+              "media_key": "13_1944026613680943111",
+              "start": 0,
+              "url": "https://t.co/DlQjrfWUxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944027746025525316",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4794,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DlQjrfWUxY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx 自伤 od 互fo（没看到的戳我一下好了） 最好的妹妹@xiaoyieQAQ 谢谢你的关注😉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 416,
+          "like_count": 16416,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 539
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜中推圈的大家都叫我萝卜哥｜空蝉原｜06｜INFP｜ ♏️｜高中生｜日本語学习中｜乌蒙dx｜随缘fo｜想认识我给我打钱｜188｜388｜520｜1314｜5200",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yan_eiii",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@yan_eiii",
+                "start": 0,
+                "url": "https://t.co/6Vz4UqUSGw"
+              }
+            ]
+          }
+        },
+        "id": "1850566498412318720",
+        "location": "幸せが続きますように",
+        "name": "hara🥕",
+        "pinned_tweet_id": "1944027746025525316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938181651831656448/nddFGYZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7230,
+          "following_count": 416,
+          "like_count": 3207,
+          "listed_count": 8,
+          "media_count": 392,
+          "tweet_count": 2194
+        },
+        "url": "https://t.co/6Vz4UqUSGw",
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

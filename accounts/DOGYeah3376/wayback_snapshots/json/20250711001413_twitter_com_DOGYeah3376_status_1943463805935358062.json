@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1943398372490289623",
+    "created_at": "2025-07-11T00:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T01:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943463805935358062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1742624177025413120",
+          "start": 0,
+          "username": "Gyy88s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943463805935358062",
+    "in_reply_to_user_id": "1742624177025413120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943398372490289623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gyy88s 我也是🆘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 475,
+        "media_key": "3_1943398370489569282",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvhWhXoakAIcrkc.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1943398372490289623",
+        "created_at": "2025-07-11T00:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T01:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943463805935358062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1742624177025413120",
+              "start": 0,
+              "username": "Gyy88s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943463805935358062",
+        "in_reply_to_user_id": "1742624177025413120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943398372490289623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gyy88s 我也是🆘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943398370489569282"
+          ]
+        },
+        "author_id": "1742624177025413120",
+        "conversation_id": "1943398372490289623",
+        "created_at": "2025-07-10T19:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T20:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943398372490289623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GGly1BCY3J",
+              "end": 60,
+              "expanded_url": "https://x.com/Gyy88s/status/1943398372490289623/photo/1",
+              "media_key": "3_1943398370489569282",
+              "start": 37,
+              "url": "https://t.co/GGly1BCY3J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943398372490289623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在真好想被人捏乳头捏到我浑身酥软和呼吸急促的哪种（我平时不是这样子的） https://t.co/GGly1BCY3J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 343,
+          "like_count": 13393,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 447
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T19:10:46.000Z",
+        "description": "这是可爱的广东女生（木桶饭）一只，热爱美食、动漫和游戏。正在与躁郁症抗争，期待更好的自己。愿意和你们分享生活中的喜悦与挑战，期待与你们成为朋友。",
+        "id": "1742624177025413120",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️☆雪梨ちゃん☆🏳️‍⚧️〔💙X版💛〕",
+        "pinned_tweet_id": "1929028145774276898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913213459195707392/SRsE5Tp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 303,
+          "like_count": 4767,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 508
+        },
+        "username": "Gyy88s",
+        "verified": false
+      }
+    ]
+  }
+}

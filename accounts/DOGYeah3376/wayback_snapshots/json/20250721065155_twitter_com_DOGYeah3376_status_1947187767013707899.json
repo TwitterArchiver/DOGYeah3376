@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1947144886429548655",
+    "created_at": "2025-07-21T06:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T07:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947187767013707899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868163970051211264",
+          "start": 0,
+          "username": "XianoYue86365"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947187767013707899",
+    "in_reply_to_user_id": "1868163970051211264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947144886429548655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XianoYue86365 xm有主人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947144883019358208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwWl9GaWoAAZUai.jpg",
+        "width": 1659
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1947144886429548655",
+        "created_at": "2025-07-21T06:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T07:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947187767013707899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868163970051211264",
+              "start": 0,
+              "username": "XianoYue86365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947187767013707899",
+        "in_reply_to_user_id": "1868163970051211264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947144886429548655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XianoYue86365 xm有主人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947144883019358208"
+          ]
+        },
+        "author_id": "1868163970051211264",
+        "conversation_id": "1947144886429548655",
+        "created_at": "2025-07-21T04:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T05:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947144886429548655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nh20mZjfkw",
+              "end": 48,
+              "expanded_url": "https://x.com/XianoYue86365/status/1947144886429548655/photo/1",
+              "media_key": "3_1947144883019358208",
+              "start": 25,
+              "url": "https://t.co/nh20mZjfkw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947144886429548655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 23154,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天下午口窝又成西瓜射手了…  被罚关笼子一周… https://t.co/nh20mZjfkw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "是一只可爱的小狗呀｜无证含糖mtx｜深柜｜自伤 od｜互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 446,
+          "like_count": 17616,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 600
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T05:21:46.000Z",
+        "description": "09︱170㎝ 57㎏︱🏳‍⚧无证含糖 hrt2024.12.17︱容貌焦虑症qwq︱4i︱是弱受喵uwu︱新来的多多关照喵ovo︱喜欢涩涩（同类是最棒哒︱鱼脑（笨︱弱受︱小号@Suochengtuan ︱最好的姐姐～@kill27012 ︱ 好妈妈@ruantangnn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "Suochengtuan"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "kill27012"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "ruantangnn"
+              }
+            ]
+          }
+        },
+        "id": "1868163970051211264",
+        "location": "福建",
+        "name": "羽秋Yuki🏳‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905918810701365250/reTZSqWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 419,
+          "like_count": 896,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 136
+        },
+        "username": "XianoYue86365",
+        "verified": false
+      }
+    ]
+  }
+}

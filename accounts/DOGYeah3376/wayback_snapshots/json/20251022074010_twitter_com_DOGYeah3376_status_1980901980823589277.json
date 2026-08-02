@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1980897951884144716",
+    "created_at": "2025-10-22T07:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T08:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980901980823589277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1530985375220391936",
+          "start": 0,
+          "username": "qbpdsslvy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980901980823589277",
+    "in_reply_to_user_id": "1530985375220391936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980899172204310681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qbpdsslvy 对的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1980897951884144716",
+        "created_at": "2025-10-22T07:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T08:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980901980823589277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1530985375220391936",
+              "start": 0,
+              "username": "qbpdsslvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980901980823589277",
+        "in_reply_to_user_id": "1530985375220391936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980899172204310681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qbpdsslvy 对的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530985375220391936",
+        "conversation_id": "1980897951884144716",
+        "created_at": "2025-10-22T07:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T08:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980899172204310681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980899172204310681",
+        "in_reply_to_user_id": "1530985375220391936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980897951884144716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得我毛茸茸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979171735669719041/xwbTRqej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 1020,
+          "like_count": 54416,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3507
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-29T18:52:20.000Z",
+        "description": "🏳️‍⚧️/🍥2023.1.16/2006.04.03/帝都/maimai，Malody，CytusⅡ，Arcaea，SDVX，DJMAX等多坑退役音游人/常UTC+08：00时区晚间及凌晨出没/小水母🪼@DOGYeah3376/宝宝@NarukamiYou267/颜宝宝@Nacreous_1969",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "DOGYeah3376"
+              },
+              {
+                "end": 132,
+                "start": 117,
+                "username": "NarukamiYou267"
+              },
+              {
+                "end": 150,
+                "start": 136,
+                "username": "Nacreous_1969"
+              }
+            ]
+          }
+        },
+        "id": "1530985375220391936",
+        "location": "日本 東京",
+        "name": "7o",
+        "pinned_tweet_id": "1974128823886328038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643352971613274116/InSQWV-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 212,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 298
+        },
+        "username": "qbpdsslvy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942215632608788480"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1942215729811738854",
+    "created_at": "2025-07-07T13:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T14:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942215729811738854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RLaLlv7wtt",
+          "end": 23,
+          "expanded_url": "https://x.com/DOGYeah3376/status/1942215729811738854/photo/1",
+          "media_key": "3_1942215632608788480",
+          "start": 0,
+          "url": "https://t.co/RLaLlv7wtt"
+        },
+        {
+          "display_url": "x.com/dogyeah3376/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/dogyeah3376/status/1942214696565961082",
+          "start": 24,
+          "url": "https://t.co/mU2jOD5hzx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942215729811738854",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942214696565961082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/RLaLlv7wtt https://t.co/mU2jOD5hzx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942215632608788480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvQi09rbgAASQSu.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942215632608788480"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1942215729811738854",
+        "created_at": "2025-07-07T13:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T14:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942215729811738854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RLaLlv7wtt",
+              "end": 23,
+              "expanded_url": "https://x.com/DOGYeah3376/status/1942215729811738854/photo/1",
+              "media_key": "3_1942215632608788480",
+              "start": 0,
+              "url": "https://t.co/RLaLlv7wtt"
+            },
+            {
+              "display_url": "x.com/dogyeah3376/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/dogyeah3376/status/1942214696565961082",
+              "start": 24,
+              "url": "https://t.co/mU2jOD5hzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942215729811738854",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942214696565961082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/RLaLlv7wtt https://t.co/mU2jOD5hzx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1942214696565961082",
+        "created_at": "2025-07-07T13:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T14:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942214696565961082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1870022570353012736",
+              "start": 13,
+              "username": "kukudejiaxibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942214696565961082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救命🆘\n这个人要自杀了🆘\n@kukudejiaxibei"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 300,
+          "like_count": 11216,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 381
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

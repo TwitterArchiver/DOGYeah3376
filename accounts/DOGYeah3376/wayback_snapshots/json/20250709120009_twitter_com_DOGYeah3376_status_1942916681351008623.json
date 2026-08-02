@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1942898183207793026",
+    "created_at": "2025-07-09T12:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T13:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942916681351008623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891923925518647296",
+          "start": 0,
+          "username": "Nacreous_1969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942916681351008623",
+    "in_reply_to_user_id": "1891923925518647296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942898183207793026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nacreous_1969 忧郁女子🥺🥺🥺好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942898168288485376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvaPlxOXoAA-HMg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1942898183207793026",
+        "created_at": "2025-07-09T12:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T13:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942916681351008623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891923925518647296",
+              "start": 0,
+              "username": "Nacreous_1969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942916681351008623",
+        "in_reply_to_user_id": "1891923925518647296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942898183207793026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nacreous_1969 忧郁女子🥺🥺🥺好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942898168288485376"
+          ]
+        },
+        "author_id": "1891923925518647296",
+        "conversation_id": "1942898183207793026",
+        "created_at": "2025-07-09T10:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T11:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942898183207793026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xC42XlKV1z",
+              "end": 23,
+              "expanded_url": "https://x.com/Nacreous_1969/status/1942898183207793026/photo/1",
+              "media_key": "3_1942898168288485376",
+              "start": 0,
+              "url": "https://t.co/xC42XlKV1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942898183207793026",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xC42XlKV1z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 324,
+          "like_count": 12563,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 430
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T18:53:14.000Z",
+        "description": "无性恋、愿望是变水仙｜想要有好多宝宝开幼儿园｜只想做纯良小女孩｜小号@Narcissus_1969 可能是偏阴暗的一面",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Narcissus_1969"
+              }
+            ]
+          }
+        },
+        "id": "1891923925518647296",
+        "name": "ˊ ∇ ˋ",
+        "pinned_tweet_id": "1896286314410238362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891924024084619264/BMGMJAcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 64,
+          "like_count": 1917,
+          "listed_count": 4,
+          "media_count": 329,
+          "tweet_count": 752
+        },
+        "username": "Nacreous_1969",
+        "verified": false
+      }
+    ]
+  }
+}

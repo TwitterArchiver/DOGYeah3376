@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1948675133604069846",
+    "created_at": "2025-07-25T09:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T10:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948675133604069846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1720665183188922368",
+          "start": 20,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/moleren198964/…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/moleren198964/status/1948616201976127775",
+          "start": 70,
+          "url": "https://t.co/K2ezX4Tjd8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948675133604069846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948616201976127775",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "与我的追随者列出一个族谱，使用他们的全名@grok\n爸爸：\n妈妈：\n爷爷：\n奶奶：\n外公：\n外婆：\n弟弟：\n哥哥:\n妹妹:\n姐姐:\n爱人: https://t.co/K2ezX4Tjd8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1948675133604069846",
+        "created_at": "2025-07-25T09:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T10:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948675133604069846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1720665183188922368",
+              "start": 20,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/moleren198964/…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/moleren198964/status/1948616201976127775",
+              "start": 70,
+              "url": "https://t.co/K2ezX4Tjd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948675133604069846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948616201976127775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "与我的追随者列出一个族谱，使用他们的全名@grok\n爸爸：\n妈妈：\n爷爷：\n奶奶：\n外公：\n外婆：\n弟弟：\n哥哥:\n妹妹:\n姐姐:\n爱人: https://t.co/K2ezX4Tjd8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818731995310309376",
+        "conversation_id": "1948616201976127775",
+        "created_at": "2025-07-25T05:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T06:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948616201976127775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1720665183188922368",
+              "start": 20,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sartreandcamus…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/sartreandcamus/status/1948609678919041184",
+              "start": 70,
+              "url": "https://t.co/rz96wCDAIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948616201976127775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1107,
+          "like_count": 10,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948609678919041184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "与我的追随者列出一个族谱，使用他们的全名@grok\n爸爸：\n妈妈：\n爷爷：\n奶奶：\n外公：\n外婆：\n弟弟：\n哥哥:\n妹妹:\n姐姐:\n爱人: https://t.co/rz96wCDAIC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 471,
+          "like_count": 18572,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 627
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5460998,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4455,
+          "media_count": 2398152,
+          "tweet_count": 24948617
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "一个脾气阴晴不定的。小号：@Moleren114514 姐姐🥺：@VicoOci飞机杯：@5mRtist想挂的朋友： @ShadowlessmoonR @Unstable46599",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Moleren114514"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "VicoOci"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "5mRtist"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "ShadowlessmoonR"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Unstable46599"
+              }
+            ]
+          }
+        },
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "魔ㄇ乐ㄌ人ㄖ蘋果汁🍥",
+        "pinned_tweet_id": "1947216965753540655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895102259245260805/JLObg4-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 2198,
+          "like_count": 133601,
+          "listed_count": 11,
+          "media_count": 1071,
+          "tweet_count": 24086
+        },
+        "username": "MOLeren198964",
+        "verified": false
+      }
+    ]
+  }
+}

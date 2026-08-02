@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1980287770011857252",
+    "created_at": "2025-11-13T11:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T12:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988933437479346392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1952682144889024512",
+          "start": 0,
+          "username": "JHebrb40566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988933437479346392",
+    "in_reply_to_user_id": "1952682144889024512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988932957940416632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JHebrb40566 休息对我来说很奢侈。吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1980287770011857252",
+        "created_at": "2025-11-13T11:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T12:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988933437479346392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1952682144889024512",
+              "start": 0,
+              "username": "JHebrb40566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988933437479346392",
+        "in_reply_to_user_id": "1952682144889024512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988932957940416632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JHebrb40566 休息对我来说很奢侈。吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952682144889024512",
+        "conversation_id": "1980287770011857252",
+        "created_at": "2025-11-13T11:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T12:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988932957940416632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988932957940416632",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980287770011857252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 你需要休息，你不用一直克服。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 1055,
+          "like_count": 60104,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 3947
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T10:44:47.000Z",
+        "description": "💉ftm|gnc\n💝女友@HaruChan_kumono\n🥰希望在这个社群里能让大家都安心🌱这个社群是大家一起努力搭建的🥺每个人的存在都很有意义🍀我看到了很多人都在觉醒🌻认识自我成长的重要性🎉好棒\n🚫拒绝极端仇恨主义 ✉️适度阅读 休息几天再更新",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "HaruChan_kumono"
+              }
+            ]
+          }
+        },
+        "id": "1952682144889024512",
+        "location": "菲耶尔652",
+        "name": "Perkr🩶🤍💜🏳️‍⚧️",
+        "pinned_tweet_id": "1988761361112002994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988689026388488200/232Bpk1x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 180,
+          "like_count": 957,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 525
+        },
+        "username": "JHebrb40566",
+        "verified": false
+      }
+    ]
+  }
+}

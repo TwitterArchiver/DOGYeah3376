@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1969999005410271282",
+    "created_at": "2025-09-22T05:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T06:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969999005410271282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1726051028112744448",
+          "start": 3,
+          "username": "Dream_xyuuup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969999005410271282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969539951218786319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dream_xyuuup: 终于熬过了穿短袖的季节"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1969999005410271282",
+        "created_at": "2025-09-22T05:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T06:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969999005410271282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1726051028112744448",
+              "start": 3,
+              "username": "Dream_xyuuup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969999005410271282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969539951218786319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dream_xyuuup: 终于熬过了穿短袖的季节"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726051028112744448",
+        "conversation_id": "1969539951218786319",
+        "created_at": "2025-09-20T23:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T00:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969539951218786319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969539951218786319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "终于熬过了穿短袖的季节"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 934,
+          "like_count": 41792,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 2632
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T01:33:40.000Z",
+        "description": "yì jīu｜偏远地区高中生｜我正在努力变成你喜欢的样子…｜重抑治疗戒o割中｜我特别爱你们，爱你们，爱你们。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibb.co/RGFFNDbn",
+                "end": 23,
+                "expanded_url": "https://ibb.co/RGFFNDbn",
+                "start": 0,
+                "url": "https://t.co/aWU4I7e0wA"
+              }
+            ]
+          }
+        },
+        "id": "1726051028112744448",
+        "location": "梦",
+        "name": "弈鸠",
+        "pinned_tweet_id": "1953828269977219114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950739210409021440/BR21Ab5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 560,
+          "like_count": 6972,
+          "listed_count": 1,
+          "media_count": 428,
+          "tweet_count": 3806
+        },
+        "url": "https://t.co/aWU4I7e0wA",
+        "username": "Dream_xyuuup",
+        "verified": false
+      }
+    ]
+  }
+}

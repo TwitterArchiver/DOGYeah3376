@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1945749546942009458",
+    "created_at": "2025-07-18T03:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T04:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946049066322080236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        },
+        {
+          "end": 25,
+          "id": "1741878236139909120",
+          "start": 12,
+          "username": "MuzA23400157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946049066322080236",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945870415089574299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua @MuzA23400157 如此爽😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1945749546942009458",
+        "created_at": "2025-07-18T03:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T04:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946049066322080236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            },
+            {
+              "end": 25,
+              "id": "1741878236139909120",
+              "start": 12,
+              "username": "MuzA23400157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946049066322080236",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945870415089574299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua @MuzA23400157 如此爽😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "1945749546942009458",
+        "created_at": "2025-07-17T15:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T16:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945870415089574299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1741878236139909120",
+              "start": 0,
+              "username": "MuzA23400157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945870415089574299",
+        "in_reply_to_user_id": "1741878236139909120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945870045802086404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuzA23400157 不要家长"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx 自伤 od 互fo（没看到的戳我一下好了） 最好的妹妹@xiaoyieQAQ 谢谢你的关注😉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 421,
+          "like_count": 16694,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 542
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "/infj/MtX(F)/小证🍥25.1.11/半个家长党/并非健全 /永远的好妹妹:@LCG_Akiball/最好最好的朋友，可爱猫猫～:@nanami5513",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "nanami5513"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanamiao～",
+        "pinned_tweet_id": "1944380345987506451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883155190695755776/h78s62n0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 500,
+          "like_count": 62083,
+          "listed_count": 1,
+          "media_count": 532,
+          "tweet_count": 4840
+        },
+        "username": "nanami_mua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T17:45:17.000Z",
+        "description": "最爱@HeronMocki了，愿望是和爱的人温和地从容地生活。KAF观测者的一员。🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "HeronMocki"
+              }
+            ]
+          }
+        },
+        "id": "1741878236139909120",
+        "name": "可兮去学数理统计了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933336147926949888/p7bsP0-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 426,
+          "like_count": 5278,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 6533
+        },
+        "username": "MuzA23400157",
+        "verified": false
+      }
+    ]
+  }
+}

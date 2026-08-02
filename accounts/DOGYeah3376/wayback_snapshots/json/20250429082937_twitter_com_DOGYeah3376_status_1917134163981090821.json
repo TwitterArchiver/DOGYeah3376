@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1917110978497679598",
+    "created_at": "2025-04-29T08:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T09:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917134163981090821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917134163981090821",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917110978497679598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds01 那我问你 五一为什么有10天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1917110978497679598",
+        "created_at": "2025-04-29T08:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T09:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917134163981090821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917134163981090821",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917110978497679598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds01 那我问你 五一为什么有10天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507396901594820608",
+        "conversation_id": "1917110978497679598",
+        "created_at": "2025-04-29T06:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T07:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917110978497679598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917110978497679598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2109,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "五一计划\n4.29:手冲\n4.30:手冲\n5.1：手冲\n5.2：手冲\n5.3：手冲\n5.4：手冲\n5.5：手冲\n5.6：手冲\n5.7：手冲\n5.8：在推上说打了十天炮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 185,
+          "like_count": 2971,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 146
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "‼️广告自辩‼️/感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删/小号@hgds520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "hgds520"
+              }
+            ]
+          }
+        },
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1916876717773476054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73150,
+          "following_count": 2897,
+          "like_count": 42442,
+          "listed_count": 94,
+          "media_count": 2021,
+          "tweet_count": 6293
+        },
+        "username": "hgds01",
+        "verified": true
+      }
+    ]
+  }
+}

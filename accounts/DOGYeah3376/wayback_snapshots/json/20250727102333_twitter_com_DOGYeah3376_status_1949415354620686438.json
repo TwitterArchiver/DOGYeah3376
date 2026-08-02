@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1943273857441501622",
+    "created_at": "2025-07-27T10:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T11:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949415354620686438"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "好美🥺",
+          "probability": 0.3635,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535661282556530688",
+          "start": 0,
+          "username": "arusu85572748"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949415354620686438",
+    "in_reply_to_user_id": "1535661282556530688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943273857441501622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arusu85572748 好美🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 478,
+        "media_key": "3_1943273854606192640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvflRl0bMAAKPjY.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1943273857441501622",
+        "created_at": "2025-07-27T10:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949415354620686438"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "好美🥺",
+              "probability": 0.3635,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535661282556530688",
+              "start": 0,
+              "username": "arusu85572748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949415354620686438",
+        "in_reply_to_user_id": "1535661282556530688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943273857441501622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arusu85572748 好美🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943273854606192640"
+          ]
+        },
+        "author_id": "1535661282556530688",
+        "conversation_id": "1943273857441501622",
+        "created_at": "2025-07-10T11:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T12:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943273857441501622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1BAoVDn8j",
+              "end": 27,
+              "expanded_url": "https://x.com/arusu85572748/status/1943273857441501622/photo/1",
+              "media_key": "3_1943273854606192640",
+              "start": 4,
+              "url": "https://t.co/K1BAoVDn8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943273857441501622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 978,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "情头（ https://t.co/K1BAoVDn8j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 486,
+          "like_count": 19051,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 652
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T16:32:47.000Z",
+        "description": "大家好这里是小守喵\n大学生| cd |男の娘|坐标无锡|喜欢女装|喜欢可爱的东西|爱看动漫|星铁 ba 音游|不建政|不吃💊|留长发ing|被夸可爱会很开心＞_＜|出原味|清水（因为好多同学都知道这个号了QAQ）|分享女装发烧日常丨🚪口令50+q",
+        "id": "1535661282556530688",
+        "location": "距离2.3km",
+        "name": "小守arusu",
+        "pinned_tweet_id": "1847591313077915860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668652099100463104/ldvPL2Ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2580,
+          "following_count": 6045,
+          "like_count": 1039,
+          "listed_count": 11,
+          "media_count": 115,
+          "tweet_count": 284
+        },
+        "username": "arusu85572748",
+        "verified": false
+      }
+    ]
+  }
+}

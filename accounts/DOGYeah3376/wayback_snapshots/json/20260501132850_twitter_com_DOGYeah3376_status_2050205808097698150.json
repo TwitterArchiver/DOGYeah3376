@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050154199321894912"
+      ],
+      "media_source_tweet_id": [
+        "2050154208570282096"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "2050205808097698150",
+    "created_at": "2026-05-01T13:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T14:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050205808097698150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862723179858558976",
+          "start": 3,
+          "username": "hami0076"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eokD9TaXQy",
+          "end": 37,
+          "expanded_url": "https://x.com/hami0076/status/2050154208570282096/photo/1",
+          "media_key": "3_2050154199321894912",
+          "start": 14,
+          "url": "https://t.co/eokD9TaXQy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050205808097698150",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050154208570282096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hami0076: https://t.co/eokD9TaXQy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2050154199321894912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOcYdFbYAAbasb.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050154199321894912"
+          ],
+          "media_source_tweet_id": [
+            "2050154208570282096"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "2050205808097698150",
+        "created_at": "2026-05-01T13:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050205808097698150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862723179858558976",
+              "start": 3,
+              "username": "hami0076"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eokD9TaXQy",
+              "end": 37,
+              "expanded_url": "https://x.com/hami0076/status/2050154208570282096/photo/1",
+              "media_key": "3_2050154199321894912",
+              "start": 14,
+              "url": "https://t.co/eokD9TaXQy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050205808097698150",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050154208570282096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hami0076: https://t.co/eokD9TaXQy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050154199321894912"
+          ]
+        },
+        "author_id": "1862723179858558976",
+        "conversation_id": "2050154208570282096",
+        "created_at": "2026-05-01T10:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050154208570282096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eokD9TaXQy",
+              "end": 23,
+              "expanded_url": "https://x.com/hami0076/status/2050154208570282096/photo/1",
+              "media_key": "3_2050154199321894912",
+              "start": 0,
+              "url": "https://t.co/eokD9TaXQy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050154208570282096",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1593,
+          "like_count": 310,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eokD9TaXQy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 1149,
+          "like_count": 74048,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 5166
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T05:00:01.000Z",
+        "description": "18歳   高2   絵を描いています",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hami0076",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@hami0076",
+                "start": 0,
+                "url": "https://t.co/9ldv3KMh5G"
+              }
+            ]
+          }
+        },
+        "id": "1862723179858558976",
+        "location": "東京",
+        "name": "はみ",
+        "pinned_tweet_id": "2043384834480083099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994981874939396096/Pvm6N77X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8476,
+          "following_count": 153,
+          "like_count": 8375,
+          "listed_count": 37,
+          "media_count": 348,
+          "tweet_count": 1094
+        },
+        "url": "https://t.co/9ldv3KMh5G",
+        "username": "hami0076",
+        "verified": false
+      }
+    ]
+  }
+}

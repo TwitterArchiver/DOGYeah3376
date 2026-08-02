@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1976280611452293548",
+    "created_at": "2025-10-09T13:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T14:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976280611452293548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1831567909908574208",
+          "start": 3,
+          "username": "1qva0TT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976280611452293548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975298572162928862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1qva0TT: 藥效散去後 生活還是一團糟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1976280611452293548",
+        "created_at": "2025-10-09T13:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T14:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976280611452293548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1831567909908574208",
+              "start": 3,
+              "username": "1qva0TT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976280611452293548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975298572162928862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1qva0TT: 藥效散去後 生活還是一團糟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831567909908574208",
+        "conversation_id": "1975298572162928862",
+        "created_at": "2025-10-06T20:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T21:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975298572162928862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975298572162928862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "藥效散去後 生活還是一團糟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1975919647062163537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 964,
+          "like_count": 50285,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 3195
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T05:40:02.000Z",
+        "description": "Mevius｜死無葬身之地",
+        "id": "1831567909908574208",
+        "name": "幽靈",
+        "pinned_tweet_id": "1922324215920771354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968824225948737536/n6Nm4phv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 118,
+          "like_count": 1380,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 666
+        },
+        "username": "1qva0TT",
+        "verified": false
+      }
+    ]
+  }
+}

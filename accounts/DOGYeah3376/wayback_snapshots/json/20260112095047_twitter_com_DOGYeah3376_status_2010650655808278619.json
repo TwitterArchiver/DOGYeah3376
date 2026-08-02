@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2010650655808278619",
+    "created_at": "2026-01-12T09:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T10:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010650655808278619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1607388730914140160",
+          "start": 3,
+          "username": "popcat1234566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010650655808278619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999471611578319318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @popcat1234566: 彳亍，心理委员来了。不哭不哭，吃右美，吃普瑞，吃烷胺，吃白兔，吃邮票，吃笑气，吃苯乙胺，吃仙人掌，吃met，吃dpt，吃iso，吃pce，吃2C-B，吃可卡因，吃甲基苯丙胺，吃噻奈普汀，吃闪莓，o氯硝西泮，o阿普唑仑，魔爪不喝？宝宝不哭 喝…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2010650655808278619",
+        "created_at": "2026-01-12T09:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010650655808278619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1607388730914140160",
+              "start": 3,
+              "username": "popcat1234566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010650655808278619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999471611578319318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @popcat1234566: 彳亍，心理委员来了。不哭不哭，吃右美，吃普瑞，吃烷胺，吃白兔，吃邮票，吃笑气，吃苯乙胺，吃仙人掌，吃met，吃dpt，吃iso，吃pce，吃2C-B，吃可卡因，吃甲基苯丙胺，吃噻奈普汀，吃闪莓，o氯硝西泮，o阿普唑仑，魔爪不喝？宝宝不哭 喝…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607388730914140160",
+        "conversation_id": "1999471611578319318",
+        "created_at": "2025-12-12T13:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T14:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999471611578319318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999471611578319318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4006,
+          "like_count": 56,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "彳亍，心理委员来了。不哭不哭，吃右美，吃普瑞，吃烷胺，吃白兔，吃邮票，吃笑气，吃苯乙胺，吃仙人掌，吃met，吃dpt，吃iso，吃pce，吃2C-B，吃可卡因，吃甲基苯丙胺，吃噻奈普汀，吃闪莓，o氯硝西泮，o阿普唑仑，魔爪不喝？宝宝不哭 喝死藤水 喝牵牛花种子水 喝萃取lSD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 1077,
+          "like_count": 67015,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 4228
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:52:00.000Z",
+        "description": "被嫉妒吞噬的人\n\nN2O/笑气 3.25r低价批发\n\ndpt 550/1g  2000/5g   4200/25g /噻萘普汀/麦斯卡林/苯乙胺/随剂量问价 /普瑞巴林处方持有者 可合法代购\n没有警察的义务！\n私信如果不回，联系https://t.co/si90IVq3wj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/opodoge",
+                "end": 137,
+                "expanded_url": "https://t.me/opodoge",
+                "start": 114,
+                "url": "https://t.co/si90IVq3wj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popcat1234566",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popcat1234566",
+                "start": 0,
+                "url": "https://t.co/vYlpd7wOlq"
+              }
+            ]
+          }
+        },
+        "id": "1607388730914140160",
+        "name": "popcat1234566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005930264221093888/TzpmI1hb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 549,
+          "like_count": 36302,
+          "listed_count": 0,
+          "media_count": 384,
+          "tweet_count": 2143
+        },
+        "url": "https://t.co/vYlpd7wOlq",
+        "username": "popcat1234566",
+        "verified": false
+      }
+    ]
+  }
+}

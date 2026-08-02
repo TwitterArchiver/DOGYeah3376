@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1950441098142482444",
+    "created_at": "2025-07-30T08:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T09:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950478093908615605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891923925518647296",
+          "start": 0,
+          "username": "Nacreous_1969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950478093908615605",
+    "in_reply_to_user_id": "1891923925518647296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950441098142482444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nacreous_1969 xm米米嘟🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1950441088139087874",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxFb1fXbUAIWwzB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1950441098142482444",
+        "created_at": "2025-07-30T08:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T09:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950478093908615605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891923925518647296",
+              "start": 0,
+              "username": "Nacreous_1969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950478093908615605",
+        "in_reply_to_user_id": "1891923925518647296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950441098142482444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nacreous_1969 xm米米嘟🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950441088139087874"
+          ]
+        },
+        "author_id": "1891923925518647296",
+        "conversation_id": "1950441098142482444",
+        "created_at": "2025-07-30T06:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950441098142482444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tksnUec1fq",
+              "end": 29,
+              "expanded_url": "https://x.com/Nacreous_1969/status/1950441098142482444/photo/1",
+              "media_key": "3_1950441088139087874",
+              "start": 6,
+              "url": "https://t.co/tksnUec1fq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950441098142482444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "落汤鸡啊嗯 https://t.co/tksnUec1fq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 505,
+          "like_count": 19764,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 690
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T18:53:14.000Z",
+        "description": "无性恋、愿望是变水仙｜想要有好多宝宝开幼儿园｜想做纯良小女孩｜小号@Narcissus_1969",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "Narcissus_1969"
+              }
+            ]
+          }
+        },
+        "id": "1891923925518647296",
+        "name": "ˊ ∇ ˋ",
+        "pinned_tweet_id": "1896286314410238362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891924024084619264/BMGMJAcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 64,
+          "like_count": 2094,
+          "listed_count": 4,
+          "media_count": 346,
+          "tweet_count": 780
+        },
+        "username": "Nacreous_1969",
+        "verified": false
+      }
+    ]
+  }
+}

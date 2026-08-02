@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2043007251682824366",
+    "created_at": "2026-04-11T16:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T17:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043007251682824366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2005853858321551360",
+          "start": 3,
+          "username": "Yu728640136537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043007251682824366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042933975363264763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yu728640136537: 没办法呀一个人走在路上不自言自语下一秒就想自杀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2043007251682824366",
+        "created_at": "2026-04-11T16:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043007251682824366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2005853858321551360",
+              "start": 3,
+              "username": "Yu728640136537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043007251682824366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042933975363264763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yu728640136537: 没办法呀一个人走在路上不自言自语下一秒就想自杀了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005853858321551360",
+        "conversation_id": "2042933975363264763",
+        "created_at": "2026-04-11T11:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042933975363264763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DOGYeah3376/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/DOGYeah3376/status/2042599287629189306",
+              "start": 25,
+              "url": "https://t.co/TcEVRMFFZ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042933975363264763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042599287629189306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没办法呀一个人走在路上不自言自语下一秒就想自杀了 https://t.co/TcEVRMFFZ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2039536218569052226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1124,
+          "like_count": 71994,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 4995
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T04:10:42.000Z",
+        "description": "爱玩梗的弱智精神病",
+        "id": "2005853858321551360",
+        "name": "Y_Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013615119108894720/bG0OikL8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 101,
+          "like_count": 1355,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 168
+        },
+        "username": "Yu728640136537",
+        "verified": false
+      }
+    ]
+  }
+}

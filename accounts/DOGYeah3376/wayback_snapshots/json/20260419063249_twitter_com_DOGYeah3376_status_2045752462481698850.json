@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2044954788149055684",
+    "created_at": "2026-04-19T06:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T07:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045752462481698850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801534903626121216",
+          "start": 0,
+          "username": "qngshu988723424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045752462481698850",
+    "in_reply_to_user_id": "1801534903626121216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044954788149055684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngshu988723424 卧槽我完全这样 我写字越来越差了 小学生字来了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2044954788149055684].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2044954788149055684",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2044954788149055684"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2044954788149055684",
+        "created_at": "2026-04-19T06:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045752462481698850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801534903626121216",
+              "start": 0,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045752462481698850",
+        "in_reply_to_user_id": "1801534903626121216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044954788149055684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngshu988723424 卧槽我完全这样 我写字越来越差了 小学生字来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2039536218569052226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 1132,
+          "like_count": 72900,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 5068
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "enby/和鸟每天抢吃的，然后就是吧我现在打算那个，我认真写一下简介吧但是呢，我l呃呃就是我困了，谢谢你们祝你们身体健康",
+        "id": "1801534903626121216",
+        "location": "鸟笼",
+        "name": "rotaka",
+        "pinned_tweet_id": "2039361438062723095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017539398498455559/yoqs9-Hg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 715,
+          "like_count": 8956,
+          "listed_count": 1,
+          "media_count": 698,
+          "tweet_count": 8058
+        },
+        "username": "qngshu988723424",
+        "verified": false
+      }
+    ]
+  }
+}

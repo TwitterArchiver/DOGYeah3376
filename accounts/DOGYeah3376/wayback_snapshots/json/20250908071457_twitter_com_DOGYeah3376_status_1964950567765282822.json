@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1964950567765282822",
+    "created_at": "2025-09-08T07:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T08:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964950567765282822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DOGYeah3376/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/DOGYeah3376/status/1964594269878177811",
+          "start": 10,
+          "url": "https://t.co/2NopAGj7fn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964950567765282822",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964594269878177811",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操真要把我疼死了 https://t.co/2NopAGj7fn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1964950567765282822",
+        "created_at": "2025-09-08T07:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T08:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964950567765282822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DOGYeah3376/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/DOGYeah3376/status/1964594269878177811",
+              "start": 10,
+              "url": "https://t.co/2NopAGj7fn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964950567765282822",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964594269878177811",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操真要把我疼死了 https://t.co/2NopAGj7fn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1964594269878177811",
+        "created_at": "2025-09-07T07:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T08:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964594269878177811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/citrus_amara/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/citrus_amara/status/1964541769938526629",
+              "start": 15,
+              "url": "https://t.co/K9jpGO8Xf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964594269878177811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1004,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964541769938526629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我胸好痛，，乳腺发育了... https://t.co/K9jpGO8Xf9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 861,
+          "like_count": 36364,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2201
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

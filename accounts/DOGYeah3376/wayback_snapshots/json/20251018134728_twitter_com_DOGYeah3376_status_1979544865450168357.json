@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1979544865450168357",
+    "created_at": "2025-10-18T13:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T14:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979544865450168357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1972886285942730752",
+          "start": 3,
+          "username": "Decadent_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979544865450168357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979532051419402346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Decadent_11: 我不是药神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1979544865450168357",
+        "created_at": "2025-10-18T13:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979544865450168357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1972886285942730752",
+              "start": 3,
+              "username": "Decadent_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979544865450168357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979532051419402346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Decadent_11: 我不是药神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972886285942730752",
+        "conversation_id": "1979532051419402346",
+        "created_at": "2025-10-18T12:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T13:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979532051419402346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DOGYeah3376/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/DOGYeah3376/status/1979188984652927016",
+              "start": 6,
+              "url": "https://t.co/PqtaZPdlYH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979532051419402346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979188984652927016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不是药神 https://t.co/PqtaZPdlYH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1977003730294956431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979171735669719041/xwbTRqej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 1004,
+          "like_count": 53065,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3426
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T04:48:52.000Z",
+        "description": "永遠不會幸福的 永遠",
+        "id": "1972886285942730752",
+        "location": "地狱",
+        "name": "☔",
+        "pinned_tweet_id": "1972903013133304047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972897843884265472/xpuGg279_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 69
+        },
+        "username": "Decadent_11",
+        "verified": false
+      }
+    ]
+  }
+}

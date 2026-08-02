@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1938595918359773207",
+    "created_at": "2025-06-27T16:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T17:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938635826893918321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1619159657796505600",
+          "start": 0,
+          "username": "szx5202"
+        },
+        {
+          "end": 21,
+          "id": "1747931023277502465",
+          "start": 9,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938635826893918321",
+    "in_reply_to_user_id": "1619159657796505600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938597876084645921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szx5202 @damatte8964 因为有时候真的控制不住自己输出负能量的东西🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1938595918359773207",
+        "created_at": "2025-06-27T16:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T17:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938635826893918321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1619159657796505600",
+              "start": 0,
+              "username": "szx5202"
+            },
+            {
+              "end": 21,
+              "id": "1747931023277502465",
+              "start": 9,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938635826893918321",
+        "in_reply_to_user_id": "1619159657796505600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938597876084645921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szx5202 @damatte8964 因为有时候真的控制不住自己输出负能量的东西🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619159657796505600",
+        "conversation_id": "1938595918359773207",
+        "created_at": "2025-06-27T13:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T14:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938597876084645921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938597876084645921",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 802,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938595918359773207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 可能他一开始希望你能好起来，但后来逐渐感到失望了。当你真心希望救赎某个人，或者让ta逐渐好起来的时候，最后却发现ta总是在原地徘徊，还是一样的输出负能量，逐渐疏远也是很正常的。当然这不是你的错，毕竟是生理性的精神问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 260,
+          "like_count": 7833,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 282
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T02:25:28.000Z",
+        "description": "\"一个人不希望有任何不同，不希望向前，不希望向后，不希望永恒。 不只是忍受必要的东西，更不是掩盖它....，而是热爱它\"",
+        "id": "1619159657796505600",
+        "location": "Universe",
+        "name": "Unkonwn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708346230152028160/MrJRunRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 1467,
+          "like_count": 32641,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 1803
+        },
+        "username": "szx5202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 我需要 很多的钱 很多的爱 很多的追捧 很多的陪伴 ｜🚪99/198/520/1314线上线下服务都有 欢迎私信｜请发口令谢谢你",
+        "id": "1747931023277502465",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1934964163543281741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33474,
+          "following_count": 745,
+          "like_count": 6718,
+          "listed_count": 43,
+          "media_count": 188,
+          "tweet_count": 2302
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

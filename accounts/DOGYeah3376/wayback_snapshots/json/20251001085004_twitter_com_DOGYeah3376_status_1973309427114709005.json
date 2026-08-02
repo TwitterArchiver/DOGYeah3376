@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1973308872598364179",
+    "created_at": "2025-10-01T08:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T09:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973309427114709005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867567506581598208",
+          "start": 0,
+          "username": "freequan2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973309427114709005",
+    "in_reply_to_user_id": "1867567506581598208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973308872598364179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freequan2025 抱抱抱抱🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1973308872598364179",
+        "created_at": "2025-10-01T08:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T09:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973309427114709005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867567506581598208",
+              "start": 0,
+              "username": "freequan2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973309427114709005",
+        "in_reply_to_user_id": "1867567506581598208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973308872598364179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freequan2025 抱抱抱抱🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867567506581598208",
+        "conversation_id": "1973308872598364179",
+        "created_at": "2025-10-01T08:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T09:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973308872598364179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/freequan2025/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/freequan2025/status/1973061608839458970",
+              "start": 33,
+              "url": "https://t.co/pyBqIYIjxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973308872598364179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973061608839458970",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨晚一直哭到凌晨两点…早上起来一直恶心…现在才好…我的爱情……🥺 https://t.co/pyBqIYIjxl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1971966535494521160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 950,
+          "like_count": 46853,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2911
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T13:49:36.000Z",
+        "description": "不建政！/15岁🥺/高中生/每天都很劳累🥲/友好交流哦🥺/欢迎交友/互fo查成分（正常账号和能友好交流的会fo哦）/喵～/声明：本人不是权世平！",
+        "id": "1867567506581598208",
+        "location": "幸福之地",
+        "name": "自由的权😇🏳️‍⚧️",
+        "pinned_tweet_id": "1904145995153228009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923572385174765570/zUr7IrOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 1100,
+          "like_count": 6707,
+          "listed_count": 6,
+          "media_count": 137,
+          "tweet_count": 5465
+        },
+        "username": "freequan2025",
+        "verified": false
+      }
+    ]
+  }
+}

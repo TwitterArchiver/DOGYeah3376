@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2030541015850139687",
+    "created_at": "2026-03-08T07:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T08:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030541015850139687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yldlzn/status/…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/yldlzn/status/2030464422914007447",
+          "start": 42,
+          "url": "https://t.co/Frxop6YjBx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030541015850139687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030464422914007447",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "分析是对的 如果不分析为什么会成为舔狗 那一辈子都是舔狗了 人们需要觉醒 需要讨论 https://t.co/Frxop6YjBx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 440,
+        "media_key": "3_2030464238117064704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC2od3oaEAAQOdU.png",
+        "width": 587
+      },
+      {
+        "height": 869,
+        "media_key": "3_2030464336171601920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC2ojk6bkAA-iY5.png",
+        "width": 690
+      },
+      {
+        "height": 1535,
+        "media_key": "3_2030464356207804417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC2okvjbwAEcIXw.jpg",
+        "width": 690
+      },
+      {
+        "height": 1535,
+        "media_key": "3_2030464411329290240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC2on85a4AApLak.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2030541015850139687",
+        "created_at": "2026-03-08T07:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T08:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030541015850139687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yldlzn/status/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/yldlzn/status/2030464422914007447",
+              "start": 42,
+              "url": "https://t.co/Frxop6YjBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030541015850139687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030464422914007447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分析是对的 如果不分析为什么会成为舔狗 那一辈子都是舔狗了 人们需要觉醒 需要讨论 https://t.co/Frxop6YjBx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030464238117064704",
+            "3_2030464336171601920",
+            "3_2030464356207804417",
+            "3_2030464411329290240"
+          ]
+        },
+        "author_id": "1594934407432847360",
+        "conversation_id": "2030464422914007447",
+        "created_at": "2026-03-08T02:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T03:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030464422914007447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oE4HUYTp9y",
+              "end": 166,
+              "expanded_url": "https://x.com/YLDLZN/status/2030464422914007447/photo/1",
+              "media_key": "3_2030464238117064704",
+              "start": 143,
+              "url": "https://t.co/oE4HUYTp9y"
+            },
+            {
+              "display_url": "pic.x.com/oE4HUYTp9y",
+              "end": 166,
+              "expanded_url": "https://x.com/YLDLZN/status/2030464422914007447/photo/1",
+              "media_key": "3_2030464336171601920",
+              "start": 143,
+              "url": "https://t.co/oE4HUYTp9y"
+            },
+            {
+              "display_url": "pic.x.com/oE4HUYTp9y",
+              "end": 166,
+              "expanded_url": "https://x.com/YLDLZN/status/2030464422914007447/photo/1",
+              "media_key": "3_2030464356207804417",
+              "start": 143,
+              "url": "https://t.co/oE4HUYTp9y"
+            },
+            {
+              "display_url": "pic.x.com/oE4HUYTp9y",
+              "end": 166,
+              "expanded_url": "https://x.com/YLDLZN/status/2030464422914007447/photo/1",
+              "media_key": "3_2030464411329290240",
+              "start": 143,
+              "url": "https://t.co/oE4HUYTp9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030464422914007447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近一群爷们整活儿搞的shit期刊挺火，结果女人们看到不高兴了，先是挑了一堆刺认为这shit期刊辱女，发现没人搭理，一边号召举报，一边自己搞了个shift期刊，收录了一堆女权文章。\n其实女人们真的多虑了，她们那些shit文章不用专门开个仿shit期刊，直接投正规期刊，通过率也很高的。\n反正女性主义相关论文，全是shit。\n而这件事再一次证明，只要男人们自己能玩得很开心，女人们就会不高兴，要来砸场子。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 20432,
+          "like_count": 235,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "最近一群爷们整活儿搞的shit期刊挺火，结果女人们看到不高兴了，先是挑了一堆刺认为这shit期刊辱女，发现没人搭理，一边号召举报，一边自己搞了个shift期刊，收录了一堆女权文章。\n其实女人们真的多虑了，她们那些shit文章不用专门开个仿shit期刊，直接投正规期刊，通过率也很高的。 https://t.co/oE4HUYTp9y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭 @Yyyyy_pog｜主人❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 111,
+                "start": 96,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "2026128260955042011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 1127,
+          "like_count": 70500,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 4682
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T06:02:57.000Z",
+        "description": "皇汉+反女权，全网最爱女的博主，请谨慎关注。",
+        "id": "1594934407432847360",
+        "location": "暴风城",
+        "name": "伊利丹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007655851574865922/pJHUnFSF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2721,
+          "following_count": 9,
+          "like_count": 22,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 352
+        },
+        "username": "YLDLZN",
+        "verified": true
+      }
+    ]
+  }
+}

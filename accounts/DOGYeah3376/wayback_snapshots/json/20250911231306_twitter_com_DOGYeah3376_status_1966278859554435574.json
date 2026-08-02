@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1965913857391743102",
+    "created_at": "2025-09-11T23:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T00:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966278859554435574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1447416292852441088",
+          "start": 0,
+          "username": "endercatawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966278859554435574",
+    "in_reply_to_user_id": "1447416292852441088",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966158447076094447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@endercatawa 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1965913857391743102",
+        "created_at": "2025-09-11T23:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T00:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966278859554435574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1447416292852441088",
+              "start": 0,
+              "username": "endercatawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966278859554435574",
+        "in_reply_to_user_id": "1447416292852441088",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966158447076094447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@endercatawa 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1447416292852441088",
+        "conversation_id": "1965913857391743102",
+        "created_at": "2025-09-11T15:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T16:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966158447076094447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966158447076094447",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966030061972369738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 我在看着你哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 874,
+          "like_count": 37619,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 2279
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T04:18:48.000Z",
+        "description": "猫猫好看！",
+        "id": "1447416292852441088",
+        "location": "量子之海",
+        "name": "SakuCat",
+        "pinned_tweet_id": "1958474514679128278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961140440746651648/yktYiX-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 41,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 228
+        },
+        "username": "endercatawa",
+        "verified": false
+      }
+    ]
+  }
+}

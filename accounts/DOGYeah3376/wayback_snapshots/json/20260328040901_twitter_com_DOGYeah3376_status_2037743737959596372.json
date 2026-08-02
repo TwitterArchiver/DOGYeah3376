@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2037519596664865256",
+    "created_at": "2026-03-28T04:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T05:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037743737959596372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2017448841940000768",
+          "start": 0,
+          "username": "Nekostve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037743737959596372",
+    "in_reply_to_user_id": "2017448841940000768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037742856920875079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nekostve 可能我的童年时期已经过了（？）我现在回不到那种无忧无虑的感觉 我也做不到降智\n不过我会在一些时候解离 这算不算另外一种形式的降智"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2037519596664865256",
+        "created_at": "2026-03-28T04:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037743737959596372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2017448841940000768",
+              "start": 0,
+              "username": "Nekostve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037743737959596372",
+        "in_reply_to_user_id": "2017448841940000768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037742856920875079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nekostve 可能我的童年时期已经过了（？）我现在回不到那种无忧无虑的感觉 我也做不到降智\n不过我会在一些时候解离 这算不算另外一种形式的降智"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017448841940000768",
+        "conversation_id": "2037519596664865256",
+        "created_at": "2026-03-28T04:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037742856920875079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ],
+          "urls": [
+            {
+              "description": "teenager 意思是: 青少年; 十几岁的人; 青年 也可以写作 teen ager 或 teen-ager。这个词最早出现在1922年，是从形容词 teenage 派生的名词。早期的说法是 teener，这个词从1894年起在美式英语中就有记录。而...",
+              "display_url": "etymonline.com/cn/word/teenag…",
+              "end": 55,
+              "expanded_url": "https://www.etymonline.com/cn/word/teenager",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2037742858183254016/_MEFyTYI?format=png&name=orig",
+                  "width": 360
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037742858183254016/_MEFyTYI?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "teenager 的意思和词源 - etymonline",
+              "unwound_url": "https://www.etymonline.com/cn/word/teenager",
+              "url": "https://t.co/zWLUalAqo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037742856920875079",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037741681513312686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 teenager这个词汇出现的比较晚\nhttps://t.co/zWLUalAqo9\n所以你可以把其当成是从童年抢夺出的一段时间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2031387789141717030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1122,
+          "like_count": 70872,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 4811
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-31T04:04:34.000Z",
+        "description": "a fish in the s?e?a?\nin favor of tsf\n但现世科技不足以使男性变为完全功能的女性\n故暂不发难\n偏爱科学与数据，为此可以暂时锁上情感与强制保持理智",
+        "id": "2017448841940000768",
+        "name": "Neko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034865787778080772/er30A-2s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 49,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 208
+        },
+        "username": "Nekostve",
+        "verified": false
+      }
+    ]
+  }
+}

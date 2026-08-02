@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940818114784251906",
+        "3_1940818074355089408"
+      ],
+      "media_source_tweet_id": [
+        "1940818119603470608",
+        "1940818119603470608"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1940976375953084823",
+    "created_at": "2025-07-04T03:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T04:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940976375953084823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904873292366036992",
+          "start": 3,
+          "username": "Chiyuyu520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EO6BEWHLKs",
+          "end": 82,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1940818119603470608/photo/1",
+          "media_key": "3_1940818114784251906",
+          "start": 59,
+          "url": "https://t.co/EO6BEWHLKs"
+        },
+        {
+          "display_url": "pic.x.com/EO6BEWHLKs",
+          "end": 82,
+          "expanded_url": "https://x.com/Chiyuyu520/status/1940818119603470608/photo/1",
+          "media_key": "3_1940818074355089408",
+          "start": 59,
+          "url": "https://t.co/EO6BEWHLKs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940976375953084823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940818119603470608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chiyuyu520: 想要逃避世界就会吃1t氯硝让自己强制关机睡眠..对不起是我太懦弱\n谢谢姐姐给的氯硝… https://t.co/EO6BEWHLKs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1756,
+        "media_key": "3_1940818114784251906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu8ryuFb0AIKl-3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1940818074355089408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu8rwXeXwAAVg-k.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940818114784251906",
+            "3_1940818074355089408"
+          ],
+          "media_source_tweet_id": [
+            "1940818119603470608",
+            "1940818119603470608"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1940976375953084823",
+        "created_at": "2025-07-04T03:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T04:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940976375953084823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904873292366036992",
+              "start": 3,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EO6BEWHLKs",
+              "end": 82,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1940818119603470608/photo/1",
+              "media_key": "3_1940818114784251906",
+              "start": 59,
+              "url": "https://t.co/EO6BEWHLKs"
+            },
+            {
+              "display_url": "pic.x.com/EO6BEWHLKs",
+              "end": 82,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1940818119603470608/photo/1",
+              "media_key": "3_1940818074355089408",
+              "start": 59,
+              "url": "https://t.co/EO6BEWHLKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940976375953084823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940818119603470608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chiyuyu520: 想要逃避世界就会吃1t氯硝让自己强制关机睡眠..对不起是我太懦弱\n谢谢姐姐给的氯硝… https://t.co/EO6BEWHLKs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940818114784251906",
+            "3_1940818074355089408"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1940818119603470608",
+        "created_at": "2025-07-03T17:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T18:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940818119603470608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EO6BEWHLKs",
+              "end": 66,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1940818119603470608/photo/1",
+              "media_key": "3_1940818114784251906",
+              "start": 43,
+              "url": "https://t.co/EO6BEWHLKs"
+            },
+            {
+              "display_url": "pic.x.com/EO6BEWHLKs",
+              "end": 66,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1940818119603470608/photo/1",
+              "media_key": "3_1940818074355089408",
+              "start": 43,
+              "url": "https://t.co/EO6BEWHLKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940818119603470608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2585,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要逃避世界就会吃1t氯硝让自己强制关机睡眠..对不起是我太懦弱\n谢谢姐姐给的氯硝… https://t.co/EO6BEWHLKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 290,
+          "like_count": 10294,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 347
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 🍥@Chufeinya 和 @haruhi_LAP | 跨过晨昏线，便是永夜。| 🥰姐姐 @Hoshroin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "haruhi_LAP"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "Hoshroin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1934260295163371769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 1117,
+          "like_count": 2279,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 727
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

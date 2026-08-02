@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1967798612773241278",
+    "created_at": "2025-09-16T03:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T04:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967798612773241278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1604763406669684737",
+          "start": 3,
+          "username": "shundebo__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967798612773241278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967599332087206101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shundebo__: 世界是由意大利面构成的😡😡😡\n世界是由意大利面构成的😡😡😡\n世界是由意大利面构成的😡😡😡\n你们都是肉酱😡😡😡\n🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1967599329633591296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05RKl8bYAASEQS.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1967798612773241278",
+        "created_at": "2025-09-16T03:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T04:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967798612773241278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1604763406669684737",
+              "start": 3,
+              "username": "shundebo__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967798612773241278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967599332087206101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shundebo__: 世界是由意大利面构成的😡😡😡\n世界是由意大利面构成的😡😡😡\n世界是由意大利面构成的😡😡😡\n你们都是肉酱😡😡😡\n🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967599329633591296"
+          ]
+        },
+        "author_id": "1604763406669684737",
+        "conversation_id": "1967599332087206101",
+        "created_at": "2025-09-15T14:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T15:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967599332087206101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WwOAb4t1kl",
+              "end": 149,
+              "expanded_url": "https://x.com/shundebo__/status/1967599332087206101/photo/1",
+              "media_key": "3_1967599329633591296",
+              "start": 126,
+              "url": "https://t.co/WwOAb4t1kl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967599332087206101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界是由意大利面构成的😡😡😡\n世界是由意大利面构成的😡😡😡\n世界是由意大利面构成的😡😡😡\n你们都是肉酱😡😡😡\n🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝 https://t.co/WwOAb4t1kl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 904,
+          "like_count": 39203,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 2452
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T09:00:18.000Z",
+        "description": "有一点似了🏧♋/\n🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝JSR aziwa'ninndro/\n你要查我成分？就这样/\n神人：@sorasaki114514 /\n我是抖m我是抖m我是抖m我是抖m我是抖m/\n喜欢被电/\n我是绒布球/\nhttps://t.co/MdfgrW62dZ /\nJSR直隶传教士/不是FSM！！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "sorasaki114514"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shundebo",
+                "end": 129,
+                "expanded_url": "https://t.me/shundebo",
+                "start": 106,
+                "url": "https://t.co/MdfgrW62dZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shundebo.top",
+                "end": 23,
+                "expanded_url": "https://shundebo.top",
+                "start": 0,
+                "url": "https://t.co/yugHD2tXKE"
+              }
+            ]
+          }
+        },
+        "id": "1604763406669684737",
+        "location": "schlen自留地",
+        "name": "shundebo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604763543127080963/pC9hUrCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 270,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 313
+        },
+        "url": "https://t.co/yugHD2tXKE",
+        "username": "shundebo__",
+        "verified": false
+      }
+    ]
+  }
+}

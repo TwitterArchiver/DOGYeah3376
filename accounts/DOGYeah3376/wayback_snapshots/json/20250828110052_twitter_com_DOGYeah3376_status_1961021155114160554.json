@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1961021155114160554",
+    "created_at": "2025-08-28T11:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T12:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961021155114160554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moneyrain03/st…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/moneyrain03/status/1960703351521214482",
+          "start": 45,
+          "url": "https://t.co/bVFaIBPZum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961021155114160554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960703351521214482",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看着就好羡慕 以前身边有一盒pr我就会变的超级安心\n其实我早就戒掉了od但是就是很想吃。 https://t.co/bVFaIBPZum"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_1960703321553166339",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXRSF8a4AM298f.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1961021155114160554",
+        "created_at": "2025-08-28T11:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T12:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961021155114160554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moneyrain03/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/moneyrain03/status/1960703351521214482",
+              "start": 45,
+              "url": "https://t.co/bVFaIBPZum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961021155114160554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960703351521214482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看着就好羡慕 以前身边有一盒pr我就会变的超级安心\n其实我早就戒掉了od但是就是很想吃。 https://t.co/bVFaIBPZum"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960703321553166339"
+          ]
+        },
+        "author_id": "1728747262342520832",
+        "conversation_id": "1960694907405795410",
+        "created_at": "2025-08-27T13:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T14:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960703351521214482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "522147771",
+              "start": 0,
+              "username": "N_N_DET"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWMANYdVJu",
+              "end": 46,
+              "expanded_url": "https://x.com/Moneyrain03/status/1960703351521214482/photo/1",
+              "media_key": "3_1960703321553166339",
+              "start": 23,
+              "url": "https://t.co/YWMANYdVJu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960703351521214482",
+        "in_reply_to_user_id": "522147771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960694907405795410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_N_DET 去年右美刚被禁那会儿o的🤣 https://t.co/YWMANYdVJu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 827,
+          "like_count": 34449,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1898
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T12:07:48.000Z",
+        "description": "les🌈/switch/日记本/很无聊的一个人/提供免费药物咨询 不卖药，也请嫑盗我图谢谢⁽⁽◞(꒪ͦᴗ̵̍꒪ͦ=͟͟͞͞ ꒪ͦᴗ̵̍꒪ͦ)◟⁾⁾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "a2340.com/links/62A3D89D…",
+                "end": 23,
+                "expanded_url": "https://a2340.com/links/62A3D89D6A49EFDC",
+                "start": 0,
+                "url": "https://t.co/wgAMnD12GV"
+              }
+            ]
+          }
+        },
+        "id": "1728747262342520832",
+        "location": "宇宙",
+        "name": "氢氧化白羊",
+        "pinned_tweet_id": "1959875378324840807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826018260585730048/EXD6lMC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 87,
+          "like_count": 662,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/wgAMnD12GV",
+        "username": "Moneyrain03",
+        "verified": false
+      }
+    ]
+  }
+}

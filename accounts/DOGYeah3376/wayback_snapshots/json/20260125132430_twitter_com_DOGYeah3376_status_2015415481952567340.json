@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2015415481952567340",
+    "created_at": "2026-01-25T13:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T14:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015415481952567340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1550593157876060160",
+          "start": 3,
+          "username": "Fumi_uowou_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015415481952567340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015038835135226055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fumi_uowou_: 我的夢想是有一個地方，可以讓我隨便跟朋友開割、喝酒、od"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2015415481952567340",
+        "created_at": "2026-01-25T13:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015415481952567340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1550593157876060160",
+              "start": 3,
+              "username": "Fumi_uowou_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015415481952567340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015038835135226055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fumi_uowou_: 我的夢想是有一個地方，可以讓我隨便跟朋友開割、喝酒、od"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550593157876060160",
+        "conversation_id": "2015038835135226055",
+        "created_at": "2026-01-24T12:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T13:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015038835135226055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015038835135226055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2949,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我的夢想是有一個地方，可以讓我隨便跟朋友開割、喝酒、od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 1088,
+          "like_count": 68423,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 4356
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T21:26:53.000Z",
+        "description": "病み垢暴言｜地雷系｜永遠の16歳 ｜社不",
+        "id": "1550593157876060160",
+        "location": "地獄",
+        "name": "ふみわんちゃん🦭🌧️",
+        "pinned_tweet_id": "1935262321439645728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990852953499185154/HwgnW6Z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 131,
+          "like_count": 17721,
+          "listed_count": 4,
+          "media_count": 260,
+          "tweet_count": 2466
+        },
+        "username": "Fumi_uowou_",
+        "verified": false
+      }
+    ]
+  }
+}

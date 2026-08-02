@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1960681481304744421",
+    "created_at": "2025-08-27T13:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T14:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960696435974013272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933212338674675714",
+          "start": 0,
+          "username": "R1k0xo_33w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960696435974013272",
+    "in_reply_to_user_id": "1933212338674675714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960681481304744421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1k0xo_33w 吃药药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1960681481304744421",
+        "created_at": "2025-08-27T13:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T14:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960696435974013272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933212338674675714",
+              "start": 0,
+              "username": "R1k0xo_33w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960696435974013272",
+        "in_reply_to_user_id": "1933212338674675714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960681481304744421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1k0xo_33w 吃药药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933212338674675714",
+        "conversation_id": "1960681481304744421",
+        "created_at": "2025-08-27T12:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960681481304744421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960681481304744421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃药药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 824,
+          "like_count": 34267,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1845
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T17:18:50.000Z",
+        "description": "铭刻存在的痕迹｜OD｜精神病｜泛性恋｜喜欢可爱的孩子｜摄影｜流浪",
+        "id": "1933212338674675714",
+        "location": "风落下的地方",
+        "name": "鲤",
+        "pinned_tweet_id": "1955374082704413136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953674888881090564/4uBZb2t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 107,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 787
+        },
+        "username": "R1k0xo_33w",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1971783857558245820",
+    "created_at": "2025-09-27T03:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T04:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971783857558245820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1884627325398212611",
+          "start": 3,
+          "username": "Revive_Meink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971783857558245820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971633893758603385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Revive_Meink: 你说的“正常”是什么意思？什么叫“正常”？健康就是正常吗？难道是指某人与大多数人一样，即便那是病态的？还是说那种“感冒后流鼻涕是正常现象”的“正常”？为什么说木僵到忘记如何吞咽是正常的，幻觉严重到影响到正常生活也是正常的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1971783857558245820",
+        "created_at": "2025-09-27T03:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T04:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971783857558245820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1884627325398212611",
+              "start": 3,
+              "username": "Revive_Meink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971783857558245820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971633893758603385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Revive_Meink: 你说的“正常”是什么意思？什么叫“正常”？健康就是正常吗？难道是指某人与大多数人一样，即便那是病态的？还是说那种“感冒后流鼻涕是正常现象”的“正常”？为什么说木僵到忘记如何吞咽是正常的，幻觉严重到影响到正常生活也是正常的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884627325398212611",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1971633893758603385",
+        "created_at": "2025-09-26T17:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T18:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971633893758603385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971633893758603385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说的“正常”是什么意思？什么叫“正常”？健康就是正常吗？难道是指某人与大多数人一样，即便那是病态的？还是说那种“感冒后流鼻涕是正常现象”的“正常”？为什么说木僵到忘记如何吞咽是正常的，幻觉严重到影响到正常生活也是正常的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 945,
+          "like_count": 44729,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 2792
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "enby\n|\n二十二月系统\n|\n里推：@knimaisey\n（包括但不限于 触发、病态思维、暴论）\n|\n呃画的都放这里好了：@Victimized_P\n———\n你好':3 我是一个永远八岁的小孩 :D 梦想是当一辈子长不大的小孩！你的梦想是什么？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "knimaisey"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "Victimized_P"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "location": "SilverLawn",
+        "name": "铭（前世莱铭系统）",
+        "pinned_tweet_id": "1967642148142248263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967641855916408832/jQaKZyad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 257,
+          "like_count": 9981,
+          "listed_count": 3,
+          "media_count": 785,
+          "tweet_count": 4758
+        },
+        "username": "Revive_Meink",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1947594697591165440",
+    "created_at": "2025-07-22T09:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T10:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947594697591165440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1762050911332081664",
+          "start": 3,
+          "username": "BucketFallen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947594697591165440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947535841393578017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BucketFallen: 整天捧着个手机有人找你吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1947594697591165440",
+        "created_at": "2025-07-22T09:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T10:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947594697591165440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1762050911332081664",
+              "start": 3,
+              "username": "BucketFallen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947594697591165440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947535841393578017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BucketFallen: 整天捧着个手机有人找你吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762050911332081664",
+        "conversation_id": "1947535841393578017",
+        "created_at": "2025-07-22T05:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T06:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947535841393578017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947535841393578017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 19047,
+          "like_count": 345,
+          "quote_count": 18,
+          "reply_count": 143,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "整天捧着个手机有人找你吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "是一只可爱的小狗呀｜15岁无证含糖mtx｜含糖2025.6.4｜深柜｜自伤 od｜互fo｜买糖找@pattifly｜最好的妹妹@xiaoyieQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "pattifly"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 452,
+          "like_count": 17852,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 613
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T09:44:15.000Z",
+        "description": "小桶收网",
+        "id": "1762050911332081664",
+        "name": "湖北精神病人",
+        "pinned_tweet_id": "1946911640311755162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944810777480978433/VtKe9LuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 536,
+          "like_count": 1757,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1316
+        },
+        "username": "BucketFallen",
+        "verified": false
+      }
+    ]
+  }
+}

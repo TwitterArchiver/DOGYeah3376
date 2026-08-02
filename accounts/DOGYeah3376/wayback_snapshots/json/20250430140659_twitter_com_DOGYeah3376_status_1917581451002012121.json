@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1917274701518561334",
+    "created_at": "2025-04-30T14:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T15:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917581451002012121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634941864368549891",
+          "start": 0,
+          "username": "R1_thamclub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917581451002012121",
+    "in_reply_to_user_id": "1634941864368549891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917274701518561334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1_thamclub 甚至还有大疆的禁飞地图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917274639748980740",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpuHIG8aYAQsWVX.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1917274639698624512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpuHIGwaAAA8uhe.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1917274691301146624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpuHLG_aAAAD-Ma.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1917274639736397827",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpuHIG5aYAMcuLr.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1917274701518561334",
+        "created_at": "2025-04-30T14:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T15:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917581451002012121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634941864368549891",
+              "start": 0,
+              "username": "R1_thamclub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917581451002012121",
+        "in_reply_to_user_id": "1634941864368549891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917274701518561334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1_thamclub 甚至还有大疆的禁飞地图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917274639748980740",
+            "3_1917274639698624512",
+            "3_1917274691301146624",
+            "3_1917274639736397827"
+          ]
+        },
+        "author_id": "1634941864368549891",
+        "conversation_id": "1917274701518561334",
+        "created_at": "2025-04-29T17:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T18:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917274701518561334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cNsmLfWiuQ",
+              "end": 52,
+              "expanded_url": "https://x.com/R1_thamclub/status/1917274701518561334/photo/1",
+              "media_key": "3_1917274639748980740",
+              "start": 29,
+              "url": "https://t.co/cNsmLfWiuQ"
+            },
+            {
+              "display_url": "pic.x.com/cNsmLfWiuQ",
+              "end": 52,
+              "expanded_url": "https://x.com/R1_thamclub/status/1917274701518561334/photo/1",
+              "media_key": "3_1917274639698624512",
+              "start": 29,
+              "url": "https://t.co/cNsmLfWiuQ"
+            },
+            {
+              "display_url": "pic.x.com/cNsmLfWiuQ",
+              "end": 52,
+              "expanded_url": "https://x.com/R1_thamclub/status/1917274701518561334/photo/1",
+              "media_key": "3_1917274691301146624",
+              "start": 29,
+              "url": "https://t.co/cNsmLfWiuQ"
+            },
+            {
+              "display_url": "pic.x.com/cNsmLfWiuQ",
+              "end": 52,
+              "expanded_url": "https://x.com/R1_thamclub/status/1917274701518561334/photo/1",
+              "media_key": "3_1917274639736397827",
+              "start": 29,
+              "url": "https://t.co/cNsmLfWiuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917274701518561334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 479,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么删除了关于你的所有……\n我还是忘不了你呢…………… https://t.co/cNsmLfWiuQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 193,
+          "like_count": 3186,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 162
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:38:25.000Z",
+        "description": "一个高中辍学社畜 居住南京 精通电改+电子维修+控制器维修改管 还会手机电脑维修 简称除了学习什么都会的科技宅（ 稍微有点危险的精神病患（可能准备双相 如果你觉得你足够了解我的话 想要微信，QQ请私信我 bt什么的就不要来烦我了 没时间跟你玩#abdl #jk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 127,
+                "tag": "jk"
+              }
+            ]
+          }
+        },
+        "id": "1634941864368549891",
+        "location": "中国大陆江苏省南京市",
+        "name": "あやまち",
+        "pinned_tweet_id": "1769074288286368002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898925627157393408/imjDcUNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 439,
+          "like_count": 56,
+          "listed_count": 6,
+          "media_count": 175,
+          "tweet_count": 851
+        },
+        "username": "R1_thamclub",
+        "verified": false
+      }
+    ]
+  }
+}

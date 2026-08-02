@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1956240090180804681",
+    "created_at": "2025-08-15T08:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T09:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956279065125535831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1933212338674675714",
+          "start": 0,
+          "username": "0v0cc44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956279065125535831",
+    "in_reply_to_user_id": "1933212338674675714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956240090180804681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0v0cc44 音乐配的好好🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36268,
+        "height": 3840,
+        "media_key": "13_1956239780783828992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1956239780783828992/img/gy_Jr6-zrTsgfbV9.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956239780783828992/vid/avc1/320x568/e-Kshic9xQ2y2-Ps.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956239780783828992/vid/avc1/720x1280/kwEPGzuWwxi8ta98.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956239780783828992/vid/avc1/1080x1920/d2U51ahWR_zXf8RU.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956239780783828992/vid/avc1/2160x3840/925XmLAM9v3fnsgf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1956239780783828992/pl/zNYlJlc76J4fw-f2.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956239780783828992/vid/avc1/480x852/NLdnbfk9ADvhBz4o.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1956240090180804681",
+        "created_at": "2025-08-15T08:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T09:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956279065125535831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1933212338674675714",
+              "start": 0,
+              "username": "0v0cc44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956279065125535831",
+        "in_reply_to_user_id": "1933212338674675714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956240090180804681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0v0cc44 音乐配的好好🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1956239780783828992"
+          ]
+        },
+        "author_id": "1933212338674675714",
+        "conversation_id": "1956240090180804681",
+        "created_at": "2025-08-15T06:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T07:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956240090180804681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XJPPCAnHy",
+              "end": 35,
+              "expanded_url": "https://x.com/0v0cc44/status/1956240090180804681/video/1",
+              "media_key": "13_1956239780783828992",
+              "start": 12,
+              "url": "https://t.co/3XJPPCAnHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956240090180804681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来 短暂的一起略过记忆 https://t.co/3XJPPCAnHy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 707,
+          "like_count": 28676,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1407
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T17:18:50.000Z",
+        "description": "铭刻存在的痕迹｜OD｜精神病｜泛性恋｜喜欢可爱的孩子｜摄影｜流浪",
+        "id": "1933212338674675714",
+        "location": "风落下的地方",
+        "name": "鲤",
+        "pinned_tweet_id": "1955374082704413136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953674888881090564/4uBZb2t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 108,
+          "like_count": 939,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 687
+        },
+        "username": "0v0cc44",
+        "verified": true
+      }
+    ]
+  }
+}

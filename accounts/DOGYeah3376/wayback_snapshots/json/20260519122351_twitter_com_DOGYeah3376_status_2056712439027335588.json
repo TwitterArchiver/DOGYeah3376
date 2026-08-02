@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056711658966589440",
+        "3_2056711658983292928",
+        "3_2056711658966532096",
+        "3_2056711658958176258"
+      ],
+      "media_source_tweet_id": [
+        "2056711679141195876",
+        "2056711679141195876",
+        "2056711679141195876",
+        "2056711679141195876"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2056712439027335588",
+    "created_at": "2026-05-19T12:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056712439027335588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026876224589701120",
+          "start": 3,
+          "username": "R1k0xo33w"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LbeXN3CNxm",
+          "end": 44,
+          "expanded_url": "https://x.com/R1k0xo33w/status/2056711679141195876/photo/1",
+          "media_key": "3_2056711658966589440",
+          "start": 21,
+          "url": "https://t.co/LbeXN3CNxm"
+        },
+        {
+          "display_url": "pic.x.com/LbeXN3CNxm",
+          "end": 44,
+          "expanded_url": "https://x.com/R1k0xo33w/status/2056711679141195876/photo/1",
+          "media_key": "3_2056711658983292928",
+          "start": 21,
+          "url": "https://t.co/LbeXN3CNxm"
+        },
+        {
+          "display_url": "pic.x.com/LbeXN3CNxm",
+          "end": 44,
+          "expanded_url": "https://x.com/R1k0xo33w/status/2056711679141195876/photo/1",
+          "media_key": "3_2056711658966532096",
+          "start": 21,
+          "url": "https://t.co/LbeXN3CNxm"
+        },
+        {
+          "display_url": "pic.x.com/LbeXN3CNxm",
+          "end": 44,
+          "expanded_url": "https://x.com/R1k0xo33w/status/2056711679141195876/photo/1",
+          "media_key": "3_2056711658958176258",
+          "start": 21,
+          "url": "https://t.co/LbeXN3CNxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056712439027335588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056711679141195876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R1k0xo33w: 点菜成功了 https://t.co/LbeXN3CNxm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056711658966589440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIroW14boAAAwzf.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056711658983292928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIroW18agAAvKrG.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056711658966532096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIroW14awAATrzy.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056711658958176258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIroW12bQAIZROy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056711658966589440",
+            "3_2056711658983292928",
+            "3_2056711658966532096",
+            "3_2056711658958176258"
+          ],
+          "media_source_tweet_id": [
+            "2056711679141195876",
+            "2056711679141195876",
+            "2056711679141195876",
+            "2056711679141195876"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056712439027335588",
+        "created_at": "2026-05-19T12:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056712439027335588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026876224589701120",
+              "start": 3,
+              "username": "R1k0xo33w"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbeXN3CNxm",
+              "end": 44,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2056711679141195876/photo/1",
+              "media_key": "3_2056711658966589440",
+              "start": 21,
+              "url": "https://t.co/LbeXN3CNxm"
+            },
+            {
+              "display_url": "pic.x.com/LbeXN3CNxm",
+              "end": 44,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2056711679141195876/photo/1",
+              "media_key": "3_2056711658983292928",
+              "start": 21,
+              "url": "https://t.co/LbeXN3CNxm"
+            },
+            {
+              "display_url": "pic.x.com/LbeXN3CNxm",
+              "end": 44,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2056711679141195876/photo/1",
+              "media_key": "3_2056711658966532096",
+              "start": 21,
+              "url": "https://t.co/LbeXN3CNxm"
+            },
+            {
+              "display_url": "pic.x.com/LbeXN3CNxm",
+              "end": 44,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2056711679141195876/photo/1",
+              "media_key": "3_2056711658958176258",
+              "start": 21,
+              "url": "https://t.co/LbeXN3CNxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056712439027335588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056711679141195876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R1k0xo33w: 点菜成功了 https://t.co/LbeXN3CNxm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056711658966589440",
+            "3_2056711658983292928",
+            "3_2056711658966532096",
+            "3_2056711658958176258"
+          ]
+        },
+        "author_id": "2026876224589701120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056711679141195876",
+        "created_at": "2026-05-19T12:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056711679141195876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbeXN3CNxm",
+              "end": 29,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2056711679141195876/photo/1",
+              "media_key": "3_2056711658966589440",
+              "start": 6,
+              "url": "https://t.co/LbeXN3CNxm"
+            },
+            {
+              "display_url": "pic.x.com/LbeXN3CNxm",
+              "end": 29,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2056711679141195876/photo/1",
+              "media_key": "3_2056711658983292928",
+              "start": 6,
+              "url": "https://t.co/LbeXN3CNxm"
+            },
+            {
+              "display_url": "pic.x.com/LbeXN3CNxm",
+              "end": 29,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2056711679141195876/photo/1",
+              "media_key": "3_2056711658966532096",
+              "start": 6,
+              "url": "https://t.co/LbeXN3CNxm"
+            },
+            {
+              "display_url": "pic.x.com/LbeXN3CNxm",
+              "end": 29,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2056711679141195876/photo/1",
+              "media_key": "3_2056711658958176258",
+              "start": 6,
+              "url": "https://t.co/LbeXN3CNxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056711679141195876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "点菜成功了 https://t.co/LbeXN3CNxm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 1138,
+          "like_count": 75259,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5294
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T04:25:31.000Z",
+        "description": "一直在找我是谁#颓废磕药#是个可爱的孩子#",
+        "id": "2026876224589701120",
+        "name": "鲤",
+        "pinned_tweet_id": "2035834585226019160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038180445620453376/K2BlHK_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 95,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 461
+        },
+        "username": "R1k0xo33w",
+        "verified": false
+      }
+    ]
+  }
+}

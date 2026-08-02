@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1953764008940748813",
+    "created_at": "2025-08-08T10:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T11:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953764008940748813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1864926293097353216",
+          "start": 3,
+          "username": "DAXU0112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953764008940748813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953687697773748614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DAXU0112: 讨厌大小便失禁，讨厌心理疾病，讨厌躯体化呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1953764008940748813",
+        "created_at": "2025-08-08T10:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T11:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953764008940748813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1864926293097353216",
+              "start": 3,
+              "username": "DAXU0112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953764008940748813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953687697773748614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DAXU0112: 讨厌大小便失禁，讨厌心理疾病，讨厌躯体化呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864926293097353216",
+        "conversation_id": "1953687697773748614",
+        "created_at": "2025-08-08T05:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T06:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953687697773748614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953687697773748614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 106,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌大小便失禁，讨厌心理疾病，讨厌躯体化呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜无证含糖mtx｜中焦重抑bpd｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 621,
+          "like_count": 24705,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 901
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T06:54:19.000Z",
+        "description": "",
+        "id": "1864926293097353216",
+        "name": "DAXU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900066222689181698/xw7Vbf0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 182,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 96
+        },
+        "username": "DAXU0112",
+        "verified": false
+      }
+    ]
+  }
+}

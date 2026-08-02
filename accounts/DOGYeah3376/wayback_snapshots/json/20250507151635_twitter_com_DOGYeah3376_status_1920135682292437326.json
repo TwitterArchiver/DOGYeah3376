@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1920135682292437326",
+    "created_at": "2025-05-07T15:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T16:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920135682292437326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920135682292437326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918214981952389324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 4月27日(发布) 自媒体“昆明搜课网”采访昆明二十四中的学生们觉得自己有没有成长，一名女生受访时称“性格更加开朗了，也更成熟稳重了，自我管理能力也提高了，学习能力也加强了”但有细心观众发现，该女生的胳膊上有多条刀疤，引发大众质疑。 ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_1918214683917729797",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp7eF4XawAUm4A9.jpg",
+        "width": 1012
+      },
+      {
+        "height": 488,
+        "media_key": "3_1918214694533533696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp7eGf6bEAAeITQ.jpg",
+        "width": 198
+      },
+      {
+        "duration_ms": 13433,
+        "height": 1280,
+        "media_key": "13_1918214713202311168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1918214713202311168/img/dz6tTR7fefpH01Ah.jpg",
+        "public_metrics": {
+          "view_count": 140104
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918214713202311168/vid/avc1/320x640/bCbqUFMnjvh3A__X.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918214713202311168/vid/avc1/480x960/Iqk5xKb5SfW3Hhw2.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918214713202311168/vid/avc1/640x1280/FcGCDA1P3guWcra4.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1918214713202311168/pl/r0nImtIaj4N3sHCx.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1920135682292437326",
+        "created_at": "2025-05-07T15:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T16:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920135682292437326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920135682292437326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918214981952389324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 4月27日(发布) 自媒体“昆明搜课网”采访昆明二十四中的学生们觉得自己有没有成长，一名女生受访时称“性格更加开朗了，也更成熟稳重了，自我管理能力也提高了，学习能力也加强了”但有细心观众发现，该女生的胳膊上有多条刀疤，引发大众质疑。 ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918214683917729797",
+            "3_1918214694533533696",
+            "13_1918214713202311168"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1918214981952389324",
+        "created_at": "2025-05-02T08:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T09:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918214981952389324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sTIZJsHWLR",
+              "end": 140,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1918214981952389324/video/1",
+              "media_key": "3_1918214683917729797",
+              "start": 117,
+              "url": "https://t.co/sTIZJsHWLR"
+            },
+            {
+              "display_url": "pic.x.com/sTIZJsHWLR",
+              "end": 140,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1918214981952389324/video/1",
+              "media_key": "3_1918214694533533696",
+              "start": 117,
+              "url": "https://t.co/sTIZJsHWLR"
+            },
+            {
+              "display_url": "pic.x.com/sTIZJsHWLR",
+              "end": 140,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1918214981952389324/video/1",
+              "media_key": "13_1918214713202311168",
+              "start": 117,
+              "url": "https://t.co/sTIZJsHWLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918214981952389324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 379151,
+          "like_count": 1165,
+          "quote_count": 14,
+          "reply_count": 67,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "4月27日(发布) 自媒体“昆明搜课网”采访昆明二十四中的学生们觉得自己有没有成长，一名女生受访时称“性格更加开朗了，也更成熟稳重了，自我管理能力也提高了，学习能力也加强了”但有细心观众发现，该女生的胳膊上有多条刀疤，引发大众质疑。 https://t.co/sTIZJsHWLR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 203,
+          "like_count": 4031,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 204
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1917183619799613928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989101,
+          "following_count": 951,
+          "like_count": 6267,
+          "listed_count": 8126,
+          "media_count": 27603,
+          "tweet_count": 34048
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

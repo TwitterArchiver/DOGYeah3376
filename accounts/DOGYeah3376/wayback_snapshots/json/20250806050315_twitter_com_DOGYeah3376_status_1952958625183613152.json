@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1952958625183613152",
+    "created_at": "2025-08-06T05:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T06:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952958625183613152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1676500088221478912",
+          "start": 3,
+          "username": "DOGYeah3376"
+        },
+        {
+          "end": 30,
+          "id": "1866458229527764992",
+          "start": 17,
+          "username": "Citrus_amara"
+        },
+        {
+          "end": 41,
+          "id": "1757031119894257664",
+          "start": 31,
+          "username": "wozijibzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952958625183613152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951895065733050653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DOGYeah3376: @Citrus_amara @wozijibzd 普瑞巴林你快otc吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1952958625183613152",
+        "created_at": "2025-08-06T05:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T06:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952958625183613152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1676500088221478912",
+              "start": 3,
+              "username": "DOGYeah3376"
+            },
+            {
+              "end": 30,
+              "id": "1866458229527764992",
+              "start": 17,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 41,
+              "id": "1757031119894257664",
+              "start": 31,
+              "username": "wozijibzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952958625183613152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951895065733050653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DOGYeah3376: @Citrus_amara @wozijibzd 普瑞巴林你快otc吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1951878339083509853",
+        "created_at": "2025-08-03T06:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951895065733050653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 24,
+              "id": "1757031119894257664",
+              "start": 14,
+              "username": "wozijibzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951895065733050653",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951894926473474158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @wozijibzd 普瑞巴林你快otc吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 586,
+          "like_count": 23479,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 820
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n查成分回fo。\n👁👁枢酱在看着你...",
+        "id": "1866458229527764992",
+        "location": "广州虎门镇",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 271,
+          "like_count": 1873,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 869
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T13:17:33.000Z",
+        "description": "一只平庸的跨性别不想混圈只想分享生活日常了虚无主义\n门槛60 可以在非上课时间陪聊 可以看色图。。。 可以干。。。自己提就完了（\n不接什么嗯。。不好的事情",
+        "id": "1757031119894257664",
+        "location": "地球🌍",
+        "name": "叙叙",
+        "pinned_tweet_id": "1942188616656224394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894663782204309504/QYu-Jd3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 400,
+          "like_count": 2565,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1266
+        },
+        "username": "wozijibzd",
+        "verified": false
+      }
+    ]
+  }
+}

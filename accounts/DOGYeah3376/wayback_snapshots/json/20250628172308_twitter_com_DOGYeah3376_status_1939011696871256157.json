@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1933100193815380351",
+    "created_at": "2025-06-28T17:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T18:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939011696871256157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "552806299",
+          "start": 0,
+          "username": "pattifly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939011696871256157",
+    "in_reply_to_user_id": "552806299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933100193815380351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pattifly 救命我也要吃这个\n瘦的感觉最棒了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1849,
+        "media_key": "3_1933100178887860224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtPAXuXa4AAKipg.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933100178879426560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtPAXuVaMAA5DIM.jpg",
+        "width": 1258
+      },
+      {
+        "height": 1977,
+        "media_key": "3_1933100178883649536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtPAXuWaoAAqrCL.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1933100193815380351",
+        "created_at": "2025-06-28T17:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T18:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939011696871256157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "552806299",
+              "start": 0,
+              "username": "pattifly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939011696871256157",
+        "in_reply_to_user_id": "552806299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933100193815380351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pattifly 救命我也要吃这个\n瘦的感觉最棒了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933100178887860224",
+            "3_1933100178879426560",
+            "3_1933100178883649536"
+          ]
+        },
+        "author_id": "552806299",
+        "conversation_id": "1933100193815380351",
+        "created_at": "2025-06-12T09:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T10:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933100193815380351"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "减肥药"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "瘦身"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "减脂"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k0kXNPakgh",
+              "end": 157,
+              "expanded_url": "https://x.com/pattifly/status/1933100193815380351/photo/1",
+              "media_key": "3_1933100178887860224",
+              "start": 134,
+              "url": "https://t.co/k0kXNPakgh"
+            },
+            {
+              "display_url": "pic.x.com/k0kXNPakgh",
+              "end": 157,
+              "expanded_url": "https://x.com/pattifly/status/1933100193815380351/photo/1",
+              "media_key": "3_1933100178879426560",
+              "start": 134,
+              "url": "https://t.co/k0kXNPakgh"
+            },
+            {
+              "display_url": "pic.x.com/k0kXNPakgh",
+              "end": 157,
+              "expanded_url": "https://x.com/pattifly/status/1933100193815380351/photo/1",
+              "media_key": "3_1933100178883649536",
+              "start": 134,
+              "url": "https://t.co/k0kXNPakgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933100193815380351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3167,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "简言之 🔎 “白色971”（排油型）适合想要保持身材的同时也能尽情吃喝。\n\n“透明971”（抑制食欲）适合本身体重超标、减去身上赘肉。\n\n两款搭配 瘦身效果更好。🤗\n-------------------------------------\n#减肥药 #瘦身 #减脂 https://t.co/k0kXNPakgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 269,
+          "like_count": 8453,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 293
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-13T15:54:51.000Z",
+        "description": "Hey (੭ˊ꒳ˋ)੭ 这里猫耳朵。一般消息都会回，除了睡大觉哦。🍥色加补复合片｜色谱龙｜泰补｜减肥药 买一送一｜国内有现货(非偏远都包邮)，也可直邮各国家。唯一小号@wagnermestre｜可平台下单｜请私信右上角✉️。偶尔回复慢、可在TG喊我👉🏻https://t.co/B0Tg5JKU9k🤗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "wagnermestre"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/maoerduoduo",
+                "end": 149,
+                "expanded_url": "https://t.me/maoerduoduo",
+                "start": 126,
+                "url": "https://t.co/B0Tg5JKU9k"
+              }
+            ]
+          }
+        },
+        "id": "552806299",
+        "location": "Thailand",
+        "name": "猫耳朵🥥（药娘/药商/糖商）泰色/泰补/色谱龙Damah/补佳乐/减肥药",
+        "pinned_tweet_id": "1872572055239168330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809563996955250688/HYXsy2L8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4476,
+          "following_count": 3019,
+          "like_count": 542,
+          "listed_count": 10,
+          "media_count": 107,
+          "tweet_count": 419
+        },
+        "username": "pattifly",
+        "verified": true
+      }
+    ]
+  }
+}

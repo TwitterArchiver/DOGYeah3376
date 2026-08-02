@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "1942663468139884967",
+    "created_at": "2025-07-08T19:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T20:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942663468139884967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1549875407922401281",
+          "start": 3,
+          "username": "progynon_depot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942663468139884967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942651558703071300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @progynon_depot: 一个暴论：跨儿面临大部分焦虑根源在于处在读书年龄必须依靠父母爆金币，非家长党的出路只能是和家里断绝来往 并外出一人谋生，或者擅长隐瞒的就可以继续装长发男爆家里金币活下去、没钱加上还在读书但凡炸柜 就只能被家长折磨，然后就焦虑想紫砂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "1942663468139884967",
+        "created_at": "2025-07-08T19:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T20:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942663468139884967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1549875407922401281",
+              "start": 3,
+              "username": "progynon_depot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942663468139884967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942651558703071300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @progynon_depot: 一个暴论：跨儿面临大部分焦虑根源在于处在读书年龄必须依靠父母爆金币，非家长党的出路只能是和家里断绝来往 并外出一人谋生，或者擅长隐瞒的就可以继续装长发男爆家里金币活下去、没钱加上还在读书但凡炸柜 就只能被家长折磨，然后就焦虑想紫砂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549875407922401281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "1942651558703071300",
+        "created_at": "2025-07-08T18:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T19:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942651558703071300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942651558703071300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一个暴论：跨儿面临大部分焦虑根源在于处在读书年龄必须依靠父母爆金币，非家长党的出路只能是和家里断绝来往 并外出一人谋生，或者擅长隐瞒的就可以继续装长发男爆家里金币活下去、没钱加上还在读书但凡炸柜 就只能被家长折磨，然后就焦虑想紫砂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 312,
+          "like_count": 11997,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 402
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T21:56:11.000Z",
+        "description": "记录transition|21岁｜谢谢关注列表的每一位小可爱^_^|纯娱乐账号|",
+        "id": "1549875407922401281",
+        "location": "明州",
+        "name": "筱晓咲🍥",
+        "pinned_tweet_id": "1941234246246596787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941232222272618500/6EC3KV6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 398,
+          "like_count": 19046,
+          "listed_count": 4,
+          "media_count": 287,
+          "tweet_count": 2217
+        },
+        "username": "progynon_depot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1963908384308281485",
+    "created_at": "2025-09-05T10:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T11:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963912836066714078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1946598569747894273",
+          "start": 0,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963912836066714078",
+    "in_reply_to_user_id": "1946598569747894273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963908384308281485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmin240286 好耶！在内圈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1963908379358953472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0E0RAsagAAXunt.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1963908384308281485",
+        "created_at": "2025-09-05T10:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T11:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963912836066714078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946598569747894273",
+              "start": 0,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963912836066714078",
+        "in_reply_to_user_id": "1946598569747894273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963908384308281485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmin240286 好耶！在内圈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963908379358953472"
+          ]
+        },
+        "author_id": "1946598569747894273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1963908384308281485",
+        "created_at": "2025-09-05T10:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T11:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963908384308281485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1963163617211424768/KMVumhP_?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1963163617211424768/KMVumhP_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/JjTCttQROR"
+            },
+            {
+              "display_url": "pic.x.com/m4rG8qhhIP",
+              "end": 64,
+              "expanded_url": "https://x.com/xmin240286/status/1963908384308281485/photo/1",
+              "media_key": "3_1963908379358953472",
+              "start": 41,
+              "url": "https://t.co/m4rG8qhhIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963908384308281485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/JjTCttQROR https://t.co/m4rG8qhhIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 859,
+          "like_count": 35774,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2098
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "含糖MtF｜INFP-T｜社会化程度极低的重度AS｜重度BPD｜C-PTSD｜多意识体｜病娇｜缺爱｜天残党｜家暴党｜无性恋｜性冷淡｜躺平摆烂无业｜精神药理学｜五年C#开发经验｜Telegram https://t.co/fUGMj5xj0K 我一直在",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 120,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 97,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "location": "조선민주주의인민공화국🇰🇵",
+        "name": "汐书记不是总书记🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1963077291875172543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962693560345731072/TE63EXWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 162,
+          "like_count": 1559,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 911
+        },
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

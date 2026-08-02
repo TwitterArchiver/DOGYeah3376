@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979753175465840640"
+      ],
+      "media_source_tweet_id": [
+        "1979753179177972118"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1980570602898616369",
+    "created_at": "2025-10-21T09:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T10:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980570602898616369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1530985375220391936",
+          "start": 3,
+          "username": "qbpdsslvy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PDHXUqbpeP",
+          "end": 43,
+          "expanded_url": "https://x.com/qbpdsslvy/status/1979753179177972118/photo/1",
+          "media_key": "3_1979753175465840640",
+          "start": 20,
+          "url": "https://t.co/PDHXUqbpeP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980570602898616369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979753179177972118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qbpdsslvy: 小猫耳朵 https://t.co/PDHXUqbpeP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2280,
+        "media_key": "3_1979753175465840640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3l_Bh6X0AAwCR4.jpg",
+        "width": 1484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979753175465840640"
+          ],
+          "media_source_tweet_id": [
+            "1979753179177972118"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1980570602898616369",
+        "created_at": "2025-10-21T09:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980570602898616369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1530985375220391936",
+              "start": 3,
+              "username": "qbpdsslvy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PDHXUqbpeP",
+              "end": 43,
+              "expanded_url": "https://x.com/qbpdsslvy/status/1979753179177972118/photo/1",
+              "media_key": "3_1979753175465840640",
+              "start": 20,
+              "url": "https://t.co/PDHXUqbpeP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980570602898616369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979753179177972118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qbpdsslvy: 小猫耳朵 https://t.co/PDHXUqbpeP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979753175465840640"
+          ]
+        },
+        "author_id": "1530985375220391936",
+        "conversation_id": "1979753179177972118",
+        "created_at": "2025-10-19T03:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T04:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979753179177972118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PDHXUqbpeP",
+              "end": 28,
+              "expanded_url": "https://x.com/qbpdsslvy/status/1979753179177972118/photo/1",
+              "media_key": "3_1979753175465840640",
+              "start": 5,
+              "url": "https://t.co/PDHXUqbpeP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979753179177972118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫耳朵 https://t.co/PDHXUqbpeP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1977003730294956431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979171735669719041/xwbTRqej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 1018,
+          "like_count": 54092,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3501
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-29T18:52:20.000Z",
+        "description": "🏳️‍⚧️/🍥2023.1.16/2006.04.03/帝都/maimai，Lanota，Malody，CytusⅡ，Phigros，Orzmic，Arcaea，SDVX，DJMAX等多坑退役音游人/常UTC+08：00时区晚间及凌晨出没/小水母🪼@DOGYeah3376/宝宝@NarukamiYou267",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 124,
+                "username": "DOGYeah3376"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "NarukamiYou267"
+              }
+            ]
+          }
+        },
+        "id": "1530985375220391936",
+        "location": "日本 東京",
+        "name": "7o",
+        "pinned_tweet_id": "1974128823886328038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643352971613274116/InSQWV-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 212,
+          "like_count": 754,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 288
+        },
+        "username": "qbpdsslvy",
+        "verified": false
+      }
+    ]
+  }
+}

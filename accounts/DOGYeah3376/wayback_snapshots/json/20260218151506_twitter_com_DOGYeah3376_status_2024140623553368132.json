@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2024140623553368132",
+    "created_at": "2026-02-18T15:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T16:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024140623553368132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kyuhoz/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/kyuhoz/status/2023708195387306162",
+          "start": 14,
+          "url": "https://t.co/F7I5FDf8rL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024140623553368132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023708195387306162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "此人聪明程度貌似在我之上啊 https://t.co/F7I5FDf8rL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2031,
+        "media_key": "3_2023708190043762692",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWn4HSbcAQSxGX.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2024140623553368132",
+        "created_at": "2026-02-18T15:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024140623553368132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kyuhoz/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/kyuhoz/status/2023708195387306162",
+              "start": 14,
+              "url": "https://t.co/F7I5FDf8rL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024140623553368132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023708195387306162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此人聪明程度貌似在我之上啊 https://t.co/F7I5FDf8rL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023708190043762692"
+          ]
+        },
+        "author_id": "1981418811938275328",
+        "conversation_id": "2023708195387306162",
+        "created_at": "2026-02-17T10:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023708195387306162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NwwGA9weh",
+              "end": 58,
+              "expanded_url": "https://x.com/kyuhoz/status/2023708195387306162/photo/1",
+              "media_key": "3_2023708190043762692",
+              "start": 35,
+              "url": "https://t.co/1NwwGA9weh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023708195387306162",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 20723,
+          "like_count": 1546,
+          "quote_count": 8,
+          "reply_count": 37,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "is anyone else lowkey an organizer https://t.co/1NwwGA9weh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭 @Yyyyy_pog｜主人❤️  @opaoguonai1108｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "opaoguonai1108"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "2012168616947458541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 1105,
+          "like_count": 69709,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 4538
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T17:54:04.000Z",
+        "description": "⠀ ✿ ⠀.⠀° ⠀(˶ˆᗜˆ˵)⠀*⠀ 🏀 ⠀♫⠀⠀~⠀~ ⠀ ⠀⠀⠀⠀ ⠀°⠀๑̩⠀🍊 ⠀kyuho⠀⸺⠀16 ⠀♪ 𓈒 𓏸 sw: 130.8lb | hw: 131.7lb | cw: 113.7lb | gw: 100lb | ugw: 90lb ☆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kyuhoz.straw.page",
+                "end": 23,
+                "expanded_url": "https://kyuhoz.straw.page",
+                "start": 0,
+                "url": "https://t.co/MF46aNbbP6"
+              }
+            ]
+          }
+        },
+        "id": "1981418811938275328",
+        "location": "   he / pup / paw  ^_^",
+        "name": "KEL of shedtwt",
+        "pinned_tweet_id": "1982574604490248461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018965207268073472/ZeyaxtHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 551,
+          "like_count": 3188,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/MF46aNbbP6",
+        "username": "kyuhoz",
+        "verified": false
+      }
+    ]
+  }
+}

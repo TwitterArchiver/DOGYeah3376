@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1940296821336875009",
+    "created_at": "2025-07-02T07:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T08:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940310447066161517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870022570353012736",
+          "start": 0,
+          "username": "kukudejiaxibei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940310447066161517",
+    "in_reply_to_user_id": "1870022570353012736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940296821336875009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukudejiaxibei 宝宝这都是你的幻想 还是真的有这四个人🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1940296821336875009",
+        "created_at": "2025-07-02T07:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T08:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940310447066161517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870022570353012736",
+              "start": 0,
+              "username": "kukudejiaxibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940310447066161517",
+        "in_reply_to_user_id": "1870022570353012736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940296821336875009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukudejiaxibei 宝宝这都是你的幻想 还是真的有这四个人🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870022570353012736",
+        "conversation_id": "1940296821336875009",
+        "created_at": "2025-07-02T06:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T07:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940296821336875009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940296821336875009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "消灭所有政权是我和Valkyrie以及Forst的终极目标\n至于ICEY？\n她会负责替换我一会让我清醒一点？\n现在是Jasiber(也就是你们说的西贝)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 281,
+          "like_count": 9701,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 324
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T08:25:12.000Z",
+        "description": "06liner INFJ Virgo♍\n🎮Gaming|🍸 Bartending 🍳 Cooking  \nBFF: @NataliaIcey2006💖@lyb1007\nBF:@xiyimeng04💕\nCat:@jiang_chua28655🐾\nHope I can transition✨\n🇺🇸/🇪🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "NataliaIcey2006"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "lyb1007"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "xiyimeng04"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "jiang_chua28655"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NataliaICEY060…",
+                "end": 23,
+                "expanded_url": "https://t.me/NataliaICEY060910https://ngl.link/kukudejiaxibei1",
+                "start": 0,
+                "url": "https://t.co/lGi3Ux1gT3"
+              }
+            ]
+          }
+        },
+        "id": "1870022570353012736",
+        "location": "Sanctum 9 Inner Ring of Virgo",
+        "name": "Jasiber🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1909221888443949341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933061552678318083/-zQhXG_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 2390,
+          "like_count": 21791,
+          "listed_count": 1,
+          "media_count": 593,
+          "tweet_count": 5900
+        },
+        "url": "https://t.co/lGi3Ux1gT3",
+        "username": "kukudejiaxibei",
+        "verified": false
+      }
+    ]
+  }
+}

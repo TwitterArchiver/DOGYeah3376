@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2008847386257629562",
+    "created_at": "2026-01-07T10:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T11:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008847553178259759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1667385380692439040",
+          "start": 0,
+          "username": "iuu_0_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008847553178259759",
+    "in_reply_to_user_id": "1667385380692439040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008847386257629562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iuu_0_o 太恶毒了怎么会有这么恶心的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2008847386257629562",
+        "created_at": "2026-01-07T10:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T11:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008847553178259759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1667385380692439040",
+              "start": 0,
+              "username": "iuu_0_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008847553178259759",
+        "in_reply_to_user_id": "1667385380692439040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008847386257629562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iuu_0_o 太恶毒了怎么会有这么恶心的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667385380692439040",
+        "conversation_id": "2008847386257629562",
+        "created_at": "2026-01-07T10:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T11:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008847386257629562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008847386257629562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上我妈拉着我自杀的时候我发现我好想好好活着，拿着身上所有钱买了去昆明的火车票，我多想一走了之你们知道吗，可是事情好多，我学还没上完，我还得养岁岁养我妈，我喘不上气了头好痛后脑勺痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 1070,
+          "like_count": 66769,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 4191
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T04:17:20.000Z",
+        "description": "可线下🚪52｜自伤｜od｜接伤口定制",
+        "id": "1667385380692439040",
+        "name": "李怜彩",
+        "pinned_tweet_id": "1898735897979568278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918683932041846784/LJcfKBn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 193,
+          "like_count": 2853,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1250
+        },
+        "username": "iuu_0_o",
+        "verified": false
+      }
+    ]
+  }
+}

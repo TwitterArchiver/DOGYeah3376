@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1966167039393075203",
+    "created_at": "2025-09-12T10:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T11:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966449181318328690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1935719415175372801",
+          "start": 0,
+          "username": "qikiqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966449181318328690",
+    "in_reply_to_user_id": "1935719415175372801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966167039393075203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qikiqwq 姐姐🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1966167039393075203",
+        "created_at": "2025-09-12T10:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T11:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966449181318328690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1935719415175372801",
+              "start": 0,
+              "username": "qikiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966449181318328690",
+        "in_reply_to_user_id": "1935719415175372801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966167039393075203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qikiqwq 姐姐🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935719415175372801",
+        "conversation_id": "1966167039393075203",
+        "created_at": "2025-09-11T15:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T16:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966167039393075203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966167039393075203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "qiki想被叫姐姐或者妹妹~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 879,
+          "like_count": 37917,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 2301
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T15:21:07.000Z",
+        "description": "| MTF🍥 | hrt:25.5.16 | 暂时还没那么想死 | 音游 | 欧美电音 术力口 | 戒od | 艰难在学校营业 | 重度抑郁 | 中度焦虑 | 轻度躁狂 | 很想走出来 | 最爱的人:@yysukiqiki | puppy :@cirn039 | 亲友:@liang080423 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "yysukiqiki"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "cirn039"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "liang080423"
+              }
+            ]
+          }
+        },
+        "id": "1935719415175372801",
+        "location": "Japantown, San Francisco",
+        "name": "qiki🏳️‍⚧🍥",
+        "pinned_tweet_id": "1936111039776534570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942107708976488448/ijqrPhOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 291,
+          "like_count": 362,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 584
+        },
+        "username": "qikiqwq",
+        "verified": false
+      }
+    ]
+  }
+}

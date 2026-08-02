@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1959587840473624714",
+    "created_at": "2025-08-24T15:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T16:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959640069184393291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1565589783224766464",
+          "start": 0,
+          "username": "ChiyokoMikaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959640069184393291",
+    "in_reply_to_user_id": "1565589783224766464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959587840473624714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChiyokoMikaya 中圈诶🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1959587836077993984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzHawSua8AA_WDY.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1959587840473624714",
+        "created_at": "2025-08-24T15:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T16:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959640069184393291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1565589783224766464",
+              "start": 0,
+              "username": "ChiyokoMikaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959640069184393291",
+        "in_reply_to_user_id": "1565589783224766464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959587840473624714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiyokoMikaya 中圈诶🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959587836077993984"
+          ]
+        },
+        "author_id": "1565589783224766464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1959587840473624714",
+        "created_at": "2025-08-24T12:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T13:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959587840473624714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1958033547534753792/Y9i-XPWX?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1958033547534753792/Y9i-XPWX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/FvI2F3dMIK"
+            },
+            {
+              "display_url": "pic.x.com/2pC9A0D6TU",
+              "end": 64,
+              "expanded_url": "https://x.com/ChiyokoMikaya/status/1959587840473624714/photo/1",
+              "media_key": "3_1959587836077993984",
+              "start": 41,
+              "url": "https://t.co/2pC9A0D6TU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959587840473624714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/FvI2F3dMIK https://t.co/2pC9A0D6TU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 807,
+          "like_count": 32855,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1765
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T06:38:01.000Z",
+        "description": "这里是欣悦 | HRT始于21.03.28 | 持证含糖4年 | SRS定于26.10 | 眼镜娘 | 渴望自由 | 想要父母理解 | 想要快乐的生活 | 羡慕术后党天赋党家长党 | 活着好累 | 还好我有大家 | 还有全世界最好的老公陪伴@somo47067988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "somo47067988"
+              }
+            ]
+          }
+        },
+        "id": "1565589783224766464",
+        "location": "洛杉济南部",
+        "name": "ChiyokoMikaya",
+        "pinned_tweet_id": "1957099563812307100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956757811570118657/takyHJek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 1364,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 409
+        },
+        "username": "ChiyokoMikaya",
+        "verified": false
+      }
+    ]
+  }
+}

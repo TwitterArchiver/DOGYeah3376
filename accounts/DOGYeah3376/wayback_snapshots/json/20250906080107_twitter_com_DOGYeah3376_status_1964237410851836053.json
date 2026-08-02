@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1963598559863017887",
+    "created_at": "2025-09-06T08:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T09:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964237410851836053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1161855462674968576",
+          "start": 0,
+          "username": "sola_missYou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964237410851836053",
+    "in_reply_to_user_id": "1161855462674968576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964237324310442279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sola_missYou 滚😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1963598559863017887",
+        "created_at": "2025-09-06T08:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T09:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964237410851836053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1161855462674968576",
+              "start": 0,
+              "username": "sola_missYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964237410851836053",
+        "in_reply_to_user_id": "1161855462674968576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964237324310442279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sola_missYou 滚😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1161855462674968576",
+        "conversation_id": "1963598559863017887",
+        "created_at": "2025-09-06T08:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T09:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964237324310442279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964237324310442279",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963999165530489112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 变得淫荡吧小皮！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 864,
+          "like_count": 36001,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2137
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-15T04:21:43.000Z",
+        "description": "上海打工的河南人‖苦逼的人生‖白茶清欢无别事，我在等风也等你。",
+        "id": "1161855462674968576",
+        "location": "中国上海",
+        "name": "馒头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161856230471675904/KufwcTqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 57,
+          "like_count": 644,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 598
+        },
+        "username": "sola_missYou",
+        "verified": false
+      }
+    ]
+  }
+}

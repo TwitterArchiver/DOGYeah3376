@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1938118372744646770",
+    "created_at": "2025-06-26T10:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T11:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938187781865636127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1594548640521277440",
+          "start": 0,
+          "username": "mzp_lt"
+        },
+        {
+          "end": 15,
+          "id": "1613079089879076864",
+          "start": 8,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938187781865636127",
+    "in_reply_to_user_id": "1594548640521277440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938125668254158999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzp_lt @Cldeop 音质会差..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1938118372744646770",
+        "created_at": "2025-06-26T10:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T11:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938187781865636127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1594548640521277440",
+              "start": 0,
+              "username": "mzp_lt"
+            },
+            {
+              "end": 15,
+              "id": "1613079089879076864",
+              "start": 8,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938187781865636127",
+        "in_reply_to_user_id": "1594548640521277440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938125668254158999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzp_lt @Cldeop 音质会差..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594548640521277440",
+        "conversation_id": "1938118372744646770",
+        "created_at": "2025-06-26T06:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T07:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938125668254158999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938125668254158999",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938118372744646770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 回音乐软件会弹出一个“允许和其他应用同时播放”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 260,
+          "like_count": 7676,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 272
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T04:30:17.000Z",
+        "description": "requiem of the motherfucker sparkle",
+        "id": "1594548640521277440",
+        "name": "⏚花火酱研究院院长（开香槟ver）⏚",
+        "pinned_tweet_id": "1850197921440084014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844025865115734016/ykE_pv_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 487,
+          "like_count": 12296,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 3124
+        },
+        "username": "mzp_lt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69320,
+          "following_count": 581,
+          "like_count": 29422,
+          "listed_count": 228,
+          "media_count": 10687,
+          "tweet_count": 15122
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1918314834611093948",
+    "created_at": "2025-05-02T14:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T15:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918314834611093948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1650717438856798209",
+          "start": 3,
+          "username": "Alex8282019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918314834611093948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918124578720891052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alex8282019: 年轻时候因为案子接触过很多性工作者，多少有些职业的冷漠和轻视，只当是例行公事。直到有一次给一个被抢劫的发廊姑娘做笔录的时候，她思维跳跃，反问了我很多问题，有两句话给我触动很大。一句是“你有没有拿不出两块钱的时候？”“你们这样的人，不会懂我们这些…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1918314834611093948",
+        "created_at": "2025-05-02T14:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T15:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918314834611093948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1650717438856798209",
+              "start": 3,
+              "username": "Alex8282019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918314834611093948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918124578720891052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alex8282019: 年轻时候因为案子接触过很多性工作者，多少有些职业的冷漠和轻视，只当是例行公事。直到有一次给一个被抢劫的发廊姑娘做笔录的时候，她思维跳跃，反问了我很多问题，有两句话给我触动很大。一句是“你有没有拿不出两块钱的时候？”“你们这样的人，不会懂我们这些…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650717438856798209",
+        "conversation_id": "1918124578720891052",
+        "created_at": "2025-05-02T02:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T03:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918124578720891052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918124578720891052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "年轻时候因为案子接触过很多性工作者，多少有些职业的冷漠和轻视，只当是例行公事。直到有一次给一个被抢劫的发廊姑娘做笔录的时候，她思维跳跃，反问了我很多问题，有两句话给我触动很大。一句是“你有没有拿不出两块钱的时候？”“你们这样的人，不会懂我们这些底层的人的。”\n\n这两句话勾起了我的回忆。小时候姐姐和我想买一套新年贺卡，因为需要回赠同学（那个时候同学之间流行互赠贺卡），虽然只是两块钱一套，但我们没有，也不敢跟父母要，因为父母肯定不同意这种和学习无关的事情。所以姐姐灵机一动，报名参加了我们那个小县城每年一度的环城赛跑，因为报名学校会给3块钱的奖金。我全程跟着姐姐，永远忘不了姐姐大汗淋漓只为了买一套贺卡狂奔的情景。很多年后我和姐姐谈起这件事，依然觉得非常心酸。\n\n那个发廊姑娘问我的两个问题，让我想起了往事，非常难过。让我时刻提醒自己，本质上我也是和她一样的人。这是我始终愿意站在和她们一样的角度看世界的原因。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 407620,
+          "like_count": 1770,
+          "quote_count": 11,
+          "reply_count": 127,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "年轻时候因为案子接触过很多性工作者，多少有些职业的冷漠和轻视，只当是例行公事。直到有一次给一个被抢劫的发廊姑娘做笔录的时候，她思维跳跃，反问了我很多问题，有两句话给我触动很大。一句是“你有没有拿不出两块钱的时候？”“你们这样的人，不会懂我们这些底层的人的。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 202,
+          "like_count": 3419,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 188
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T04:25:04.000Z",
+        "description": "二大爷的朋友圈。一流读书人，二流摄影师。油管“二爷故事”：https://t.co/dSV8ZLYKhy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Tankman2020",
+                "end": 52,
+                "expanded_url": "https://youtube.com/@Tankman2020",
+                "start": 29,
+                "url": "https://t.co/dSV8ZLYKhy"
+              }
+            ]
+          }
+        },
+        "id": "1650717438856798209",
+        "location": "United States",
+        "name": "二爷Alex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754635797649854464/GnnovEpd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78168,
+          "following_count": 34,
+          "like_count": 95,
+          "listed_count": 248,
+          "media_count": 512,
+          "tweet_count": 2408
+        },
+        "username": "Alex8282019",
+        "verified": true
+      }
+    ]
+  }
+}

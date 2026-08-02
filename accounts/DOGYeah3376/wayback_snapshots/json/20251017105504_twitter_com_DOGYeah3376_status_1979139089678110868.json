@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978648599564312576"
+      ],
+      "media_source_tweet_id": [
+        "1978648601795625059"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1979139089678110868",
+    "created_at": "2025-10-17T10:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T11:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979139089678110868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875115728166342656",
+          "start": 3,
+          "username": "3253212MCZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y050nFutym",
+          "end": 82,
+          "expanded_url": "https://x.com/3253212MCZ/status/1978648601795625059/photo/1",
+          "media_key": "3_1978648599564312576",
+          "start": 59,
+          "url": "https://t.co/y050nFutym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979139089678110868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978648601795625059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3253212MCZ: 今天是疯狂星期四唉，咳咳……\n路过的人都v我50请不要不知好歹\n/ᐠ ｡‸ ｡ᐟ\\！ https://t.co/y050nFutym"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1978648599564312576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3WSawBa4AALtPR.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978648599564312576"
+          ],
+          "media_source_tweet_id": [
+            "1978648601795625059"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1979139089678110868",
+        "created_at": "2025-10-17T10:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979139089678110868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875115728166342656",
+              "start": 3,
+              "username": "3253212MCZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y050nFutym",
+              "end": 82,
+              "expanded_url": "https://x.com/3253212MCZ/status/1978648601795625059/photo/1",
+              "media_key": "3_1978648599564312576",
+              "start": 59,
+              "url": "https://t.co/y050nFutym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979139089678110868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978648601795625059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3253212MCZ: 今天是疯狂星期四唉，咳咳……\n路过的人都v我50请不要不知好歹\n/ᐠ ｡‸ ｡ᐟ\\！ https://t.co/y050nFutym"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978648599564312576"
+          ]
+        },
+        "author_id": "1875115728166342656",
+        "conversation_id": "1978648601795625059",
+        "created_at": "2025-10-16T02:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T03:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978648601795625059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y050nFutym",
+              "end": 66,
+              "expanded_url": "https://x.com/3253212MCZ/status/1978648601795625059/photo/1",
+              "media_key": "3_1978648599564312576",
+              "start": 43,
+              "url": "https://t.co/y050nFutym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978648601795625059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6676,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天是疯狂星期四唉，咳咳……\n路过的人都v我50请不要不知好歹\n/ᐠ ｡‸ ｡ᐟ\\！ https://t.co/y050nFutym"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1977003730294956431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 999,
+          "like_count": 52708,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 3378
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T09:43:34.000Z",
+        "description": "🐱INFJ | 🌧喜欢雨天发呆 | 🌿讨厌香菜 | 178cm？ | ❤️‍🩹抑郁症自愈者 | 🌈想去看世界！|🍬MTF：2025.7.6 |MIKU重度依赖 | 无证含糖 | ❤️‍🔥分享欲旺 |❤️ 对象是@qiuylove| 💌努力互fo | Q:285299219 |💞不定时安慰每个人 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "qiuylove"
+              }
+            ]
+          }
+        },
+        "id": "1875115728166342656",
+        "location": "在北京的雨天散步中～",
+        "name": "零落孤潮🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971931529904545792/RvUA_XhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 624,
+          "like_count": 3030,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2115
+        },
+        "username": "3253212MCZ",
+        "verified": false
+      }
+    ]
+  }
+}

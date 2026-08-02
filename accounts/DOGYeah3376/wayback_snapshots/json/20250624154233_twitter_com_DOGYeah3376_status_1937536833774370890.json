@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1937536833774370890",
+    "created_at": "2025-06-24T15:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T16:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937536833774370890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1686999547413995521",
+          "start": 3,
+          "username": "MarshWatt776"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937536833774370890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937484751851651134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MarshWatt776: 在抖音看到过一个新闻：一个女孩子在夜店喝醉了，睡在大街上被人捡尸了，第二天发现自己在草丛里，衣服也被撕碎了，下体也肿了，周围还有啤酒瓶乱树枝，女孩哭着报警了，好在那周围有摄像头抓到了那个侵犯她的人，就是那种浑身恶臭穿着军大衣那种流浪汉，小姑娘…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1937536833774370890",
+        "created_at": "2025-06-24T15:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T16:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937536833774370890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1686999547413995521",
+              "start": 3,
+              "username": "MarshWatt776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937536833774370890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937484751851651134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MarshWatt776: 在抖音看到过一个新闻：一个女孩子在夜店喝醉了，睡在大街上被人捡尸了，第二天发现自己在草丛里，衣服也被撕碎了，下体也肿了，周围还有啤酒瓶乱树枝，女孩哭着报警了，好在那周围有摄像头抓到了那个侵犯她的人，就是那种浑身恶臭穿着军大衣那种流浪汉，小姑娘…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686999547413995521",
+        "conversation_id": "1937484751851651134",
+        "created_at": "2025-06-24T12:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T13:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937484751851651134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937484751851651134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在抖音看到过一个新闻：一个女孩子在夜店喝醉了，睡在大街上被人捡尸了，第二天发现自己在草丛里，衣服也被撕碎了，下体也肿了，周围还有啤酒瓶乱树枝，女孩哭着报警了，好在那周围有摄像头抓到了那个侵犯她的人，就是那种浑身恶臭穿着军大衣那种流浪汉，小姑娘说非要看当晚监控，但是民警劝解她别看了，最后拗不过，给她看了，小女孩直接情绪崩溃，第二天跳海了……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 47253,
+          "like_count": 234,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "在抖音看到过一个新闻：一个女孩子在夜店喝醉了，睡在大街上被人捡尸了，第二天发现自己在草丛里，衣服也被撕碎了，下体也肿了，周围还有啤酒瓶乱树枝，女孩哭着报警了，好在那周围有摄像头抓到了那个侵犯她的人，就是那种浑身恶臭穿着军大衣那种流浪汉，小姑娘说非要看当晚监控，但是民警劝解她别看了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 258,
+          "like_count": 7347,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 261
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T07:16:50.000Z",
+        "description": "出名就卸载推特！  进群吃瓜见置顶。\n\n有国内明星资源，可对接日本女优，可线下，没钱别问\n\n合作请私信小号：@mazziniunsaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "mazziniunsaya"
+              }
+            ]
+          }
+        },
+        "id": "1686999547413995521",
+        "name": "北京小影子（演员",
+        "pinned_tweet_id": "1865932866724786661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771085383088078848/hxKnJgJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209249,
+          "following_count": 13,
+          "like_count": 266,
+          "listed_count": 300,
+          "media_count": 240,
+          "tweet_count": 1176
+        },
+        "username": "MarshWatt776",
+        "verified": true
+      }
+    ]
+  }
+}

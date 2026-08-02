@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1964006873088020491",
+    "created_at": "2025-09-06T14:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T15:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964330319114621096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884627325398212611",
+          "start": 0,
+          "username": "Revive_Meink"
+        },
+        {
+          "end": 25,
+          "id": "1677673534607466497",
+          "start": 14,
+          "username": "qeiyeu7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964330319114621096",
+    "in_reply_to_user_id": "1884627325398212611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964330051228348579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Revive_Meink @qeiyeu7777 我们是自愿的！我们一起生活着很开心！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1964006873088020491",
+        "created_at": "2025-09-06T14:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964330319114621096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884627325398212611",
+              "start": 0,
+              "username": "Revive_Meink"
+            },
+            {
+              "end": 25,
+              "id": "1677673534607466497",
+              "start": 14,
+              "username": "qeiyeu7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964330319114621096",
+        "in_reply_to_user_id": "1884627325398212611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964330051228348579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Revive_Meink @qeiyeu7777 我们是自愿的！我们一起生活着很开心！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884627325398212611",
+        "conversation_id": "1964006873088020491",
+        "created_at": "2025-09-06T14:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964330051228348579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677673534607466497",
+              "start": 0,
+              "username": "qeiyeu7777"
+            },
+            {
+              "end": 24,
+              "id": "1676500088221478912",
+              "start": 12,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964330051228348579",
+        "in_reply_to_user_id": "1677673534607466497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964199975287738958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qeiyeu7777 @DOGYeah3376 简单粗暴：多个灵魂共用一个身体\n\n“多重人格”并不是最准确的答案，这个词被有些多意识体视为贬义意义。我们希望每一个成员都能被视为独立的人，而不是单一的“人格”或者性格。DID，OSDD是病理性的多意识体，而非病理性的也存在，有自然形成的，也有自愿的。疾病可以导致多体，但多体本身并不是疾病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 864,
+          "like_count": 36045,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2160
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "二十二月系统\n\n里推：@knimaisey\n（包括但不限于 崩溃、吐苦水、扭曲病态三观、暴论）\n\n乱涂乱画：@Victimized_P\n（百年一更，画技是坨屎。）\n———\n你好':3 \n我是一个永远八岁的小孩 :D \n梦想是当一辈子长不大的小孩！你的梦想是什么？\n———\n点一下这个？\n｜\nV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "knimaisey"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "Victimized_P"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "location": "SilverLawn",
+        "name": "铭（前世莱铭系统）",
+        "pinned_tweet_id": "1959905881497247937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960065486793650177/G2OaOR4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 252,
+          "like_count": 8985,
+          "listed_count": 3,
+          "media_count": 728,
+          "tweet_count": 4319
+        },
+        "username": "Revive_Meink",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T13:38:47.000Z",
+        "description": "我不想线下社交 我想一个人",
+        "id": "1677673534607466497",
+        "location": "水星（suisei）",
+        "name": "qeuyei",
+        "pinned_tweet_id": "1942593764540965339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824117233767100416/FAByu8Ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 170,
+          "like_count": 10032,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 2556
+        },
+        "username": "qeiyeu7777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2041170054549844348",
+    "created_at": "2026-04-06T15:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041170054549844348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dogyeah3376/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/dogyeah3376/status/2041148266604282189",
+          "start": 30,
+          "url": "https://t.co/Ll4Zzy7xrD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041170054549844348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041148266604282189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "os其实不是很想去看 因为等我有一天不割手了我的伤自然会好 https://t.co/Ll4Zzy7xrD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2041170054549844348",
+        "created_at": "2026-04-06T15:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041170054549844348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dogyeah3376/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/dogyeah3376/status/2041148266604282189",
+              "start": 30,
+              "url": "https://t.co/Ll4Zzy7xrD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041170054549844348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041148266604282189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "os其实不是很想去看 因为等我有一天不割手了我的伤自然会好 https://t.co/Ll4Zzy7xrD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2041148266604282189",
+        "created_at": "2026-04-06T13:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041148266604282189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041148266604282189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被拉去看整形外科了。说是去看看能不能把我的伤疤去掉…\nos我将来应该会割大腿内侧吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2039535060714766555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 1127,
+          "like_count": 71704,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 4938
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

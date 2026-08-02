@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1958755061296705643",
+    "created_at": "2025-08-22T06:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T07:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958775474718744840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913309341735956480",
+          "start": 0,
+          "username": "yingyang_FW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958775474718744840",
+    "in_reply_to_user_id": "1913309341735956480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958769800659734903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingyang_FW 自杀未遂…我好苦🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1958755061296705643",
+        "created_at": "2025-08-22T06:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T07:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958775474718744840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913309341735956480",
+              "start": 0,
+              "username": "yingyang_FW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958775474718744840",
+        "in_reply_to_user_id": "1913309341735956480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958769800659734903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingyang_FW 自杀未遂…我好苦🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913309341735956480",
+        "conversation_id": "1958755061296705643",
+        "created_at": "2025-08-22T05:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T06:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958769800659734903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958769800659734903",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958755061296705643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 怎么了，抱抱🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 785,
+          "like_count": 32197,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1703
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T19:11:33.000Z",
+        "description": "小药娘｜玩 战争雷霆，钢铁雄心4，KARDS，Cs2(C+)｜171cm 56kg｜无证含糖｜生日2010.11.28｜互fo｜🍥:2025.6.30｜QQ:3344269844聊天(无门)想交朋友｜傻傻的｜社恐｜不会聊天｜常驻昆明｜姐姐:@erciyuanha87431，@DianeKathe47946",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 120,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "DianeKathe47946"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yyyjhfw",
+                "end": 23,
+                "expanded_url": "http://t.me/yyyjhfw",
+                "start": 0,
+                "url": "https://t.co/0mRJesmFT5"
+              }
+            ]
+          }
+        },
+        "id": "1913309341735956480",
+        "location": "谁知道呢",
+        "name": "营养要均衡🍥（互fo版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950147286937587715/jqqsbiqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 453,
+          "like_count": 5541,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/0mRJesmFT5",
+        "username": "yingyang_FW",
+        "verified": false
+      }
+    ]
+  }
+}

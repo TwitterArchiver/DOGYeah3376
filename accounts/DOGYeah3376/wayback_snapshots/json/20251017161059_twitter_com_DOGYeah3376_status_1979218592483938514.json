@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1979218408312017289",
+    "created_at": "2025-10-17T16:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T17:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979218592483938514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1506521082853216258",
+          "start": 0,
+          "username": "17891956wer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979218592483938514",
+    "in_reply_to_user_id": "1506521082853216258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979218408312017289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17891956wer 臥槽我以前真説過這個"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1979218408312017289",
+        "created_at": "2025-10-17T16:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979218592483938514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1506521082853216258",
+              "start": 0,
+              "username": "17891956wer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979218592483938514",
+        "in_reply_to_user_id": "1506521082853216258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979218408312017289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17891956wer 臥槽我以前真説過這個"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506521082853216258",
+        "conversation_id": "1979218408312017289",
+        "created_at": "2025-10-17T16:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979218408312017289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DOGYeah3376/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/DOGYeah3376/status/1979188984652927016",
+              "start": 8,
+              "url": "https://t.co/3uCbshriSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979218408312017289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979188984652927016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "od完我就是神 https://t.co/3uCbshriSc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1977003730294956431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979171735669719041/xwbTRqej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 1003,
+          "like_count": 52885,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3418
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T06:39:55.000Z",
+        "description": "一个喜欢ACGN的死宅，灵魂自由，在精神世界中漫游~\n喝酒/吸烟/od/焦虑抑郁/休学中/中文/其他语言会用翻译器/诗歌/ACGN/电波系/猫猫\n欢迎互粉喵~",
+        "id": "1506521082853216258",
+        "location": "Shanghai",
+        "name": "秋风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869799456050425858/n5q-m2lW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 128,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 168
+        },
+        "username": "17891956wer",
+        "verified": false
+      }
+    ]
+  }
+}

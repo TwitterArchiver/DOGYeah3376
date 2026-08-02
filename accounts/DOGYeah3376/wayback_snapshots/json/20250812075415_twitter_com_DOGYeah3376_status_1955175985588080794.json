@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1954869056491905164",
+    "created_at": "2025-08-12T07:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T08:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955175985588080794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1592172867189293057",
+          "start": 0,
+          "username": "cxszb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955175985588080794",
+    "in_reply_to_user_id": "1592172867189293057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954869056491905164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxszb 长的好爽就是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954869052788355073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyEXC9HasAEEMq-.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1954869056491905164",
+        "created_at": "2025-08-12T07:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T08:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955175985588080794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1592172867189293057",
+              "start": 0,
+              "username": "cxszb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955175985588080794",
+        "in_reply_to_user_id": "1592172867189293057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954869056491905164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxszb 长的好爽就是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954869052788355073"
+          ]
+        },
+        "author_id": "1592172867189293057",
+        "conversation_id": "1954869056491905164",
+        "created_at": "2025-08-11T11:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T12:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954869056491905164"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "男娘"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "药娘"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "mtx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v0fbfiTmeO",
+              "end": 55,
+              "expanded_url": "https://x.com/cxszb/status/1954869056491905164/photo/1",
+              "media_key": "3_1954869052788355073",
+              "start": 32,
+              "url": "https://t.co/v0fbfiTmeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954869056491905164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3439,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "病的我怨气有点重了…太累了，懒得化妆\n#男娘 #药娘 #mtx https://t.co/v0fbfiTmeO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 674,
+          "like_count": 26843,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1206
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T15:09:37.000Z",
+        "description": "03/非二元MTX药娘🍥/性冷淡/抖s👿/收ATM🤑/毒舌/水仙/阴暗逼/负能量警告⚠️/现居北京/已拆蛋/随缘发",
+        "id": "1592172867189293057",
+        "location": "🚪好友位88",
+        "name": "直花今天不嘴臭(互推私",
+        "pinned_tweet_id": "1836806921233617051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914757234996994056/9DnzxE3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6179,
+          "following_count": 438,
+          "like_count": 12611,
+          "listed_count": 20,
+          "media_count": 238,
+          "tweet_count": 16380
+        },
+        "username": "cxszb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1937862754725233083",
+    "created_at": "2025-06-25T13:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T14:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937862754725233083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1527308255927492609",
+          "start": 3,
+          "username": "love1027w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937862754725233083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935147387628277794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @love1027w: 六色彩虹+金毛小狗+分号😈\n纹这个是想纪念小祁以及兮柚居然存活至今（bushi）小祁最喜欢金毛所以纹了一只自由自在向前奔跑的小狗，仿佛顺着疤痕奔跑，一直跨越障碍努力向前。\n\n非常有缘的是当我加了纹身师微信后，发现很火的p3就是这位纹身师的作品，而这…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935147373480787968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtsGSIhaQAAB5QA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1935147373812137990",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtsGSJwaQAYOVNa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 838,
+        "media_key": "3_1935147373501800448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtsGSIma4AAh8hQ.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1937862754725233083",
+        "created_at": "2025-06-25T13:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T14:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937862754725233083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1527308255927492609",
+              "start": 3,
+              "username": "love1027w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937862754725233083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935147387628277794",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @love1027w: 六色彩虹+金毛小狗+分号😈\n纹这个是想纪念小祁以及兮柚居然存活至今（bushi）小祁最喜欢金毛所以纹了一只自由自在向前奔跑的小狗，仿佛顺着疤痕奔跑，一直跨越障碍努力向前。\n\n非常有缘的是当我加了纹身师微信后，发现很火的p3就是这位纹身师的作品，而这…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935147373480787968",
+            "3_1935147373812137990",
+            "3_1935147373501800448"
+          ]
+        },
+        "author_id": "1527308255927492609",
+        "conversation_id": "1935147387628277794",
+        "created_at": "2025-06-18T01:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T02:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935147387628277794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQEnZHG9nA",
+              "end": 170,
+              "expanded_url": "https://x.com/love1027w/status/1935147387628277794/photo/1",
+              "media_key": "3_1935147373480787968",
+              "start": 147,
+              "url": "https://t.co/XQEnZHG9nA"
+            },
+            {
+              "display_url": "pic.x.com/XQEnZHG9nA",
+              "end": 170,
+              "expanded_url": "https://x.com/love1027w/status/1935147387628277794/photo/1",
+              "media_key": "3_1935147373812137990",
+              "start": 147,
+              "url": "https://t.co/XQEnZHG9nA"
+            },
+            {
+              "display_url": "pic.x.com/XQEnZHG9nA",
+              "end": 170,
+              "expanded_url": "https://x.com/love1027w/status/1935147387628277794/photo/1",
+              "media_key": "3_1935147373501800448",
+              "start": 147,
+              "url": "https://t.co/XQEnZHG9nA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935147387628277794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5826,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "六色彩虹+金毛小狗+分号😈\n纹这个是想纪念小祁以及兮柚居然存活至今（bushi）小祁最喜欢金毛所以纹了一只自由自在向前奔跑的小狗，仿佛顺着疤痕奔跑，一直跨越障碍努力向前。\n\n非常有缘的是当我加了纹身师微信后，发现很火的p3就是这位纹身师的作品，而这张图刚好又是小祁的QQ背景图_(:з」∠)_ https://t.co/XQEnZHG9nA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 258,
+          "like_count": 7431,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 265
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T15:20:47.000Z",
+        "description": "「只要想念，就会相见」",
+        "id": "1527308255927492609",
+        "location": "白云山制药厂",
+        "name": "兮柚用西柚在吸右",
+        "pinned_tweet_id": "1867332980777377951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922067490928226304/fx0nM_Vr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11757,
+          "following_count": 445,
+          "like_count": 41834,
+          "listed_count": 12,
+          "media_count": 1685,
+          "tweet_count": 24255
+        },
+        "username": "love1027w",
+        "verified": false
+      }
+    ]
+  }
+}

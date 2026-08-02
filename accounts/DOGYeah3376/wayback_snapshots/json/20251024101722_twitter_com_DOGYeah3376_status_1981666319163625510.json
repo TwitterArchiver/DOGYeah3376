@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1981664963816231016",
+    "created_at": "2025-10-24T10:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T11:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981666319163625510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981666319163625510",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981664963816231016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 怎么这么烧🥵🥵🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981664930014138368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4BJwSlXkAABGcb.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1981664930555174912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4BJwUmXIAAfv2h.jpg",
+        "width": 946
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1981664931066916864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4BJwWgXsAAAbux.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 4670,
+        "height": 720,
+        "media_key": "7_1981664936192360448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1981664936192360448/pu/img/2tLa4fGsqIHT_AP5.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981664936192360448/pu/vid/avc1/480x270/BK1USHnPki-U5gbw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981664936192360448/pu/vid/avc1/640x360/Ui7ezpPF49A2TMs-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981664936192360448/pu/vid/avc1/1280x720/D4gSTGklCgu1IZNy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1981664936192360448/pu/pl/ddOSxdcweZRwIpMy.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1981664963816231016",
+        "created_at": "2025-10-24T10:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981666319163625510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981666319163625510",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981664963816231016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 怎么这么烧🥵🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981664930014138368",
+            "3_1981664930555174912",
+            "3_1981664931066916864",
+            "7_1981664936192360448"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981664963816231016",
+        "created_at": "2025-10-24T10:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981664963816231016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJv2rreo2F",
+              "end": 34,
+              "expanded_url": "https://x.com/yu_huacs/status/1981664963816231016/video/1",
+              "media_key": "3_1981664930014138368",
+              "start": 11,
+              "url": "https://t.co/IJv2rreo2F"
+            },
+            {
+              "display_url": "pic.x.com/IJv2rreo2F",
+              "end": 34,
+              "expanded_url": "https://x.com/yu_huacs/status/1981664963816231016/video/1",
+              "media_key": "3_1981664930555174912",
+              "start": 11,
+              "url": "https://t.co/IJv2rreo2F"
+            },
+            {
+              "display_url": "pic.x.com/IJv2rreo2F",
+              "end": 34,
+              "expanded_url": "https://x.com/yu_huacs/status/1981664963816231016/video/1",
+              "media_key": "3_1981664931066916864",
+              "start": 11,
+              "url": "https://t.co/IJv2rreo2F"
+            },
+            {
+              "display_url": "pic.x.com/IJv2rreo2F",
+              "end": 34,
+              "expanded_url": "https://x.com/yu_huacs/status/1981664963816231016/video/1",
+              "media_key": "7_1981664936192360448",
+              "start": 11,
+              "url": "https://t.co/IJv2rreo2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981664963816231016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "①个人也🉑以骑车🔥🔥 https://t.co/IJv2rreo2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979171735669719041/xwbTRqej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 1022,
+          "like_count": 54923,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3567
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "不知名的yu huacs 还有碘伏和酒精 \n友所有群体 最喜欢的自己也不知道\n   成分复杂 双相焦虑   精神分裂治疗中 overdose lain     公路车\n第二人格 @yuhuacs5570\n最好の兄弟 @Lizzy6315\n路边一条 @DOGYeah3376",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "Lizzy6315"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "username": "DOGYeah3376"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdoNl"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "你的心里",
+        "name": "余华成霜",
+        "pinned_tweet_id": "1964136320097538290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962121961225793536/84wpXl9U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 1007,
+          "like_count": 91139,
+          "listed_count": 10,
+          "media_count": 1684,
+          "tweet_count": 15297
+        },
+        "url": "https://t.co/fGARwmdoNl",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

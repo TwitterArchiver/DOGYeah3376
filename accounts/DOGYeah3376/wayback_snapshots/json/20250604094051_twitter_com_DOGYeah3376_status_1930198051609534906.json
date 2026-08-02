@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1930198051609534906",
+    "created_at": "2025-06-04T09:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T10:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930198051609534906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "552806299",
+          "start": 6,
+          "username": "pattifly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930198051609534906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拿到糖啦\n是@pattifly家的糖哦\n没拍照就不来喽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1930198051609534906",
+        "created_at": "2025-06-04T09:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T10:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930198051609534906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "552806299",
+              "start": 6,
+              "username": "pattifly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930198051609534906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拿到糖啦\n是@pattifly家的糖哦\n没拍照就不来喽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 236,
+          "like_count": 5792,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 246
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-13T15:54:51.000Z",
+        "description": "嘿！ (੭ˊ꒳ˋ)੭猫猫脾气很好，一般消息都会回，除了睡大觉哦。Damah色加补复合片、色谱龙、补佳乐、减肥药（买一送一）国内有现货、也可直邮全球。可平台、下单请私信tg或者x这里哦。偶尔会回复慢、麻烦小宝耐心等待一下猫猫~~ Ps：猫猫唯一小号@wagnermestre",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "wagnermestre"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/maoerduoduo",
+                "end": 23,
+                "expanded_url": "https://t.me/maoerduoduo",
+                "start": 0,
+                "url": "https://t.co/B0Tg5JKU9k"
+              }
+            ]
+          }
+        },
+        "id": "552806299",
+        "location": "Thailand",
+        "name": "药娘猫耳朵🐈/药商/糖商/泰色/泰补/色谱龙Damah/补佳乐/减肥药",
+        "pinned_tweet_id": "1872572055239168330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809563996955250688/HYXsy2L8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4899,
+          "following_count": 2603,
+          "like_count": 363,
+          "listed_count": 11,
+          "media_count": 82,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/B0Tg5JKU9k",
+        "username": "pattifly",
+        "verified": true
+      }
+    ]
+  }
+}

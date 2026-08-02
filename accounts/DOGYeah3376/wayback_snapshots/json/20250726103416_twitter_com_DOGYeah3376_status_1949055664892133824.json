@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1948705657869185435",
+    "created_at": "2025-07-26T10:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T11:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949055664892133824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1943990520017301504",
+          "start": 0,
+          "username": "66N2vC96Hn82203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949055664892133824",
+    "in_reply_to_user_id": "1943990520017301504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949054680946078182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@66N2vC96Hn82203 少吃点不算o\n窝当安眠药次😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1948705657869185435",
+        "created_at": "2025-07-26T10:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T11:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949055664892133824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1943990520017301504",
+              "start": 0,
+              "username": "66N2vC96Hn82203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949055664892133824",
+        "in_reply_to_user_id": "1943990520017301504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949054680946078182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@66N2vC96Hn82203 少吃点不算o\n窝当安眠药次😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943990520017301504",
+        "conversation_id": "1948705657869185435",
+        "created_at": "2025-07-26T10:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T11:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949054680946078182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949054680946078182",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948705657869185435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 去跑步也好去打游戏也好，别o啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 483,
+          "like_count": 18983,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 638
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T11:07:18.000Z",
+        "description": "生理男/不要od/不烟不酒/说话客气/人间观察",
+        "id": "1943990520017301504",
+        "name": "士",
+        "pinned_tweet_id": "1944579318296019297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943991467581878273/g49frPU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 73,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 89
+        },
+        "username": "66N2vC96Hn82203",
+        "verified": false
+      }
+    ]
+  }
+}

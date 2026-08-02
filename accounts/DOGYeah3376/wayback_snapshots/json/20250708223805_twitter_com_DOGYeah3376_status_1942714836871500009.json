@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1942517707360067918",
+    "created_at": "2025-07-08T22:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T23:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942714836871500009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1313694503362985989",
+          "start": 0,
+          "username": "ChroNoiR301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942714836871500009",
+    "in_reply_to_user_id": "1313694503362985989",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942517707360067918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChroNoiR301 萌死了宝子🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942517704084316164",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvU1j1naYAQay3n.jpg",
+        "width": 1976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1942517707360067918",
+        "created_at": "2025-07-08T22:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T23:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942714836871500009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1313694503362985989",
+              "start": 0,
+              "username": "ChroNoiR301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942714836871500009",
+        "in_reply_to_user_id": "1313694503362985989",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942517707360067918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChroNoiR301 萌死了宝子🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942517704084316164"
+          ]
+        },
+        "author_id": "1313694503362985989",
+        "conversation_id": "1942517707360067918",
+        "created_at": "2025-07-08T09:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T10:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942517707360067918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNkGw8IA6n",
+              "end": 138,
+              "expanded_url": "https://x.com/ChroNoiR301/status/1942517707360067918/photo/1",
+              "media_key": "3_1942517704084316164",
+              "start": 115,
+              "url": "https://t.co/iNkGw8IA6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942517707360067918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 596,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么有些时候很想哭\n明明眼前还有一堆的工作\n明明上一秒还说开开心心的\n怎么痛苦的回忆这么快就涌现上来了呢\n我永远都忘不掉那些事\n好像真的没有正经地哭过了\n分手时也没有哭，被排挤时也没有哭\n我是变得更强大了，还是会伪装了呢 https://t.co/iNkGw8IA6n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 319,
+          "like_count": 12173,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 406
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T04:16:00.000Z",
+        "description": "07|173 60 0.5 🌈E/INFP 经常变化\n\n看过的番不是特别多，一些热门也没看过|\n游戏:九，五，京，新月……舟（现云玩家）\n不算特别furry控，但是兽兽可爱❤️|在北京读书，比较随和，但是有底线|企鹅号:2903321490丨来问我问题喵https://t.co/yTbMLvl5Tk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chronoir2025",
+                "end": 150,
+                "expanded_url": "https://ngl.link/chronoir2025",
+                "start": 127,
+                "url": "https://t.co/yTbMLvl5Tk"
+              }
+            ]
+          }
+        },
+        "id": "1313694503362985989",
+        "location": "世界的中心",
+        "name": "辣条🏳️‍🌈",
+        "pinned_tweet_id": "1938878959183151167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938793077776228352/QJX3rWSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 454,
+          "like_count": 3319,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 909
+        },
+        "username": "ChroNoiR301",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1955030212229599302",
+    "created_at": "2025-08-11T22:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T23:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955030212229599302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850566498412318720",
+          "start": 3,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955030212229599302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954899103810560284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luobo4444: 我在天国留学真的不贵，只花了一元钱买了根麻绳栓灯上就吊，很快就出国了，刚到阎王爷给我的麻绳理工大学offer就来了。很方便的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1955030212229599302",
+        "created_at": "2025-08-11T22:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T23:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955030212229599302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850566498412318720",
+              "start": 3,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955030212229599302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954899103810560284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luobo4444: 我在天国留学真的不贵，只花了一元钱买了根麻绳栓灯上就吊，很快就出国了，刚到阎王爷给我的麻绳理工大学offer就来了。很方便的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850566498412318720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1954899103810560284",
+        "created_at": "2025-08-11T13:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T14:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954899103810560284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954899103810560284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 573,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我在天国留学真的不贵，只花了一元钱买了根麻绳栓灯上就吊，很快就出国了，刚到阎王爷给我的麻绳理工大学offer就来了。很方便的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 668,
+          "like_count": 26420,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1144
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜中推圈的大家都叫我萝卜哥｜空蝉原｜06｜高中生｜日本語学习中｜里垢老被封等过段时间再整｜🚪188啥也没有 可以和我唠嗑看我朋友圈发疯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yan_eiii",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@yan_eiii",
+                "start": 0,
+                "url": "https://t.co/6Vz4UqUkQY"
+              }
+            ]
+          }
+        },
+        "id": "1850566498412318720",
+        "location": "幸せが続きますように",
+        "name": "hara🥕（猫猫命梦女版）",
+        "pinned_tweet_id": "1952738818404012327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938181651831656448/nddFGYZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7475,
+          "following_count": 448,
+          "like_count": 3360,
+          "listed_count": 9,
+          "media_count": 437,
+          "tweet_count": 2393
+        },
+        "url": "https://t.co/6Vz4UqUkQY",
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

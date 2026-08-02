@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1956878980835049685",
+    "created_at": "2025-08-17T00:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T01:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956878980835049685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1866458229527764992",
+          "start": 3,
+          "username": "Citrus_amara"
+        },
+        {
+          "end": 28,
+          "id": "1577627924848484352",
+          "start": 18,
+          "username": "imertphil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956878980835049685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956420797200756927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Citrus_amara: @imertphil 宝子你不被在意并非因为你是afab，而是因为你所在的跨性别群体中，mtf最能满足顺直们的猎奇欲因此被拿来放在台面上审视评判，对于mtf来说反而得到了更多曝光机会。我不想评价这个事本身是好是坏，我想告诉你ftm被忽略只是因…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1956878980835049685",
+        "created_at": "2025-08-17T00:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T01:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956878980835049685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1866458229527764992",
+              "start": 3,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 28,
+              "id": "1577627924848484352",
+              "start": 18,
+              "username": "imertphil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956878980835049685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956420797200756927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Citrus_amara: @imertphil 宝子你不被在意并非因为你是afab，而是因为你所在的跨性别群体中，mtf最能满足顺直们的猎奇欲因此被拿来放在台面上审视评判，对于mtf来说反而得到了更多曝光机会。我不想评价这个事本身是好是坏，我想告诉你ftm被忽略只是因…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1956162724016050472",
+        "created_at": "2025-08-15T18:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T19:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956420797200756927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577627924848484352",
+              "start": 0,
+              "username": "imertphil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956420797200756927",
+        "in_reply_to_user_id": "1577627924848484352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956162724016050472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imertphil 宝子你不被在意并非因为你是afab，而是因为你所在的跨性别群体中，mtf最能满足顺直们的猎奇欲因此被拿来放在台面上审视评判，对于mtf来说反而得到了更多曝光机会。我不想评价这个事本身是好是坏，我想告诉你ftm被忽略只是因为傻逼顺直"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 730,
+          "like_count": 29918,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1449
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 353,
+          "like_count": 3155,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1367
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T11:53:26.000Z",
+        "description": "he/they  |  transmasc/Agender  |  18  | AuDHD  |  California  |  starting college this fall  |  comp sci  |  LOVE YURI",
+        "id": "1577627924848484352",
+        "location": "ASD&ADHD \nAce&Agender",
+        "name": "Imertphil🏳️‍⚧️",
+        "pinned_tweet_id": "1944980131082018842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860531349662150656/bKWnBXQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 449,
+          "like_count": 16697,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 5362
+        },
+        "username": "imertphil",
+        "verified": false
+      }
+    ]
+  }
+}

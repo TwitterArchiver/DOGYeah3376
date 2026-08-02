@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1949569082938081444",
+    "created_at": "2025-08-05T09:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T10:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952670038995169637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896812508289404928",
+          "start": 0,
+          "username": "erciyuanha87431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952670038995169637",
+    "in_reply_to_user_id": "1896812508289404928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952669635016573360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erciyuanha87431 这个还是不接了吧 祝我们早点好起来🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1949569082938081444",
+        "created_at": "2025-08-05T09:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T10:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952670038995169637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896812508289404928",
+              "start": 0,
+              "username": "erciyuanha87431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952670038995169637",
+        "in_reply_to_user_id": "1896812508289404928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952669635016573360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erciyuanha87431 这个还是不接了吧 祝我们早点好起来🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896812508289404928",
+        "conversation_id": "1949569082938081444",
+        "created_at": "2025-08-05T09:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T10:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952669635016573360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952669635016573360",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952668940049813794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 嗯，祝你早日有燥气🤨？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 579,
+          "like_count": 22930,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 793
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T06:38:52.000Z",
+        "description": "有双相情感障碍纯疯子一个💀～超级喜欢交朋友（包容万物支持平权主义🇨🇳）\n关爱🍥小药娘🏳️‍⚧️🏳️‍🌈🇨🇳\n大家都能跟我交朋友，多说说话就好了，虽然说我很不会说话，但我很愿意倾听，求互粉\n并未吃糖🍥\n主播的神秘小老妹儿：@LiciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1896812508289404928",
+        "location": "重庆银",
+        "name": "🐹宇航🐹（关爱药娘版🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1949569082938081444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945736481613533184/sdIkktzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 636,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 460
+        },
+        "username": "erciyuanha87431",
+        "verified": false
+      }
+    ]
+  }
+}

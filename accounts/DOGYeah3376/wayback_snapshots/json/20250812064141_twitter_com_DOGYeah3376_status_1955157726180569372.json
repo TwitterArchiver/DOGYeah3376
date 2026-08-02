@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1955157726180569372",
+    "created_at": "2025-08-12T06:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T07:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955157726180569372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1680508885394927616",
+          "start": 3,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955157726180569372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955120582284152974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @04177_realname: 我一直认为当众表现脆弱气质是很勇敢的行为，因为你把刀递给了别人，别人捅不捅你取决于别人的素质。敢于做这样的事相当有勇气了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1955157726180569372",
+        "created_at": "2025-08-12T06:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T07:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955157726180569372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1680508885394927616",
+              "start": 3,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955157726180569372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955120582284152974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @04177_realname: 我一直认为当众表现脆弱气质是很勇敢的行为，因为你把刀递给了别人，别人捅不捅你取决于别人的素质。敢于做这样的事相当有勇气了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680508885394927616",
+        "conversation_id": "1955120582284152974",
+        "created_at": "2025-08-12T04:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955120582284152974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955120582284152974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我一直认为当众表现脆弱气质是很勇敢的行为，因为你把刀递给了别人，别人捅不捅你取决于别人的素质。敢于做这样的事相当有勇气了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 674,
+          "like_count": 26729,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1193
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "不要自杀，我可以陪你聊天。❤️：@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10989,
+          "following_count": 6134,
+          "like_count": 63987,
+          "listed_count": 31,
+          "media_count": 2515,
+          "tweet_count": 18624
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1939622308592939100",
+    "created_at": "2025-06-30T10:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T11:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939638479035703573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596939907859202049",
+          "start": 0,
+          "username": "mishamimihemumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939638479035703573",
+    "in_reply_to_user_id": "1596939907859202049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939626680869343671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mishamimihemumu 于是决定和你一起o😉"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1939626680869343671].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1939626680869343671",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1939626680869343671"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1939622308592939100",
+        "created_at": "2025-06-30T10:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T11:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939638479035703573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596939907859202049",
+              "start": 0,
+              "username": "mishamimihemumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939638479035703573",
+        "in_reply_to_user_id": "1596939907859202049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939626680869343671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mishamimihemumu 于是决定和你一起o😉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 280,
+          "like_count": 9251,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 313
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T18:52:19.000Z",
+        "description": "爱人@Shenyuebanran\n女儿@RainLemon0715",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "Shenyuebanran"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "RainLemon0715"
+              }
+            ]
+          }
+        },
+        "id": "1596939907859202049",
+        "location": "安然身边",
+        "name": "🍥米莎米莎✨🏳️‍⚧️⚧️🏴‍☠️🇧🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894881226059653121/uTkJIrfX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 275,
+          "like_count": 7565,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 812
+        },
+        "username": "mishamimihemumu",
+        "verified": false
+      }
+    ]
+  }
+}

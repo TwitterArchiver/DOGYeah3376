@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1989553932444533130",
+    "created_at": "2025-11-15T04:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T05:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989553932444533130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/isacc0219/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/isacc0219/status/1989412882963210498",
+          "start": 9,
+          "url": "https://t.co/YTJz6l3fbU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989553932444533130",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989412882963210498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持小剂量磕嗨！ https://t.co/YTJz6l3fbU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1989553932444533130",
+        "created_at": "2025-11-15T04:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T05:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989553932444533130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/isacc0219/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/isacc0219/status/1989412882963210498",
+              "start": 9,
+              "url": "https://t.co/YTJz6l3fbU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989553932444533130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989412882963210498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持小剂量磕嗨！ https://t.co/YTJz6l3fbU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "conversation_id": "1989412882963210498",
+        "created_at": "2025-11-14T19:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T20:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989412882963210498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989412882963210498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 380,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "国内之前和我有过一面之缘的初中地雷女一口气欧一把普瑞住院了，，感觉她还没咋建立耐受，所以说真的要o的话建议还是先了解一下自己要吃啥。我觉得od的隐形剂量歧视在墙内还是挺阴的，说实话你吃两粒普瑞就嗨的样子更美！珍惜耐受远离无克制的滥用！个人观点，支那地雷女别骂我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 1057,
+          "like_count": 60244,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 3957
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "description": "🇹🇼 CN/EN/ES | cis women , skoliosexual, digital painter",
+        "id": "1868121512710201344",
+        "location": "United States",
+        "name": "isac",
+        "pinned_tweet_id": "1989134540481392759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 82,
+          "like_count": 2527,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1433
+        },
+        "username": "Isacc0219",
+        "verified": false
+      }
+    ]
+  }
+}

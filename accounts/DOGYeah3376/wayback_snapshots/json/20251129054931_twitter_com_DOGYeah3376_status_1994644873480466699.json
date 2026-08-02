@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994367785015955456"
+      ],
+      "media_source_tweet_id": [
+        "1994367790598508576"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1994644873480466699",
+    "created_at": "2025-11-29T05:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994644873480466699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1514278065022509056",
+          "start": 3,
+          "username": "bbrty_c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/399RH1U6T6",
+          "end": 69,
+          "expanded_url": "https://x.com/bbrty_c/status/1994367790598508576/photo/1",
+          "media_key": "3_1994367785015955456",
+          "start": 46,
+          "url": "https://t.co/399RH1U6T6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994644873480466699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994367790598508576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbrty_c: 生在老中真是这辈子有了，就像我爹妈上班受气了，回家把我打一顿一样 https://t.co/399RH1U6T6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1226,
+        "media_key": "3_1994367785015955456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61q7xFb0AABGIQ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994367785015955456"
+          ],
+          "media_source_tweet_id": [
+            "1994367790598508576"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1994644873480466699",
+        "created_at": "2025-11-29T05:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994644873480466699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1514278065022509056",
+              "start": 3,
+              "username": "bbrty_c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/399RH1U6T6",
+              "end": 69,
+              "expanded_url": "https://x.com/bbrty_c/status/1994367790598508576/photo/1",
+              "media_key": "3_1994367785015955456",
+              "start": 46,
+              "url": "https://t.co/399RH1U6T6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994644873480466699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994367790598508576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbrty_c: 生在老中真是这辈子有了，就像我爹妈上班受气了，回家把我打一顿一样 https://t.co/399RH1U6T6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994367785015955456"
+          ]
+        },
+        "author_id": "1514278065022509056",
+        "conversation_id": "1994367790598508576",
+        "created_at": "2025-11-28T11:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994367790598508576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/399RH1U6T6",
+              "end": 56,
+              "expanded_url": "https://x.com/bbrty_c/status/1994367790598508576/photo/1",
+              "media_key": "3_1994367785015955456",
+              "start": 33,
+              "url": "https://t.co/399RH1U6T6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994367790598508576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 114633,
+          "like_count": 1363,
+          "quote_count": 9,
+          "reply_count": 47,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "生在老中真是这辈子有了，就像我爹妈上班受气了，回家把我打一顿一样 https://t.co/399RH1U6T6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 1080,
+          "like_count": 63849,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 4075
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T16:23:32.000Z",
+        "description": "网络话唠，每天小嘴叭叭没完，喜欢香港，喜欢粤语歌，其实好听的歌都喜欢，但是好听的歌是一件很主观的事情。理论上的美食家，烹饪水平不稳定。粉红直接B，不爱网络吵架，爹味留言随机B。🌈friendly",
+        "id": "1514278065022509056",
+        "name": "贝贝糖（人间观察中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724698187431362560/EAF9QKNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 292,
+          "like_count": 6325,
+          "listed_count": 3,
+          "media_count": 525,
+          "tweet_count": 7601
+        },
+        "username": "bbrty_c",
+        "verified": false
+      }
+    ]
+  }
+}

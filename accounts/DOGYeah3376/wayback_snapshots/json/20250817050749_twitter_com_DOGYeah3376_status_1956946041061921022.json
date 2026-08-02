@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1956216843796144502",
+    "created_at": "2025-08-17T05:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T06:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956946041061921022"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "真敢吃",
+          "probability": 0.4525,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1720002363409469440",
+          "start": 0,
+          "username": "Priestess1878"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956946041061921022",
+    "in_reply_to_user_id": "1720002363409469440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956216843796144502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Priestess1878 真敢吃。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956216827048288258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXg1vfa4AIiH9B.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1956216827065065473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXg1vja4AEizPS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1956216843796144502",
+        "created_at": "2025-08-17T05:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T06:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956946041061921022"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "真敢吃",
+              "probability": 0.4525,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1720002363409469440",
+              "start": 0,
+              "username": "Priestess1878"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956946041061921022",
+        "in_reply_to_user_id": "1720002363409469440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956216843796144502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Priestess1878 真敢吃。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956216827048288258",
+            "3_1956216827065065473"
+          ]
+        },
+        "author_id": "1720002363409469440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1956216843796144502",
+        "created_at": "2025-08-15T04:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T05:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956216843796144502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yp1MGGOHli",
+              "end": 46,
+              "expanded_url": "https://x.com/Priestess1878/status/1956216843796144502/photo/1",
+              "media_key": "3_1956216827048288258",
+              "start": 23,
+              "url": "https://t.co/Yp1MGGOHli"
+            },
+            {
+              "display_url": "pic.x.com/Yp1MGGOHli",
+              "end": 46,
+              "expanded_url": "https://x.com/Priestess1878/status/1956216843796144502/photo/1",
+              "media_key": "3_1956216827065065473",
+              "start": 23,
+              "url": "https://t.co/Yp1MGGOHli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956216843796144502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "—有人吃了3g pr80\n—你說單位是什麼？ https://t.co/Yp1MGGOHli"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 734,
+          "like_count": 30048,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1460
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-02T08:58:24.000Z",
+        "description": "我爱喝水丨我爱喝水我丨爱喝水我爱喝水我爱喝水丨我爱喝水我爱喝水我丨爱喝水我爱喝水我丨爱喝水我爱喝水丨我爱喝水我爱喝水丨我爱喝丨水我爱喝水我爱丨喝水我爱喝水我爱喝水丨我爱喝水我爱喝水我爱丨喝水我爱喝水我丨爱喝水我爱喝水丨我爱喝水丨我爱喝水我丨爱喝水我爱喝水我丨爱喝水我爱喝水我爱喝水",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "RuleBritainia.uk",
+                "end": 23,
+                "expanded_url": "http://RuleBritainia.uk",
+                "start": 0,
+                "url": "https://t.co/Xoq5ZnEqwW"
+              }
+            ]
+          }
+        },
+        "id": "1720002363409469440",
+        "location": "Сыктывкар",
+        "name": "lithia符格🌂",
+        "pinned_tweet_id": "1954585818598895618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952060852624044032/1WfW_Qmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 414,
+          "like_count": 8787,
+          "listed_count": 2,
+          "media_count": 1255,
+          "tweet_count": 9783
+        },
+        "url": "https://t.co/Xoq5ZnEqwW",
+        "username": "Priestess1878",
+        "verified": false
+      }
+    ]
+  }
+}

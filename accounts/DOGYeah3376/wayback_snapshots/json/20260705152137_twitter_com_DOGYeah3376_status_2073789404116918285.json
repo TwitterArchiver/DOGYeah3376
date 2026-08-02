@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073764067656052736"
+      ],
+      "media_source_tweet_id": [
+        "2073764130805436882"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "2073789404116918285",
+    "created_at": "2026-07-05T15:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073789404116918285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2766725377",
+          "start": 3,
+          "username": "748cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RnrNAtJBZL",
+          "end": 52,
+          "expanded_url": "https://x.com/748cm/status/2073764130805436882/photo/1",
+          "media_key": "3_2073764067656052736",
+          "start": 29,
+          "url": "https://t.co/RnrNAtJBZL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073789404116918285",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073764130805436882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @748cm: あなたを永遠に手に入れる唯一の方法 https://t.co/RnrNAtJBZL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2073764067656052736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd9bqibsAA1c2A.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073764067656052736"
+          ],
+          "media_source_tweet_id": [
+            "2073764130805436882"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "2073789404116918285",
+        "created_at": "2026-07-05T15:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073789404116918285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2766725377",
+              "start": 3,
+              "username": "748cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RnrNAtJBZL",
+              "end": 52,
+              "expanded_url": "https://x.com/748cm/status/2073764130805436882/photo/1",
+              "media_key": "3_2073764067656052736",
+              "start": 29,
+              "url": "https://t.co/RnrNAtJBZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073789404116918285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073764130805436882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @748cm: あなたを永遠に手に入れる唯一の方法 https://t.co/RnrNAtJBZL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073764067656052736"
+          ]
+        },
+        "author_id": "2766725377",
+        "conversation_id": "2073764130805436882",
+        "created_at": "2026-07-05T13:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073764130805436882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RnrNAtJBZL",
+              "end": 41,
+              "expanded_url": "https://x.com/748cm/status/2073764130805436882/photo/1",
+              "media_key": "3_2073764067656052736",
+              "start": 18,
+              "url": "https://t.co/RnrNAtJBZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073764130805436882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 3796,
+          "like_count": 315,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "あなたを永遠に手に入れる唯一の方法 https://t.co/RnrNAtJBZL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 1113,
+          "like_count": 75495,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 5341
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-25T15:18:15.000Z",
+        "description": "hate me🧸🔪 / DM Open https://t.co/IutnivpC2k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/Malice?fbclid=…",
+                "end": 43,
+                "expanded_url": "https://lit.link/Malice?fbclid=PAZXh0bgNhZW0CMT",
+                "start": 20,
+                "url": "https://t.co/IutnivpC2k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/MBOWQFP5QE0F?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/iAcwP4m5Yp"
+              }
+            ]
+          }
+        },
+        "id": "2766725377",
+        "location": "Created by \"AI\" 100%",
+        "name": "惡意",
+        "pinned_tweet_id": "2020760964371718331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925714997813932033/Uf7ZceDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125811,
+          "following_count": 208,
+          "like_count": 15399,
+          "listed_count": 632,
+          "media_count": 4174,
+          "tweet_count": 12933
+        },
+        "url": "https://t.co/iAcwP4m5Yp",
+        "username": "748cm",
+        "verified": true
+      }
+    ]
+  }
+}

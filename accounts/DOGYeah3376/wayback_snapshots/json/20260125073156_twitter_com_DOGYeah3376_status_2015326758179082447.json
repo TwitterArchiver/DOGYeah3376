@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2015326758179082447",
+    "created_at": "2026-01-25T07:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T08:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015326758179082447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "488823839",
+          "start": 3,
+          "username": "taikongjile000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015326758179082447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015074281265549741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taikongjile000: 使用迷幻剂 不是用来娱乐，更不是用来逃避现实。它主要是用来提升精神意识，修练灵性，甚至用来处理心理上的问题，改变对自身人格的认识，了解我们存在的核心。作为人类，都是灵性的存在，只是当人类文明选择了理性，信仰了科学，同时也弃绝了灵性。当然很…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_2015074276286898177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_b7YMIboAEyKBQ.jpg",
+        "width": 1520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2015326758179082447",
+        "created_at": "2026-01-25T07:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015326758179082447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "488823839",
+              "start": 3,
+              "username": "taikongjile000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015326758179082447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015074281265549741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taikongjile000: 使用迷幻剂 不是用来娱乐，更不是用来逃避现实。它主要是用来提升精神意识，修练灵性，甚至用来处理心理上的问题，改变对自身人格的认识，了解我们存在的核心。作为人类，都是灵性的存在，只是当人类文明选择了理性，信仰了科学，同时也弃绝了灵性。当然很…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015074276286898177"
+          ]
+        },
+        "author_id": "488823839",
+        "conversation_id": "2015074281265549741",
+        "created_at": "2026-01-24T14:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T15:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015074281265549741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHp9tFi1T6",
+              "end": 159,
+              "expanded_url": "https://x.com/taikongjile000/status/2015074281265549741/photo/1",
+              "media_key": "3_2015074276286898177",
+              "start": 136,
+              "url": "https://t.co/yHp9tFi1T6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015074281265549741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 837,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "使用迷幻剂 不是用来娱乐，更不是用来逃避现实。它主要是用来提升精神意识，修练灵性，甚至用来处理心理上的问题，改变对自身人格的认识，了解我们存在的核心。作为人类，都是灵性的存在，只是当人类文明选择了理性，信仰了科学，同时也弃绝了灵性。当然很多人也开始接近灵性，包括我自己。 https://t.co/yHp9tFi1T6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 1090,
+          "like_count": 68393,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 4349
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "一个地地道道的农民\n迷幻剂/大麻去污名化\n两年老oder\n\n官网：https://t.co/G0KfQSHAWC\ntg群：https://t.co/kaCNpFerhN\ndiscord频道∶https://t.co/IzuK03aQBW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 56,
+                "expanded_url": "https://overdose.day/",
+                "start": 33,
+                "url": "https://t.co/G0KfQSHAWC"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 84,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 61,
+                "url": "https://t.co/kaCNpFerhN"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 118,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 95,
+                "url": "https://t.co/IzuK03aQBW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/G0KfQSHAWC"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "name": "太空极乐百科",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014660301787111424/0VYqqC_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 45,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/G0KfQSHAWC",
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2052801806582030625",
+    "created_at": "2026-05-08T17:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052801806582030625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qwq_shark/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/qwq_shark/status/2052671099524219175",
+          "start": 21,
+          "url": "https://t.co/oDxK44mSTJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052801806582030625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052671099524219175",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "pr熬过去也算好结局 至少不会被次次退单 https://t.co/oDxK44mSTJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2052801806582030625",
+        "created_at": "2026-05-08T17:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052801806582030625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qwq_shark/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/qwq_shark/status/2052671099524219175",
+              "start": 21,
+              "url": "https://t.co/oDxK44mSTJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052801806582030625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052671099524219175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "pr熬过去也算好结局 至少不会被次次退单 https://t.co/oDxK44mSTJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580505223071641600",
+        "conversation_id": "2052671099524219175",
+        "created_at": "2026-05-08T08:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052671099524219175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sui_aini/statu…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/sui_aini/status/2052112946441113727",
+              "start": 136,
+              "url": "https://t.co/F0Ev4myvvN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052671099524219175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3405,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052112946441113727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前上班的时候就固定吃8颗，但药效根本维持不了十个小时\n有天在药效退去 我开始变得沉默不语和反应迟钝时，来了一位顾客\n我坐在那里拼命的催促自己快说点什么，快笑起来，快像白天时那样镇定自若，但是我失败了。\n然后不出意外的被顾客退单了，然后我就坐在花坛边想，为什么会这样呢？ https://t.co/F0Ev4myvvN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 1142,
+          "like_count": 74648,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 5237
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "我是小惨｜好朋友@Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041868765672136704/fsY3TsgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5478,
+          "following_count": 349,
+          "like_count": 3634,
+          "listed_count": 7,
+          "media_count": 605,
+          "tweet_count": 13095
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

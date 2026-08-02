@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1966512569369194925",
+    "created_at": "2025-09-12T15:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T16:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966518070056546813"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "好美啊宝",
+          "probability": 0.6115,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699445300950093824",
+          "start": 0,
+          "username": "linlin444444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966518070056546813",
+    "in_reply_to_user_id": "1699445300950093824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966512569369194925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlin444444 好美啊宝宝🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30034,
+        "height": 1280,
+        "media_key": "13_1966512500381487104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1966512500381487104/img/jsZUMaQDgg4CwxhW.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966512500381487104/vid/avc1/320x568/BuIRwssepDLL0yRx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966512500381487104/vid/avc1/480x852/2uMcQ3qvrZPOvp1Y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966512500381487104/vid/avc1/720x1280/3AqzDivfCwec81C-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1966512500381487104/pl/vLBkHTiqknXOPX5l.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1966512569369194925",
+        "created_at": "2025-09-12T15:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T16:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966518070056546813"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "好美啊宝",
+              "probability": 0.6115,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966518070056546813",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966512569369194925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin444444 好美啊宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1966512500381487104"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1966512569369194925",
+        "created_at": "2025-09-12T14:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966512569369194925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kMT5hL1GBu",
+              "end": 56,
+              "expanded_url": "https://x.com/linlin444444/status/1966512569369194925/video/1",
+              "media_key": "13_1966512500381487104",
+              "start": 33,
+              "url": "https://t.co/kMT5hL1GBu"
+            },
+            {
+              "display_url": "x.com/overdose_six/s…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/overdose_six/status/1966081654151364757",
+              "start": 57,
+              "url": "https://t.co/lh5euaU1dP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966512569369194925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966081654151364757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么久以来没人吃原粉吗，只有我真买过原粉吃了，最后还是回归喜思平 https://t.co/kMT5hL1GBu https://t.co/lh5euaU1dP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 881,
+          "like_count": 38130,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 2314
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5546,
+          "following_count": 66,
+          "like_count": 368,
+          "listed_count": 10,
+          "media_count": 32,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1951949933747278256",
+    "created_at": "2025-08-03T13:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T14:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951992216664375784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636086302541242369",
+          "start": 0,
+          "username": "jjf20031022"
+        },
+        {
+          "end": 20,
+          "id": "1554488846620016641",
+          "start": 13,
+          "username": "kkblm_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951992216664375784",
+    "in_reply_to_user_id": "1636086302541242369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951956861873438959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjf20031022 @kkblm_ 感觉像加拿大欸（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1951949933747278256",
+        "created_at": "2025-08-03T13:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T14:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951992216664375784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636086302541242369",
+              "start": 0,
+              "username": "jjf20031022"
+            },
+            {
+              "end": 20,
+              "id": "1554488846620016641",
+              "start": 13,
+              "username": "kkblm_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951992216664375784",
+        "in_reply_to_user_id": "1636086302541242369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951956861873438959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjf20031022 @kkblm_ 感觉像加拿大欸（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636086302541242369",
+        "conversation_id": "1951949933747278256",
+        "created_at": "2025-08-03T10:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T11:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951956861873438959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1554488846620016641",
+              "start": 0,
+              "username": "kkblm_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951956861873438959",
+        "in_reply_to_user_id": "1554488846620016641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951950544609628235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkblm_ 九寨沟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 559,
+          "like_count": 21883,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 767
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-15T19:25:58.000Z",
+        "description": "cn久芳/会互fo/算卦上线/没有鱼鱼蒸/不会割手手/不o💊/一众MOBA游戏绝缘体/fps超级爱好者 175cm 98g/瓦罗兰特/Apex纯净手柄初学者/爱COS/友跨❤️/无证含糖/🈲政治/",
+        "id": "1636086302541242369",
+        "location": "阴暗角落的阳光里",
+        "name": "雾野咲奈🏳️‍⚧️",
+        "pinned_tweet_id": "1827523946511790224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777019301809283072/7HBI9G4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 414,
+          "like_count": 10873,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 1393
+        },
+        "username": "jjf20031022",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T15:27:12.000Z",
+        "description": "无证被迫断糖mtf/03老登/infp-t/百合/原神/鸣潮/星穹铁道/不键政  / 欢迎各位骚扰孤独的喵喵(◍•ᴗ•◍)/励志作为安慰大家的猫猫树洞，随叫随到喵，工作是全力倾听大家的负面情绪喵~/梦想是什么~？希望大家健康幸福吧，实现自己的梦想…/目前常驻重庆~/🚪30/可爱的妹妹@qqnjjwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 142,
+                "username": "qqnjjwb"
+              }
+            ]
+          }
+        },
+        "id": "1554488846620016641",
+        "name": "j🏳‍⚧🍥🍬✨",
+        "pinned_tweet_id": "1942328538981622269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882726775182303232/c-zE53Ot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 769,
+          "like_count": 14309,
+          "listed_count": 4,
+          "media_count": 75,
+          "tweet_count": 2967
+        },
+        "username": "kkblm_",
+        "verified": false
+      }
+    ]
+  }
+}

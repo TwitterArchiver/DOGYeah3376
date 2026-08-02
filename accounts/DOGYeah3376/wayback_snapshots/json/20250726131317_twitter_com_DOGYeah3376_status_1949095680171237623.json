@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1948999916413686260",
+    "created_at": "2025-07-26T13:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T14:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949095680171237623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822380396497313792",
+          "start": 0,
+          "username": "Chihaya_Anon_01"
+        },
+        {
+          "end": 27,
+          "id": "1817821126640496640",
+          "start": 17,
+          "username": "MTNEKO123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949095680171237623",
+    "in_reply_to_user_id": "1822380396497313792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949095311009251411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chihaya_Anon_01 @MTNEKO123 什么都不行 只能存 用的话好像也要家长\n那天我发现不能取出来 我就让家长换张卡了😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1948999916413686260",
+        "created_at": "2025-07-26T13:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T14:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949095680171237623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822380396497313792",
+              "start": 0,
+              "username": "Chihaya_Anon_01"
+            },
+            {
+              "end": 27,
+              "id": "1817821126640496640",
+              "start": 17,
+              "username": "MTNEKO123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949095680171237623",
+        "in_reply_to_user_id": "1822380396497313792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949095311009251411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chihaya_Anon_01 @MTNEKO123 什么都不行 只能存 用的话好像也要家长\n那天我发现不能取出来 我就让家长换张卡了😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822380396497313792",
+        "conversation_id": "1948999916413686260",
+        "created_at": "2025-07-26T13:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T14:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949095311009251411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            },
+            {
+              "end": 23,
+              "id": "1817821126640496640",
+              "start": 13,
+              "username": "MTNEKO123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949095311009251411",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949092227994837059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 @MTNEKO123 意思是只能存入现金，不能随便取出现金吗？还是连花也不能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 484,
+          "like_count": 19007,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 642
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T21:12:13.000Z",
+        "description": "「愛する人は、ずっと見守っている」\n个人介绍：https://t.co/87wDN937Ew",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Chihaya_Anon_0…",
+                "end": 46,
+                "expanded_url": "https://twitter.com/Chihaya_Anon_01/status/1948734277295743045",
+                "start": 23,
+                "url": "https://t.co/87wDN937Ew"
+              }
+            ]
+          }
+        },
+        "id": "1822380396497313792",
+        "location": "「君の心」",
+        "name": "迷人の爱音",
+        "pinned_tweet_id": "1939210191259738511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946196983649038343/yz_ng37c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 924,
+          "like_count": 15816,
+          "listed_count": 2,
+          "media_count": 1134,
+          "tweet_count": 7484
+        },
+        "username": "Chihaya_Anon_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T07:15:16.000Z",
+        "description": "MtX🍥 / hrt：25.2.11 / 无证含糖 / 不知道什么党 / 选择性出柜｜169cm 52kg / 或许是只猫/也可能是一种面条｜泛性恋 / 缺爱b / 经常发情 / 爱玩抽象 / 社会化程度极低的阿斯｜互fo｜窝超级超级超级爱的宝宝❤️@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 125,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          }
+        },
+        "id": "1817821126640496640",
+        "location": "距您2.3km",
+        "name": "面条喵🍥🐱🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943210622750990337/D9SHvRG4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 1092,
+          "like_count": 24947,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1486
+        },
+        "username": "MTNEKO123",
+        "verified": true
+      }
+    ]
+  }
+}

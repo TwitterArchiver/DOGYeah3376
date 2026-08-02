@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1989640454217011272",
+    "created_at": "2025-11-15T10:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T11:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989640454217011272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/beyoncegarden/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/beyoncegarden/status/1989079812338774192",
+          "start": 18,
+          "url": "https://t.co/7iBhTa7vF5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989640454217011272",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989079812338774192",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "millionaire dead。 https://t.co/7iBhTa7vF5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "16_1336700963172855808",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/EozqcaDXMAA6W31.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/EozqcaDXMAA6W31.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1989640454217011272",
+        "created_at": "2025-11-15T10:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T11:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989640454217011272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/beyoncegarden/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/beyoncegarden/status/1989079812338774192",
+              "start": 18,
+              "url": "https://t.co/7iBhTa7vF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989640454217011272",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989079812338774192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "millionaire dead。 https://t.co/7iBhTa7vF5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1336700963172855808"
+          ],
+          "media_source_tweet_id": [
+            "1336701145440456704"
+          ]
+        },
+        "author_id": "1423807877706354688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989079812338774192",
+        "created_at": "2025-11-13T21:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T22:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989079812338774192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNXbqjwNjm",
+              "end": 77,
+              "expanded_url": "https://x.com/axelsylvian/status/1336701145440456704/photo/1",
+              "media_key": "16_1336700963172855808",
+              "start": 54,
+              "url": "https://t.co/mNXbqjwNjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989079812338774192",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 811,
+          "impression_count": 1416829,
+          "like_count": 6159,
+          "quote_count": 4117,
+          "reply_count": 2742,
+          "retweet_count": 248
+        },
+        "reply_settings": "everyone",
+        "text": "the first 2 words you stop on will describe your 2026😭https://t.co/mNXbqjwNjm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 1057,
+          "like_count": 60263,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 3962
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-07T00:47:12.000Z",
+        "description": "beyoncé, @captainmarvel, & pop culture fan account🌿❤️‍🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "captainmarvel"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amzn.to/3GxSuLd",
+                "end": 23,
+                "expanded_url": "https://amzn.to/3GxSuLd",
+                "start": 0,
+                "url": "https://t.co/53a9Yf9WJr"
+              }
+            ]
+          }
+        },
+        "id": "1423807877706354688",
+        "location": "dm for promo💌",
+        "name": "𝗱𝗮𝗻𝗻𝘆🫧💚",
+        "pinned_tweet_id": "1890841349575868494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577204345883467776/RSHKpkpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276585,
+          "following_count": 632,
+          "like_count": 271750,
+          "listed_count": 569,
+          "media_count": 22274,
+          "tweet_count": 68256
+        },
+        "url": "https://t.co/53a9Yf9WJr",
+        "username": "beyoncegarden",
+        "verified": true
+      }
+    ]
+  }
+}

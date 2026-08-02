@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1970700079796494702",
+    "created_at": "2025-09-24T15:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T16:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970866388974866468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958507577077342208",
+          "start": 0,
+          "username": "Vacue138950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970866388974866468",
+    "in_reply_to_user_id": "1958507577077342208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970865560003969504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vacue138950 我们几个再不能切前台之前 感知同步勉强够用吧 至少别人看我们系统不像傻子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1970700079796494702",
+        "created_at": "2025-09-24T15:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970866388974866468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958507577077342208",
+              "start": 0,
+              "username": "Vacue138950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970866388974866468",
+        "in_reply_to_user_id": "1958507577077342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970865560003969504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vacue138950 我们几个再不能切前台之前 感知同步勉强够用吧 至少别人看我们系统不像傻子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958507577077342208",
+        "conversation_id": "1970700079796494702",
+        "created_at": "2025-09-24T14:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T15:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970865560003969504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970865560003969504",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970862288325554395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 过生日好啊。前台这事得慢点来，一旦触及前台就会有trigger管理，内存泄漏，认知混乱等可能的问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 942,
+          "like_count": 43667,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2691
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T12:32:55.000Z",
+        "description": "Cheminformatics & Biohacker | AuDHD/DID | enby | Depression & Anxiety disorder | 如临深渊，如履薄冰",
+        "id": "1958507577077342208",
+        "location": "幻想郷",
+        "name": "Vacue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958507712863748096/S-wkxVNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 139,
+          "like_count": 451,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 163
+        },
+        "username": "Vacue138950",
+        "verified": false
+      }
+    ]
+  }
+}

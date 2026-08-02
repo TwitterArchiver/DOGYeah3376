@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1981310504179228792",
+    "created_at": "2025-10-23T14:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T15:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981369305234362844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1908807472049229824",
+          "start": 0,
+          "username": "Keerrke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981369305234362844",
+    "in_reply_to_user_id": "1908807472049229824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981368990690922691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keerrke 你很好看！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1981310504179228792",
+        "created_at": "2025-10-23T14:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T15:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981369305234362844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1908807472049229824",
+              "start": 0,
+              "username": "Keerrke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981369305234362844",
+        "in_reply_to_user_id": "1908807472049229824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981368990690922691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keerrke 你很好看！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908807472049229824",
+        "conversation_id": "1981310504179228792",
+        "created_at": "2025-10-23T14:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T15:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981368990690922691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981368990690922691",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981310504179228792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 宝宝你比我好看多啦 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我是，女孩。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979171735669719041/xwbTRqej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 1020,
+          "like_count": 54713,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3549
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T09:02:33.000Z",
+        "description": "男娘｜取向是小可爱｜MA in Communication｜ Call me kk💖",
+        "id": "1908807472049229824",
+        "name": "接收端K",
+        "pinned_tweet_id": "1978245695346770215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955203552558923776/XffpPCgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 416,
+          "like_count": 2091,
+          "listed_count": 10,
+          "media_count": 58,
+          "tweet_count": 574
+        },
+        "username": "Keerrke",
+        "verified": false
+      }
+    ]
+  }
+}

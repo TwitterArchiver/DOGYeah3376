@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1960330527426458025",
+    "created_at": "2025-08-26T14:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T15:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960345217674182734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1927241523340460032",
+          "start": 0,
+          "username": "7770101s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960345217674182734",
+    "in_reply_to_user_id": "1927241523340460032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960330527426458025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7770101s 好看呀萌萌的🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1960330515443228672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzR-N69aIAA78xL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1960330527426458025",
+        "created_at": "2025-08-26T14:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T15:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960345217674182734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1927241523340460032",
+              "start": 0,
+              "username": "7770101s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960345217674182734",
+        "in_reply_to_user_id": "1927241523340460032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960330527426458025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7770101s 好看呀萌萌的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960330515443228672"
+          ]
+        },
+        "author_id": "1927241523340460032",
+        "conversation_id": "1960330527426458025",
+        "created_at": "2025-08-26T13:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T14:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960330527426458025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2U5wTHqe6q",
+              "end": 31,
+              "expanded_url": "https://x.com/7770101s/status/1960330527426458025/photo/1",
+              "media_key": "3_1960330515443228672",
+              "start": 8,
+              "url": "https://t.co/2U5wTHqe6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960330527426458025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 307,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "韩式真可以呀🤤 https://t.co/2U5wTHqe6q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 820,
+          "like_count": 34030,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1808
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T05:52:49.000Z",
+        "description": "Do you have any ibuprofen? I got a headache.｜嗑药的｜poly｜永远❤️Saki",
+        "id": "1927241523340460032",
+        "location": "Milky Way Galaxy",
+        "name": "蒸汽动力齿轮",
+        "pinned_tweet_id": "1958542243612278821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955809807870627840/Dxeef82J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 202,
+          "like_count": 2647,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 442
+        },
+        "username": "7770101s",
+        "verified": true
+      }
+    ]
+  }
+}

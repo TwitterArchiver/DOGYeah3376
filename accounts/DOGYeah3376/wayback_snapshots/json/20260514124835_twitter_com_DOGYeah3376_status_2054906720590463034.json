@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2054906720590463034",
+    "created_at": "2026-05-14T12:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054906720590463034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999040656942223360",
+          "start": 3,
+          "username": "ewan114514"
+        },
+        {
+          "end": 29,
+          "id": "1981638054688501760",
+          "start": 16,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054906720590463034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054617035175612699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ewan114514: @ashasw114514 吸毒啊，那就好，还以为你是在打日雌hrt变成死人妖呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2054906720590463034",
+        "created_at": "2026-05-14T12:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054906720590463034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999040656942223360",
+              "start": 3,
+              "username": "ewan114514"
+            },
+            {
+              "end": 29,
+              "id": "1981638054688501760",
+              "start": 16,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054906720590463034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054617035175612699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ewan114514: @ashasw114514 吸毒啊，那就好，还以为你是在打日雌hrt变成死人妖呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999040656942223360",
+        "conversation_id": "2054616524594536664",
+        "created_at": "2026-05-13T17:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054617035175612699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054617035175612699",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3618,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054616524594536664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 吸毒啊，那就好，还以为你是在打日雌hrt变成死人妖呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 1141,
+          "like_count": 74908,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5261
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T08:57:00.000Z",
+        "description": "𝓜𝓮𝓻𝓻𝔂 𝓒𝓱𝓻𝓲𝓼𝓽𝓶𝓪𝓼, 𝓜𝓻. 𝓛𝓪𝔀𝓻𝓮𝓷𝓬𝓮  | choose life",
+        "id": "1999040656942223360",
+        "location": "第六病室",
+        "name": "伊万(absolute",
+        "pinned_tweet_id": "2042905392410431801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042862844606312448/skmkLiUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 162,
+          "like_count": 8816,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 403
+        },
+        "username": "ewan114514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "they/him  县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52",
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3202,
+          "following_count": 2832,
+          "like_count": 6490,
+          "listed_count": 8,
+          "media_count": 465,
+          "tweet_count": 3980
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

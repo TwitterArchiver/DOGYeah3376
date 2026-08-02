@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1935263440500834676",
+    "created_at": "2025-06-19T23:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T00:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935835178464899307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312002569988841472",
+          "start": 0,
+          "username": "zhishi_cook"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935835178464899307",
+    "in_reply_to_user_id": "1312002569988841472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935263440500834676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhishi_cook 我去 我看成dma采样了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 789,
+        "media_key": "3_1935263420607037441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gttv09wXAAEC8HI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1935263440500834676",
+        "created_at": "2025-06-19T23:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T00:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935835178464899307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312002569988841472",
+              "start": 0,
+              "username": "zhishi_cook"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935835178464899307",
+        "in_reply_to_user_id": "1312002569988841472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935263440500834676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhishi_cook 我去 我看成dma采样了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935263420607037441"
+          ]
+        },
+        "author_id": "1312002569988841472",
+        "conversation_id": "1935263440500834676",
+        "created_at": "2025-06-18T09:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T10:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935263440500834676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hAlP7e0UHC",
+              "end": 27,
+              "expanded_url": "https://x.com/zhishi_cook/status/1935263440500834676/photo/1",
+              "media_key": "3_1935263420607037441",
+              "start": 4,
+              "url": "https://t.co/hAlP7e0UHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935263440500834676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 345265,
+          "like_count": 1164,
+          "quote_count": 1,
+          "reply_count": 67,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/hAlP7e0UHC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 253,
+          "like_count": 6860,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 252
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-02T12:12:55.000Z",
+        "description": "申必mtf🏳️‍⚧️🤔🤔/家长不管(?/超级缺爱b🥵/头发没了想似喵😭😭/恶臭郭楠😥/ENFP-T/🤔提问:https://t.co/bDeKeMQNaN / 只会写php py的废物😭/生产日期:2009-03-07/小号:@TypezhiQwQ/同类回fo喵🤓/宝宝@qiu90827",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "TypezhiQwQ"
+              },
+              {
+                "end": 144,
+                "start": 135,
+                "username": "qiu90827"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/zhishi_cook1",
+                "end": 77,
+                "expanded_url": "https://ngl.link/zhishi_cook1",
+                "start": 54,
+                "url": "https://t.co/bDeKeMQNaN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/842XMZv0Pp"
+              }
+            ]
+          }
+        },
+        "id": "1312002569988841472",
+        "location": "黄石市第二医院精神科住院楼",
+        "name": "知式🍥",
+        "pinned_tweet_id": "1920328261478793373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920010651700973568/DmyTtkvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 1011,
+          "like_count": 1270,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 2893
+        },
+        "url": "https://t.co/842XMZv0Pp",
+        "username": "zhishi_cook",
+        "verified": true
+      }
+    ]
+  }
+}

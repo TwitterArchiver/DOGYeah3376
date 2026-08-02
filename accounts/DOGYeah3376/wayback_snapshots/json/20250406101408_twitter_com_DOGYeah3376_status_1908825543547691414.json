@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1908825543547691414",
+    "created_at": "2025-04-06T10:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T11:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908825543547691414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1439227690989469706",
+          "start": 3,
+          "username": "1a2s3d4f5g6788"
+        },
+        {
+          "end": 35,
+          "id": "1868562193484251136",
+          "start": 20,
+          "username": "LengChamSayBye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908825543547691414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908785686318109106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1a2s3d4f5g6788: @LengChamSayBye 好笑吗？我只看到了一个以为自己是薯条的幻想症患者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1908825543547691414",
+        "created_at": "2025-04-06T10:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908825543547691414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1439227690989469706",
+              "start": 3,
+              "username": "1a2s3d4f5g6788"
+            },
+            {
+              "end": 35,
+              "id": "1868562193484251136",
+              "start": 20,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908825543547691414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908785686318109106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1a2s3d4f5g6788: @LengChamSayBye 好笑吗？我只看到了一个以为自己是薯条的幻想症患者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439227690989469706",
+        "conversation_id": "1908449510701109496",
+        "created_at": "2025-04-06T07:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T08:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908785686318109106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908785686318109106",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908449510701109496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 好笑吗？我只看到了一个以为自己是薯条的幻想症患者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 171,
+          "like_count": 2023,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 119
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-18T14:00:23.000Z",
+        "description": "但愿到那时，我们再相会，\n举杯赞英雄，光荣属于谁，\n为祖国，为四化，流过多少汗？\n回首往事心中可有愧？",
+        "id": "1439227690989469706",
+        "location": "IP属地：远视主义苏维埃",
+        "name": "秦王扫六合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667569491386007552/jpwaobWy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 419,
+          "like_count": 9777,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 583
+        },
+        "username": "1a2s3d4f5g6788",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "",
+        "id": "1868562193484251136",
+        "location": "九龍城, 香港",
+        "name": "淩",
+        "pinned_tweet_id": "1895877419950838041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894351026100342784/q--jasTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 85,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 588
+        },
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

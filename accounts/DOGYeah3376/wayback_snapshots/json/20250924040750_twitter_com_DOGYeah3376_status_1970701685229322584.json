@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1970700079796494702",
+    "created_at": "2025-09-24T04:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T05:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970701685229322584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1604763406669684737",
+          "start": 0,
+          "username": "shundebo__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970701685229322584",
+    "in_reply_to_user_id": "1604763406669684737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970700278853931054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shundebo__ 你选择一个问题 然后我回答你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1970700079796494702",
+        "created_at": "2025-09-24T04:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T05:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970701685229322584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1604763406669684737",
+              "start": 0,
+              "username": "shundebo__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970701685229322584",
+        "in_reply_to_user_id": "1604763406669684737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970700278853931054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shundebo__ 你选择一个问题 然后我回答你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604763406669684737",
+        "conversation_id": "1970700079796494702",
+        "created_at": "2025-09-24T04:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T05:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970700278853931054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970700278853931054",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970700079796494702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 什么意思喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 934,
+          "like_count": 43007,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2660
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T09:00:18.000Z",
+        "description": "有一点似了🏧♋/\n🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝JSR aziwa'ninndro/\nshundebo@shundebo.top/\n我是抖m/\n我是绒布球/\nhttps://t.co/MdfgrW62dZ /@JSR_BRinc/\n窝是教主🍝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 99,
+                "username": "JSR_BRinc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shundebo",
+                "end": 97,
+                "expanded_url": "https://t.me/shundebo",
+                "start": 74,
+                "url": "https://t.co/MdfgrW62dZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shundebo.top",
+                "end": 23,
+                "expanded_url": "https://shundebo.top",
+                "start": 0,
+                "url": "https://t.co/yugHD2tXKE"
+              }
+            ]
+          }
+        },
+        "id": "1604763406669684737",
+        "location": "schlen自留地",
+        "name": "shundebo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604763543127080963/pC9hUrCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 301,
+          "like_count": 1186,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/yugHD2tXKE",
+        "username": "shundebo__",
+        "verified": false
+      }
+    ]
+  }
+}

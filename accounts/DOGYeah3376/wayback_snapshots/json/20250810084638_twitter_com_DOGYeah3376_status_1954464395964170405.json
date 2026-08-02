@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1954218086694846739",
+    "created_at": "2025-08-10T08:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T09:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954464395964170405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1241007301349142528",
+          "start": 0,
+          "username": "kaka_9015"
+        },
+        {
+          "end": 26,
+          "id": "1887467599287754755",
+          "start": 11,
+          "username": "with_WhiT3Rose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954464395964170405",
+    "in_reply_to_user_id": "1241007301349142528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954378989595947309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaka_9015 @with_WhiT3Rose 我的空调也是如此给力…\n有时候希望它的温度计准一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1954218086694846739",
+        "created_at": "2025-08-10T08:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T09:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954464395964170405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1241007301349142528",
+              "start": 0,
+              "username": "kaka_9015"
+            },
+            {
+              "end": 26,
+              "id": "1887467599287754755",
+              "start": 11,
+              "username": "with_WhiT3Rose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954464395964170405",
+        "in_reply_to_user_id": "1241007301349142528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954378989595947309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaka_9015 @with_WhiT3Rose 我的空调也是如此给力…\n有时候希望它的温度计准一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1241007301349142528",
+        "conversation_id": "1954218086694846739",
+        "created_at": "2025-08-10T03:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T04:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954378989595947309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887467599287754755",
+              "start": 0,
+              "username": "with_WhiT3Rose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954378989595947309",
+        "in_reply_to_user_id": "1887467599287754755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954218086694846739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@with_WhiT3Rose 27度+开着窗，今天杭州36度我为什么还是感觉好冷…我是不是真的有点虚了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 657,
+          "like_count": 26011,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1062
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T14:23:02.000Z",
+        "description": "🚹 🇨🇳 如果我无意间发布了让你不开心的东西 可以联系我，我会删除并反省自己的",
+        "id": "1241007301349142528",
+        "location": "Osaka-fu, Japan",
+        "name": "カカ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735307278369325056/H-YGM61Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 5044,
+          "like_count": 40737,
+          "listed_count": 10,
+          "media_count": 5,
+          "tweet_count": 245
+        },
+        "username": "kaka_9015",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T11:45:28.000Z",
+        "description": "与你说些无聊事 挽手几千里",
+        "id": "1887467599287754755",
+        "name": "StOr3",
+        "pinned_tweet_id": "1947644176482636066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954150747014316032/U3tmsODx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 502,
+          "like_count": 16696,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1952
+        },
+        "username": "with_WhiT3Rose",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1922185284772340192",
+    "created_at": "2025-05-19T23:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T00:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924601323917607396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1667385380692439040",
+          "start": 0,
+          "username": "iuu_0_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924601323917607396",
+    "in_reply_to_user_id": "1667385380692439040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922185284772340192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iuu_0_o 大腿上？我天天穿长裤 而且大腿上感觉更强我觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1922185284772340192",
+        "created_at": "2025-05-19T23:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T00:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924601323917607396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1667385380692439040",
+              "start": 0,
+              "username": "iuu_0_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924601323917607396",
+        "in_reply_to_user_id": "1667385380692439040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922185284772340192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iuu_0_o 大腿上？我天天穿长裤 而且大腿上感觉更强我觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667385380692439040",
+        "conversation_id": "1922185284772340192",
+        "created_at": "2025-05-13T07:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T08:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922185284772340192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922185284772340192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了不被家长发现只能割在大臂上。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 211,
+          "like_count": 4799,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 218
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T04:17:20.000Z",
+        "description": "🚪52｜自伤｜od｜精神状态不稳定哈",
+        "id": "1667385380692439040",
+        "name": "iuu",
+        "pinned_tweet_id": "1898735897979568278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918683932041846784/LJcfKBn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 113,
+          "like_count": 807,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 348
+        },
+        "username": "iuu_0_o",
+        "verified": false
+      }
+    ]
+  }
+}

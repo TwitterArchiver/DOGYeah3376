@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2011718541570162872",
+    "created_at": "2026-01-15T08:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T09:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011718657651720557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011718657651720557",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011718541570162872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 墨迹的勿扰懂的看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1727,
+        "media_key": "3_2011718538990694400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-sPWkibsAAiykA.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2011718541570162872",
+        "created_at": "2026-01-15T08:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T09:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011718657651720557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011718657651720557",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011718541570162872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 墨迹的勿扰懂的看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011718538990694400"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "conversation_id": "2011718541570162872",
+        "created_at": "2026-01-15T08:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T09:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011718541570162872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJzCO2aW9B",
+              "end": 27,
+              "expanded_url": "https://x.com/yu_huacs/status/2011718541570162872/photo/1",
+              "media_key": "3_2011718538990694400",
+              "start": 4,
+              "url": "https://t.co/qJzCO2aW9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011718541570162872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你妈币 https://t.co/qJzCO2aW9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 1080,
+          "like_count": 67266,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 4261
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "不知名的yu huacs 泛性恋 \n友所有群体   爱着你们深深的喜欢着你们\n成分复杂 双相焦虑治疗中 overdose lain 了解公路车 在役公路车s works old venge\n第二人格 @yuhuacs5570\n最好の兄弟 @Lizzy6315\n我想谈恋爱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "Lizzy6315"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdoNl"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "尼特",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2010993023166115999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009204093987028992/H3zOBPI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 1058,
+          "like_count": 100393,
+          "listed_count": 9,
+          "media_count": 1791,
+          "tweet_count": 17006
+        },
+        "url": "https://t.co/fGARwmdoNl",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

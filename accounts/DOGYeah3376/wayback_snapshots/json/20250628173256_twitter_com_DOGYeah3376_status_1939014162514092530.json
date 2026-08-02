@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1939014162514092530",
+    "created_at": "2025-06-28T17:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T18:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939014162514092530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1922467056802529282",
+          "start": 3,
+          "username": "520jxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939014162514092530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938633224176959946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @520jxue: 姐妹你口中的朋友不会全是网友吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1939014162514092530",
+        "created_at": "2025-06-28T17:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T18:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939014162514092530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1922467056802529282",
+              "start": 3,
+              "username": "520jxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939014162514092530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938633224176959946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @520jxue: 姐妹你口中的朋友不会全是网友吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922467056802529282",
+        "conversation_id": "1938633224176959946",
+        "created_at": "2025-06-27T16:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T17:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938633224176959946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938633224176959946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27977,
+          "like_count": 346,
+          "quote_count": 5,
+          "reply_count": 80,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹你口中的朋友不会全是网友吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 269,
+          "like_count": 8419,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 292
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T01:41:03.000Z",
+        "description": "我不会再出现在你的推特了 再你吗的见",
+        "id": "1922467056802529282",
+        "name": "雪",
+        "pinned_tweet_id": "1938618519509520759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938443157290532864/MMObWpRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 112,
+          "like_count": 408,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 119
+        },
+        "username": "520jxue",
+        "verified": false
+      }
+    ]
+  }
+}

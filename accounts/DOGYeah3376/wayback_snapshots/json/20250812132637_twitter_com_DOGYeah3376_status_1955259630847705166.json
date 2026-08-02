@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1954981411703886283",
+    "created_at": "2025-08-12T13:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T14:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955259630847705166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1495386210977517568",
+          "start": 0,
+          "username": "CapelaLoveLove"
+        },
+        {
+          "end": 32,
+          "id": "1699273459325390848",
+          "start": 16,
+          "username": "DurantRaym93677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955259630847705166",
+    "in_reply_to_user_id": "1495386210977517568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955068076422205753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CapelaLoveLove @DurantRaym93677 莫名其妙封号就是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1954981411703886283",
+        "created_at": "2025-08-12T13:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955259630847705166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495386210977517568",
+              "start": 0,
+              "username": "CapelaLoveLove"
+            },
+            {
+              "end": 32,
+              "id": "1699273459325390848",
+              "start": 16,
+              "username": "DurantRaym93677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955259630847705166",
+        "in_reply_to_user_id": "1495386210977517568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955068076422205753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CapelaLoveLove @DurantRaym93677 莫名其妙封号就是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495386210977517568",
+        "conversation_id": "1954981411703886283",
+        "created_at": "2025-08-12T00:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T01:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955068076422205753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699273459325390848",
+              "start": 0,
+              "username": "DurantRaym93677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955068076422205753",
+        "in_reply_to_user_id": "1699273459325390848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1749,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954981411703886283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DurantRaym93677 宁可继续瞎封号甚至在自家孩子身上封两次也不说调整调整这个封号机制，斯克真4️⃣🐎了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜我们是水母系统｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 684,
+          "like_count": 27209,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1264
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T13:14:08.000Z",
+        "description": "Name：卡佩拉/信仰：基督新教/性格：温良仅限对人/Like：阿尔迪巴兰，蹂躏与虐杀，爱，好吃的东西，格斗游戏/Hate：阿尔迪巴兰，傻逼，失败/\n『本小姐对你们的感情不是书的指示，是真心的，是纯爱』\n/爱上本小姐所以fo了的话，除了奇怪的号本小姐基本都会回fo，因为本小姐全心全意的爱着大家噢😈💀（没回私我!）",
+        "id": "1495386210977517568",
+        "location": "露格尼卡王国",
+        "name": "色欲大罪司教: 卡佩拉.艾梅拉妲.露格尼卡✝",
+        "pinned_tweet_id": "1951895889322357112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953798828446093312/JpEjmatP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 445,
+          "like_count": 15828,
+          "listed_count": 1,
+          "media_count": 1323,
+          "tweet_count": 6426
+        },
+        "username": "CapelaLoveLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🇯🇵🇦🇺🇹🇼🇺🇦 🏳️‍🌈🏳️‍⚧️ High Commissioner of @enchenia in South America  ｜  陪都@AmmieColl84391",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "enchenia"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "AmmieColl84391"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "location": "Victoria, Australia",
+        "name": "Luke 桜局長 ⛩️",
+        "pinned_tweet_id": "1954442197408833729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797427335911952384/l7lUTXag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 1945,
+          "like_count": 29830,
+          "listed_count": 7,
+          "media_count": 318,
+          "tweet_count": 8032
+        },
+        "username": "DurantRaym93677",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1980899225304207600",
+    "created_at": "2025-10-22T07:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T08:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980899225304207600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qbpdsslvy/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/qbpdsslvy/status/1980897951884144716",
+          "start": 15,
+          "url": "https://t.co/xXtA0FsjRv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980899225304207600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980897951884144716",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想留长发了 我是傻逼药娘头 https://t.co/xXtA0FsjRv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1980897939728834560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32QLlHXIAAiTR2.jpg",
+        "width": 758
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1980897944845910016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32QL4LXgAAp7om.jpg",
+        "width": 651
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1980897949346336769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32QMI8WkAEgIhE.jpg",
+        "width": 390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1980899225304207600",
+        "created_at": "2025-10-22T07:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T08:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980899225304207600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qbpdsslvy/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/qbpdsslvy/status/1980897951884144716",
+              "start": 15,
+              "url": "https://t.co/xXtA0FsjRv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980899225304207600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980897951884144716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想留长发了 我是傻逼药娘头 https://t.co/xXtA0FsjRv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980897939728834560",
+            "3_1980897944845910016",
+            "3_1980897949346336769"
+          ]
+        },
+        "author_id": "1530985375220391936",
+        "conversation_id": "1980897951884144716",
+        "created_at": "2025-10-22T07:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T08:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980897951884144716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWqQbviNOU",
+              "end": 26,
+              "expanded_url": "https://x.com/qbpdsslvy/status/1980897951884144716/photo/1",
+              "media_key": "3_1980897939728834560",
+              "start": 3,
+              "url": "https://t.co/TWqQbviNOU"
+            },
+            {
+              "display_url": "pic.x.com/TWqQbviNOU",
+              "end": 26,
+              "expanded_url": "https://x.com/qbpdsslvy/status/1980897951884144716/photo/1",
+              "media_key": "3_1980897944845910016",
+              "start": 3,
+              "url": "https://t.co/TWqQbviNOU"
+            },
+            {
+              "display_url": "pic.x.com/TWqQbviNOU",
+              "end": 26,
+              "expanded_url": "https://x.com/qbpdsslvy/status/1980897951884144716/photo/1",
+              "media_key": "3_1980897949346336769",
+              "start": 3,
+              "url": "https://t.co/TWqQbviNOU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980897951884144716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瞎拍 https://t.co/TWqQbviNOU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979171735669719041/xwbTRqej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 1020,
+          "like_count": 54413,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3505
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-29T18:52:20.000Z",
+        "description": "🏳️‍⚧️/🍥2023.1.16/2006.04.03/帝都/maimai，Malody，CytusⅡ，Arcaea，SDVX，DJMAX等多坑退役音游人/常UTC+08：00时区晚间及凌晨出没/小水母🪼@DOGYeah3376/宝宝@NarukamiYou267/颜宝宝@Nacreous_1969",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "DOGYeah3376"
+              },
+              {
+                "end": 132,
+                "start": 117,
+                "username": "NarukamiYou267"
+              },
+              {
+                "end": 150,
+                "start": 136,
+                "username": "Nacreous_1969"
+              }
+            ]
+          }
+        },
+        "id": "1530985375220391936",
+        "location": "日本 東京",
+        "name": "7o",
+        "pinned_tweet_id": "1974128823886328038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643352971613274116/InSQWV-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 212,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 297
+        },
+        "username": "qbpdsslvy",
+        "verified": false
+      }
+    ]
+  }
+}

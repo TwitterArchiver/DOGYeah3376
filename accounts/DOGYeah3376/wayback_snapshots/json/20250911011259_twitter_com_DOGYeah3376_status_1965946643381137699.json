@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1965862924695851008",
+    "created_at": "2025-09-11T01:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T02:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965946643381137699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "getout_ofmymind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965946643381137699",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965862924695851008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@getout_ofmymind 好有用！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965862917498400768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0gl6Gqa8AAZsyG.jpg",
+        "width": 548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1965862924695851008",
+        "created_at": "2025-09-11T01:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T02:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965946643381137699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "getout_ofmymind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965946643381137699",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965862924695851008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@getout_ofmymind 好有用！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965862917498400768"
+          ]
+        },
+        "author_id": "1545898408858161154",
+        "conversation_id": "1965862924695851008",
+        "created_at": "2025-09-10T19:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T20:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965862924695851008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0vVHJsbEJm",
+              "end": 86,
+              "expanded_url": "https://x.com/getout_ofmymind/status/1965862924695851008/photo/1",
+              "media_key": "3_1965862917498400768",
+              "start": 63,
+              "url": "https://t.co/0vVHJsbEJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965862924695851008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "*叠个甲 纯个人理解可能有错*\n关于心理成瘾（？\n\n只是莫名其妙想画，没有说好的意思只是感觉常见的科普很少考虑到科普这类药物 https://t.co/0vVHJsbEJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 874,
+          "like_count": 37293,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 2263
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "你的互联网邻居猫/#od #drugtwt #shtwt #ftx /啊啊不擅长社交果咩但是欢迎互关/ 发画的大号@StrawberryC208 这边算看中文推用的号",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 9,
+                "tag": "od"
+              },
+              {
+                "end": 21,
+                "start": 13,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 28,
+                "start": 22,
+                "tag": "shtwt"
+              },
+              {
+                "end": 33,
+                "start": 29,
+                "tag": "ftx"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "StrawberryC208"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them/喵💛🤍💜🖤",
+        "name": "❔",
+        "pinned_tweet_id": "1964308533614150014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950017897885274112/ggj8EDJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 438,
+          "like_count": 301,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 463
+        },
+        "username": "getout_ofmymind",
+        "verified": false
+      }
+    ]
+  }
+}

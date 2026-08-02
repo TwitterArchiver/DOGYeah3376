@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1899640162981904513",
+    "created_at": "2025-03-12T11:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T12:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899786813423628626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1442726671841312769",
+          "start": 0,
+          "username": "eziral778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899786813423628626",
+    "in_reply_to_user_id": "1442726671841312769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899640162981904513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eziral778 以后有米了想干嘛干嘛…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1899640162981904513",
+        "created_at": "2025-03-12T11:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T12:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899786813423628626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442726671841312769",
+              "start": 0,
+              "username": "eziral778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899786813423628626",
+        "in_reply_to_user_id": "1442726671841312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899640162981904513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eziral778 以后有米了想干嘛干嘛…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442726671841312769",
+        "conversation_id": "1899640162981904513",
+        "created_at": "2025-03-12T01:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T02:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899640162981904513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899640162981904513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想上班，想玩游戏想睡觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 110,
+          "like_count": 785,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 87
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T05:43:55.000Z",
+        "description": "这里什么也没有",
+        "id": "1442726671841312769",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "念念",
+        "pinned_tweet_id": "1854337046296547408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850224171013521408/fHAVWYAJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 691,
+          "like_count": 2488,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1424
+        },
+        "username": "eziral778",
+        "verified": false
+      }
+    ]
+  }
+}

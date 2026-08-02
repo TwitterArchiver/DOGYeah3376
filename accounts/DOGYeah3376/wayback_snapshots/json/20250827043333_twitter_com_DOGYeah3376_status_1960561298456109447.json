@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1960391075824329074",
+    "created_at": "2025-08-27T04:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T05:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960561298456109447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1801382796436639745",
+          "start": 0,
+          "username": "_Snow0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960561298456109447",
+    "in_reply_to_user_id": "1801382796436639745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960560766387401111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Snow0717 🥺不要好不好 会是bad的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1960391075824329074",
+        "created_at": "2025-08-27T04:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T05:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960561298456109447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1801382796436639745",
+              "start": 0,
+              "username": "_Snow0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960561298456109447",
+        "in_reply_to_user_id": "1801382796436639745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960560766387401111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Snow0717 🥺不要好不好 会是bad的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801382796436639745",
+        "conversation_id": "1960391075824329074",
+        "created_at": "2025-08-27T04:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T05:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960560766387401111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960560766387401111",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960391075824329074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 我需要这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 822,
+          "like_count": 34078,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1819
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学\n║INFP / 猫\n║MtF / 家长党 / 小证含糖 2025.02.11\n║重郁 /双相二型 / ADHD / BPD / ASD / PTSD\n║家里蹲 / 音游人 / 渴望温暖\n║最爱的人@Kinaiyurun0128 / 里推@_SnowUra0717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kinaiyurun0128"
+              },
+              {
+                "end": 160,
+                "start": 147,
+                "username": "_SnowUra0717"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_snow07171",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_snow07171",
+                "start": 0,
+                "url": "https://t.co/3L4Ktfepse"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "洛雪🏳️‍⚧️🍥 | 🌳树屋系统",
+        "pinned_tweet_id": "1949911363368665124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896118220400271360/kFN6DTx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 1651,
+          "like_count": 7026,
+          "listed_count": 3,
+          "media_count": 240,
+          "tweet_count": 2368
+        },
+        "url": "https://t.co/3L4Ktfepse",
+        "username": "_Snow0717",
+        "verified": false
+      }
+    ]
+  }
+}

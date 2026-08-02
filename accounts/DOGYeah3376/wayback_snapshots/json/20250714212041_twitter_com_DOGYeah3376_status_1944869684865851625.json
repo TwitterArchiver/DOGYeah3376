@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1944736280077910466",
+    "created_at": "2025-07-14T21:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T22:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944869684865851625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1554488846620016641",
+          "start": 0,
+          "username": "kkblm_"
+        },
+        {
+          "end": 23,
+          "id": "964534819664289792",
+          "start": 8,
+          "username": "MingMing191210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944869684865851625",
+    "in_reply_to_user_id": "1554488846620016641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944771509710676012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkblm_ @MingMing191210 那很痛苦了🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1944736280077910466",
+        "created_at": "2025-07-14T21:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T22:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944869684865851625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1554488846620016641",
+              "start": 0,
+              "username": "kkblm_"
+            },
+            {
+              "end": 23,
+              "id": "964534819664289792",
+              "start": 8,
+              "username": "MingMing191210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944869684865851625",
+        "in_reply_to_user_id": "1554488846620016641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944771509710676012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkblm_ @MingMing191210 那很痛苦了🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554488846620016641",
+        "conversation_id": "1944736280077910466",
+        "created_at": "2025-07-14T14:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T15:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944771509710676012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "964534819664289792",
+              "start": 0,
+              "username": "MingMing191210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944771509710676012",
+        "in_reply_to_user_id": "964534819664289792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944763691871948844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MingMing191210 被迫断糖了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtf 自伤 od 互fo（没看到的戳我一下好了）       最好的妹妹@xiaoyieQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 383,
+          "like_count": 15433,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 494
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T15:27:12.000Z",
+        "description": "无证被迫断糖mtf/infp-t/百合/原神/鸣潮/星穹铁道/不键政  / 欢迎各位骚扰孤独的喵喵(◍•ᴗ•◍)/励志作为安慰大家的猫猫树洞，随叫随到喵，工作是全力倾听大家的负面情绪喵~/梦想是什么~？希望大家健康幸福吧，实现自己的梦想…/目前常驻重庆~/🚪30/可爱的妹妹@qqnjjwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 137,
+                "username": "qqnjjwb"
+              }
+            ]
+          }
+        },
+        "id": "1554488846620016641",
+        "name": "j🏳‍⚧🍥🍬✨",
+        "pinned_tweet_id": "1942328538981622269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882726775182303232/c-zE53Ot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 688,
+          "like_count": 12587,
+          "listed_count": 4,
+          "media_count": 67,
+          "tweet_count": 2666
+        },
+        "username": "kkblm_",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-16T16:19:56.000Z",
+        "description": "Tips:不要设置…\n@mengqing5735",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "mengqing5735"
+              }
+            ]
+          }
+        },
+        "id": "964534819664289792",
+        "location": "Tokyo-to, Japan",
+        "name": "Ming.",
+        "pinned_tweet_id": "1938787662502207527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944262416398712832/jSPnRUJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 120,
+          "like_count": 12466,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 4179
+        },
+        "username": "MingMing191210",
+        "verified": false
+      }
+    ]
+  }
+}

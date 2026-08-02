@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1937562251487273045",
+    "created_at": "2025-07-02T04:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T05:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940268990804500644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239915471945838593",
+          "start": 0,
+          "username": "wtxycCO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940268990804500644",
+    "in_reply_to_user_id": "1239915471945838593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937562251487273045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtxycCO 你根本不懂得不懂得爱我～\n话说你真死啊😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1937562251487273045",
+        "created_at": "2025-07-02T04:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T05:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940268990804500644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239915471945838593",
+              "start": 0,
+              "username": "wtxycCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940268990804500644",
+        "in_reply_to_user_id": "1239915471945838593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937562251487273045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtxycCO 你根本不懂得不懂得爱我～\n话说你真死啊😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239915471945838593",
+        "conversation_id": "1937562251487273045",
+        "created_at": "2025-06-24T17:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T18:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937562251487273045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937562251487273045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14032,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "重庆的夜晚好冷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 281,
+          "like_count": 9670,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 323
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-17T14:04:30.000Z",
+        "description": "喵喵 是不太健康的小药娘喵 重重重重庆大学休学 会记录很多生活小感受 就当是个人日记好啦 不聊黄色也不聊政治(●'◡'●) 不要发黄图˃ʍ˂ （推特抱抱王(づ′▽`)づ 永远爱的人@tycwxoc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 90,
+                "username": "tycwxoc"
+              }
+            ]
+          }
+        },
+        "id": "1239915471945838593",
+        "location": "多瑙联邦",
+        "name": "☁️Cld🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876923727348428800/Oim2ub4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3344,
+          "following_count": 445,
+          "like_count": 3766,
+          "listed_count": 15,
+          "media_count": 104,
+          "tweet_count": 1594
+        },
+        "username": "wtxycCO",
+        "verified": false
+      }
+    ]
+  }
+}

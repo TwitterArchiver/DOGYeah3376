@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1993249972096286970",
+    "created_at": "2025-11-25T11:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T12:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993277379272396897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882936483662663680",
+          "start": 0,
+          "username": "jngyn298282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993277379272396897",
+    "in_reply_to_user_id": "1882936483662663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993249972096286970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngyn298282 卧槽我对象给我买这个我记得40-50"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 486,
+        "media_key": "3_1993249969562959876",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lySWBbwAQUv7J.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1993249972096286970",
+        "created_at": "2025-11-25T11:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T12:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993277379272396897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882936483662663680",
+              "start": 0,
+              "username": "jngyn298282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993277379272396897",
+        "in_reply_to_user_id": "1882936483662663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993249972096286970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngyn298282 卧槽我对象给我买这个我记得40-50"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993249969562959876"
+          ]
+        },
+        "author_id": "1882936483662663680",
+        "conversation_id": "1993249972096286970",
+        "created_at": "2025-11-25T09:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993249972096286970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L6DjWN8XqC",
+              "end": 37,
+              "expanded_url": "https://x.com/jngyn298282/status/1993249972096286970/photo/1",
+              "media_key": "3_1993249969562959876",
+              "start": 14,
+              "url": "https://t.co/L6DjWN8XqC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993249972096286970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林购入中  绝世好价 https://t.co/L6DjWN8XqC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @Yz1am_1226 ｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Yz1am_1226"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 1072,
+          "like_count": 62268,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 4047
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼/\n \n口粮：@420420420CTL/\n\n接受药圈新闻投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1882936483662663680",
+        "location": "🚪88/188/388/520",
+        "name": "镜音",
+        "pinned_tweet_id": "1992943700444688618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 193,
+          "like_count": 15893,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 2398
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

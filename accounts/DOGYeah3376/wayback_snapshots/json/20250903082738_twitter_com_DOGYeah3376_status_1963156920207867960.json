@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1963156920207867960",
+    "created_at": "2025-09-03T08:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T09:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963156920207867960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1925363092931960832",
+          "start": 3,
+          "username": "lingyuanyuan07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963156920207867960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963014205424205882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lingyuanyuan07: 一个人待着貌似和死了也没什么区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1963156920207867960",
+        "created_at": "2025-09-03T08:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T09:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963156920207867960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1925363092931960832",
+              "start": 3,
+              "username": "lingyuanyuan07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963156920207867960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963014205424205882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lingyuanyuan07: 一个人待着貌似和死了也没什么区别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925363092931960832",
+        "conversation_id": "1963014205424205882",
+        "created_at": "2025-09-02T23:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T00:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963014205424205882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963014205424205882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 183,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一个人待着貌似和死了也没什么区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 850,
+          "like_count": 35233,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2048
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T01:28:43.000Z",
+        "description": "这里是泠鸢鸳，07年小女孩一枚/贴贴狂热爱好者/缺爱/od/双相/想瘦想瘦/想要浑身是伤浑身是血，啊啊啊为毛我xp是这个，想要钱钱X﹏X🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭🥭一点就炸，炸你一脸芒果(互fo私信喵，如果没回的话)嗜睡…Q924641769~聊天~",
+        "id": "1925363092931960832",
+        "name": "泠鸢酱🍥",
+        "pinned_tweet_id": "1950878991847674251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927640098541379584/WCdK-iFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 318,
+          "like_count": 885,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1151
+        },
+        "username": "lingyuanyuan07",
+        "verified": false
+      }
+    ]
+  }
+}

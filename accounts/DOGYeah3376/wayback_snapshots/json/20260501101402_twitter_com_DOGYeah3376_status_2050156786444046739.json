@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2050156786444046739",
+    "created_at": "2026-05-01T10:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T11:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050156786444046739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yyyyy_pog/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yyyyy_pog/status/2050149273065386125",
+          "start": 7,
+          "url": "https://t.co/FxFSt991Y2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050156786444046739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050149273065386125",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好正确的理论 https://t.co/FxFSt991Y2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2050156786444046739",
+        "created_at": "2026-05-01T10:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050156786444046739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyyyy_pog/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yyyyy_pog/status/2050149273065386125",
+              "start": 7,
+              "url": "https://t.co/FxFSt991Y2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050156786444046739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050149273065386125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好正确的理论 https://t.co/FxFSt991Y2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889313848668090368",
+        "conversation_id": "2050149273065386125",
+        "created_at": "2026-05-01T09:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050149273065386125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050149273065386125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想吐。。一想到pr就想吐。，不安\n没有未来因为本来生活就是无意义的。生命是无意义的概率的产物\n死亡趋力是对的，生命和人文价值是繁衍体系中的胜利者构建的，现在他们用它来实施霸权"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 1149,
+          "like_count": 73948,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 5154
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜自家狗兼恋人@xshxXXXXXXX ｜可爱小狗@DOGYeah3376 ｜妹妹@suikachanqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "xshxXXXXXXX"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "DOGYeah3376"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "suikachanqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "Yyyyy🎗️",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040964718878433280/anUmYhbX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 225,
+          "like_count": 41594,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 3637
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "Yyyyy_pog",
+        "verified": false
+      }
+    ]
+  }
+}

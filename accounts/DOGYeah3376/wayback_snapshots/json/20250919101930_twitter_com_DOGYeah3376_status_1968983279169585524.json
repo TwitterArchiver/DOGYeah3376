@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1968982099081252936",
+    "created_at": "2025-09-19T10:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T11:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968983279169585524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1713528787378245632",
+          "start": 0,
+          "username": "a487671853"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968983279169585524",
+    "in_reply_to_user_id": "1713528787378245632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968982655963222444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a487671853 好累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1968982099081252936",
+        "created_at": "2025-09-19T10:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T11:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968983279169585524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1713528787378245632",
+              "start": 0,
+              "username": "a487671853"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968983279169585524",
+        "in_reply_to_user_id": "1713528787378245632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968982655963222444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a487671853 好累"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713528787378245632",
+        "conversation_id": "1968982099081252936",
+        "created_at": "2025-09-19T10:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T11:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968982655963222444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968982655963222444",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968982099081252936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 好好活下去🥲🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 919,
+          "like_count": 40463,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 2520
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T12:14:50.000Z",
+        "description": "I'm an alien from Andromeda galaxy,I will always softly sing the gentle songs to the whole universe.\nMy Secondary Account: https://t.co/R8mHzKjbKy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/cai012515354807",
+                "end": 146,
+                "expanded_url": "https://x.com/cai012515354807",
+                "start": 123,
+                "url": "https://t.co/R8mHzKjbKy"
+              }
+            ]
+          }
+        },
+        "id": "1713528787378245632",
+        "location": "Laniakea Supercluster",
+        "name": "Walk in Stars星海旅人👽",
+        "pinned_tweet_id": "1965682773450187244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959062384057962496/Jidm5JeX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 2168,
+          "like_count": 20260,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 2208
+        },
+        "username": "a487671853",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1947678507003437159",
+    "created_at": "2025-07-23T16:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T17:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948055379948253549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1460809132227772420",
+          "start": 0,
+          "username": "Si3rraQuack"
+        },
+        {
+          "end": 21,
+          "id": "1573906833781456896",
+          "start": 13,
+          "username": "AIKOMTX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948055379948253549",
+    "in_reply_to_user_id": "1460809132227772420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947814063083556981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Si3rraQuack @AIKOMTX 想做自已为什么有错🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1947678507003437159",
+        "created_at": "2025-07-23T16:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T17:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948055379948253549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1460809132227772420",
+              "start": 0,
+              "username": "Si3rraQuack"
+            },
+            {
+              "end": 21,
+              "id": "1573906833781456896",
+              "start": 13,
+              "username": "AIKOMTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948055379948253549",
+        "in_reply_to_user_id": "1460809132227772420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947814063083556981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Si3rraQuack @AIKOMTX 想做自已为什么有错🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1460809132227772420",
+        "conversation_id": "1947678507003437159",
+        "created_at": "2025-07-23T00:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T01:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947814063083556981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1573906833781456896",
+              "start": 0,
+              "username": "AIKOMTX"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "1947814063083556981",
+        "in_reply_to_user_id": "1573906833781456896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947678507003437159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIKOMTX 那会儿青少年教育读本里，有个词叫「异性癖」，我记得和什么窥阴癖露出癖放在一起讲的...似乎是传统视角下，某些妨碍风化的东西了\n但我还是很喜欢现在的自己，特别是被夸头发好或者皮肤好的时候，感觉整个人在shining💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "是一只可爱的小狗呀｜15岁无证含糖mtx｜含糖2025.6.4｜深柜｜自伤 od｜互fo｜买糖找@pattifly｜最好的妹妹@xiaoyieQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "pattifly"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 453,
+          "like_count": 17932,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 614
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-17T03:17:05.000Z",
+        "description": "黑猪合作社员工，目前在必胜客做18A产品，MtF🏳️‍⚧️，偶尔发疯 & 分享一些有趣的见闻。Smile :d",
+        "id": "1460809132227772420",
+        "name": "SierraMurai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1460812275841785859/fNGfnZjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 935,
+          "like_count": 9130,
+          "listed_count": 4,
+          "media_count": 217,
+          "tweet_count": 3775
+        },
+        "username": "Si3rraQuack",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T05:27:44.000Z",
+        "description": "喵星人MTX｜东京在住｜自由主义｜已嘎蛋 胸很大｜ASD\\HSP❤️‍🩹",
+        "id": "1573906833781456896",
+        "location": "日本 東京",
+        "name": "野良猫🍥",
+        "pinned_tweet_id": "1944083889431228459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933019554055442432/-iRfERzb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 503,
+          "like_count": 13895,
+          "listed_count": 1,
+          "media_count": 988,
+          "tweet_count": 4243
+        },
+        "username": "AIKOMTX",
+        "verified": true
+      }
+    ]
+  }
+}

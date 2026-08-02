@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2019997151615672390",
+    "created_at": "2026-02-07T04:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T05:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019997151615672390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/electronic_dir…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/electronic_dirt/status/2019842732701938104",
+          "start": 4,
+          "url": "https://t.co/TnHFQPmLg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019997151615672390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019842732701938104",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好美丽 https://t.co/TnHFQPmLg9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019842721696108545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAfsQPja0AEg61E.jpg",
+        "width": 1622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2019997151615672390",
+        "created_at": "2026-02-07T04:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T05:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019997151615672390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/electronic_dir…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/electronic_dirt/status/2019842732701938104",
+              "start": 4,
+              "url": "https://t.co/TnHFQPmLg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019997151615672390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019842732701938104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好美丽 https://t.co/TnHFQPmLg9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019842721696108545"
+          ]
+        },
+        "author_id": "2008943608695840768",
+        "conversation_id": "2019842732701938104",
+        "created_at": "2026-02-06T18:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T19:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019842732701938104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKdGRqEkhu",
+              "end": 39,
+              "expanded_url": "https://x.com/electronic_dirt/status/2019842732701938104/photo/1",
+              "media_key": "3_2019842721696108545",
+              "start": 16,
+              "url": "https://t.co/sKdGRqEkhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019842732701938104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 27560,
+          "like_count": 3373,
+          "quote_count": 11,
+          "reply_count": 49,
+          "retweet_count": 299
+        },
+        "reply_settings": "everyone",
+        "text": "好想再割啊…可是明天要去见网友 https://t.co/sKdGRqEkhu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭 @Yyyyy_pog｜主人❤️  @opaoguonai1108｜记得给他分烟🚬@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "opaoguonai1108"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "2012168616947458541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 1079,
+          "like_count": 69078,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 4435
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T16:47:44.000Z",
+        "description": "💉𓂋 我是电子垢/通缉喵 可以找我互fo捏( ^ω^ ) 09休学中 内含画画｜废话｜od｜自伤｜果",
+        "id": "2008943608695840768",
+        "name": "通缉电子垢💡",
+        "pinned_tweet_id": "2019978992556908806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018785279499497472/GMU_7D_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 108,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 375
+        },
+        "username": "electronic_dirt",
+        "verified": false
+      }
+    ]
+  }
+}

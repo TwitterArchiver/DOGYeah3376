@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1954555102410231870",
+    "created_at": "2025-08-10T14:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T15:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954555102410231870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dogyeah3376/st…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/dogyeah3376/status/1953821154386305170",
+          "start": 33,
+          "url": "https://t.co/2Wt6CzYYxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954555102410231870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953821154386305170",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有幻觉对我来说很恐怖\n没有幻觉 闭眼什么都没有 对我来说更恐怖🥺 https://t.co/2Wt6CzYYxg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1954555102410231870",
+        "created_at": "2025-08-10T14:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T15:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954555102410231870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dogyeah3376/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/dogyeah3376/status/1953821154386305170",
+              "start": 33,
+              "url": "https://t.co/2Wt6CzYYxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954555102410231870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953821154386305170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有幻觉对我来说很恐怖\n没有幻觉 闭眼什么都没有 对我来说更恐怖🥺 https://t.co/2Wt6CzYYxg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1953821154386305170",
+        "created_at": "2025-08-08T14:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T15:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953821154386305170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953821154386305170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有幻觉让我感觉很慌张 因为我知道 我闭上眼睛它就在那里 我一定会有幻觉 所以我还觉得有幻觉很幸福 因为它在药效里会等我🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜无证含糖mtx｜我有精神病。｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 661,
+          "like_count": 26099,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1075
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

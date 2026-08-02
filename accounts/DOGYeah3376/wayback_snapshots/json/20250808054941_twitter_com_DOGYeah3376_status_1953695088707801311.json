@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1953666770877001923",
+    "created_at": "2025-08-08T05:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T06:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953695088707801311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1927241523340460032",
+          "start": 0,
+          "username": "7770101s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953695088707801311",
+    "in_reply_to_user_id": "1927241523340460032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953666770877001923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7770101s 好pass 狠狠的xm了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953666737523896325",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxzRi_ubsAU_9Qs.jpg",
+        "width": 1912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1953666770877001923",
+        "created_at": "2025-08-08T05:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T06:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953695088707801311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1927241523340460032",
+              "start": 0,
+              "username": "7770101s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953695088707801311",
+        "in_reply_to_user_id": "1927241523340460032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953666770877001923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7770101s 好pass 狠狠的xm了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953666737523896325"
+          ]
+        },
+        "author_id": "1927241523340460032",
+        "conversation_id": "1953666770877001923",
+        "created_at": "2025-08-08T03:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T04:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953666770877001923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4CVOhn4dH",
+              "end": 43,
+              "expanded_url": "https://x.com/7770101s/status/1953666770877001923/photo/1",
+              "media_key": "3_1953666737523896325",
+              "start": 20,
+              "url": "https://t.co/B4CVOhn4dH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953666770877001923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常可靠的巨肩，适合左右各靠一个小跨妹 https://t.co/B4CVOhn4dH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜无证含糖mtx｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 614,
+          "like_count": 24540,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 884
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T05:52:49.000Z",
+        "description": "Do you have any ibuprofen? I got a headache.｜MtF｜poly｜前加国留子｜刷新在浙A｜永远❤️Saki",
+        "id": "1927241523340460032",
+        "location": "Milky Way Galaxy",
+        "name": "蒸汽动力齿轮🏳️‍⚧️",
+        "pinned_tweet_id": "1951230166656753767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950846759493906432/kpSlA-MO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 139,
+          "like_count": 1185,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 217
+        },
+        "username": "7770101s",
+        "verified": true
+      }
+    ]
+  }
+}

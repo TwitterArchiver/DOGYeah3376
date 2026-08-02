@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1967585515349459166",
+    "created_at": "2025-09-15T14:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T15:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967601360217780499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1693873810469199872",
+          "start": 0,
+          "username": "eve_city"
+        },
+        {
+          "end": 19,
+          "id": "1845491203124441093",
+          "start": 10,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967601360217780499",
+    "in_reply_to_user_id": "1693873810469199872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967599409249882556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eve_city @yu_huacs 补药哭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1967585515349459166",
+        "created_at": "2025-09-15T14:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T15:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967601360217780499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1693873810469199872",
+              "start": 0,
+              "username": "eve_city"
+            },
+            {
+              "end": 19,
+              "id": "1845491203124441093",
+              "start": 10,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967601360217780499",
+        "in_reply_to_user_id": "1693873810469199872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967599409249882556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eve_city @yu_huacs 补药哭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693873810469199872",
+        "conversation_id": "1967585515349459166",
+        "created_at": "2025-09-15T14:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T15:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967599409249882556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            },
+            {
+              "end": 22,
+              "id": "1845491203124441093",
+              "start": 13,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967599409249882556",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967597837522497737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 @yu_huacs 呜喵…（哭哭）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 900,
+          "like_count": 39101,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 2449
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T06:32:52.000Z",
+        "description": "HRT 2024.3.4 / 07年 成都📖 / https://t.co/BfsZkEfpcK✈️ / 1056540854🐧 /  喜欢音游 MC 轨交🐱 / 最可爱的猫猫🐈 @Jin_Ge233 @yoka740273 @TianshaYS / 最可爱的月月🌕@Dymoons_tis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "Jin_Ge233"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "yoka740273"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "TianshaYS"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "Dymoons_tis"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+5Hyy_7AnXjg4Z…",
+                "end": 48,
+                "expanded_url": "http://t.me/+5Hyy_7AnXjg4ZDI1",
+                "start": 25,
+                "url": "https://t.co/BfsZkEfpcK"
+              }
+            ]
+          }
+        },
+        "id": "1693873810469199872",
+        "location": "Estradiol Planet",
+        "name": "雨城EveningCity🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941145792586084352/Jd8lQnWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 966,
+          "like_count": 19715,
+          "listed_count": 4,
+          "media_count": 349,
+          "tweet_count": 5697
+        },
+        "username": "eve_city",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "不知名的yu huacs \n友所有群体 最喜欢的是朋友们\n\n成分复杂 双相焦虑治疗中 overdose lain 公路车\n第二人格 @yuhuacs5570\n最好の兄弟@Lizzy6315",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "Lizzy6315"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "你的心里",
+        "name": "余华成霜8964",
+        "pinned_tweet_id": "1964136320097538290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962121961225793536/84wpXl9U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1002,
+          "like_count": 88616,
+          "listed_count": 10,
+          "media_count": 1656,
+          "tweet_count": 14888
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

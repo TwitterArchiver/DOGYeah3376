@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1961007109992009772",
+    "created_at": "2025-08-28T11:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T12:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961030849190850600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892240715100594176",
+          "start": 0,
+          "username": "chuF6yuanmen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961030849190850600",
+    "in_reply_to_user_id": "1892240715100594176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961029951055970416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuF6yuanmen 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1961007109992009772",
+        "created_at": "2025-08-28T11:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T12:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961030849190850600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892240715100594176",
+              "start": 0,
+              "username": "chuF6yuanmen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961030849190850600",
+        "in_reply_to_user_id": "1892240715100594176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961029951055970416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuF6yuanmen 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892240715100594176",
+        "conversation_id": "1961007109992009772",
+        "created_at": "2025-08-28T11:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T12:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961029951055970416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961029951055970416",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961007109992009772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 喵喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 828,
+          "like_count": 34477,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1904
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T15:52:22.000Z",
+        "description": "04｜hrt:25 3.1🍥｜喵喵喵｜mtf｜174/50｜是个废物｜同类互fo｜不见证",
+        "id": "1892240715100594176",
+        "name": "⁺✞假期重度依赖ɞ✟₊",
+        "pinned_tweet_id": "1953719162746155134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916893727714684928/Jly1jONk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 638,
+          "like_count": 3661,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1550
+        },
+        "username": "chuF6yuanmen",
+        "verified": false
+      }
+    ]
+  }
+}

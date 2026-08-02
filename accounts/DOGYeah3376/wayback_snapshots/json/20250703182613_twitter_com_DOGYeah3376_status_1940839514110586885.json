@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940777708042309632"
+      ],
+      "media_source_tweet_id": [
+        "1940777710290399524"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1940839514110586885",
+    "created_at": "2025-07-03T18:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T19:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940839514110586885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1940774176371212288",
+          "start": 3,
+          "username": "MtfReport"
+        }
+      ],
+      "urls": [
+        {
+          "description": "MtF.Report 是一个致力于研究与支持中国青少年跨性别女性（MtF）的小型公益平台。我们通过深入的调研和真实案例，打破信息壁垒，让世界了解她们的处境，帮助她们走出困境，迈向更安全、更有尊严的生活。",
+          "display_url": "MtF.Report",
+          "end": 53,
+          "expanded_url": "http://MtF.Report",
+          "start": 30,
+          "status": 200,
+          "title": "MtF.Report",
+          "unwound_url": "https://mtf.report/",
+          "url": "https://t.co/fkZofIrXvt"
+        },
+        {
+          "display_url": "pic.x.com/H6sZIFcb7R",
+          "end": 119,
+          "expanded_url": "https://x.com/MtfReport/status/1940777710290399524/photo/1",
+          "media_key": "3_1940777708042309632",
+          "start": 96,
+          "url": "https://t.co/H6sZIFcb7R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940839514110586885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940777710290399524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MtfReport: Hello World\n这里是https://t.co/fkZofIrXvt的官方账号\n感谢各位的关注与支持\n我们后续会在这个账号上发布有关我们网站的动态信息。 https://t.co/H6sZIFcb7R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 349,
+        "media_key": "3_1940777708042309632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu8HCvPb0AACafi.png",
+        "width": 628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940777708042309632"
+          ],
+          "media_source_tweet_id": [
+            "1940777710290399524"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1940839514110586885",
+        "created_at": "2025-07-03T18:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T19:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940839514110586885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1940774176371212288",
+              "start": 3,
+              "username": "MtfReport"
+            }
+          ],
+          "urls": [
+            {
+              "description": "MtF.Report 是一个致力于研究与支持中国青少年跨性别女性（MtF）的小型公益平台。我们通过深入的调研和真实案例，打破信息壁垒，让世界了解她们的处境，帮助她们走出困境，迈向更安全、更有尊严的生活。",
+              "display_url": "MtF.Report",
+              "end": 53,
+              "expanded_url": "http://MtF.Report",
+              "start": 30,
+              "status": 200,
+              "title": "MtF.Report",
+              "unwound_url": "https://mtf.report/",
+              "url": "https://t.co/fkZofIrXvt"
+            },
+            {
+              "display_url": "pic.x.com/H6sZIFcb7R",
+              "end": 119,
+              "expanded_url": "https://x.com/MtfReport/status/1940777710290399524/photo/1",
+              "media_key": "3_1940777708042309632",
+              "start": 96,
+              "url": "https://t.co/H6sZIFcb7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940839514110586885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940777710290399524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MtfReport: Hello World\n这里是https://t.co/fkZofIrXvt的官方账号\n感谢各位的关注与支持\n我们后续会在这个账号上发布有关我们网站的动态信息。 https://t.co/H6sZIFcb7R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940777708042309632"
+          ]
+        },
+        "author_id": "1940774176371212288",
+        "conversation_id": "1940777710290399524",
+        "created_at": "2025-07-03T14:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T15:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940777710290399524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "MtF.Report 是一个致力于研究与支持中国青少年跨性别女性（MtF）的小型公益平台。我们通过深入的调研和真实案例，打破信息壁垒，让世界了解她们的处境，帮助她们走出困境，迈向更安全、更有尊严的生活。",
+              "display_url": "MtF.Report",
+              "end": 38,
+              "expanded_url": "http://MtF.Report",
+              "start": 15,
+              "status": 200,
+              "title": "MtF.Report",
+              "unwound_url": "https://mtf.report/",
+              "url": "https://t.co/fkZofIrXvt"
+            },
+            {
+              "display_url": "pic.x.com/H6sZIFcb7R",
+              "end": 104,
+              "expanded_url": "https://x.com/MtfReport/status/1940777710290399524/photo/1",
+              "media_key": "3_1940777708042309632",
+              "start": 81,
+              "url": "https://t.co/H6sZIFcb7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940777710290399524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1095,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Hello World\n这里是https://t.co/fkZofIrXvt的官方账号\n感谢各位的关注与支持\n我们后续会在这个账号上发布有关我们网站的动态信息。 https://t.co/H6sZIFcb7R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 289,
+          "like_count": 10159,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 341
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T14:06:45.000Z",
+        "description": "https://t.co/Mxs6Bpc5u2 是一个致力于研究与支持中国青少年跨性别女性（MtF）的小型公益平台。我们通过深入的调研和真实案例，打破信息壁垒，让世界了解她们的处境，帮助她们走出困境，迈向更安全、更有尊严的生活。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "MtF.Report",
+                "end": 23,
+                "expanded_url": "http://MtF.Report",
+                "start": 0,
+                "url": "https://t.co/Mxs6Bpc5u2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.report",
+                "end": 23,
+                "expanded_url": "https://mtf.report",
+                "start": 0,
+                "url": "https://t.co/MieKFRIqBx"
+              }
+            ]
+          }
+        },
+        "id": "1940774176371212288",
+        "name": "MtF.Report",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940774961893068800/K65GvlVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/MieKFRIqBx",
+        "username": "MtfReport",
+        "verified": false
+      }
+    ]
+  }
+}

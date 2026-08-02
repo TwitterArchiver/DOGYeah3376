@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058440820022452224",
+        "3_2058440820014125056"
+      ],
+      "media_source_tweet_id": [
+        "2058440826741805388",
+        "2058440826741805388"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "2058442751872765957",
+    "created_at": "2026-05-24T06:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058442751872765957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026876224589701120",
+          "start": 3,
+          "username": "R1k0xo33w"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/srN4YhwGoe",
+          "end": 67,
+          "expanded_url": "https://x.com/R1k0xo33w/status/2058440826741805388/photo/1",
+          "media_key": "3_2058440820022452224",
+          "start": 44,
+          "url": "https://t.co/srN4YhwGoe"
+        },
+        {
+          "display_url": "pic.x.com/srN4YhwGoe",
+          "end": 67,
+          "expanded_url": "https://x.com/R1k0xo33w/status/2058440826741805388/photo/1",
+          "media_key": "3_2058440820014125056",
+          "start": 44,
+          "url": "https://t.co/srN4YhwGoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058442751872765957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058440826741805388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R1k0xo33w: 我喜欢水母🪼 没有脑子 悠长的生命去感受 见证世界 时间 https://t.co/srN4YhwGoe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2058440820022452224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJENBQyaIAAdbrq.jpg",
+        "width": 1620
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2058440820014125056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJENBQwbEAAuAiV.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058440820022452224",
+            "3_2058440820014125056"
+          ],
+          "media_source_tweet_id": [
+            "2058440826741805388",
+            "2058440826741805388"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "2058442751872765957",
+        "created_at": "2026-05-24T06:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058442751872765957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026876224589701120",
+              "start": 3,
+              "username": "R1k0xo33w"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/srN4YhwGoe",
+              "end": 67,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2058440826741805388/photo/1",
+              "media_key": "3_2058440820022452224",
+              "start": 44,
+              "url": "https://t.co/srN4YhwGoe"
+            },
+            {
+              "display_url": "pic.x.com/srN4YhwGoe",
+              "end": 67,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2058440826741805388/photo/1",
+              "media_key": "3_2058440820014125056",
+              "start": 44,
+              "url": "https://t.co/srN4YhwGoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058442751872765957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058440826741805388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R1k0xo33w: 我喜欢水母🪼 没有脑子 悠长的生命去感受 见证世界 时间 https://t.co/srN4YhwGoe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058440820022452224",
+            "3_2058440820014125056"
+          ]
+        },
+        "author_id": "2026876224589701120",
+        "conversation_id": "2058440826741805388",
+        "created_at": "2026-05-24T06:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058440826741805388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/srN4YhwGoe",
+              "end": 52,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2058440826741805388/photo/1",
+              "media_key": "3_2058440820022452224",
+              "start": 29,
+              "url": "https://t.co/srN4YhwGoe"
+            },
+            {
+              "display_url": "pic.x.com/srN4YhwGoe",
+              "end": 52,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2058440826741805388/photo/1",
+              "media_key": "3_2058440820014125056",
+              "start": 29,
+              "url": "https://t.co/srN4YhwGoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058440826741805388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢水母🪼 没有脑子 悠长的生命去感受 见证世界 时间 https://t.co/srN4YhwGoe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 1134,
+          "like_count": 75276,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 5305
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T04:25:31.000Z",
+        "description": "一直在找我是谁#颓废磕药#是个可爱的孩子#",
+        "id": "2026876224589701120",
+        "name": "鲤",
+        "pinned_tweet_id": "2035834585226019160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038180445620453376/K2BlHK_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 99,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 646
+        },
+        "username": "R1k0xo33w",
+        "verified": false
+      }
+    ]
+  }
+}

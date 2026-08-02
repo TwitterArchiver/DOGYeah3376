@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1937464264547271078",
+    "created_at": "2025-06-24T10:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T11:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937464264547271078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896175390005342208",
+          "start": 3,
+          "username": "Chufeinya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937464264547271078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936776402583622041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chufeinya: 跨女圈是我滴家乡😄\n伪音唱出了美美滴模样😘\n姐妹相聚必须整女装🥺\n劳保浮木不懂得欣赏😭\n药娘圈是我滴家乡😃\n我就在圈子里土生土长😋\n药娘们的心，跨女们的爱❤️\n贼拉拉滴爱你呀我滴家乡😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1937464264547271078",
+        "created_at": "2025-06-24T10:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T11:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937464264547271078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896175390005342208",
+              "start": 3,
+              "username": "Chufeinya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937464264547271078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936776402583622041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chufeinya: 跨女圈是我滴家乡😄\n伪音唱出了美美滴模样😘\n姐妹相聚必须整女装🥺\n劳保浮木不懂得欣赏😭\n药娘圈是我滴家乡😃\n我就在圈子里土生土长😋\n药娘们的心，跨女们的爱❤️\n贼拉拉滴爱你呀我滴家乡😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896175390005342208",
+        "conversation_id": "1936775989029466274",
+        "created_at": "2025-06-22T13:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T14:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936776402583622041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936776402583622041",
+        "in_reply_to_user_id": "1896175390005342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3233,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936775989029466274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨女圈是我滴家乡😄\n伪音唱出了美美滴模样😘\n姐妹相聚必须整女装🥺\n劳保浮木不懂得欣赏😭\n药娘圈是我滴家乡😃\n我就在圈子里土生土长😋\n药娘们的心，跨女们的爱❤️\n贼拉拉滴爱你呀我滴家乡😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 258,
+          "like_count": 7255,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 256
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "#防虐待自救指南 #关注家暴受害者 #关注救助者健康 劫难没能改变我的信念~｜🥰小笨蛋们：@Haruhi_LAP，@Chiyuyu520｜OT:@Peoplenya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "防虐待自救指南"
+              },
+              {
+                "end": 17,
+                "start": 9,
+                "tag": "关注家暴受害者"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "tag": "关注救助者健康"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Haruhi_LAP"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "Peoplenya"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "青岛地铁13号线",
+        "name": "初菲喵~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906278656726777856/-3MdD1iO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 1113,
+          "like_count": 9924,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 573
+        },
+        "username": "Chufeinya",
+        "verified": false
+      }
+    ]
+  }
+}

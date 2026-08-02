@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1908373610030583984",
+    "created_at": "2025-04-05T14:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T15:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908527445533475098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751613061587468288",
+          "start": 0,
+          "username": "hosh1no_shizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908527445533475098",
+    "in_reply_to_user_id": "1751613061587468288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908373610030583984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hosh1no_shizuku 受不了了这个入太可爱了😉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1908373601247780867",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnvnrekbYAMSJ6m.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1908373610030583984",
+        "created_at": "2025-04-05T14:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T15:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908527445533475098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1751613061587468288",
+              "start": 0,
+              "username": "hosh1no_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908527445533475098",
+        "in_reply_to_user_id": "1751613061587468288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908373610030583984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hosh1no_shizuku 受不了了这个入太可爱了😉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908373601247780867"
+          ]
+        },
+        "author_id": "1751613061587468288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1908373610030583984",
+        "created_at": "2025-04-05T04:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T05:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908373610030583984"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "伪娘"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "Femboy"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "男の娘"
+            },
+            {
+              "end": 33,
+              "start": 21,
+              "tag": "BlueArhcive"
+            },
+            {
+              "end": 53,
+              "start": 34,
+              "tag": "BlueArchiveCosplay"
+            },
+            {
+              "end": 62,
+              "start": 54,
+              "tag": "Cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U84AtW3266",
+              "end": 86,
+              "expanded_url": "https://x.com/hosh1no_shizuku/status/1908373610030583984/photo/1",
+              "media_key": "3_1908373601247780867",
+              "start": 63,
+              "url": "https://t.co/U84AtW3266"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908373610030583984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3920,
+          "like_count": 241,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘 #Femboy #男の娘 #BlueArhcive #BlueArchiveCosplay #Cosplay https://t.co/U84AtW3266"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "忘记写简介了 于是打算不写",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892161465890787329/AjLYBSm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 168,
+          "like_count": 1889,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 117
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T14:28:03.000Z",
+        "description": "🇨🇳19岁无🍬小男娘 可以叫我小雫 女装纯兴趣// 喜欢编曲🎵画画🎨和穿女装// 清水系 不擦边 🈚️🔞 无业务 不开🚪 同好可扩列 已有对象 // 全网同名 随缘更新// 可在QQ音乐/网易云/Pixiv @LanziiLove找到我的音乐和绘画作品// B站偶尔直播",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1751613061587468288",
+        "location": "亚海悬城A包点二楼下",
+        "name": "星野雫丶Shizuku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894250059786588160/_ASAO7bp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21065,
+          "following_count": 134,
+          "like_count": 106,
+          "listed_count": 55,
+          "media_count": 61,
+          "tweet_count": 1044
+        },
+        "username": "hosh1no_shizuku",
+        "verified": false
+      }
+    ]
+  }
+}

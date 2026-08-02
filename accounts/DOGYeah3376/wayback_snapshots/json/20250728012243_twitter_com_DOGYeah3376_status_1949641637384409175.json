@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949641631524941824"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1949641637384409175",
+    "created_at": "2025-07-28T01:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T02:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949641637384409175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OdNrtNUKqq",
+          "end": 28,
+          "expanded_url": "https://x.com/DOGYeah3376/status/1949641637384409175/photo/1",
+          "media_key": "3_1949641631524941824",
+          "start": 5,
+          "url": "https://t.co/OdNrtNUKqq"
+        },
+        {
+          "display_url": "x.com/snow_xue_/stat…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/snow_xue_/status/1949470910853091357",
+          "start": 29,
+          "url": "https://t.co/XR0NUCyprZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949641637384409175",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949470910853091357",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呜呜呜🥺 https://t.co/OdNrtNUKqq https://t.co/XR0NUCyprZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949641631524941824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw6Eu_ZbcAA9f-W.jpg",
+        "width": 944
+      },
+      {
+        "height": 823,
+        "media_key": "3_1949470898203033601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3pdANagAEr-x3.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949641631524941824"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1949641637384409175",
+        "created_at": "2025-07-28T01:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T02:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949641637384409175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OdNrtNUKqq",
+              "end": 28,
+              "expanded_url": "https://x.com/DOGYeah3376/status/1949641637384409175/photo/1",
+              "media_key": "3_1949641631524941824",
+              "start": 5,
+              "url": "https://t.co/OdNrtNUKqq"
+            },
+            {
+              "display_url": "x.com/snow_xue_/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/snow_xue_/status/1949470910853091357",
+              "start": 29,
+              "url": "https://t.co/XR0NUCyprZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949641637384409175",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949470910853091357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜呜呜🥺 https://t.co/OdNrtNUKqq https://t.co/XR0NUCyprZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949470898203033601"
+          ]
+        },
+        "author_id": "1885154179922227200",
+        "conversation_id": "1949470910853091357",
+        "created_at": "2025-07-27T14:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T15:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949470910853091357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xFeVfObY0q",
+              "end": 23,
+              "expanded_url": "https://x.com/Snow_Xue_/status/1949470910853091357/photo/1",
+              "media_key": "3_1949470898203033601",
+              "start": 0,
+              "url": "https://t.co/xFeVfObY0q"
+            },
+            {
+              "display_url": "x.com/SujitGund/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/SujitGund/status/1910115397254447243",
+              "start": 24,
+              "url": "https://t.co/Lsb3Q4tGFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949470910853091357",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1709,
+          "like_count": 15,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910115397254447243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/xFeVfObY0q https://t.co/Lsb3Q4tGFa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 488,
+          "like_count": 19175,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 666
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "...\n生产日期2010.3.16",
+        "id": "1885154179922227200",
+        "location": "上海 ",
+        "name": "雪🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906588909070589953/QQGqwlVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 994,
+          "like_count": 22548,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 1796
+        },
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945625417425326084"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1945625426631500153",
+    "created_at": "2025-07-16T23:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T00:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945625426631500153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ETilsDwSzn",
+          "end": 60,
+          "expanded_url": "https://x.com/DOGYeah3376/status/1945625426631500153/photo/1",
+          "media_key": "3_1945625417425326084",
+          "start": 37,
+          "url": "https://t.co/ETilsDwSzn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945625426631500153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "完蛋了唔小皮次了6tpr150 12t玉米 一点效果都没有 白吃了呜呜呜 https://t.co/ETilsDwSzn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_1945625417425326084",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwBAAj-bkAQ86Wf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945625417425326084"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1945625426631500153",
+        "created_at": "2025-07-16T23:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T00:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945625426631500153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ETilsDwSzn",
+              "end": 60,
+              "expanded_url": "https://x.com/DOGYeah3376/status/1945625426631500153/photo/1",
+              "media_key": "3_1945625417425326084",
+              "start": 37,
+              "url": "https://t.co/ETilsDwSzn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945625426631500153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完蛋了唔小皮次了6tpr150 12t玉米 一点效果都没有 白吃了呜呜呜 https://t.co/ETilsDwSzn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx 自伤 od 互fo（没看到的戳我一下好了） 最好的妹妹@xiaoyieQAQ 谢谢你的关注😉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 405,
+          "like_count": 16216,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 531
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

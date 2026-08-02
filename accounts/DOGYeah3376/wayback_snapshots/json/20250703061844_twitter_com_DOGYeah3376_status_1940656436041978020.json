@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1940654381046923321",
+    "created_at": "2025-07-03T06:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T07:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940656436041978020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1224014088381952002",
+          "start": 0,
+          "username": "YeBuYiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940656436041978020",
+    "in_reply_to_user_id": "1224014088381952002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940654381046923321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeBuYiya 宝子我在网上刷这个我也看不懂🆘"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1940654381046923321].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1940654381046923321",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1940654381046923321"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1940654381046923321",
+        "created_at": "2025-07-03T06:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T07:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940656436041978020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1224014088381952002",
+              "start": 0,
+              "username": "YeBuYiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940656436041978020",
+        "in_reply_to_user_id": "1224014088381952002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940654381046923321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeBuYiya 宝子我在网上刷这个我也看不懂🆘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 284,
+          "like_count": 9996,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 334
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T16:58:04.000Z",
+        "description": "一个普通底层跨性别者，年过三十老药娘，争取活到自然死，为了那个虚无缥缈的目标而努力，换过很多工作，有很多技能，但是全都没什么用，目前正在摆地摊卖水果，有一个坚韧不屈的灵魂积极向上，感觉人生过去了好久好久，又好像没过多久",
+        "id": "1224014088381952002",
+        "location": "世界树",
+        "name": "花里花拉🍥🍬🍭（戒烟成功版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889319444943712256/q0DfpVgO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 308,
+          "like_count": 2635,
+          "listed_count": 6,
+          "media_count": 181,
+          "tweet_count": 1715
+        },
+        "username": "YeBuYiya",
+        "verified": false
+      }
+    ]
+  }
+}

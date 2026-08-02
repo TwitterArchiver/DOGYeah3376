@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2055131785311522976",
+    "created_at": "2026-05-15T03:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T04:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055131785311522976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1844103262292803587",
+          "start": 3,
+          "username": "H1987661999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055131785311522976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054884822246723871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @H1987661999: 我的小鸡鸡一直在我的逼里跳 我好难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2055131785311522976",
+        "created_at": "2026-05-15T03:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055131785311522976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1844103262292803587",
+              "start": 3,
+              "username": "H1987661999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055131785311522976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054884822246723871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @H1987661999: 我的小鸡鸡一直在我的逼里跳 我好难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844103262292803587",
+        "conversation_id": "2054884822246723871",
+        "created_at": "2026-05-14T11:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054884822246723871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054884822246723871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1621,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "我的小鸡鸡一直在我的逼里跳 我好难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 1142,
+          "like_count": 75015,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5271
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T19:51:03.000Z",
+        "description": "是否能站得住 留下迈出的步子",
+        "id": "1844103262292803587",
+        "name": "。",
+        "pinned_tweet_id": "2032324307914014943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044646095083741184/L5NGkoJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 168,
+          "like_count": 39480,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 2643
+        },
+        "username": "H1987661999",
+        "verified": false
+      }
+    ]
+  }
+}

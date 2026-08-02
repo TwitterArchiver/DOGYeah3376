@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1947030847875650037",
+    "created_at": "2025-07-21T01:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T02:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947112880673030211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1672670387409395712",
+          "start": 0,
+          "username": "YENA_QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947112880673030211",
+    "in_reply_to_user_id": "1672670387409395712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947030847875650037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YENA_QWQ 我爱你，你已经很棒了，你什么都没做错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1947030847875650037",
+        "created_at": "2025-07-21T01:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T02:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947112880673030211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1672670387409395712",
+              "start": 0,
+              "username": "YENA_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947112880673030211",
+        "in_reply_to_user_id": "1672670387409395712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947030847875650037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YENA_QWQ 我爱你，你已经很棒了，你什么都没做错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672670387409395712",
+        "conversation_id": "1947030847875650037",
+        "created_at": "2025-07-20T20:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T21:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947030847875650037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947030847875650037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 405,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能跟我说“我爱你，你已经很棒了，你什么都没做错”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "是一只可爱的小狗呀｜无证含糖mtx｜深柜｜自伤 od｜互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 442,
+          "like_count": 17432,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 588
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T18:18:15.000Z",
+        "description": "04年MTF(？)，小证，可以叫我奈奈，常出现在长三角地区以及广西～不接线下⚠️/❗病态般的缺爱❗喜欢交朋友～可以来找奈奈一起玩～/我一辈子都在妄想着一个人会回来找我",
+        "id": "1672670387409395712",
+        "location": "0772",
+        "name": "叶奈–YENA🍥",
+        "pinned_tweet_id": "1946272337596387780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946871947868188672/WGfHyKJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 353,
+          "like_count": 560,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 172
+        },
+        "username": "YENA_QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

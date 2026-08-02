@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1944368892144742878",
+    "created_at": "2025-07-13T22:46:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T23:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944528911838425287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904114960000802816",
+          "start": 0,
+          "username": "iyashino3kura"
+        },
+        {
+          "end": 27,
+          "id": "1587653801305153538",
+          "start": 15,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944528911838425287",
+    "in_reply_to_user_id": "1904114960000802816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944368892144742878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iyashino3kura @XiaoHuiHuiH 我都不敢想象这有多疼🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5605,
+        "height": 3840,
+        "media_key": "13_1944368140252512256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1944368140252512256/img/vjASA0UOoQO0bLE_.jpg",
+        "public_metrics": {
+          "view_count": 40007
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944368140252512256/vid/avc1/320x568/Cf8mDKN4rRUE5nv6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944368140252512256/vid/avc1/480x852/tdpMmZ7-r3zmb8h5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944368140252512256/vid/avc1/720x1280/ngdrmPj4LsYxrRav.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1944368140252512256/pl/dAJ1DBIVIl5rujoo.m3u8?tag=14"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1944368892144742878",
+        "created_at": "2025-07-13T22:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T23:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944528911838425287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904114960000802816",
+              "start": 0,
+              "username": "iyashino3kura"
+            },
+            {
+              "end": 27,
+              "id": "1587653801305153538",
+              "start": 15,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944528911838425287",
+        "in_reply_to_user_id": "1904114960000802816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944368892144742878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iyashino3kura @XiaoHuiHuiH 我都不敢想象这有多疼🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1944368140252512256"
+          ]
+        },
+        "author_id": "1904114960000802816",
+        "conversation_id": "1944368892144742878",
+        "created_at": "2025-07-13T12:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T13:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944368892144742878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/26xwhOrpG1",
+              "end": 53,
+              "expanded_url": "https://x.com/iyashino3kura/status/1944368892144742878/video/1",
+              "media_key": "13_1944368140252512256",
+              "start": 30,
+              "url": "https://t.co/26xwhOrpG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944368892144742878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 497,
+          "impression_count": 71098,
+          "like_count": 1434,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "あっ///\n声出ちゃったぁ🩷\n使い方合ってるぅ？(〃ω〃) https://t.co/26xwhOrpG1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭 最好的妹妹@xiaoyieQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "xiaoyieQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 361,
+          "like_count": 14847,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 477
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T10:16:12.000Z",
+        "description": "”夜の癒し”はさくらの「ふぁんくらぶ」 で🩷\n初めましてさん限定のおためし動画もあるよっ👇👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "iyashinosakura.com/My_xprof",
+                "end": 23,
+                "expanded_url": "https://iyashinosakura.com/My_xprof",
+                "start": 0,
+                "url": "https://t.co/r1X8WFATfJ"
+              }
+            ]
+          }
+        },
+        "id": "1904114960000802816",
+        "location": "ふぁんくらぶ→",
+        "name": "癒し乃さくら",
+        "pinned_tweet_id": "1943867919009820978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928029019657883650/1atOPzkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26377,
+          "following_count": 107,
+          "like_count": 4,
+          "listed_count": 36,
+          "media_count": 99,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/r1X8WFATfJ",
+        "username": "iyashino3kura",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点”里哦😈\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🩷💜/含糖🍥2023.12.7/泛性恋🏳️‍🌈/21岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/淫趴头子+滥交药攻/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1913873631475622109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10934,
+          "following_count": 1195,
+          "like_count": 120250,
+          "listed_count": 23,
+          "media_count": 3974,
+          "tweet_count": 56088
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

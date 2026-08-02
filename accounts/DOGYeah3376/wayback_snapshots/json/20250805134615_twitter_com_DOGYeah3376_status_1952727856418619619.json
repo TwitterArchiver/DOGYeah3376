@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1952680911415156744",
+    "created_at": "2025-08-05T13:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T14:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952727856418619619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1951919014244126720",
+          "start": 0,
+          "username": "w9404170534338"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952727856418619619",
+    "in_reply_to_user_id": "1951919014244126720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952712754009182282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w9404170534338 可能太突然了…被我的关注突然🈷️ 甚至没有互关 虽然是同城 对方还不愿意做测试…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1952680911415156744",
+        "created_at": "2025-08-05T13:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T14:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952727856418619619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1951919014244126720",
+              "start": 0,
+              "username": "w9404170534338"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952727856418619619",
+        "in_reply_to_user_id": "1951919014244126720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952712754009182282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w9404170534338 可能太突然了…被我的关注突然🈷️ 甚至没有互关 虽然是同城 对方还不愿意做测试…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951919014244126720",
+        "conversation_id": "1952680911415156744",
+        "created_at": "2025-08-05T12:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T13:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952712754009182282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952712754009182282",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952680911415156744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 可能太突然？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜性别废除主义｜互fo",
+        "id": "1676500088221478912",
+        "location": "✝️天国✝️",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 580,
+          "like_count": 23035,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 803
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T08:12:21.000Z",
+        "description": "...",
+        "id": "1951919014244126720",
+        "name": "w",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951919826924126208/Cd9uVKeS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 47
+        },
+        "username": "w9404170534338",
+        "verified": false
+      }
+    ]
+  }
+}

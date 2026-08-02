@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1953795941833879741",
+    "created_at": "2025-08-09T05:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T06:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954053615813112179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1910085836420558848",
+          "start": 0,
+          "username": "BaiandErika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954053615813112179",
+    "in_reply_to_user_id": "1910085836420558848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953795941833879741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaiandErika 好好看😉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953795928491798528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1HC5lbsAAvXcV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1953795941833879741",
+        "created_at": "2025-08-09T05:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T06:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954053615813112179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910085836420558848",
+              "start": 0,
+              "username": "BaiandErika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954053615813112179",
+        "in_reply_to_user_id": "1910085836420558848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953795941833879741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaiandErika 好好看😉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953795928491798528"
+          ]
+        },
+        "author_id": "1910085836420558848",
+        "conversation_id": "1953795941833879741",
+        "created_at": "2025-08-08T12:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T13:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953795941833879741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EEgtifZjIe",
+              "end": 31,
+              "expanded_url": "https://x.com/BaiandErika/status/1953795941833879741/photo/1",
+              "media_key": "3_1953795928491798528",
+              "start": 8,
+              "url": "https://t.co/EEgtifZjIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953795941833879741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2260,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是独裁者吗？ https://t.co/EEgtifZjIe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "这里是小皮和秋雨｜无证含糖mtx｜中焦重抑bpd｜含糖2025.6.4｜性别废除主义｜自伤od｜多意识体｜互fo",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 633,
+          "like_count": 25190,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 945
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T21:42:17.000Z",
+        "description": "サブ垢 『这骚福我真想狂燥』乐队电吉他手 🎸 给你的只有看垃圾的眼神",
+        "id": "1910085836420558848",
+        "location": "刃下心",
+        "name": "诅咒是纯白色🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1940329224226926794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924931715652530176/qXgXK2K9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 261,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 868
+        },
+        "username": "BaiandErika",
+        "verified": false
+      }
+    ]
+  }
+}

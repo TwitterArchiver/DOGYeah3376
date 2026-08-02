@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1978464084522938465",
+    "created_at": "2025-10-15T14:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T15:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978464084522938465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1837114188046684161",
+          "start": 3,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978464084522938465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978315519540269526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @winterfruit_1: 严肃学习"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1978464084522938465",
+        "created_at": "2025-10-15T14:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T15:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978464084522938465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1837114188046684161",
+              "start": 3,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978464084522938465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978315519540269526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @winterfruit_1: 严肃学习"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1978315519540269526",
+        "created_at": "2025-10-15T04:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T05:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978315519540269526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/faithnagy88710…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/faithnagy88710/status/1978272680806605140",
+              "start": 5,
+              "url": "https://t.co/RmGMPWdd6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978315519540269526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1006,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978272680806605140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严肃学习 https://t.co/RmGMPWdd6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1977003730294956431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 995,
+          "like_count": 52307,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 3342
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙  里帐：@_Yakumo_Yuyuko_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "_Yakumo_Yuyuko_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "1966543832394432735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977117627014340608/L8LczEVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 874,
+          "like_count": 17358,
+          "listed_count": 3,
+          "media_count": 584,
+          "tweet_count": 5525
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1938016992126259381",
+    "created_at": "2025-06-25T23:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T00:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938016992126259381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695975046051942400",
+          "start": 3,
+          "username": "mitsuki87613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938016992126259381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936264514745626885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mitsuki87613: 笑不出来……看着好心疼……\nta这么可爱尚且被拘束成这样……\n像我这样长得不好看的，无论穿不穿裙子、喜不喜欢可爱的东西都要被冷嘲热讽、阴阳怪气，甚至被不认识我的人针对外貌和性向人身攻击……\n什么时候性向和外貌不再是攻击人的手段，不再是评判一个…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1936264507002634240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt7-T3MWwAApqgV.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1938016992126259381",
+        "created_at": "2025-06-25T23:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T00:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938016992126259381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695975046051942400",
+              "start": 3,
+              "username": "mitsuki87613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938016992126259381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936264514745626885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mitsuki87613: 笑不出来……看着好心疼……\nta这么可爱尚且被拘束成这样……\n像我这样长得不好看的，无论穿不穿裙子、喜不喜欢可爱的东西都要被冷嘲热讽、阴阳怪气，甚至被不认识我的人针对外貌和性向人身攻击……\n什么时候性向和外貌不再是攻击人的手段，不再是评判一个…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936264507002634240"
+          ]
+        },
+        "author_id": "1695975046051942400",
+        "conversation_id": "1936264514745626885",
+        "created_at": "2025-06-21T03:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T04:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936264514745626885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FYdFpiiNRG",
+              "end": 166,
+              "expanded_url": "https://x.com/mitsuki87613/status/1936264514745626885/photo/1",
+              "media_key": "3_1936264507002634240",
+              "start": 143,
+              "url": "https://t.co/FYdFpiiNRG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936264514745626885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2862,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "笑不出来……看着好心疼……\nta这么可爱尚且被拘束成这样……\n像我这样长得不好看的，无论穿不穿裙子、喜不喜欢可爱的东西都要被冷嘲热讽、阴阳怪气，甚至被不认识我的人针对外貌和性向人身攻击……\n什么时候性向和外貌不再是攻击人的手段，不再是评判一个人的尺表呢……\n希望大家都被温柔以待。。。 https://t.co/FYdFpiiNRG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 258,
+          "like_count": 7476,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 268
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T01:42:26.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️/免费树洞/已出柜/跨女同/社会主义/马列毛主义，卢森堡思想/反资反修/术力口/愿人类彻底解放，愿人类真正自由/想和大家交朋友，同类会回fo(◍˃̶ᗜ˂̶◍)/为世界上所有的美好而战/\nWe shall meet in the place where there is no darkness",
+        "id": "1695975046051942400",
+        "location": "亚细亚苏维埃社会主义人民联盟（PASSU）-上海公社",
+        "name": "なな🏳️‍⚧️🍥Demodosia（暖言版）",
+        "pinned_tweet_id": "1924281280566583396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908598291681677312/j-YqJbMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 747,
+          "like_count": 10962,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 3033
+        },
+        "username": "mitsuki87613",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2042578077004501106",
+    "created_at": "2026-04-10T12:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T13:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042580506894840299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1442726671841312769",
+          "start": 0,
+          "username": "eziral778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042580506894840299",
+    "in_reply_to_user_id": "1442726671841312769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042580386174373926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eziral778 没吃🌽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2042578077004501106",
+        "created_at": "2026-04-10T12:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042580506894840299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442726671841312769",
+              "start": 0,
+              "username": "eziral778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042580506894840299",
+        "in_reply_to_user_id": "1442726671841312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042580386174373926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eziral778 没吃🌽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442726671841312769",
+        "conversation_id": "2042578077004501106",
+        "created_at": "2026-04-10T12:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042580386174373926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "07fefc42d1da90c0"
+        },
+        "id": "2042580386174373926",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042578077004501106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 不是明天再吃吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2039536218569052226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1124,
+          "like_count": 71997,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 4987
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T05:43:55.000Z",
+        "description": "这里什么也没有",
+        "id": "1442726671841312769",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "念念",
+        "pinned_tweet_id": "2024363219876528515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850224171013521408/fHAVWYAJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 631,
+          "like_count": 2207,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1636
+        },
+        "username": "eziral778",
+        "verified": false
+      }
+    ]
+  }
+}

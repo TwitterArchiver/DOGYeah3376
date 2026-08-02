@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1949464541513015314",
+    "created_at": "2025-07-27T13:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T14:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949464541513015314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896061942785310720",
+          "start": 3,
+          "username": "notYuZerO"
+        },
+        {
+          "end": 27,
+          "id": "1676500088221478912",
+          "start": 15,
+          "username": "DOGYeah3376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949464541513015314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949462930682261885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @notYuZerO: @DOGYeah3376 乖，我就往你妈b里灌一次水泥🤗不算奸污你妈。\n\n实话实说，从你割那几刀死皮就看出来了：你就是在装病而已。快自杀吧，把抑郁症当高光液使的可怜兮兮小楠娘，不，你跟吸毒的已经被区别了🥺🥺🥺\n   你妈很可怜，我不该对你妈爆粗口的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1949464541513015314",
+        "created_at": "2025-07-27T13:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T14:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949464541513015314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896061942785310720",
+              "start": 3,
+              "username": "notYuZerO"
+            },
+            {
+              "end": 27,
+              "id": "1676500088221478912",
+              "start": 15,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949464541513015314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949462930682261885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @notYuZerO: @DOGYeah3376 乖，我就往你妈b里灌一次水泥🤗不算奸污你妈。\n\n实话实说，从你割那几刀死皮就看出来了：你就是在装病而已。快自杀吧，把抑郁症当高光液使的可怜兮兮小楠娘，不，你跟吸毒的已经被区别了🥺🥺🥺\n   你妈很可怜，我不该对你妈爆粗口的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896061942785310720",
+        "conversation_id": "1949337482891350206",
+        "created_at": "2025-07-27T13:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T14:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949462930682261885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949462930682261885",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949391590218477936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 乖，我就往你妈b里灌一次水泥🤗不算奸污你妈。\n\n实话实说，从你割那几刀死皮就看出来了：你就是在装病而已。快自杀吧，把抑郁症当高光液使的可怜兮兮小楠娘，不，你跟吸毒的已经被区别了🥺🥺🥺\n   你妈很可怜，我不该对你妈爆粗口的，对不起。😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "无证含糖mtx｜含糖2025.6.4｜互fo",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1947021441486184695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 486,
+          "like_count": 19066,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 660
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:56:37.000Z",
+        "description": "也许是YuZer〇的小号？（看图用）\n音乐牲/音游狗/半现充/🇨🇳\n（还没变成死飞宅真是奇迹）\n反发情LGBT/反粉饰太平\n（得抑郁症就他妈的像我一样治，o你妈d）",
+        "id": "1896061942785310720",
+        "name": "YuZer〇❗️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915267620997357568/NWT5koAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 90,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 204
+        },
+        "username": "notYuZerO",
+        "verified": false
+      }
+    ]
+  }
+}

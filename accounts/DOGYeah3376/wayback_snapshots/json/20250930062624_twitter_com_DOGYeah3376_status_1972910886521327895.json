@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1972888234566070636",
+    "created_at": "2025-09-30T06:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T07:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972910886521327895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1971006655430262784",
+          "start": 0,
+          "username": "FxxkApexLegend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972910886521327895",
+    "in_reply_to_user_id": "1971006655430262784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972888234566070636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FxxkApexLegend 行。我知道了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1972888234566070636",
+        "created_at": "2025-09-30T06:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T07:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972910886521327895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1971006655430262784",
+              "start": 0,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972910886521327895",
+        "in_reply_to_user_id": "1971006655430262784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972888234566070636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FxxkApexLegend 行。我知道了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971006655430262784",
+        "conversation_id": "1972888234566070636",
+        "created_at": "2025-09-30T04:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T05:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972888234566070636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972888234566070636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "起床"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜自杀倒计时｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "距你0.1km",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1971966535494521160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 948,
+          "like_count": 46174,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 2870
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "“青野怎麼不玩地平線去推特賣藥了”/我是「翎」 / 🏳️‍⚧️🍥MtX💛🤍💜🖤(she?/they) /26fall🇨🇦🇬🇧 / Apex地平線從新手到入門到賬號已註銷 / 舞萌痴/雷見證or反跨 / 里推@KagurazakaAkira ❤️@juhao0721 / 擔保買藥找@minokakay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "KagurazakaAkira"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "juhao0721"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEbyHV"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "在🇬🇧读书",
+        "name": "🍀🍥青野🍥🍀",
+        "pinned_tweet_id": "1971656298539503670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971157025330704384/YaGDwMwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 162,
+          "like_count": 668,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/BKhBrEbyHV",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2065043818349728067",
+    "created_at": "2026-06-11T12:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065043818349728067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2453548364",
+          "start": 3,
+          "username": "pururajdutta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065043818349728067",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 328
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064423852013482124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pururajdutta: Oh my god the clearest Liquid Glass setting option on iOS 27 is amazing \n\nThis is what we wanted from the very beginning…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7951,
+        "height": 536,
+        "media_key": "13_2064423788775915520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064423788775915520/img/uUHVv9ELNwVQaOcA.jpg",
+        "public_metrics": {
+          "view_count": 207741
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064423788775915520/vid/avc1/606x270/eSbQPNEtiDpk3ZXv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064423788775915520/vid/avc1/810x360/lFGPxl4LzvZADkoV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064423788775915520/vid/avc1/1206x536/dtI2nvwkkVdvNchd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064423788775915520/pl/7pc10VucAzUOEf_P.m3u8"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2065043818349728067",
+        "created_at": "2026-06-11T12:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065043818349728067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2453548364",
+              "start": 3,
+              "username": "pururajdutta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065043818349728067",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064423852013482124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pururajdutta: Oh my god the clearest Liquid Glass setting option on iOS 27 is amazing \n\nThis is what we wanted from the very beginning…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064423788775915520"
+          ]
+        },
+        "author_id": "2453548364",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2064423852013482124",
+        "created_at": "2026-06-09T19:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064423852013482124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VuDca1smL4",
+              "end": 144,
+              "expanded_url": "https://x.com/pururajdutta/status/2064423852013482124/video/1",
+              "media_key": "13_2064423788775915520",
+              "start": 121,
+              "url": "https://t.co/VuDca1smL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064423852013482124",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1101,
+          "impression_count": 664101,
+          "like_count": 10486,
+          "quote_count": 77,
+          "reply_count": 173,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "Oh my god the clearest Liquid Glass setting option on iOS 27 is amazing \n\nThis is what we wanted from the very beginning https://t.co/VuDca1smL4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 1130,
+          "like_count": 75635,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 5335
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-19T18:36:25.000Z",
+        "description": "Innovations Judge @CES 2026, VP of @Appleosophy and Silicon Report, Manager of TechPod Social and @AppleSummit-@RedfruitMedia. Thoughts and Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 18,
+                "username": "CES"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Appleosophy"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "AppleSummit"
+              },
+              {
+                "end": 125,
+                "start": 111,
+                "username": "RedfruitMedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "appleosophy.com/author/pururaj…",
+                "end": 23,
+                "expanded_url": "http://appleosophy.com/author/pururajdutta",
+                "start": 0,
+                "url": "https://t.co/Foch8wUysE"
+              }
+            ]
+          }
+        },
+        "id": "2453548364",
+        "name": "Pururaj Dutta",
+        "pinned_tweet_id": "1819528805842629070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051441152675696640/HTueomYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 3046,
+          "like_count": 29783,
+          "listed_count": 12,
+          "media_count": 2354,
+          "tweet_count": 16720
+        },
+        "url": "https://t.co/Foch8wUysE",
+        "username": "pururajdutta",
+        "verified": true
+      }
+    ]
+  }
+}

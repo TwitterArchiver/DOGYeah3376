@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1939506407902257367",
+    "created_at": "2025-07-01T12:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T13:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940020492078813634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1693876251776454656",
+          "start": 0,
+          "username": "LeLobai24933"
+        },
+        {
+          "end": 26,
+          "id": "1764820595387305984",
+          "start": 14,
+          "username": "miaoning000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940020492078813634",
+    "in_reply_to_user_id": "1693876251776454656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939719087527215176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeLobai24933 @miaoning000 over dinner 吃夜宵😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1939506407902257367",
+        "created_at": "2025-07-01T12:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T13:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940020492078813634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1693876251776454656",
+              "start": 0,
+              "username": "LeLobai24933"
+            },
+            {
+              "end": 26,
+              "id": "1764820595387305984",
+              "start": 14,
+              "username": "miaoning000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940020492078813634",
+        "in_reply_to_user_id": "1693876251776454656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939719087527215176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeLobai24933 @miaoning000 over dinner 吃夜宵😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693876251776454656",
+        "conversation_id": "1939506407902257367",
+        "created_at": "2025-06-30T16:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T17:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939719087527215176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764820595387305984",
+              "start": 0,
+              "username": "miaoning000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939719087527215176",
+        "in_reply_to_user_id": "1764820595387305984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939506407902257367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaoning000 od是什么o.o吃糖嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "我一直在哭",
+        "id": "1676500088221478912",
+        "location": "Utopia",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921878124330942464/97E76COZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 280,
+          "like_count": 9482,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 316
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T06:42:43.000Z",
+        "description": "今年15岁！\n可以叫我洛白，也可以叫我白\n              OR NOT「Gun」!!!🥺\nGun是为了读起来顺口用的(LobaiGun)\n早安OvO",
+        "id": "1693876251776454656",
+        "location": "中国-浙江",
+        "name": "洛白Gun(❤️)",
+        "pinned_tweet_id": "1847868385897398666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769027456361492480/W4rvltW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 177,
+          "like_count": 6022,
+          "listed_count": 0,
+          "media_count": 588,
+          "tweet_count": 5371
+        },
+        "username": "LeLobai24933",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 看见会回fo│高一网络寄生虫/🚪30￥/MTX/ overdose💊/双相/轻度割/我真的很友善，不信你和我说句话就知道了♡\n愿神明保佑世人✙",
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁💊🏳‍⚧",
+        "pinned_tweet_id": "1895049521970979077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 2546,
+          "like_count": 13248,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 5966
+        },
+        "username": "miaoning000",
+        "verified": false
+      }
+    ]
+  }
+}

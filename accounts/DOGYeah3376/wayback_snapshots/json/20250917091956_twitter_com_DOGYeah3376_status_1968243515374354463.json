@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1968224432318812430",
+    "created_at": "2025-09-17T09:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T10:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968243515374354463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968243515374354463",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968224432318812430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 我羡慕死了 谁给我买"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3465,
+        "media_key": "3_1968224406897041408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CJq4NaIAACQIr.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3168,
+        "media_key": "3_1968224407144542208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CJq5IasAA5rWd.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1968224432318812430",
+        "created_at": "2025-09-17T09:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T10:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968243515374354463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968243515374354463",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968224432318812430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 我羡慕死了 谁给我买"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968224406897041408",
+            "3_1968224407144542208"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1968224432318812430",
+        "created_at": "2025-09-17T08:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T09:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968224432318812430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9Ymfl2qgb",
+              "end": 32,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1968224432318812430/photo/1",
+              "media_key": "3_1968224406897041408",
+              "start": 9,
+              "url": "https://t.co/x9Ymfl2qgb"
+            },
+            {
+              "display_url": "pic.x.com/x9Ymfl2qgb",
+              "end": 32,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1968224432318812430/photo/1",
+              "media_key": "3_1968224407144542208",
+              "start": 9,
+              "url": "https://t.co/x9Ymfl2qgb"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1968224432318812430",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 889,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操。。。。。。 https://t.co/x9Ymfl2qgb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 906,
+          "like_count": 39531,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 2471
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "10年MtF | 🍥含糖2025.3.24 | 双相精分bpd | 生日0907 | 想要贴贴抱抱 |  雷见证蛆抽象人 | 🥰平等地爱所有人 | Lover ❤️ @HydrogenNeko | system powerd by @nekomakiQAQ | 姐姐 @quite8964 | 跨过晨昏线，便是永夜。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "HydrogenNeko"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "nekomakiQAQ"
+              },
+              {
+                "end": 144,
+                "start": 134,
+                "username": "quite8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "1966469196256051391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3346,
+          "following_count": 1292,
+          "like_count": 5411,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 1098
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

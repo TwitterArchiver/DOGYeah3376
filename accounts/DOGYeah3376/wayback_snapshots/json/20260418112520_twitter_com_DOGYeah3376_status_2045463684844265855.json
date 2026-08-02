@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2045463684844265855",
+    "created_at": "2026-04-18T11:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T12:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045463684844265855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008420775204896768",
+          "start": 3,
+          "username": "saki7999"
+        },
+        {
+          "end": 26,
+          "id": "1676500088221478912",
+          "start": 14,
+          "username": "DOGYeah3376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045463684844265855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045462791411450047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saki7999: @DOGYeah3376 不开心的心情可以看点毛茸茸的小动物，听点钟意的歌来治愈，但是心理上的痛苦很难做到治愈，它像一道长在心脏上的增生性疤痕持续不断的发出阵痛，无法缓解，直到永远\n这时候就需要一个载体来承受它，或是自伤来转移心理疼痛，或是酗酒滥用药…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2045463684844265855",
+        "created_at": "2026-04-18T11:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045463684844265855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008420775204896768",
+              "start": 3,
+              "username": "saki7999"
+            },
+            {
+              "end": 26,
+              "id": "1676500088221478912",
+              "start": 14,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045463684844265855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045462791411450047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saki7999: @DOGYeah3376 不开心的心情可以看点毛茸茸的小动物，听点钟意的歌来治愈，但是心理上的痛苦很难做到治愈，它像一道长在心脏上的增生性疤痕持续不断的发出阵痛，无法缓解，直到永远\n这时候就需要一个载体来承受它，或是自伤来转移心理疼痛，或是酗酒滥用药…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2045436251701236051",
+        "created_at": "2026-04-18T11:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045462791411450047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045462791411450047",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045460366680113549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 不开心的心情可以看点毛茸茸的小动物，听点钟意的歌来治愈，但是心理上的痛苦很难做到治愈，它像一道长在心脏上的增生性疤痕持续不断的发出阵痛，无法缓解，直到永远\n这时候就需要一个载体来承受它，或是自伤来转移心理疼痛，或是酗酒滥用药物来让自己短暂的忘记那些印在心脏上的痛苦\n也就是逃避现实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog｜❤️ @opaoguonai1108",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "opaoguonai1108"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2039536218569052226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 1129,
+          "like_count": 72883,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 5065
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "男  Ⅰ 记录",
+        "id": "2008420775204896768",
+        "name": "荼蘼花",
+        "pinned_tweet_id": "2042835279783043322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044807398196690944/WJaDIheb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 40,
+          "like_count": 1443,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1767
+        },
+        "username": "saki7999",
+        "verified": false
+      }
+    ]
+  }
+}

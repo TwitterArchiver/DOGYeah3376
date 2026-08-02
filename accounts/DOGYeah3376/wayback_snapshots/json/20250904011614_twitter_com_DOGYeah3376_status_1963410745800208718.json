@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "1963163958271234244",
+    "created_at": "2025-09-04T01:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T02:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963410745800208718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906595429162299392",
+          "start": 0,
+          "username": "Dream_Shards"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963410745800208718",
+    "in_reply_to_user_id": "1906595429162299392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963397277793620004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dream_Shards 和我聊天大欢迎！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "1963163958271234244",
+        "created_at": "2025-09-04T01:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T02:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963410745800208718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906595429162299392",
+              "start": 0,
+              "username": "Dream_Shards"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963410745800208718",
+        "in_reply_to_user_id": "1906595429162299392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963397277793620004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_Shards 和我聊天大欢迎！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906595429162299392",
+        "conversation_id": "1963163958271234244",
+        "created_at": "2025-09-04T00:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T01:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963397277793620004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963397277793620004",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963163958271234244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 我可以吗w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 851,
+          "like_count": 35476,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2061
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T06:32:41.000Z",
+        "description": "只是一只普通的男孩子，在努力变好，喜欢沉浸在音乐和游戏的世界里，希望能遇到一些相同灵魂的朋友                  \n看推不多，可以找我要Q哦，拒绝黄色话题过多，私信请注明来意                                     INFP | 完美主义者 | BDSM（拒绝圈外人）",
+        "id": "1906595429162299392",
+        "location": "距离你3.2km",
+        "name": "碎梦🏳️‍🌈",
+        "pinned_tweet_id": "1963324284811841767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960114767957495808/J-I_P5-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 40,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 98
+        },
+        "username": "Dream_Shards",
+        "verified": false
+      }
+    ]
+  }
+}

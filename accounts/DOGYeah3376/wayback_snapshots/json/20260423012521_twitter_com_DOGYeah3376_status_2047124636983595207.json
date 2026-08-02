@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1676500088221478912",
+    "conversation_id": "2047124630239138104",
+    "created_at": "2026-04-23T01:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T02:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047124636983595207"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047124636983595207",
+    "in_reply_to_user_id": "1676500088221478912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047124630239138104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "闹挺大的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2047124573951549440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjY9DFa4AA_tfl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047124573938954240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjY9DCasAAXPrd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2047124573943214080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjY9DDbsAAd-SV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2047124630239138104",
+        "created_at": "2026-04-23T01:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T02:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047124636983595207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047124636983595207",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047124630239138104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "闹挺大的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047124573951549440",
+            "3_2047124573938954240",
+            "3_2047124573943214080"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047124630239138104",
+        "created_at": "2026-04-23T01:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T02:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047124630239138104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7VLTqRvUPS",
+              "end": 171,
+              "expanded_url": "https://x.com/DOGYeah3376/status/2047124630239138104/photo/1",
+              "media_key": "3_2047124573951549440",
+              "start": 148,
+              "url": "https://t.co/7VLTqRvUPS"
+            },
+            {
+              "display_url": "pic.x.com/7VLTqRvUPS",
+              "end": 171,
+              "expanded_url": "https://x.com/DOGYeah3376/status/2047124630239138104/photo/1",
+              "media_key": "3_2047124573938954240",
+              "start": 148,
+              "url": "https://t.co/7VLTqRvUPS"
+            },
+            {
+              "display_url": "pic.x.com/7VLTqRvUPS",
+              "end": 171,
+              "expanded_url": "https://x.com/DOGYeah3376/status/2047124630239138104/photo/1",
+              "media_key": "3_2047124573943214080",
+              "start": 148,
+              "url": "https://t.co/7VLTqRvUPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047124630239138104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我去以前的日子真好 虽然每天都在逃避父母和嗑药 我对药物知识其实完全不了解 参考别人的晚安剂量让我进了icu（os感觉有点大惊小炸）和傻逼一样以为磕了就会开心睡得着觉 笑死我了完全没有享受到药效 p1是我一次自杀前吃的 本来想最后再爽一把然后去跳楼 没想到吃太多睡着了（）于是就和父母吵了一架 https://t.co/7VLTqRvUPS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2045796878173061307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 1133,
+          "like_count": 73301,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 5102
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965021656537313281"
+      ],
+      "media_source_tweet_id": [
+        "1965021660056371519"
+      ]
+    },
+    "author_id": "1676500088221478912",
+    "conversation_id": "1965046371628843405",
+    "created_at": "2025-09-08T13:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T14:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965046371628843405"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "男娘"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "药娘"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "mtx"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1592172867189293057",
+          "start": 3,
+          "username": "cxszb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xlXji6sJhN",
+          "end": 65,
+          "expanded_url": "https://x.com/cxszb/status/1965021660056371519/photo/1",
+          "media_key": "3_1965021656537313281",
+          "start": 42,
+          "url": "https://t.co/xlXji6sJhN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965046371628843405",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965021660056371519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cxszb: 看我不爽很正常，看我爽了那还了得\n#男娘  #药娘 #mtx https://t.co/xlXji6sJhN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965021656537313281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0UoyRXbMAEEDjh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965021656537313281"
+          ],
+          "media_source_tweet_id": [
+            "1965021660056371519"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1965046371628843405",
+        "created_at": "2025-09-08T13:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T14:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965046371628843405"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "男娘"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "药娘"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "mtx"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1592172867189293057",
+              "start": 3,
+              "username": "cxszb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlXji6sJhN",
+              "end": 65,
+              "expanded_url": "https://x.com/cxszb/status/1965021660056371519/photo/1",
+              "media_key": "3_1965021656537313281",
+              "start": 42,
+              "url": "https://t.co/xlXji6sJhN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965046371628843405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965021660056371519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cxszb: 看我不爽很正常，看我爽了那还了得\n#男娘  #药娘 #mtx https://t.co/xlXji6sJhN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965021656537313281"
+          ]
+        },
+        "author_id": "1592172867189293057",
+        "conversation_id": "1965021660056371519",
+        "created_at": "2025-09-08T11:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T12:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965021660056371519"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男娘"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "药娘"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "mtx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlXji6sJhN",
+              "end": 54,
+              "expanded_url": "https://x.com/cxszb/status/1965021660056371519/photo/1",
+              "media_key": "3_1965021656537313281",
+              "start": 31,
+              "url": "https://t.co/xlXji6sJhN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965021660056371519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 515,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "看我不爽很正常，看我爽了那还了得\n#男娘  #药娘 #mtx https://t.co/xlXji6sJhN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰",
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "小皮🍥",
+        "pinned_tweet_id": "1962100433725599850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 863,
+          "like_count": 36610,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2220
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T15:09:37.000Z",
+        "description": "03/非二元MTX药娘🍥/性冷淡/抖s👿/收ATM🤑/毒舌/水仙/阴暗逼/负能量警告⚠️/现居北京/已拆蛋/随缘发",
+        "id": "1592172867189293057",
+        "location": "🚪好友位88",
+        "name": "直花今天不嘴臭(互推私",
+        "pinned_tweet_id": "1836806921233617051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914757234996994056/9DnzxE3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6339,
+          "following_count": 427,
+          "like_count": 12697,
+          "listed_count": 18,
+          "media_count": 213,
+          "tweet_count": 16734
+        },
+        "username": "cxszb",
+        "verified": false
+      }
+    ]
+  }
+}
